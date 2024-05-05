@@ -268,3 +268,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Council Bans Apostrophes on Street Signs to Avoid Database Issues](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 append_entries: 10
 Finish: 2024-05-05 10:02:24.433618
+------------------------------------------------------
+Started: 2024-05-05 12:08:52.709656
+Existing_entries: 76
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fern (YC W23) Is Hiring a Back End Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Got a spare Pi 1/2/3? Try RISC OS Open 5.30 It is, literally, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A year of publishing the MDN Blog](https://developer.mozilla.org/en-US/blog/mdn-blog-one-year-on/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
+append_entries: 4
+Finish: 2024-05-05 12:08:53.937438
