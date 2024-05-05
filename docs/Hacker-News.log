@@ -133,3 +133,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid](https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid)
 append_entries: 11
 Finish: 2024-05-05 00:30:14.328971
+------------------------------------------------------
+Started: 2024-05-05 02:20:25.404781
+Existing_entries: 41
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Drink Me: (Ab)Using a LLM to Compress Text](https://o565.com/llm-text-compression/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dick Rutan, pilot of the first nonstop around-the-world flight, has died](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Superfest – The almost unbreakable East German Glass](https://digitalcosmonaut.com/superfest-ceverit-glass-ddr/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Preliminary Macintosh Business Plan (12 July 1981) [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AM radio law opposed by tech and auto industries is close to passing](https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [U.S. vs. Google: As landmark monopoly trial closes, here's what to look for](https://www.npr.org/2024/05/02/1248152695/google-doj-monopoly-trial-antitrust-closing-arguments)
+append_entries: 6
+Finish: 2024-05-05 02:20:26.809747
