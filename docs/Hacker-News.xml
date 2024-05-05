@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Machine unlearning: ML model minus the information to be unlearned</title>
+<link>https://ai.stanford.edu/~kzliu/blog/unlearning</link>
+<guid>https://ai.stanford.edu/~kzliu/blog/unlearning</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40264352">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 12:30:44 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 12:30:44 +0000</pubDate>
+</item>
+<item>
+<title>Zebra remains on the loose in Washington state, officials close trailheads</title>
+<link>https://apnews.com/article/zebra-missing-washington-state-2f46a5c4e344f385ba11e3ad2ae41c87</link>
+<guid>https://apnews.com/article/zebra-missing-washington-state-2f46a5c4e344f385ba11e3ad2ae41c87</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40262396">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 05:06:01 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 05:06:01 +0000</pubDate>
+</item>
+<item>
+<title>Take a look at traefik, even if you don't use containers</title>
+<link>https://j6b72.de/article/why-you-should-take-a-look-at-traefik/</link>
+<guid>https://j6b72.de/article/why-you-should-take-a-look-at-traefik/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40264042">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 11:31:17 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 11:31:17 +0000</pubDate>
+</item>
+<item>
+<title>A History of C Compilers – Part 1: Performance, Portability and Freedom</title>
+<link>https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance</link>
+<guid>https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40264337">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 12:28:30 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 12:28:30 +0000</pubDate>
+</item>
+<item>
+<title>Rewriting the Technical Interview</title>
+<link>https://aphyr.com/posts/353-rewriting-the-technical-interview</link>
+<guid>https://aphyr.com/posts/353-rewriting-the-technical-interview</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40234584">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 2 May 2024 10:26:41 +0000</pubDate>
+<pubDate>Thu, 2 May 2024 10:26:41 +0000</pubDate>
+</item>
+<item>
+<title>A Visual History of Windows Icons: From Windows 1 to 11 (2011)</title>
+<link>https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/</link>
+<guid>https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40264182">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 11:58:46 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 11:58:46 +0000</pubDate>
+</item>
+<item>
+<title>Rabbit R1 can be run on a Android device</title>
+<link>https://www.androidauthority.com/rabbit-r1-bespoke-android-3439760/</link>
+<guid>https://www.androidauthority.com/rabbit-r1-bespoke-android-3439760/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40263975">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 11:16:19 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 11:16:19 +0000</pubDate>
+</item>
+
+<item>
 <title>Fern (YC W23) Is Hiring a Back End Engineer in NYC</title>
 <link>https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer</link>
 <guid>https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40264192">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 12:00:26 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 12:00:26 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://www.theregister.com/2024/05/02/rool_530_is_here/</link>
 <guid>https://www.theregister.com/2024/05/02/rool_530_is_here/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40234430">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 2 May 2024 09:57:55 +0000</pubDate>
 <pubDate>Thu, 2 May 2024 09:57:55 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://developer.mozilla.org/en-US/blog/mdn-blog-one-year-on/</link>
 <guid>https://developer.mozilla.org/en-US/blog/mdn-blog-one-year-on/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40244205">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 3 May 2024 04:58:03 +0000</pubDate>
 <pubDate>Fri, 3 May 2024 04:58:03 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +114,10 @@
 <link>https://wiki.debian.org/ReleaseGoals/64bit-time</link>
 <guid>https://wiki.debian.org/ReleaseGoals/64bit-time</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40263479">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 5 May 2024 09:44:28 +0000</pubDate>
-<pubDate>Sun, 5 May 2024 09:44:28 +0000</pubDate>
 </item>
-
 <item>
 <title>US prepares to exempt AUKUS nations from ITAR</title>
 <link>https://www.naval-technology.com/news/us-prepares-to-scrap-itar-for-aukus-nations/</link>
