@@ -5,14 +5,222 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Monitoring energy usage with smart plugs, Prometheus and Grafana</title>
+<link>https://ounapuu.ee/posts/2024/05/02/smartplugs/</link>
+<guid>https://ounapuu.ee/posts/2024/05/02/smartplugs/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266845">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 18:05:31 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 18:05:31 +0000</pubDate>
+</item>
+<item>
+<title>Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens</title>
+<link>https://arxiv.org/abs/2401.17377</link>
+<guid>https://arxiv.org/abs/2401.17377</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266791">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 17:58:13 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 17:58:13 +0000</pubDate>
+</item>
+<item>
+<title>Designing furniture using the CSS grid (2023)</title>
+<link>https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html</link>
+<guid>https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40267182">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 18:47:46 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 18:47:46 +0000</pubDate>
+</item>
+<item>
+<title>Ansible Is a Lisp</title>
+<link>https://astrid.tech/2024/05/01/0/ansible-is-a-lisp/</link>
+<guid>https://astrid.tech/2024/05/01/0/ansible-is-a-lisp/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266784">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 17:56:55 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 17:56:55 +0000</pubDate>
+</item>
+<item>
+<title>Flying planes with a JavaScript autopilot (2023)</title>
+<link>https://pomax.github.io/are-we-flying/</link>
+<guid>https://pomax.github.io/are-we-flying/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40267164">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 18:45:04 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 18:45:04 +0000</pubDate>
+</item>
+<item>
+<title>Israel shuts down local Al Jazeera offices in 'dark day for the media'</title>
+<link>https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media</link>
+<guid>https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40267639">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 19:50:59 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 19:50:59 +0000</pubDate>
+</item>
+<item>
+<title>Bollards: What and Why</title>
+<link>https://josh.works/bollards</link>
+<guid>https://josh.works/bollards</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40267675">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 19:54:46 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 19:54:46 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft CTO: Thoughts on OpenAI (2019)</title>
+<link>https://twitter.com/techemails/status/1787176471146156193</link>
+<guid>https://twitter.com/techemails/status/1787176471146156193</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266728">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 17:50:12 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 17:50:12 +0000</pubDate>
+</item>
+<item>
+<title>Interview with Marian Rejewski, the first person to crack Enigma [video]</title>
+<link>https://www.flyingpenguin.com/?p=56989</link>
+<guid>https://www.flyingpenguin.com/?p=56989</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40246400">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 3 May 2024 11:23:58 +0000</pubDate>
+<pubDate>Fri, 3 May 2024 11:23:58 +0000</pubDate>
+</item>
+<item>
+<title>Map Machine: Python renderer for OpenStreetMap with custom icons</title>
+<link>https://github.com/enzet/map-machine</link>
+<guid>https://github.com/enzet/map-machine</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40244729">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 3 May 2024 06:24:23 +0000</pubDate>
+<pubDate>Fri, 3 May 2024 06:24:23 +0000</pubDate>
+</item>
+<item>
+<title>MIT abandons requirement of DEI statements for hiring and promotions</title>
+<link>https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/</link>
+<guid>https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40262921">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 07:14:26 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 07:14:26 +0000</pubDate>
+</item>
+<item>
+<title>Stereogram Tutorial (2020)</title>
+<link>https://www.ime.usp.br/~otuyama/stereogram/basic/index.html</link>
+<guid>https://www.ime.usp.br/~otuyama/stereogram/basic/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266635">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 17:40:36 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 17:40:36 +0000</pubDate>
+</item>
+<item>
+<title>Beware of the Turing tar-pit (2004)</title>
+<link>http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html</link>
+<guid>http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40244356">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 3 May 2024 05:25:59 +0000</pubDate>
+<pubDate>Fri, 3 May 2024 05:25:59 +0000</pubDate>
+</item>
+<item>
+<title>Variations on the theme of silence</title>
+<link>https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/</link>
+<guid>https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40260996">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 4 May 2024 23:01:37 +0000</pubDate>
+<pubDate>Sat, 4 May 2024 23:01:37 +0000</pubDate>
+</item>
+<item>
+<title>The Trouble with Soho</title>
+<link>https://www.edwest.co.uk/p/the-trouble-with-soho</link>
+<guid>https://www.edwest.co.uk/p/the-trouble-with-soho</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40265986">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 16:17:53 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 16:17:53 +0000</pubDate>
+</item>
+<item>
+<title>Befreak is a purely reversible two-dimensional programming language (2003)</title>
+<link>http://tunes.org/~iepos/befreak.html</link>
+<guid>http://tunes.org/~iepos/befreak.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40241200">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 2 May 2024 20:48:43 +0000</pubDate>
+<pubDate>Thu, 2 May 2024 20:48:43 +0000</pubDate>
+</item>
+<item>
+<title>What makes a translation great?</title>
+<link>https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in</link>
+<guid>https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40261014">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 4 May 2024 23:04:59 +0000</pubDate>
+<pubDate>Sat, 4 May 2024 23:04:59 +0000</pubDate>
+</item>
+<item>
+<title>Decoding UTF8 with parallel extract</title>
+<link>https://nrk.neocities.org/articles/utf8-pext</link>
+<guid>https://nrk.neocities.org/articles/utf8-pext</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40263394">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 09:28:59 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 09:28:59 +0000</pubDate>
+</item>
+<item>
+<title>The robustness of some fossil leaf venation networks to simulated damage</title>
+<link>https://royalsocietypublishing.org/doi/10.1098/rsos.240086</link>
+<guid>https://royalsocietypublishing.org/doi/10.1098/rsos.240086</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40260985">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 4 May 2024 22:59:45 +0000</pubDate>
+<pubDate>Sat, 4 May 2024 22:59:45 +0000</pubDate>
+</item>
+
+<item>
 <title>ESP32-S3 has (a few) SIMD instructions</title>
 <link>https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html</link>
 <guid>https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40266015">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 16:21:33 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 16:21:33 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +228,8 @@
 <link>https://eugeneyan.com/writing/simplicity/</link>
 <guid>https://eugeneyan.com/writing/simplicity/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40266464">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 17:17:07 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 17:17:07 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +237,8 @@
 <link>https://danielchasehooper.com/posts/good-ideas-in-cs/</link>
 <guid>https://danielchasehooper.com/posts/good-ideas-in-cs/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40266492">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 17:20:26 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 17:20:26 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +246,8 @@
 <link>https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html</link>
 <guid>https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40266178">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 16:43:46 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 16:43:46 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +255,8 @@
 <link>https://infisical.com/careers</link>
 <guid>https://infisical.com/careers</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40266333">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 17:00:48 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 17:00:48 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +264,8 @@
 <link>https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html</link>
 <guid>https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40252784">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 3 May 2024 21:48:43 +0000</pubDate>
 <pubDate>Fri, 3 May 2024 21:48:43 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +273,8 @@
 <link>https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html</link>
 <guid>https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40247373">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 3 May 2024 13:20:57 +0000</pubDate>
 <pubDate>Fri, 3 May 2024 13:20:57 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +282,8 @@
 <link>https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/</link>
 <guid>https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40249968">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 3 May 2024 17:16:22 +0000</pubDate>
 <pubDate>Fri, 3 May 2024 17:16:22 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +291,8 @@
 <link>https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85</link>
 <guid>https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40266382">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 17:07:27 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 17:07:27 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +300,8 @@
 <link>https://www.outsideonline.com/podcast/overtraining-syndrome-science/</link>
 <guid>https://www.outsideonline.com/podcast/overtraining-syndrome-science/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40265678">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 15:43:51 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 15:43:51 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +309,8 @@
 <link>https://jack-vanlightly.com/blog/2024/3/26/the-sisyphean-struggle-and-the-new-era-of-data-infrastructure</link>
 <guid>https://jack-vanlightly.com/blog/2024/3/26/the-sisyphean-struggle-and-the-new-era-of-data-infrastructure</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40241256">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 2 May 2024 20:53:47 +0000</pubDate>
 <pubDate>Thu, 2 May 2024 20:53:47 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +318,8 @@
 <link>https://ayende.com/blog/200993-C/deniable-encryption</link>
 <guid>https://ayende.com/blog/200993-C/deniable-encryption</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40250335">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 3 May 2024 17:50:06 +0000</pubDate>
 <pubDate>Fri, 3 May 2024 17:50:06 +0000</pubDate>
 </item>
 <item>
@@ -141,13 +327,10 @@
 <link>https://xeiaso.net/talks/2024/shashin/</link>
 <guid>https://xeiaso.net/talks/2024/shashin/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40247062">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 3 May 2024 12:45:17 +0000</pubDate>
-<pubDate>Fri, 3 May 2024 12:45:17 +0000</pubDate>
 </item>
-
 <item>
 <title>First 'tooth regrowth medicine' to be tested in Japan from Sept. 2024</title>
 <link>https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c</link>
