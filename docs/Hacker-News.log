@@ -331,3 +331,48 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Recruiters Are Going Analog to Fight the AI Application Overload](https://www.wired.com/story/recruiters-ai-application-overload/)
 append_entries: 4
 Finish: 2024-05-05 16:03:17.546782
+------------------------------------------------------
+Started: 2024-05-05 18:06:52.118825
+Existing_entries: 91
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ESP32-S3 has (a few) SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Simplicity Is an Advantage but Sadly Complexity Sells Better (2022)](https://eugeneyan.com/writing/simplicity/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [My Home Server Journey – From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools](https://infisical.com/careers)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Identifiers are better off without meaning](https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85](https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Runners Who Went So Hard They Were Never the Same](https://www.outsideonline.com/podcast/overtraining-syndrome-science/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Sisyphean struggle and the new era of data infrastructure](https://jack-vanlightly.com/blog/2024/3/26/the-sisyphean-struggle-and-the-new-era-of-data-infrastructure)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Deniable Encryption](https://ayende.com/blog/200993-C/deniable-encryption)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Building a social network from scratch on a whiteboard](https://xeiaso.net/talks/2024/shashin/)
+append_entries: 13
+Finish: 2024-05-05 18:06:55.001040

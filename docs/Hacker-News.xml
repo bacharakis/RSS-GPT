@@ -5,14 +5,156 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>ESP32-S3 has (a few) SIMD instructions</title>
+<link>https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html</link>
+<guid>https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266015">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 16:21:33 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 16:21:33 +0000</pubDate>
+</item>
+<item>
+<title>Simplicity Is an Advantage but Sadly Complexity Sells Better (2022)</title>
+<link>https://eugeneyan.com/writing/simplicity/</link>
+<guid>https://eugeneyan.com/writing/simplicity/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266464">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 17:17:07 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 17:17:07 +0000</pubDate>
+</item>
+<item>
+<title>Good Ideas in Computer Science</title>
+<link>https://danielchasehooper.com/posts/good-ideas-in-cs/</link>
+<guid>https://danielchasehooper.com/posts/good-ideas-in-cs/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266492">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 17:20:26 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 17:20:26 +0000</pubDate>
+</item>
+<item>
+<title>My Home Server Journey – From Raspberry Pi to Ryzen</title>
+<link>https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html</link>
+<guid>https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266178">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 16:43:46 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 16:43:46 +0000</pubDate>
+</item>
+<item>
+<title>Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools</title>
+<link>https://infisical.com/careers</link>
+<guid>https://infisical.com/careers</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266333">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 17:00:48 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 17:00:48 +0000</pubDate>
+</item>
+<item>
+<title>Speeding up ELF relocations for store-based systems</title>
+<link>https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html</link>
+<guid>https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40252784">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 3 May 2024 21:48:43 +0000</pubDate>
+<pubDate>Fri, 3 May 2024 21:48:43 +0000</pubDate>
+</item>
+<item>
+<title>Identifiers are better off without meaning</title>
+<link>https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html</link>
+<guid>https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40247373">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 3 May 2024 13:20:57 +0000</pubDate>
+<pubDate>Fri, 3 May 2024 13:20:57 +0000</pubDate>
+</item>
+<item>
+<title>Turning AirPods into a fitness tracker</title>
+<link>https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/</link>
+<guid>https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40249968">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 3 May 2024 17:16:22 +0000</pubDate>
+<pubDate>Fri, 3 May 2024 17:16:22 +0000</pubDate>
+</item>
+<item>
+<title>Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85</title>
+<link>https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85</link>
+<guid>https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266382">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 17:07:27 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 17:07:27 +0000</pubDate>
+</item>
+<item>
+<title>The Runners Who Went So Hard They Were Never the Same</title>
+<link>https://www.outsideonline.com/podcast/overtraining-syndrome-science/</link>
+<guid>https://www.outsideonline.com/podcast/overtraining-syndrome-science/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40265678">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 15:43:51 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 15:43:51 +0000</pubDate>
+</item>
+<item>
+<title>The Sisyphean struggle and the new era of data infrastructure</title>
+<link>https://jack-vanlightly.com/blog/2024/3/26/the-sisyphean-struggle-and-the-new-era-of-data-infrastructure</link>
+<guid>https://jack-vanlightly.com/blog/2024/3/26/the-sisyphean-struggle-and-the-new-era-of-data-infrastructure</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40241256">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 2 May 2024 20:53:47 +0000</pubDate>
+<pubDate>Thu, 2 May 2024 20:53:47 +0000</pubDate>
+</item>
+<item>
+<title>Deniable Encryption</title>
+<link>https://ayende.com/blog/200993-C/deniable-encryption</link>
+<guid>https://ayende.com/blog/200993-C/deniable-encryption</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40250335">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 3 May 2024 17:50:06 +0000</pubDate>
+<pubDate>Fri, 3 May 2024 17:50:06 +0000</pubDate>
+</item>
+<item>
+<title>Building a social network from scratch on a whiteboard</title>
+<link>https://xeiaso.net/talks/2024/shashin/</link>
+<guid>https://xeiaso.net/talks/2024/shashin/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40247062">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 3 May 2024 12:45:17 +0000</pubDate>
+<pubDate>Fri, 3 May 2024 12:45:17 +0000</pubDate>
+</item>
+
+<item>
 <title>First 'tooth regrowth medicine' to be tested in Japan from Sept. 2024</title>
 <link>https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c</link>
 <guid>https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40264669">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 13:16:00 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 13:16:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +162,8 @@
 <link>https://rishad.substack.com/p/small-things</link>
 <guid>https://rishad.substack.com/p/small-things</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40265552">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 15:25:19 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 15:25:19 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +171,8 @@
 <link>https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants</link>
 <guid>https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40265456">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 15:10:25 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 15:10:25 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +180,10 @@
 <link>https://www.wired.com/story/recruiters-ai-application-overload/</link>
 <guid>https://www.wired.com/story/recruiters-ai-application-overload/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40265420">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 5 May 2024 15:05:22 +0000</pubDate>
-<pubDate>Sun, 5 May 2024 15:05:22 +0000</pubDate>
 </item>
-
 <item>
 <title>Machine unlearning: ML model minus the information to be unlearned</title>
 <link>https://ai.stanford.edu/~kzliu/blog/unlearning</link>
