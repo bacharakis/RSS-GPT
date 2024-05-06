@@ -484,3 +484,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Agricultural IoT system sends power through the soil](https://spectrum.ieee.org/smart-agriculture)
 append_entries: 4
 Finish: 2024-05-06 00:28:41.404244
+------------------------------------------------------
+Started: 2024-05-06 02:21:29.938959
+Existing_entries: 134
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Plotille: Plot in the terminal using Braille dots](https://github.com/tammoippen/plotille)
+append_entries: 3
+Finish: 2024-05-06 02:21:30.967846
