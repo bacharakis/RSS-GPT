@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Attackers Can Decloak Routing-Based VPNs</title>
+<link>https://www.leviathansecurity.com/blog/tunnelvision</link>
+<guid>https://www.leviathansecurity.com/blog/tunnelvision</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40279632">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 21:19:55 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 21:19:55 +0000</pubDate>
+</item>
+<item>
+<title>TOTP Authenticator for PalmOS</title>
+<link>https://www.nkorth.com/palm/apps/</link>
+<guid>https://www.nkorth.com/palm/apps/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40279305">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 20:45:57 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 20:45:57 +0000</pubDate>
+</item>
+<item>
+<title>Continue (YC S23) is hiring a founding engineer in San Francisco</title>
+<link>https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer</link>
+<guid>https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40279464">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 21:00:31 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 21:00:31 +0000</pubDate>
+</item>
+<item>
+<title>Framework Laptop EC Driver Being Prepared for Linux</title>
+<link>https://www.phoronix.com/news/Framework-Laptop-EC-Driver</link>
+<guid>https://www.phoronix.com/news/Framework-Laptop-EC-Driver</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40279926">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 21:51:59 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 21:51:59 +0000</pubDate>
+</item>
+<item>
+<title>Quantum gravity gets a new test</title>
+<link>https://physics.aps.org/articles/v17/65</link>
+<guid>https://physics.aps.org/articles/v17/65</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40276399">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 16:24:09 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 16:24:09 +0000</pubDate>
+</item>
+<item>
+<title>Understanding UMAP (2019)</title>
+<link>https://pair-code.github.io/understanding-umap/</link>
+<guid>https://pair-code.github.io/understanding-umap/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40266922">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 18:12:57 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 18:12:57 +0000</pubDate>
+</item>
+
+<item>
 <title>Results of the Grand C++ Error Explosion Competition (2014)</title>
 <link>https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion</link>
 <guid>https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40277469">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 17:57:39 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 17:57:39 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://cq2.co/blog/the-best-way-to-have-complex-discussions</link>
 <guid>https://cq2.co/blog/the-best-way-to-have-complex-discussions</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40277547">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 18:02:59 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 18:02:59 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://www.youtube.com/watch?v=GlNhaAV5NZ4</link>
 <guid>https://www.youtube.com/watch?v=GlNhaAV5NZ4</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40277581">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 18:04:59 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 18:04:59 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://www.tasteatlas.com/map</link>
 <guid>https://www.tasteatlas.com/map</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40272577">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 08:50:28 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 08:50:28 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +112,10 @@
 <link>https://imzaldih.com/en/post/bug-spoke-russian-crashed-app/</link>
 <guid>https://imzaldih.com/en/post/bug-spoke-russian-crashed-app/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40264194">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 5 May 2024 12:01:01 +0000</pubDate>
-<pubDate>Sun, 5 May 2024 12:01:01 +0000</pubDate>
 </item>
-
 <item>
 <title>Ask HN: How to do simple heartbeat monitoring?</title>
 <link>https://news.ycombinator.com/item?id=40276687</link>
