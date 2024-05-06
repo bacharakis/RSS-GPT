@@ -544,3 +544,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
 append_entries: 2
 Finish: 2024-05-06 08:08:38.194107
+------------------------------------------------------
+Started: 2024-05-06 10:04:48.771166
+Existing_entries: 146
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How LLMs Work, Explained Without Math – Miguel Grinberg](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [BlackHole: macOS Audio Loopback Driver](https://github.com/ExistentialAudio/BlackHole)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Increased productivity with a self hosted CRM](https://growcrm.io/)
+append_entries: 4
+Finish: 2024-05-06 10:04:49.894205
