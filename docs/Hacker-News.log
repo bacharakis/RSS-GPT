@@ -532,3 +532,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Helldivers 2 PSN account linking update will not be moving forward](https://twitter.com/PlayStation/status/1787331667616829929)
 append_entries: 3
 Finish: 2024-05-06 06:09:03.465957
+------------------------------------------------------
+Started: 2024-05-06 08:08:37.429667
+Existing_entries: 144
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Giant Compressed-Air Battery in the Australian Outback](https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
+append_entries: 2
+Finish: 2024-05-06 08:08:38.194107
