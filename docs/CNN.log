@@ -161,3 +161,9 @@ Existing_entries: 29
 Fetching from http://rss.cnn.com/rss/cnn_world.rss
 append_entries: 0
 Finish: 2024-05-06 10:04:50.581887
+------------------------------------------------------
+Started: 2024-05-06 12:10:43.795498
+Existing_entries: 29
+Fetching from http://rss.cnn.com/rss/cnn_world.rss
+append_entries: 0
+Finish: 2024-05-06 12:10:44.018029
