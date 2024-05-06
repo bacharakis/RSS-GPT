@@ -499,3 +499,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Plotille: Plot in the terminal using Braille dots](https://github.com/tammoippen/plotille)
 append_entries: 3
 Finish: 2024-05-06 02:21:30.967846
+------------------------------------------------------
+Started: 2024-05-06 04:08:36.551588
+Existing_entries: 137
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Remnants of a Legendary Typeface Have Been Rescued from the River Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why Choose ULIDs over Traditional UUIDs or IDs for Database Identification?](https://sotergreco.com/why-choose-ulids-over-traditional-uuids-or-ids-for-database-identification)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Shibboleth](https://www.newyorker.com/news/essay/shibboleth-the-role-of-words-in-the-campus-protests)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Habeck files: German government deception about the nuclear phase-out](https://www.planet-today.com/2024/04/the-secret-habeck-files-how-german.html)
+append_entries: 4
+Finish: 2024-05-06 04:08:37.859272
