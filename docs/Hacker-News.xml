@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Show HN: A free site to explore and discover 6k plants</title>
+<link>https://www.getanyplant.com/plants</link>
+<guid>https://www.getanyplant.com/plants</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40273470">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 11:42:41 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 11:42:41 +0000</pubDate>
+</item>
+<item>
+<title>Building Containers from Scratch: Layers</title>
+<link>https://depot.dev/blog/building-container-layers-from-scratch</link>
+<guid>https://depot.dev/blog/building-container-layers-from-scratch</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40262680">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 06:20:35 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 06:20:35 +0000</pubDate>
+</item>
+<item>
+<title>Pure-PyTorch Implementation of Kolmogorov-Arnold Network (Kan)</title>
+<link>https://github.com/Blealtan/efficient-kan</link>
+<guid>https://github.com/Blealtan/efficient-kan</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40272875">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 09:45:24 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 09:45:24 +0000</pubDate>
+</item>
+<item>
+<title>Stack Overflow and OpenAI are partnering</title>
+<link>https://stackoverflow.co/company/press/archive/openai-partnership/</link>
+<guid>https://stackoverflow.co/company/press/archive/openai-partnership/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40274371">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 13:25:34 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 13:25:34 +0000</pubDate>
+</item>
+<item>
+<title>NYU professors who defended vaping didn't disclose ties to Juul</title>
+<link>https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/</link>
+<guid>https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40273598">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 12:01:03 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 12:01:03 +0000</pubDate>
+</item>
+<item>
+<title>Lix is a modern, delicious implementation of the Nix package manager</title>
+<link>https://lix.systems/</link>
+<guid>https://lix.systems/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40271242">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 04:55:14 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 04:55:14 +0000</pubDate>
+</item>
+
+<item>
 <title>Preview Builds of the Zed Editor Now Available for Linux</title>
 <link>https://zed.dev/releases/preview</link>
 <guid>https://zed.dev/releases/preview</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40273243">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 11:02:42 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 11:02:42 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://www.eurogamer.net/sony-overturns-helldivers-2-psn-requirement-following-backlash</link>
 <guid>https://www.eurogamer.net/sony-overturns-helldivers-2-psn-requirement-following-backlash</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40273469">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 11:42:41 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 11:42:41 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer</link>
 <guid>https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40273587">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 12:00:11 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 12:00:11 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/</link>
 <guid>https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40262897">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 07:10:36 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 07:10:36 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://news.ycombinator.com/item?id=40273454</link>
 <guid>https://news.ycombinator.com/item?id=40273454</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40273454">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 11:39:24 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 11:39:24 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +121,10 @@
 <link>https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure</link>
 <guid>https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40272186">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 6 May 2024 07:39:52 +0000</pubDate>
-<pubDate>Mon, 6 May 2024 07:39:52 +0000</pubDate>
 </item>
-
 <item>
 <title>How LLMs Work, Explained Without Math – Miguel Grinberg</title>
 <link>https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math</link>
