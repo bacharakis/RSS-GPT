@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>A book Stanley Kubrick didn’t want anyone to read is being published</title>
+<link>https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published</link>
+<guid>https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40264091">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 11:40:20 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 11:40:20 +0000</pubDate>
+</item>
+<item>
+<title>Design docs at Google</title>
+<link>https://www.industrialempathy.com/posts/design-docs-at-google/</link>
+<guid>https://www.industrialempathy.com/posts/design-docs-at-google/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40273534">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 11:54:25 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 11:54:25 +0000</pubDate>
+</item>
+<item>
+<title>Secure Randomness in Go 1.22</title>
+<link>https://go.dev/blog/chacha8rand?hn=1</link>
+<guid>https://go.dev/blog/chacha8rand?hn=1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40273968">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 12:43:42 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 12:43:42 +0000</pubDate>
+</item>
+<item>
+<title>Array.shift Optimizations in Firefox's JavaScript Engine (2020)</title>
+<link>https://lannonbr.com/blog/2020-01-27-shift-optimizations/</link>
+<guid>https://lannonbr.com/blog/2020-01-27-shift-optimizations/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40269911">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 00:24:39 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 00:24:39 +0000</pubDate>
+</item>
+<item>
+<title>Kan: Kolmogorov-Arnold Networks</title>
+<link>https://arxiv.org/abs/2404.19756</link>
+<guid>https://arxiv.org/abs/2404.19756</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40281516">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 02:00:18 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 02:00:18 +0000</pubDate>
+</item>
+<item>
+<title>Async Channels for Swift Concurrency</title>
+<link>https://github.com/gh123man/Async-Channels</link>
+<guid>https://github.com/gh123man/Async-Channels</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40277753">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 18:17:23 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 18:17:23 +0000</pubDate>
+</item>
+<item>
+<title>Google begins enforcement of site reputation abuse policy</title>
+<link>https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294</link>
+<guid>https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40282290">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 04:19:13 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 04:19:13 +0000</pubDate>
+</item>
+<item>
+<title>Spacecraft Takes Close Up Video of the Sun, Revealing Otherworldly Hellscape</title>
+<link>https://futurism.com/the-byte/spacecraft-close-up-video-sun</link>
+<guid>https://futurism.com/the-byte/spacecraft-close-up-video-sun</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40281936">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 03:05:17 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 03:05:17 +0000</pubDate>
+</item>
+
+<item>
 <title>Utilities for refactoring and upgrading Ruby code based on ASTs</title>
 <link>https://github.com/baweaver/refactor</link>
 <guid>https://github.com/baweaver/refactor</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40281314">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 01:26:10 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 01:26:10 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://jacobpadilla.com/articles/recreating-asyncio</link>
 <guid>https://jacobpadilla.com/articles/recreating-asyncio</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40281139">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 00:50:11 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 00:50:11 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html</link>
 <guid>https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40262289">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 04:39:44 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 04:39:44 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html</link>
 <guid>https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40280161">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 22:19:22 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 22:19:22 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +134,10 @@
 <link>https://www.magiclasso.co/insights/apple-google-search-partnership/</link>
 <guid>https://www.magiclasso.co/insights/apple-google-search-partnership/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40280119">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 6 May 2024 22:13:41 +0000</pubDate>
-<pubDate>Mon, 6 May 2024 22:13:41 +0000</pubDate>
 </item>
-
 <item>
 <title>Vets fret as private equity snaps up clinics, pet care companies</title>
 <link>https://stateline.org/2024/03/29/vets-fret-as-private-equity-snaps-up-clinics-pet-care-companies/</link>

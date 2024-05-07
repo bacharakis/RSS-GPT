@@ -194,3 +194,10 @@ Fetching from http://www.theverge.com/rss/full.xml
 Feed error: 301
 append_entries: 0
 Finish: 2024-05-07 04:07:16.101235
+------------------------------------------------------
+Started: 2024-05-07 06:08:16.136525
+Existing_entries: 0
+Fetching from http://www.theverge.com/rss/full.xml
+Feed error: 301
+append_entries: 0
+Finish: 2024-05-07 06:08:16.279660
