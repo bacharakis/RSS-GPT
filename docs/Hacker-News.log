@@ -898,3 +898,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Google Fit APIs get shut down in 2025, might break fitness devices](https://arstechnica.com/gadgets/2024/05/google-fit-apis-get-shut-down-in-2025-might-break-fitness-devices/)
 append_entries: 9
 Finish: 2024-05-07 12:10:44.463081
+------------------------------------------------------
+Started: 2024-05-07 14:01:28.293161
+Existing_entries: 236
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Can Turning Office Towers into Apartments Save Downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cybertruck Owner Breaks His Finger Trying to Show Vehicle Is Safe](https://gizmodo.com/cybertruck-video-breaks-finger-safe-stick-elon-musk-1851460112)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Boeing faces new US investigation into 'missed' 787 inspections](https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [1950s Sci-Fi Style Computers, Powered by a Z80, Built in Holland](https://lunduke.locals.com/post/5588902/1950s-sci-fi-style-computers-powered-by-a-z80-built-in-holland)
+append_entries: 6
+Finish: 2024-05-07 14:01:29.704016
