@@ -787,3 +787,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Google, Meta 'break' Apple's device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
 append_entries: 7
 Finish: 2024-05-07 02:24:41.337131
+------------------------------------------------------
+Started: 2024-05-07 04:07:14.601123
+Existing_entries: 209
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How Python Asyncio Works: Recreating It from Scratch](https://jacobpadilla.com/articles/recreating-asyncio)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Frank Stella, Towering Artist and Master of Reinvention, Dies at 87](https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How do birds flock? Research reveals previously unknown aerodynamic phenomenon](https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Apple Should End Their Google Search Partnership (2023)](https://www.magiclasso.co/insights/apple-google-search-partnership/)
+append_entries: 5
+Finish: 2024-05-07 04:07:15.903119

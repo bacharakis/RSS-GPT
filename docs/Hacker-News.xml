@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Utilities for refactoring and upgrading Ruby code based on ASTs</title>
+<link>https://github.com/baweaver/refactor</link>
+<guid>https://github.com/baweaver/refactor</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40281314">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 01:26:10 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 01:26:10 +0000</pubDate>
+</item>
+<item>
+<title>How Python Asyncio Works: Recreating It from Scratch</title>
+<link>https://jacobpadilla.com/articles/recreating-asyncio</link>
+<guid>https://jacobpadilla.com/articles/recreating-asyncio</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40281139">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 00:50:11 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 00:50:11 +0000</pubDate>
+</item>
+<item>
+<title>Frank Stella, Towering Artist and Master of Reinvention, Dies at 87</title>
+<link>https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html</link>
+<guid>https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40262289">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 5 May 2024 04:39:44 +0000</pubDate>
+<pubDate>Sun, 5 May 2024 04:39:44 +0000</pubDate>
+</item>
+<item>
+<title>How do birds flock? Research reveals previously unknown aerodynamic phenomenon</title>
+<link>https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html</link>
+<guid>https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40280161">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 22:19:22 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 22:19:22 +0000</pubDate>
+</item>
+<item>
+<title>Apple Should End Their Google Search Partnership (2023)</title>
+<link>https://www.magiclasso.co/insights/apple-google-search-partnership/</link>
+<guid>https://www.magiclasso.co/insights/apple-google-search-partnership/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40280119">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 22:13:41 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 22:13:41 +0000</pubDate>
+</item>
+
+<item>
 <title>Vets fret as private equity snaps up clinics, pet care companies</title>
 <link>https://stateline.org/2024/03/29/vets-fret-as-private-equity-snaps-up-clinics-pet-care-companies/</link>
 <guid>https://stateline.org/2024/03/29/vets-fret-as-private-equity-snaps-up-clinics-pet-care-companies/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40281274">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 01:18:34 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 01:18:34 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html</link>
 <guid>https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40263109">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 5 May 2024 08:08:13 +0000</pubDate>
 <pubDate>Sun, 5 May 2024 08:08:13 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/</link>
 <guid>https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40280875">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 00:01:44 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 00:01:44 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/</link>
 <guid>https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40281272">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 01:18:19 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 01:18:19 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +101,8 @@
 <link>https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/</link>
 <guid>https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40280689">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 23:34:58 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 23:34:58 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +110,8 @@
 <link>https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html</link>
 <guid>https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40281340">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 01:32:23 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 01:32:23 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +119,10 @@
 <link>https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/</link>
 <guid>https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40281588">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 7 May 2024 02:11:20 +0000</pubDate>
-<pubDate>Tue, 7 May 2024 02:11:20 +0000</pubDate>
 </item>
-
 <item>
 <title>Caniemail.com (like caniuse but for email content)</title>
 <link>https://www.caniemail.com/</link>
