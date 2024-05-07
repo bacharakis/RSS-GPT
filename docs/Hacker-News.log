@@ -1051,3 +1051,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Confronting ableism to build a more inclusive web](https://assistivlabs.com/articles/confronting-ableism-to-build-a-more-inclusive-web)
 append_entries: 7
 Finish: 2024-05-07 20:02:33.643480
+------------------------------------------------------
+Started: 2024-05-07 22:01:30.553935
+Existing_entries: 279
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
+append_entries: 1
+Finish: 2024-05-07 22:01:31.152786

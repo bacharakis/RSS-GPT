@@ -5,14 +5,24 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Jolie, the service-oriented programming language</title>
+<link>https://www.jolie-lang.org/index.html</link>
+<guid>https://www.jolie-lang.org/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40291490">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 21:07:33 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 21:07:33 +0000</pubDate>
+</item>
+
+<item>
 <title>The Grateful Dead's Wall of Sound</title>
 <link>https://audioacademy.in/the-grateful-deads-wall-of-sound/</link>
 <guid>https://audioacademy.in/the-grateful-deads-wall-of-sound/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40289323">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 18:06:29 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 18:06:29 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://github.com/containers/podman-desktop-extension-bootc</link>
 <guid>https://github.com/containers/podman-desktop-extension-bootc</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40289120">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 17:50:21 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 17:50:21 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@
 <link>https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components</link>
 <guid>https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40288947">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 17:38:32 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 17:38:32 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +48,8 @@
 <link>https://scrapegraph-doc.onrender.com/</link>
 <guid>https://scrapegraph-doc.onrender.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40290596">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 19:41:25 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 19:41:25 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +57,8 @@
 <link>https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing</link>
 <guid>https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40273121">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 10:42:03 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 10:42:03 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +66,8 @@
 <link>https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/</link>
 <guid>https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40259505">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 4 May 2024 18:48:27 +0000</pubDate>
 <pubDate>Sat, 4 May 2024 18:48:27 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +75,10 @@
 <link>https://assistivlabs.com/articles/confronting-ableism-to-build-a-more-inclusive-web</link>
 <guid>https://assistivlabs.com/articles/confronting-ableism-to-build-a-more-inclusive-web</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40287785">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 7 May 2024 16:25:40 +0000</pubDate>
-<pubDate>Tue, 7 May 2024 16:25:40 +0000</pubDate>
 </item>
-
 <item>
 <title>SecureDrop Protocol</title>
 <link>https://securedrop.org/news/introducing-securedrop-protocol/</link>
