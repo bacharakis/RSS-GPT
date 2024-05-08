@@ -5,17 +5,48 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Arena-based parsers</title>
+<link>https://iliabylich.github.io/arena-based-parsers/</link>
+<guid>https://iliabylich.github.io/arena-based-parsers/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40276112">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 15:59:11 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 15:59:11 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Serverless collaborative notion-level note editor using CRDT in GO</title>
+<link>https://github.com/notebox/nbfm</link>
+<guid>https://github.com/notebox/nbfm</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40293974">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 03:09:29 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 03:09:29 +0000</pubDate>
+</item>
+<item>
+<title>Needle: A DFA Based Regex Library That Compiles to JVM ByteCode</title>
+<link>https://justinblank.com/experiments/needle.html</link>
+<guid>https://justinblank.com/experiments/needle.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40293505">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 01:38:49 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 01:38:49 +0000</pubDate>
+</item>
+
+<item>
 <title>Product Roadmap</title>
 <link>https://bsky.social/about/blog/05-07-2024-product-roadmap</link>
 <guid>https://bsky.social/about/blog/05-07-2024-product-roadmap</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40293368">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 8 May 2024 01:14:14 +0000</pubDate>
-<pubDate>Wed, 8 May 2024 01:14:14 +0000</pubDate>
 </item>
-
 <item>
 <title>Decker: A fantastic reincarnation of HyperCard with 1-bit graphics</title>
 <link>https://www.beyondloom.com/decker/index.html</link>
