@@ -1105,3 +1105,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
 append_entries: 3
 Finish: 2024-05-08 04:02:45.393663
+------------------------------------------------------
+Started: 2024-05-08 06:07:55.356355
+Existing_entries: 289
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why use ECC? (2015)](https://danluu.com/why-ecc/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers](https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Common Google XSS](https://matan-h.com/common-google-xss)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [No one will read your book](https://www.elysian.press/p/publishing-industry-truth)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Neighbors Are Retiring in Their 30s. Why Can't You?](https://www.nytimes.com/2024/05/07/magazine/retire-early-saving.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Antisocial Network: How the 90s Internet Died Like Diaryland (2014)](https://www.vice.com/en/article/jp5vdg/the-antisocial-network-how-the-90s-internet-died-like-diaryland)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei](https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO)
+append_entries: 7
+Finish: 2024-05-08 06:07:56.917224
