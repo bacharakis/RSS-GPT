@@ -1132,3 +1132,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei](https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO)
 append_entries: 7
 Finish: 2024-05-08 06:07:56.917224
+------------------------------------------------------
+Started: 2024-05-08 08:07:41.163893
+Existing_entries: 296
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Defense Against AI-Guided Traffic Analysis (Daita)](https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Object Linking and Embedding](https://en.wikipedia.org/wiki/Object_Linking_and_Embedding)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei](https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei)
+append_entries: 5
+Finish: 2024-05-08 08:07:42.296135
