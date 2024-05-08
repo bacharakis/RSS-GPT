@@ -1060,3 +1060,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 append_entries: 1
 Finish: 2024-05-07 22:01:31.152786
+------------------------------------------------------
+Started: 2024-05-08 00:22:47.815028
+Existing_entries: 280
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [PDEP-13: The Pandas Logical Type System](https://github.com/pandas-dev/pandas/blob/8a246978e9812a2448f43d0df24a82d51e850d53/web/pandas/pdeps/0013-logical-type-system.md)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Unix forking the universe by running IBM's free online quantum computer](https://parel.es/blog/quantum-dice)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Qt and C++ Trivial Relocation (Part 1)](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
+append_entries: 5
+Finish: 2024-05-08 00:22:49.997844
