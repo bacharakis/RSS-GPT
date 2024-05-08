@@ -1081,3 +1081,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Qt and C++ Trivial Relocation (Part 1)](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
 append_entries: 5
 Finish: 2024-05-08 00:22:49.997844
+------------------------------------------------------
+Started: 2024-05-08 02:01:33.410953
+Existing_entries: 285
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Product Roadmap](https://bsky.social/about/blog/05-07-2024-product-roadmap)
+append_entries: 1
+Finish: 2024-05-08 02:01:34.080000
