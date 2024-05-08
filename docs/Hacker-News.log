@@ -1312,3 +1312,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Development Notes from xkcd's "Machine"](https://chromakode.com/post/xkcd-machine/)
 append_entries: 9
 Finish: 2024-05-08 18:08:38.889861
+------------------------------------------------------
+Started: 2024-05-08 20:04:13.564621
+Existing_entries: 344
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Largest model railway launches inductive Formula 1 circuit [video]](https://www.youtube.com/watch?v=1fikd9NfsSA)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cmkr – a modern build system based on CMake and TOML](https://github.com/build-cpp/cmkr)
+append_entries: 2
+Finish: 2024-05-08 20:04:14.216644
