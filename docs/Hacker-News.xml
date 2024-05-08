@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>The search for easier safe systems programming</title>
+<link>https://www.sophiajt.com/search-for-easier-safe-systems-programming/</link>
+<guid>https://www.sophiajt.com/search-for-easier-safe-systems-programming/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40295624">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 08:26:50 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 08:26:50 +0000</pubDate>
+</item>
+<item>
+<title>Hyperworlds – Web Replacement Projects</title>
+<link>https://hyperworlds.org/</link>
+<guid>https://hyperworlds.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40295661">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 08:31:28 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 08:31:28 +0000</pubDate>
+</item>
+<item>
+<title>The oceans have broken temperature records every day over the past year</title>
+<link>https://www.bbc.co.uk/news/science-environment-68921215</link>
+<guid>https://www.bbc.co.uk/news/science-environment-68921215</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40295725">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 08:43:05 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 08:43:05 +0000</pubDate>
+</item>
+<item>
+<title>Fly.io Infra log: week-by-week record of what the team does</title>
+<link>https://fly.io/infra-log/</link>
+<guid>https://fly.io/infra-log/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40294957">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 06:27:59 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 06:27:59 +0000</pubDate>
+</item>
+<item>
+<title>A library to assist writing memory-unsafe code in "pure" Python</title>
+<link>https://github.com/DavidBuchanan314/unsafe-python</link>
+<guid>https://github.com/DavidBuchanan314/unsafe-python</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40283148">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 07:09:41 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 07:09:41 +0000</pubDate>
+</item>
+
+<item>
 <title>XLSTM: Extended Long Short-Term Memory</title>
 <link>https://arxiv.org/abs/2405.04517</link>
 <guid>https://arxiv.org/abs/2405.04517</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40294650">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 8 May 2024 05:28:43 +0000</pubDate>
 <pubDate>Wed, 8 May 2024 05:28:43 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://fouronnes.github.io/cppiceberg/</link>
 <guid>https://fouronnes.github.io/cppiceberg/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40294555">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 8 May 2024 05:12:58 +0000</pubDate>
 <pubDate>Wed, 8 May 2024 05:12:58 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita</link>
 <guid>https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40283799">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 09:38:21 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 09:38:21 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://en.wikipedia.org/wiki/Object_Linking_and_Embedding</link>
 <guid>https://en.wikipedia.org/wiki/Object_Linking_and_Embedding</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40284063">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 10:36:02 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 10:36:02 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +101,10 @@
 <link>https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei</link>
 <guid>https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40293614">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 8 May 2024 01:55:53 +0000</pubDate>
-<pubDate>Wed, 8 May 2024 01:55:53 +0000</pubDate>
 </item>
-
 <item>
 <title>Why use ECC? (2015)</title>
 <link>https://danluu.com/why-ecc/</link>
