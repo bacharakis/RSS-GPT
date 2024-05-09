@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Algebraic Data Types for C99</title>
+<link>https://github.com/Hirrolot/datatype99</link>
+<guid>https://github.com/Hirrolot/datatype99</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40307098">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 11:31:27 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 11:31:27 +0000</pubDate>
+</item>
+<item>
+<title>Boeing 737 crashes during take-off in Senegal</title>
+<link>https://www.bbc.co.uk/news/articles/ce5ljpnggp4o</link>
+<guid>https://www.bbc.co.uk/news/articles/ce5ljpnggp4o</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40307084">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 11:28:53 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 11:28:53 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Browser-based knitting (pattern) software</title>
+<link>https://github.com/alefore/knit</link>
+<guid>https://github.com/alefore/knit</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40307089">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 11:29:32 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 11:29:32 +0000</pubDate>
+</item>
+<item>
+<title>Xilinx HBM2 Internals</title>
+<link>https://lovehindpa.ws/posts/xilinx-hbm2/</link>
+<guid>https://lovehindpa.ws/posts/xilinx-hbm2/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40306463">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 09:08:06 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 09:08:06 +0000</pubDate>
+</item>
+<item>
+<title>Dell responds to return-to-office resistance with VPN, badge tracking</title>
+<link>https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/</link>
+<guid>https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40306941">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 11:04:46 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 11:04:46 +0000</pubDate>
+</item>
+<item>
+<title>In software architecture you have to recognize when you're adding a rocket stage</title>
+<link>https://toot.cat/@plexus/112403882840794498</link>
+<guid>https://toot.cat/@plexus/112403882840794498</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40306490">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 09:15:28 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 09:15:28 +0000</pubDate>
+</item>
+
+<item>
 <title>Libyear</title>
 <link>https://libyear.com/</link>
 <guid>https://libyear.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40306449">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 09:05:31 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 09:05:31 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://cr.yp.to/proto/utctai.html</link>
 <guid>https://cr.yp.to/proto/utctai.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40306352">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 08:40:27 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 08:40:27 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +94,10 @@
 <link>https://e360.yale.edu/features/marcel-gomes-interview</link>
 <guid>https://e360.yale.edu/features/marcel-gomes-interview</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40306249">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 9 May 2024 08:09:54 +0000</pubDate>
-<pubDate>Thu, 9 May 2024 08:09:54 +0000</pubDate>
 </item>
-
 <item>
 <title>CodeStory (YC S23) Is Hiring a Founding Engineer for Building AI-Native IDE</title>
 <link>https://www.workatastartup.com/companies/codestory</link>
