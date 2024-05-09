@@ -1624,3 +1624,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [History of Information and Media](https://www.historyofinformation.com/index.php)
 append_entries: 6
 Finish: 2024-05-09 20:03:03.583755
+------------------------------------------------------
+Started: 2024-05-09 22:01:41.569588
+Existing_entries: 422
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Ridiculous History of 'OK'](https://people.howstuffworks.com/history-ok.htm)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
+append_entries: 5
+Finish: 2024-05-09 22:01:42.881161
