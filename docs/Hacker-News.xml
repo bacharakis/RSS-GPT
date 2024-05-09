@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>It's always TCP_NODELAY</title>
+<link>https://brooker.co.za/blog/2024/05/09/nagle.html</link>
+<guid>https://brooker.co.za/blog/2024/05/09/nagle.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40310896">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 17:54:49 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 17:54:49 +0000</pubDate>
+</item>
+<item>
+<title>Logarithmic Scales</title>
+<link>https://briefer.cloud/blog/posts/logarithms/</link>
+<guid>https://briefer.cloud/blog/posts/logarithms/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40296734">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 11:25:49 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 11:25:49 +0000</pubDate>
+</item>
+<item>
+<title>NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months</title>
+<link>https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831</link>
+<guid>https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40311982">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 19:22:25 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 19:22:25 +0000</pubDate>
+</item>
+<item>
+<title>Palantir Supplies Israel with New Tools Since Hamas War Started</title>
+<link>https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started</link>
+<guid>https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40311823">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 19:06:18 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 19:06:18 +0000</pubDate>
+</item>
+<item>
+<title>DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS</title>
+<link>https://github.com/kkebo/DNSecure</link>
+<guid>https://github.com/kkebo/DNSecure</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40311110">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 18:11:46 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 18:11:46 +0000</pubDate>
+</item>
+<item>
+<title>History of Information and Media</title>
+<link>https://www.historyofinformation.com/index.php</link>
+<guid>https://www.historyofinformation.com/index.php</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40286716">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 15:17:03 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 15:17:03 +0000</pubDate>
+</item>
+
+<item>
 <title>Familial Transmission of Personality Is Higher Than Shown in Typical Studies</title>
 <link>https://osf.io/preprints/psyarxiv/7ygp6</link>
 <guid>https://osf.io/preprints/psyarxiv/7ygp6</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40309840">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 16:24:38 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 16:24:38 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://www.adweek.com/media/openai-preferred-publisher-program-deck/</link>
 <guid>https://www.adweek.com/media/openai-preferred-publisher-program-deck/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40310228">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 16:56:55 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 16:56:55 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://github.com/zircothc/DRUM_2004_V1</link>
 <guid>https://github.com/zircothc/DRUM_2004_V1</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40309759">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 16:17:14 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 16:17:14 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://www.vetta.org/documents/Machine_Super_Intelligence.pdf</link>
 <guid>https://www.vetta.org/documents/Machine_Super_Intelligence.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40309780">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 16:19:32 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 16:19:32 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn</link>
 <guid>https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40310278">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 17:00:54 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 17:00:54 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +121,8 @@
 <link>https://www.ellipsis.dev/</link>
 <guid>https://www.ellipsis.dev/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40309719">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 16:14:47 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 16:14:47 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +130,8 @@
 <link>https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520</link>
 <guid>https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40309957">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 16:34:17 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 16:34:17 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +139,8 @@
 <link>https://www.filfre.net/2024/05/blade-runner/</link>
 <guid>https://www.filfre.net/2024/05/blade-runner/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40309685">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 16:12:06 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 16:12:06 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +148,8 @@
 <link>https://gizmodo.com/tesla-hiring-freeze-job-postings-elon-musk-layoffs-1851464758</link>
 <guid>https://gizmodo.com/tesla-hiring-freeze-job-postings-elon-musk-layoffs-1851464758</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40310170">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 16:52:27 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 16:52:27 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +157,8 @@
 <link>https://scratchdata.com/blog/bucketful-of-parquet/</link>
 <guid>https://scratchdata.com/blog/bucketful-of-parquet/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40310226">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 16:56:41 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 16:56:41 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +166,8 @@
 <link>https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/</link>
 <guid>https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40310358">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 17:09:02 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 17:09:02 +0000</pubDate>
 </item>
 <item>
@@ -130,13 +175,10 @@
 <link>https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/</link>
 <guid>https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40310257">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 9 May 2024 16:59:30 +0000</pubDate>
-<pubDate>Thu, 9 May 2024 16:59:30 +0000</pubDate>
 </item>
-
 <item>
 <title>VideoPrism: A foundational visual encoder for video understanding</title>
 <link>https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/</link>

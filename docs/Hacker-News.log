@@ -1600,3 +1600,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Andrew Huberman's Claims About Cannabis Annoy Drug Experts](https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/)
 append_entries: 12
 Finish: 2024-05-09 18:03:55.782707
+------------------------------------------------------
+Started: 2024-05-09 20:03:02.006189
+Existing_entries: 416
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Logarithmic Scales](https://briefer.cloud/blog/posts/logarithms/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Palantir Supplies Israel with New Tools Since Hamas War Started](https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS](https://github.com/kkebo/DNSecure)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [History of Information and Media](https://www.historyofinformation.com/index.php)
+append_entries: 6
+Finish: 2024-05-09 20:03:03.583755
