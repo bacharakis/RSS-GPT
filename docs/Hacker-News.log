@@ -1369,3 +1369,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [I worked at SpaceX. It was the most efficient company I've ever worked for](https://www.businessinsider.com/what-its-like-work-at-spacex-elon-musk-2024-4)
 append_entries: 13
 Finish: 2024-05-08 22:02:29.090713
+------------------------------------------------------
+Started: 2024-05-09 00:27:52.958950
+Existing_entries: 359
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Radius Full Page Display](https://32by32.com/radius-full-page-display/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Adumbra: A lightweight Java library for bitmap steganography](https://github.com/galliumdata/adumbra)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Breathwork supports emergence of altered states of consciousness](https://www.researchsquare.com/article/rs-3976380/v1)
+append_entries: 4
+Finish: 2024-05-09 00:27:53.911617
