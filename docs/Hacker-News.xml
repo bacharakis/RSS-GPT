@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>The Time I Lied to the CTO and Saved the Day</title>
+<link>https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/</link>
+<guid>https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40304453">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 01:39:27 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 01:39:27 +0000</pubDate>
+</item>
+<item>
+<title>How enterprise software is like baby clothing</title>
+<link>https://twitter.com/random_walker/status/1182635589604171776</link>
+<guid>https://twitter.com/random_walker/status/1182635589604171776</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40280726">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 6 May 2024 23:41:45 +0000</pubDate>
+<pubDate>Mon, 6 May 2024 23:41:45 +0000</pubDate>
+</item>
+<item>
+<title>A dystopian iPad commercial has X ripping Apple for crushing instruments and art</title>
+<link>https://ftw.usatoday.com/2024/05/apple-ipad-pro-commercial-bad</link>
+<guid>https://ftw.usatoday.com/2024/05/apple-ipad-pro-commercial-bad</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40304547">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 01:59:29 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 01:59:29 +0000</pubDate>
+</item>
+<item>
+<title>Securing Git Repositories with Gittuf</title>
+<link>https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/</link>
+<guid>https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40303338">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 22:22:22 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 22:22:22 +0000</pubDate>
+</item>
+<item>
+<title>Opening Windows in Linux with sockets, bare hands and 200 lines of C</title>
+<link>https://hereket.com/posts/from-scratch-x11-windowing/</link>
+<guid>https://hereket.com/posts/from-scratch-x11-windowing/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40303661">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 23:14:28 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 23:14:28 +0000</pubDate>
+</item>
+<item>
+<title>HTML Ruby Markup Extensions Working Draft Published</title>
+<link>https://www.w3.org/news/2024/working-draft-html-ruby-markup-extensions/</link>
+<guid>https://www.w3.org/news/2024/working-draft-html-ruby-markup-extensions/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40302934">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 21:36:49 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 21:36:49 +0000</pubDate>
+</item>
+
+<item>
 <title>Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems</title>
 <link>https://simbricks.github.io/</link>
 <guid>https://simbricks.github.io/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40303336">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 8 May 2024 22:22:08 +0000</pubDate>
 <pubDate>Wed, 8 May 2024 22:22:08 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://32by32.com/radius-full-page-display/</link>
 <guid>https://32by32.com/radius-full-page-display/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40273516">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 11:51:30 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 11:51:30 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://github.com/galliumdata/adumbra</link>
 <guid>https://github.com/galliumdata/adumbra</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40277945">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 6 May 2024 18:34:30 +0000</pubDate>
 <pubDate>Mon, 6 May 2024 18:34:30 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +103,10 @@
 <link>https://www.researchsquare.com/article/rs-3976380/v1</link>
 <guid>https://www.researchsquare.com/article/rs-3976380/v1</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40302200">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 8 May 2024 19:54:58 +0000</pubDate>
-<pubDate>Wed, 8 May 2024 19:54:58 +0000</pubDate>
 </item>
-
 <item>
 <title>Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x</title>
 <link>https://hao-ai-lab.github.io/blogs/cllm/</link>
