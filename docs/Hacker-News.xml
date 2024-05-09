@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Temporal Python – A durable, distributed asyncio event loop (2023)</title>
+<link>https://temporal.io/blog/durable-distributed-asyncio-event-loop</link>
+<guid>https://temporal.io/blog/durable-distributed-asyncio-event-loop</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40287341">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 15:56:41 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 15:56:41 +0000</pubDate>
+</item>
+<item>
+<title>Shell sold carbon credits for carbon that was never captured</title>
+<link>https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792</link>
+<guid>https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40304901">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 03:02:02 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 03:02:02 +0000</pubDate>
+</item>
+<item>
+<title>Symbolica Computer Algebra System</title>
+<link>https://symbolica.io/</link>
+<guid>https://symbolica.io/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40297423">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 12:41:28 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 12:41:28 +0000</pubDate>
+</item>
+<item>
+<title>An Unusual Furniture Design Niche: Behind-the-Sofa Consoles</title>
+<link>https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles</link>
+<guid>https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40305033">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 03:27:12 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 03:27:12 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Tegon: AI-first open source alternative to Jira and Linear</title>
+<link>https://github.com/tegonhq/tegon</link>
+<guid>https://github.com/tegonhq/tegon</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40290735">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 19:52:08 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 19:52:08 +0000</pubDate>
+</item>
+<item>
+<title>Bringing psql’s \d to your web browser</title>
+<link>https://neon.tech/blog/bringing-psqls-d-to-your-web-browser</link>
+<guid>https://neon.tech/blog/bringing-psqls-d-to-your-web-browser</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40299761">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 8 May 2024 16:14:23 +0000</pubDate>
+<pubDate>Wed, 8 May 2024 16:14:23 +0000</pubDate>
+</item>
+
+<item>
 <title>A look inside illegal drone deliveries at B.C.'s prisons</title>
 <link>https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734</link>
 <guid>https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40304601">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 02:10:00 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 02:10:00 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://www.reitzen.com/post/temporal-fuzzing-01/</link>
 <guid>https://www.reitzen.com/post/temporal-fuzzing-01/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40290171">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 7 May 2024 19:08:11 +0000</pubDate>
 <pubDate>Tue, 7 May 2024 19:08:11 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +94,10 @@
 <link>https://www.outsideonline.com/outdoor-adventure/everest/everest-hillary-norgay-1953-news/</link>
 <guid>https://www.outsideonline.com/outdoor-adventure/everest/everest-hillary-norgay-1953-news/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40303425">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 8 May 2024 22:36:58 +0000</pubDate>
-<pubDate>Wed, 8 May 2024 22:36:58 +0000</pubDate>
 </item>
-
 <item>
 <title>The Time I Lied to the CTO and Saved the Day</title>
 <link>https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/</link>

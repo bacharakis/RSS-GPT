@@ -1426,3 +1426,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [A Man Who Raced to Tell the World That Mount Everest Had Been Climbed](https://www.outsideonline.com/outdoor-adventure/everest/everest-hillary-norgay-1953-news/)
 append_entries: 3
 Finish: 2024-05-09 04:08:18.640159
+------------------------------------------------------
+Started: 2024-05-09 06:08:17.297389
+Existing_entries: 372
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Shell sold carbon credits for carbon that was never captured](https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Symbolica Computer Algebra System](https://symbolica.io/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An Unusual Furniture Design Niche: Behind-the-Sofa Consoles](https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Tegon: AI-first open source alternative to Jira and Linear](https://github.com/tegonhq/tegon)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bringing psql’s \d to your web browser](https://neon.tech/blog/bringing-psqls-d-to-your-web-browser)
+append_entries: 6
+Finish: 2024-05-09 06:08:18.904834
