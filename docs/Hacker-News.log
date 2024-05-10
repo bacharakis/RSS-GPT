@@ -1792,3 +1792,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
 append_entries: 5
 Finish: 2024-05-10 10:02:55.125685
+------------------------------------------------------
+Started: 2024-05-10 12:10:01.488035
+Existing_entries: 464
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tech Jobs Leaving California](https://www.apolloacademy.com/tech-jobs-leaving-california/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Trip C++Now 2024 – think-cell](https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Boeing 737 catches fire and skids off the runway in Senegal](https://apnews.com/article/senegal-dakar-plane-crash-boeing-ca40060696eaedfb69324d9110a55c60)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Computer models suggest modern plate tectonics due to blobs left by collision](https://phys.org/news/2024-05-modern-plate-tectonics-due-blobs.html)
+append_entries: 4
+Finish: 2024-05-10 12:10:02.285099
