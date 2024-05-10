@@ -1915,3 +1915,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Time in a Box](https://daily.jstor.org/time-in-a-box/)
 append_entries: 9
 Finish: 2024-05-10 18:07:46.991271
+------------------------------------------------------
+Started: 2024-05-10 20:04:29.065522
+Existing_entries: 497
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Laudatio Turiae](https://en.wikipedia.org/wiki/Laudatio_Turiae)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I created 3,800+ Open Source React Icons (Beautiful, Rounded Style)](https://github.com/hugeicons/hugeicons-react)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Serial to Parallel Port Converter](http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ElevenLabs Music](https://twitter.com/elevenlabsio/status/1788628171044053386)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Climate protesters storm Tesla gigafactory in Europe](https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/)
+append_entries: 6
+Finish: 2024-05-10 20:04:30.741314
