@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>The World Has (Probably) Passed Peak Pollution</title>
+<link>https://www.sustainabilitybynumbers.com/p/peak-pollution</link>
+<guid>https://www.sustainabilitybynumbers.com/p/peak-pollution</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40313451">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 22:11:41 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 22:11:41 +0000</pubDate>
+</item>
+<item>
+<title>Viking-Age Hunters Took Down the Biggest Animal on Earth</title>
+<link>https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/</link>
+<guid>https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40290228">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 7 May 2024 19:12:15 +0000</pubDate>
+<pubDate>Tue, 7 May 2024 19:12:15 +0000</pubDate>
+</item>
+<item>
+<title>Protobuf Editions are here: don't panic</title>
+<link>https://buf.build/blog/protobuf-editions-are-here</link>
+<guid>https://buf.build/blog/protobuf-editions-are-here</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40312895">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 20:58:45 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 20:58:45 +0000</pubDate>
+</item>
+<item>
+<title>Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications</title>
+<link>https://github.com/wayland-transpositor/wprs</link>
+<guid>https://github.com/wayland-transpositor/wprs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40313798">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 9 May 2024 23:02:14 +0000</pubDate>
+<pubDate>Thu, 9 May 2024 23:02:14 +0000</pubDate>
+</item>
+
+<item>
 <title>How bad are satellite megaconstellations for astronomy?</title>
 <link>https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/</link>
 <guid>https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40312469">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 20:11:21 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 20:11:21 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://github.com/ahrm/sioyek</link>
 <guid>https://github.com/ahrm/sioyek</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40313143">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 21:28:43 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 21:28:43 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html</link>
 <guid>https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40312500">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 20:14:39 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 20:14:39 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://people.howstuffworks.com/history-ok.htm</link>
 <guid>https://people.howstuffworks.com/history-ok.htm</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40312434">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 9 May 2024 20:07:30 +0000</pubDate>
 <pubDate>Thu, 9 May 2024 20:07:30 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +90,10 @@
 <link>https://www.nature.com/articles/d41586-024-01387-9</link>
 <guid>https://www.nature.com/articles/d41586-024-01387-9</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40313193">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 9 May 2024 21:36:06 +0000</pubDate>
-<pubDate>Thu, 9 May 2024 21:36:06 +0000</pubDate>
 </item>
-
 <item>
 <title>It's always TCP_NODELAY</title>
 <link>https://brooker.co.za/blog/2024/05/09/nagle.html</link>
