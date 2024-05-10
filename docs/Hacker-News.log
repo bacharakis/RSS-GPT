@@ -1696,3 +1696,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet](https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/)
 append_entries: 3
 Finish: 2024-05-10 04:07:16.441911
+------------------------------------------------------
+Started: 2024-05-10 06:08:13.187922
+Existing_entries: 438
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The most backdoor-looking bug I've ever seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Object oriented design patterns in the Linux kernel](https://lwn.net/Articles/444910/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis](https://arxiv.org/abs/2405.00738)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [RTK Experiments](https://n1vux.github.io/articles/Geodetic/RTK-experiments.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Chips and Cheese State of the Union](https://chipsandcheese.com/2024/05/09/chips-and-cheese-state-of-the-union/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI content firm creates fake writers for  ai articles](https://futurism.com/advon-ai-content)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NOAA Forecasts Solar Storm (G4)](https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10)
+append_entries: 9
+Finish: 2024-05-10 06:08:15.285429
