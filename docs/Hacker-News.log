@@ -1978,3 +1978,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Food labels and the lies they tell us about ‘best before’ expiration dates (2021)](https://www.vox.com/22559293/food-waste-expiration-label-best-before)
 append_entries: 5
 Finish: 2024-05-11 00:27:37.663826
+------------------------------------------------------
+Started: 2024-05-11 02:17:29.578491
+Existing_entries: 512
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Writing C code in Java/Clojure: GraalVM specific programming (2021)](https://yyhh.org/blog/2021/02/writing-c-code-in-javaclojure-graalvm-specific-programming/)
+append_entries: 1
+Finish: 2024-05-11 02:17:30.291512
