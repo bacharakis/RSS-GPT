@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>PeaZip: Open-source file compression and encryption software</title>
+<link>https://peazip.github.io/</link>
+<guid>https://peazip.github.io/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327631">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 12:19:00 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 12:19:00 +0000</pubDate>
+</item>
+<item>
+<title>Multidirectional joint distribution neurons reducing to KAN</title>
+<link>https://arxiv.org/abs/2405.05097</link>
+<guid>https://arxiv.org/abs/2405.05097</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327279">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 10:35:19 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 10:35:19 +0000</pubDate>
+</item>
+<item>
+<title>Kardashev Scale</title>
+<link>https://en.wikipedia.org/wiki/Kardashev_scale</link>
+<guid>https://en.wikipedia.org/wiki/Kardashev_scale</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327782">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 13:03:31 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 13:03:31 +0000</pubDate>
+</item>
+<item>
+<title>The Emacs Window Management Almanac</title>
+<link>https://karthinks.com/software/emacs-window-management-almanac/</link>
+<guid>https://karthinks.com/software/emacs-window-management-almanac/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40326362">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 06:19:00 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 06:19:00 +0000</pubDate>
+</item>
+<item>
+<title>Nvidia Open GPU Linux Kernel Driver Soon Be the Default for Turing, Newer GPUs</title>
+<link>https://www.phoronix.com/news/NVIDIA-R560-Open-Default</link>
+<guid>https://www.phoronix.com/news/NVIDIA-R560-Open-Default</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327857">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 13:15:58 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 13:15:58 +0000</pubDate>
+</item>
+<item>
+<title>Supreme Court: There's No 'Time Limit' on Copyright Infringement Claims</title>
+<link>https://torrentfreak.com/supreme-court-theres-no-time-limit-on-copyright-infringement-claims-240510/</link>
+<guid>https://torrentfreak.com/supreme-court-theres-no-time-limit-on-copyright-infringement-claims-240510/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327872">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 13:19:25 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 13:19:25 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: Should HN black bar become community driven?</title>
+<link>https://news.ycombinator.com/item?id=40327812</link>
+<guid>https://news.ycombinator.com/item?id=40327812</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327812">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 13:08:34 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 13:08:34 +0000</pubDate>
+</item>
+<item>
+<title>You Can Hear the Temperature of Water</title>
+<link>https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html</link>
+<guid>https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40317629">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 10 May 2024 11:22:34 +0000</pubDate>
+<pubDate>Fri, 10 May 2024 11:22:34 +0000</pubDate>
+</item>
+
+<item>
 <title>Why the CORDIC algorithm lives rent-free in my head</title>
 <link>https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md</link>
 <guid>https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40326563">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 11 May 2024 07:18:39 +0000</pubDate>
 <pubDate>Sat, 11 May 2024 07:18:39 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://tmpout.sh/3/03.html</link>
 <guid>https://tmpout.sh/3/03.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40327236">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 11 May 2024 10:21:03 +0000</pubDate>
 <pubDate>Sat, 11 May 2024 10:21:03 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>http://zuse-z1.zib.de/simulations/eniac/</link>
 <guid>http://zuse-z1.zib.de/simulations/eniac/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40317375">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 10 May 2024 10:49:18 +0000</pubDate>
 <pubDate>Fri, 10 May 2024 10:49:18 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://arxiv.org/pdf/cs/9301105</link>
 <guid>https://arxiv.org/pdf/cs/9301105</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40316319">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 10 May 2024 07:41:22 +0000</pubDate>
 <pubDate>Fri, 10 May 2024 07:41:22 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +134,10 @@
 <link>https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology</link>
 <guid>https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40327307">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 10:41:22 +0000</pubDate>
-<pubDate>Sat, 11 May 2024 10:41:22 +0000</pubDate>
 </item>
-
 <item>
 <title>Stunningly Preserved Ancient Roman Glassware Turns Up in a French Burial Site</title>
 <link>https://news.artnet.com/art-world/ancient-roman-glassware-found-in-nimes-2469649</link>
