@@ -2149,3 +2149,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Corn fields occupy how much of each state?](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F492c4d9a-887d-40c4-8e9c-c77d94fb986f_1009x694.png)
 append_entries: 9
 Finish: 2024-05-11 18:05:33.247836
+------------------------------------------------------
+Started: 2024-05-11 20:02:10.361930
+Existing_entries: 551
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [100k Stars](https://stars.chromeexperiments.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Berlin Tesla activists say civil disobedience is only option](https://www.dw.com/en/berlin-tesla-activists-say-civil-disobedience-is-only-option/a-69054007)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Kolmogorov-Arnold Networks: MLP vs. Kan, Math, Universal Approximation Theorem [video]](https://www.youtube.com/watch?v=-PFIkkwWdnM)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Area Lights: Mathematical Fondations](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-lighting/introduction-to-lighting-area-lights-theory.html)
+append_entries: 5
+Finish: 2024-05-11 20:02:11.588629
