@@ -2107,3 +2107,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [You Can Hear the Temperature of Water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
 append_entries: 8
 Finish: 2024-05-11 14:01:49.668703
+------------------------------------------------------
+Started: 2024-05-11 16:07:14.674471
+Existing_entries: 541
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
+append_entries: 1
+Finish: 2024-05-11 16:07:15.060703
