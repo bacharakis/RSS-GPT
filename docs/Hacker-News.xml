@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Evaluating Eye Tracking Systems for Computer Input (2012)</title>
+<link>https://www.yorku.ca/mack/cogain.html</link>
+<guid>https://www.yorku.ca/mack/cogain.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40317401">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 10 May 2024 10:53:30 +0000</pubDate>
+<pubDate>Fri, 10 May 2024 10:53:30 +0000</pubDate>
+</item>
+<item>
+<title>Astrophysics Data System</title>
+<link>https://ui.adsabs.harvard.edu:443/classic-form/</link>
+<guid>https://ui.adsabs.harvard.edu:443/classic-form/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40317515">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 10 May 2024 11:06:50 +0000</pubDate>
+<pubDate>Fri, 10 May 2024 11:06:50 +0000</pubDate>
+</item>
+
+<item>
 <title>100 Years of IBM</title>
 <link>http://www.tikalon.com/blog/blog.php?article=2024/IBM_100</link>
 <guid>http://www.tikalon.com/blog/blog.php?article=2024/IBM_100</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40317221">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 10 May 2024 10:25:24 +0000</pubDate>
 <pubDate>Fri, 10 May 2024 10:25:24 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +41,10 @@
 <link>https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum</link>
 <guid>https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40325674">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 02:52:31 +0000</pubDate>
-<pubDate>Sat, 11 May 2024 02:52:31 +0000</pubDate>
 </item>
-
 <item>
 <title>Writing C code in Java/Clojure: GraalVM specific programming (2021)</title>
 <link>https://yyhh.org/blog/2021/02/writing-c-code-in-javaclojure-graalvm-specific-programming/</link>
