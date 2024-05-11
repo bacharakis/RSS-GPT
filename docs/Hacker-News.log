@@ -2011,3 +2011,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Astrophysics Data System](https://ui.adsabs.harvard.edu:443/classic-form/)
 append_entries: 2
 Finish: 2024-05-11 06:07:10.836790
+------------------------------------------------------
+Started: 2024-05-11 08:07:00.055605
+Existing_entries: 517
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Thread – the tech we can't use or teach](https://overengineer.dev/blog/2024/05/10/thread/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Adam Curtis on the dangers of self-expression (2017)](https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bitmovin (YC S15) Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Seeking Ideas for Preschool/School Projects](https://news.ycombinator.com/item?id=40292537)
+append_entries: 5
+Finish: 2024-05-11 08:07:01.640186
