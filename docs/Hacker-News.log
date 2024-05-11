@@ -2056,3 +2056,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 append_entries: 6
 Finish: 2024-05-11 10:01:36.399953
+------------------------------------------------------
+Started: 2024-05-11 12:09:17.228161
+Existing_entries: 528
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ENIAC Simulator](http://zuse-z1.zib.de/simulations/eniac/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Foundation of a Generic Theorem Prover (1989) [pdf]](https://arxiv.org/pdf/cs/9301105)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [People who won't give up floppy disks](https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology)
+append_entries: 5
+Finish: 2024-05-11 12:09:18.471525

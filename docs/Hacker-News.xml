@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Why the CORDIC algorithm lives rent-free in my head</title>
+<link>https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md</link>
+<guid>https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40326563">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 07:18:39 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 07:18:39 +0000</pubDate>
+</item>
+<item>
+<title>Unix Viruses 25th Anniversary Edition</title>
+<link>https://tmpout.sh/3/03.html</link>
+<guid>https://tmpout.sh/3/03.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327236">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 10:21:03 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 10:21:03 +0000</pubDate>
+</item>
+<item>
+<title>ENIAC Simulator</title>
+<link>http://zuse-z1.zib.de/simulations/eniac/</link>
+<guid>http://zuse-z1.zib.de/simulations/eniac/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40317375">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 10 May 2024 10:49:18 +0000</pubDate>
+<pubDate>Fri, 10 May 2024 10:49:18 +0000</pubDate>
+</item>
+<item>
+<title>The Foundation of a Generic Theorem Prover (1989) [pdf]</title>
+<link>https://arxiv.org/pdf/cs/9301105</link>
+<guid>https://arxiv.org/pdf/cs/9301105</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40316319">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 10 May 2024 07:41:22 +0000</pubDate>
+<pubDate>Fri, 10 May 2024 07:41:22 +0000</pubDate>
+</item>
+<item>
+<title>People who won't give up floppy disks</title>
+<link>https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology</link>
+<guid>https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327307">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 10:41:22 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 10:41:22 +0000</pubDate>
+</item>
+
+<item>
 <title>Stunningly Preserved Ancient Roman Glassware Turns Up in a French Burial Site</title>
 <link>https://news.artnet.com/art-world/ancient-roman-glassware-found-in-nimes-2469649</link>
 <guid>https://news.artnet.com/art-world/ancient-roman-glassware-found-in-nimes-2469649</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40302909">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 8 May 2024 21:34:10 +0000</pubDate>
 <pubDate>Wed, 8 May 2024 21:34:10 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://stevenharman.net/so-we-have-a-memory-leak</link>
 <guid>https://stevenharman.net/so-we-have-a-memory-leak</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40315686">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 10 May 2024 05:14:14 +0000</pubDate>
 <pubDate>Fri, 10 May 2024 05:14:14 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf</link>
 <guid>https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40315990">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 10 May 2024 06:35:59 +0000</pubDate>
 <pubDate>Fri, 10 May 2024 06:35:59 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://www.bigissue.com/news/environment/beavers-london-ealing-environment-uk-rewilding/</link>
 <guid>https://www.bigissue.com/news/environment/beavers-london-ealing-environment-uk-rewilding/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40326738">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 11 May 2024 08:05:36 +0000</pubDate>
 <pubDate>Sat, 11 May 2024 08:05:36 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +101,8 @@
 <link>https://www.multicians.org/unix.html</link>
 <guid>https://www.multicians.org/unix.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40315724">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 10 May 2024 05:25:26 +0000</pubDate>
 <pubDate>Fri, 10 May 2024 05:25:26 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +110,10 @@
 <link>https://github.com/NHAS/wag</link>
 <guid>https://github.com/NHAS/wag</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40326615">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 07:31:23 +0000</pubDate>
-<pubDate>Sat, 11 May 2024 07:31:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Thread – the tech we can't use or teach</title>
 <link>https://overengineer.dev/blog/2024/05/10/thread/</link>
