@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Garbage Collectors Are Scary</title>
+<link>https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html</link>
+<guid>https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333375">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 10:32:09 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 10:32:09 +0000</pubDate>
+</item>
+<item>
+<title>Roll A Lisp In C – Reading (2020)</title>
+<link>https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html</link>
+<guid>https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333330">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 10:15:14 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 10:15:14 +0000</pubDate>
+</item>
+<item>
+<title>UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper</title>
+<link>https://up.codes/careers?utm_source=HN</link>
+<guid>https://up.codes/careers?utm_source=HN</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333733">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 12:01:21 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 12:01:21 +0000</pubDate>
+</item>
+<item>
+<title>23% of bachelor's degrees and 43% of master's degrees have a negative ROI</title>
+<link>https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/</link>
+<guid>https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333471">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 11:08:20 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 11:08:20 +0000</pubDate>
+</item>
+<item>
+<title>Brazil's catastrophic weather spawns spate of conspiracy theories</title>
+<link>https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html</link>
+<guid>https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333242">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 09:44:13 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 09:44:13 +0000</pubDate>
+</item>
+<item>
+<title>There's Not Enough Power for America's High-Tech Ambitions</title>
+<link>https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9</link>
+<guid>https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333380">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 10:32:46 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 10:32:46 +0000</pubDate>
+</item>
+<item>
+<title>The Software Behind Silicon</title>
+<link>https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi</link>
+<guid>https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327532">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 11:50:18 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 11:50:18 +0000</pubDate>
+</item>
+<item>
+<title>Running CHIP-8 on an HP 48 calculator (2020)</title>
+<link>https://tobiasvl.github.io/blog/chip-8-hp-48/</link>
+<guid>https://tobiasvl.github.io/blog/chip-8-hp-48/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327566">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 11:59:23 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 11:59:23 +0000</pubDate>
+</item>
+
+<item>
 <title>Show HN: Multilspy – Cross platform framework to develop Language Server Clients</title>
 <link>https://github.com/microsoft/monitors4codegen</link>
 <guid>https://github.com/microsoft/monitors4codegen</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40326391">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 11 May 2024 06:26:58 +0000</pubDate>
 <pubDate>Sat, 11 May 2024 06:26:58 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/</link>
 <guid>https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40326398">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 11 May 2024 06:27:41 +0000</pubDate>
 <pubDate>Sat, 11 May 2024 06:27:41 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://abcnews.go.com/US/scientists-figured-make-bio-based-plastic-completely-biodegrades/story?id=110032450</link>
 <guid>https://abcnews.go.com/US/scientists-figured-make-bio-based-plastic-completely-biodegrades/story?id=110032450</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40332400">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 05:17:56 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 05:17:56 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +125,10 @@
 <link>https://twitter.com/rao2z/status/1760133260385177784</link>
 <guid>https://twitter.com/rao2z/status/1760133260385177784</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40332993">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 08:26:05 +0000</pubDate>
-<pubDate>Sun, 12 May 2024 08:26:05 +0000</pubDate>
 </item>
-
 <item>
 <title>Automatically Detecting Under-Trained Tokens in Large Language Models</title>
 <link>https://arxiv.org/abs/2405.05417</link>
