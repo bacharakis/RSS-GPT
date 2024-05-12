@@ -2440,3 +2440,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Avoiding the soft delete anti-pattern](https://www.cultured.systems/2024/04/24/Soft-delete/)
 append_entries: 12
 Finish: 2024-05-12 20:02:18.524404
+------------------------------------------------------
+Started: 2024-05-12 22:01:53.343069
+Existing_entries: 622
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Assembly](https://assembly.louve.systems/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Study found corporate recruiters have a bias against ex-entrepreneurs](https://fortune.com/2024/05/12/entrepreneur-founder-startup-hiring-interview-bias-recruiter-jobs/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Insteadofvery.com](https://insteadofvery.com)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
+append_entries: 6
+Finish: 2024-05-12 22:01:54.906899
