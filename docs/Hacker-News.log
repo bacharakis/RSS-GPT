@@ -2275,3 +2275,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Roger Corman Dead: King of B Movies was 98](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/)
 append_entries: 5
 Finish: 2024-05-12 08:08:33.526747
+------------------------------------------------------
+Started: 2024-05-12 10:02:01.659346
+Existing_entries: 579
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Multilspy – Cross platform framework to develop Language Server Clients](https://github.com/microsoft/monitors4codegen)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Scientists have figured out way to make algae-based plastic that decomposes](https://abcnews.go.com/US/scientists-figured-make-bio-based-plastic-completely-biodegrades/story?id=110032450)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The "Chain of Thought" Delusions](https://twitter.com/rao2z/status/1760133260385177784)
+append_entries: 4
+Finish: 2024-05-12 10:02:02.780112
