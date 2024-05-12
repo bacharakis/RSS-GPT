@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>America is in the midst of an extraordinary startup boom</title>
+<link>https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom</link>
+<guid>https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40334102">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 13:01:42 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 13:01:42 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: A WireGuard Powered Remote Shell</title>
+<link>https://github.com/noisysockets/nsh</link>
+<guid>https://github.com/noisysockets/nsh</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40319635">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 10 May 2024 14:43:39 +0000</pubDate>
+<pubDate>Fri, 10 May 2024 14:43:39 +0000</pubDate>
+</item>
+<item>
+<title>ENIAC programmer Jean Bartik's Amazon book review</title>
+<link>https://www.amazon.com/gp/aw/review/0802713483/R3K2DSB6UE1X7H</link>
+<guid>https://www.amazon.com/gp/aw/review/0802713483/R3K2DSB6UE1X7H</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333159">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 09:15:55 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 09:15:55 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking</title>
+<link>https://github.com/kzemek/es6_maps</link>
+<guid>https://github.com/kzemek/es6_maps</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333500">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 11:17:45 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 11:17:45 +0000</pubDate>
+</item>
+<item>
+<title>Cosine Similarity</title>
+<link>https://algebrica.org/cosine-similarity/</link>
+<guid>https://algebrica.org/cosine-similarity/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327293">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 10:37:46 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 10:37:46 +0000</pubDate>
+</item>
+<item>
+<title>Alibaba's Yitian 710 is quickest server CPU but it is based on Arm</title>
+<link>https://www.techradar.com/pro/chinese-server-cpu-beats-microsoft-google-and-aws-rivals-to-grab-performance-crown-alibabas-yitian-710-is-quickest-server-cpu-but-it-is-based-on-arm-rather-than-risc-and-x86-is-likely-to-be-the-overall-speed-champion</link>
+<guid>https://www.techradar.com/pro/chinese-server-cpu-beats-microsoft-google-and-aws-rivals-to-grab-performance-crown-alibabas-yitian-710-is-quickest-server-cpu-but-it-is-based-on-arm-rather-than-risc-and-x86-is-likely-to-be-the-overall-speed-champion</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333738">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 12:01:47 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 12:01:47 +0000</pubDate>
+</item>
+<item>
+<title>Google gave investors a $70B buyback,and laid off 12,000 people</title>
+<link>https://twitter.com/DanPriceSeattle/status/1788965895832039913</link>
+<guid>https://twitter.com/DanPriceSeattle/status/1788965895832039913</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40333991">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 12:47:10 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 12:47:10 +0000</pubDate>
+</item>
+<item>
+<title>Stack Exchange Data Dump [Archive]</title>
+<link>https://archive.org/details/stackexchange</link>
+<guid>https://archive.org/details/stackexchange</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40334002">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 12:48:33 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 12:48:33 +0000</pubDate>
+</item>
+
+<item>
 <title>Garbage Collectors Are Scary</title>
 <link>https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html</link>
 <guid>https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40333375">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 10:32:09 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 10:32:09 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html</link>
 <guid>https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40333330">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 10:15:14 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 10:15:14 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://up.codes/careers?utm_source=HN</link>
 <guid>https://up.codes/careers?utm_source=HN</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40333733">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 12:01:21 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 12:01:21 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/</link>
 <guid>https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40333471">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 11:08:20 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 11:08:20 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html</link>
 <guid>https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40333242">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 09:44:13 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 09:44:13 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9</link>
 <guid>https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40333380">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 10:32:46 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 10:32:46 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +152,8 @@
 <link>https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi</link>
 <guid>https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40327532">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 11 May 2024 11:50:18 +0000</pubDate>
 <pubDate>Sat, 11 May 2024 11:50:18 +0000</pubDate>
 </item>
 <item>
@@ -86,13 +161,10 @@
 <link>https://tobiasvl.github.io/blog/chip-8-hp-48/</link>
 <guid>https://tobiasvl.github.io/blog/chip-8-hp-48/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40327566">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 11:59:23 +0000</pubDate>
-<pubDate>Sat, 11 May 2024 11:59:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Show HN: Multilspy – Cross platform framework to develop Language Server Clients</title>
 <link>https://github.com/microsoft/monitors4codegen</link>

@@ -2323,3 +2323,33 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Running CHIP-8 on an HP 48 calculator (2020)](https://tobiasvl.github.io/blog/chip-8-hp-48/)
 append_entries: 8
 Finish: 2024-05-12 12:09:54.701850
+------------------------------------------------------
+Started: 2024-05-12 14:01:32.210922
+Existing_entries: 591
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [America is in the midst of an extraordinary startup boom](https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: A WireGuard Powered Remote Shell](https://github.com/noisysockets/nsh)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ENIAC programmer Jean Bartik's Amazon book review](https://www.amazon.com/gp/aw/review/0802713483/R3K2DSB6UE1X7H)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cosine Similarity](https://algebrica.org/cosine-similarity/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Alibaba's Yitian 710 is quickest server CPU but it is based on Arm](https://www.techradar.com/pro/chinese-server-cpu-beats-microsoft-google-and-aws-rivals-to-grab-performance-crown-alibabas-yitian-710-is-quickest-server-cpu-but-it-is-based-on-arm-rather-than-risc-and-x86-is-likely-to-be-the-overall-speed-champion)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Google gave investors a $70B buyback,and laid off 12,000 people](https://twitter.com/DanPriceSeattle/status/1788965895832039913)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Stack Exchange Data Dump [Archive]](https://archive.org/details/stackexchange)
+append_entries: 8
+Finish: 2024-05-12 14:01:34.257650
