@@ -2242,3 +2242,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Citation Needed – Wikimedia Foundation's Experimental LLM/RAG Chrome Extension](https://chromewebstore.google.com/detail/wikipedia-citation-needed/kecnjhdipdihkibljeicopdcoinghmhj)
 append_entries: 5
 Finish: 2024-05-12 04:07:37.997507
+------------------------------------------------------
+Started: 2024-05-12 06:08:21.589126
+Existing_entries: 572
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Attempt to bring a cinematic experience in 256 bytes (WASM)](https://github.com/ilmenit/sizecoding/blob/main/Encounter/Encounter.md)
+append_entries: 2
+Finish: 2024-05-12 06:08:22.337497
