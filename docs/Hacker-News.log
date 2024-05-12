@@ -2254,3 +2254,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Show HN: Attempt to bring a cinematic experience in 256 bytes (WASM)](https://github.com/ilmenit/sizecoding/blob/main/Encounter/Encounter.md)
 append_entries: 2
 Finish: 2024-05-12 06:08:22.337497
+------------------------------------------------------
+Started: 2024-05-12 08:08:32.287012
+Existing_entries: 574
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Emoji History: The Missing Years](https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI Ruined Quora](https://jonn.substack.com/p/how-ai-ruined-quora)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Roger Corman Dead: King of B Movies was 98](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/)
+append_entries: 5
+Finish: 2024-05-12 08:08:33.526747
