@@ -2353,3 +2353,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Stack Exchange Data Dump [Archive]](https://archive.org/details/stackexchange)
 append_entries: 8
 Finish: 2024-05-12 14:01:34.257650
+------------------------------------------------------
+Started: 2024-05-12 16:02:45.393850
+Existing_entries: 599
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An unexpected detour into partially symbolic, sparsity-expoiting autodiff](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Scientists Find an 'Alphabet' in Whale Songs](https://www.nytimes.com/2024/05/07/science/whale-song-alphabet.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
+append_entries: 3
+Finish: 2024-05-12 16:02:46.258469
