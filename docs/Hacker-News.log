@@ -2563,3 +2563,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Dymaxion Car](https://en.wikipedia.org/wiki/Dymaxion_car)
 append_entries: 4
 Finish: 2024-05-13 06:08:49.523454
+------------------------------------------------------
+Started: 2024-05-13 08:09:17.240898
+Existing_entries: 653
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Making GNU Make a better Task Runner](https://github.com/mitjafelicijan/makext)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [State actor blamed for cyberattack on B.C. government systems](https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why Make Art in the Dark?](https://aeon.co/essays/why-did-our-ancestors-make-startling-art-in-dark-firelit-caves)
+append_entries: 5
+Finish: 2024-05-13 08:09:18.627438
