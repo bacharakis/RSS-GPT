@@ -2530,3 +2530,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Hydrogen-powered aircraft has first commercial order](https://www.abc.net.au/news/2024-05-13/hydrogen-electric-powered-aviation-net-zero-target/103728122)
 append_entries: 9
 Finish: 2024-05-13 02:22:58.352499
+------------------------------------------------------
+Started: 2024-05-13 04:08:41.553836
+Existing_entries: 646
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A Slower Speed of Light – MIT Game Lab](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fort Worth's tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
+append_entries: 3
+Finish: 2024-05-13 04:08:42.668928
