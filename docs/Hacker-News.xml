@@ -5,14 +5,112 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>GPUs Go Brrr</title>
+<link>https://hazyresearch.stanford.edu/blog/2024-05-12-tk</link>
+<guid>https://hazyresearch.stanford.edu/blog/2024-05-12-tk</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40337936">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 22:05:58 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 22:05:58 +0000</pubDate>
+</item>
+<item>
+<title>Vision Pro has the same effective resolution as Quest 3... Sometimes?</title>
+<link>https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution</link>
+<guid>https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40338486">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 23:58:51 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 23:58:51 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: I made an open-source Loom alternative</title>
+<link>https://Cap.so</link>
+<guid>https://Cap.so</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40338275">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 23:09:08 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 23:09:08 +0000</pubDate>
+</item>
+<item>
+<title>I built an online PDF management platform using open-source software</title>
+<link>https://www.pdfequips.com/</link>
+<guid>https://www.pdfequips.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40337933">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 22:05:30 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 22:05:30 +0000</pubDate>
+</item>
+<item>
+<title>Feynman Symbolic Regression Database</title>
+<link>https://space.mit.edu/home/tegmark/aifeynman.html</link>
+<guid>https://space.mit.edu/home/tegmark/aifeynman.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40338152">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 22:47:09 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 22:47:09 +0000</pubDate>
+</item>
+<item>
+<title>Memory Management Every Developer Should Know</title>
+<link>https://webdeveloper.beehiiv.com/p/memory-management-every-programmer-know</link>
+<guid>https://webdeveloper.beehiiv.com/p/memory-management-every-programmer-know</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40317196">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 10 May 2024 10:21:23 +0000</pubDate>
+<pubDate>Fri, 10 May 2024 10:21:23 +0000</pubDate>
+</item>
+<item>
+<title>"'We Cannot in Good Conscience Encourage You to Pursue Our Profession"</title>
+<link>https://www.indiewire.com/news/breaking-news/art-directors-guild-ending-production-design-initiative-program-1235002230/</link>
+<guid>https://www.indiewire.com/news/breaking-news/art-directors-guild-ending-production-design-initiative-program-1235002230/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40338259">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 23:06:08 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 23:06:08 +0000</pubDate>
+</item>
+<item>
+<title>Styles of Furniture</title>
+<link>https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/</link>
+<guid>https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40336602">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 18:54:44 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 18:54:44 +0000</pubDate>
+</item>
+<item>
+<title>Pattern Forms</title>
+<link>https://wiki.c2.com/?PatternForms</link>
+<guid>https://wiki.c2.com/?PatternForms</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40327652">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 11 May 2024 12:26:03 +0000</pubDate>
+<pubDate>Sat, 11 May 2024 12:26:03 +0000</pubDate>
+</item>
+
+<item>
 <title>The Alternative Implementation Problem</title>
 <link>https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/</link>
 <guid>https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40337036">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 19:49:05 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 19:49:05 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +118,8 @@
 <link>https://assembly.louve.systems/</link>
 <guid>https://assembly.louve.systems/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40326313">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 11 May 2024 06:05:24 +0000</pubDate>
 <pubDate>Sat, 11 May 2024 06:05:24 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +127,8 @@
 <link>https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN</link>
 <guid>https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40337555">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 21:03:02 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 21:03:02 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +136,8 @@
 <link>https://fortune.com/2024/05/12/entrepreneur-founder-startup-hiring-interview-bias-recruiter-jobs/</link>
 <guid>https://fortune.com/2024/05/12/entrepreneur-founder-startup-hiring-interview-bias-recruiter-jobs/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40337380">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 20:35:31 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 20:35:31 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +145,8 @@
 <link>https://insteadofvery.com</link>
 <guid>https://insteadofvery.com</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40336217">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 17:55:40 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 17:55:40 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +154,10 @@
 <link>https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update</link>
 <guid>https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40337345">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 20:28:55 +0000</pubDate>
-<pubDate>Sun, 12 May 2024 20:28:55 +0000</pubDate>
 </item>
-
 <item>
 <title>Professional Corner-Cutting</title>
 <link>https://blog.ometer.com/2016/05/04/professional-corner-cutting/</link>

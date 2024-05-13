@@ -2464,3 +2464,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
 append_entries: 6
 Finish: 2024-05-12 22:01:54.906899
+------------------------------------------------------
+Started: 2024-05-13 00:29:29.221876
+Existing_entries: 628
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Vision Pro has the same effective resolution as Quest 3... Sometimes?](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I made an open-source Loom alternative](https://Cap.so)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Memory Management Every Developer Should Know](https://webdeveloper.beehiiv.com/p/memory-management-every-programmer-know)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: ["'We Cannot in Good Conscience Encourage You to Pursue Our Profession"](https://www.indiewire.com/news/breaking-news/art-directors-guild-ending-production-design-initiative-program-1235002230/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Styles of Furniture](https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pattern Forms](https://wiki.c2.com/?PatternForms)
+append_entries: 9
+Finish: 2024-05-13 00:29:31.382028
