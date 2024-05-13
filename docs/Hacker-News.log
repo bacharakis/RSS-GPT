@@ -2653,3 +2653,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The Worst Outcome Is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
 append_entries: 6
 Finish: 2024-05-13 14:02:56.983128
+------------------------------------------------------
+Started: 2024-05-13 16:08:12.303730
+Existing_entries: 675
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Falcon 2](https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Venture Capitalists Are Using Podcasts to Lure in Founders](https://www.vanityfair.com/news/story/venture-capitalists-using-podcasts-lure-founders)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Biggest CPU for the Bad System](https://old.reddit.com/r/sysadmin/comments/1cqn3qa/whats_the_biggest_cpu_core_physical_server_i_can/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Myth of Loss: Bitboys](https://hardforum.com/threads/bitboys.1973024/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The rage epidemic: is our modern world fuelling aggression?](https://www.theguardian.com/science/article/2024/may/12/road-rage-epidemic-peter-abbott-abuse-fury)
+append_entries: 5
+Finish: 2024-05-13 16:08:13.718998
