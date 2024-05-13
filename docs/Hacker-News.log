@@ -2755,3 +2755,45 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [2.4M person study: Internet use boosts, not hurts, well being](https://www.nature.com/articles/d41586-024-01410-z)
 append_entries: 12
 Finish: 2024-05-13 20:02:52.278017
+------------------------------------------------------
+Started: 2024-05-13 22:01:36.048566
+Existing_entries: 703
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Static Chess](https://www.val.town/v/maxm/staticChess)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New Earliest Emoji Sets from 1988 and 1990 Uncovered](https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Svix (YC W21) Is Hiring a Product Marketing Manager (US Remote)](https://www.svix.com/careers/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dijkstra on real map data with raylib](https://github.com/uysalibov/gezgin)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Companies Say They're Using Microphone Audio to Target Ads [audio]](https://open.spotify.com/episode/5gdoHM1v4hyXOWKHWPSTFF)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: Founders who offer free/OS and paid SaaS, how do you manage your code?](https://news.ycombinator.com/item?id=40341037)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [QBE – Compiler Back End](https://c9x.me/compile/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Meteor Lake's E-Cores: Crestmont Makes Incremental Progress](https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fifteen Fundamental Properties](https://camillovisini.com/writing/fifteen-fundamental-properties)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A list of open source games](https://github.com/bobeff/open-source-games)
+append_entries: 12
+Finish: 2024-05-13 22:01:39.017346
