@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>SEQUEL: A Structured English Query Language (1974)</title>
+<link>https://dl.acm.org/doi/epdf/10.1145/800296.811515</link>
+<guid>https://dl.acm.org/doi/epdf/10.1145/800296.811515</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40337445">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 12 May 2024 20:44:33 +0000</pubDate>
+<pubDate>Sun, 12 May 2024 20:44:33 +0000</pubDate>
+</item>
+<item>
+<title>Using ARG in a Dockerfile – beware the gotcha</title>
+<link>https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/</link>
+<guid>https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40352426">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 07:05:38 +0000</pubDate>
+<pubDate>Tue, 14 May 2024 07:05:38 +0000</pubDate>
+</item>
+<item>
+<title>Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right</title>
+<link>https://www.macstories.net/stories/not-an-ipad-pro-review/</link>
+<guid>https://www.macstories.net/stories/not-an-ipad-pro-review/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40349347">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 22:33:01 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 22:33:01 +0000</pubDate>
+</item>
+<item>
+<title>Large Language Models in Containers Locally with Podman AI Lab</title>
+<link>https://github.com/containers/podman-desktop-extension-ai-lab</link>
+<guid>https://github.com/containers/podman-desktop-extension-ai-lab</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40351971">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 05:41:46 +0000</pubDate>
+<pubDate>Tue, 14 May 2024 05:41:46 +0000</pubDate>
+</item>
+<item>
+<title>YouTube's secret weapon to win the TV streaming wars: Its top creators</title>
+<link>https://www.hollywoodreporter.com/business/business-news/youtubes-secret-weapon-top-creators-1235894945/</link>
+<guid>https://www.hollywoodreporter.com/business/business-news/youtubes-secret-weapon-top-creators-1235894945/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40341036">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 08:39:28 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 08:39:28 +0000</pubDate>
+</item>
+
+<item>
 <title>A Pattern Language</title>
 <link>https://patternlanguage.cc/</link>
 <guid>https://patternlanguage.cc/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40342008">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 13 May 2024 11:30:33 +0000</pubDate>
 <pubDate>Mon, 13 May 2024 11:30:33 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +74,10 @@
 <link>https://thefoggiest.dev/2024/05/13/msx-elite</link>
 <guid>https://thefoggiest.dev/2024/05/13/msx-elite</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40340104">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 13 May 2024 05:35:04 +0000</pubDate>
-<pubDate>Mon, 13 May 2024 05:35:04 +0000</pubDate>
 </item>
-
 <item>
 <title>A review on protein languauge models</title>
 <link>https://www.apoorva-srinivasan.com/plms/</link>
