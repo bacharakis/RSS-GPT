@@ -3007,3 +3007,48 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Silicon reverse engineering: The 8085's undocumented flags (2013)](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
 append_entries: 9
 Finish: 2024-05-14 16:08:04.370147
+------------------------------------------------------
+Started: 2024-05-14 18:07:33.904486
+Existing_entries: 767
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Google Edge AI Model Explorer](https://github.com/google-ai-edge/model-explorer)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What happened to 3D midair plasma displays?](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Economics of a Sweetgreen Salad](https://sherwood.news/business/the-economics-of-a-usd15-sweetgreen-salad/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [VMware Fusion Pro and Workstation Pro now free for all personal use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Frank Ramsey: A Genius by All Tests for Genius (2020)](https://www.hnn.us/article/frank-ramsey-a-genius-by-all-tests-for-genius)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Linum (YC W23) is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Meta Is Shuttering Workplace, Its Enterprise Version of Facebook](https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Compiler Explorer](https://thechipletter.substack.com/p/compiler-explorer)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The First Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Google announces Veo, their Sora competing text/image-to-video model](https://aitestkitchen.withgoogle.com/tools/video-fx)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New gel breaks down alcohol in the body](https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The iPad Pro Manifesto (2024 Edition)](https://www.highcaffeinecontent.com/blog/20240514-The-iPad-Pro-Manifesto-(2024-Edition))
+append_entries: 13
+Finish: 2024-05-14 18:07:36.325403
