@@ -2974,3 +2974,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [References Are Like Jumps](https://without.boats/blog/references-are-like-jumps/)
 append_entries: 3
 Finish: 2024-05-14 14:02:10.562525
+------------------------------------------------------
+Started: 2024-05-14 16:08:02.098494
+Existing_entries: 758
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Wasp-193B, a giant planet with a density similar to that of cotton candy](https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Collapse Is Coming? Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New work extends the thermodynamic theory of computation](https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Pico: An open-source Ngrok alternative built for production traffic](https://github.com/andydunstall/pico)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Active learning is more effective, but students don't think so](https://arstechnica.com/science/2019/09/college-students-think-they-learn-less-with-an-effective-teaching-method/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Firefox to collect anonymized and categorized search data](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Silicon reverse engineering: The 8085's undocumented flags (2013)](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
+append_entries: 9
+Finish: 2024-05-14 16:08:04.370147
