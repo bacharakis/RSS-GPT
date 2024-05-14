@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Claude is now available in Europe</title>
+<link>https://www.anthropic.com/news/claude-europe</link>
+<guid>https://www.anthropic.com/news/claude-europe</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40352204">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 06:25:04 +0000</pubDate>
+<pubDate>Tue, 14 May 2024 06:25:04 +0000</pubDate>
+</item>
+<item>
+<title>Commodore 64 runs AI to generate images</title>
+<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations</link>
+<guid>https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40341508">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 10:12:44 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 10:12:44 +0000</pubDate>
+</item>
+<item>
+<title>The Notifier Pattern for Applications That Use Postgres</title>
+<link>https://brandur.org/notifier</link>
+<guid>https://brandur.org/notifier</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40352686">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 07:56:13 +0000</pubDate>
+<pubDate>Tue, 14 May 2024 07:56:13 +0000</pubDate>
+</item>
+<item>
+<title>Turn Your Android Tablet into an IDE with VSCode and Nix</title>
+<link>https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/</link>
+<guid>https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40353102">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 09:06:43 +0000</pubDate>
+<pubDate>Tue, 14 May 2024 09:06:43 +0000</pubDate>
+</item>
+<item>
+<title>LineageOS is the perfect minimal smartphone for non-tech savvy folk</title>
+<link>https://blog.decryption.net.au/t/lineageos-is-the-perfect-minimal-smartphone-for-non-tech-savvy-folk/155</link>
+<guid>https://blog.decryption.net.au/t/lineageos-is-the-perfect-minimal-smartphone-for-non-tech-savvy-folk/155</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40352050">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 05:56:13 +0000</pubDate>
+<pubDate>Tue, 14 May 2024 05:56:13 +0000</pubDate>
+</item>
+<item>
+<title>Verilator: Open-Source SystemVerilog simulator and lint system</title>
+<link>https://github.com/verilator/verilator</link>
+<guid>https://github.com/verilator/verilator</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40352120">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 06:08:46 +0000</pubDate>
+<pubDate>Tue, 14 May 2024 06:08:46 +0000</pubDate>
+</item>
+
+<item>
 <title>SEQUEL: A Structured English Query Language (1974)</title>
 <link>https://dl.acm.org/doi/epdf/10.1145/800296.811515</link>
 <guid>https://dl.acm.org/doi/epdf/10.1145/800296.811515</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40337445">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 12 May 2024 20:44:33 +0000</pubDate>
 <pubDate>Sun, 12 May 2024 20:44:33 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/</link>
 <guid>https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40352426">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 14 May 2024 07:05:38 +0000</pubDate>
 <pubDate>Tue, 14 May 2024 07:05:38 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://www.macstories.net/stories/not-an-ipad-pro-review/</link>
 <guid>https://www.macstories.net/stories/not-an-ipad-pro-review/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40349347">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 13 May 2024 22:33:01 +0000</pubDate>
 <pubDate>Mon, 13 May 2024 22:33:01 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://github.com/containers/podman-desktop-extension-ai-lab</link>
 <guid>https://github.com/containers/podman-desktop-extension-ai-lab</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40351971">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 14 May 2024 05:41:46 +0000</pubDate>
 <pubDate>Tue, 14 May 2024 05:41:46 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +112,10 @@
 <link>https://www.hollywoodreporter.com/business/business-news/youtubes-secret-weapon-top-creators-1235894945/</link>
 <guid>https://www.hollywoodreporter.com/business/business-news/youtubes-secret-weapon-top-creators-1235894945/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40341036">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 13 May 2024 08:39:28 +0000</pubDate>
-<pubDate>Mon, 13 May 2024 08:39:28 +0000</pubDate>
 </item>
-
 <item>
 <title>A Pattern Language</title>
 <link>https://patternlanguage.cc/</link>
