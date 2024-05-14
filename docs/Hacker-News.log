@@ -2959,3 +2959,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Heroes of Might and Magic III fan project – VCMI 1.5.0 released](https://vcmi.eu/blog/2024/05/10/vcmi-150-released/)
 append_entries: 5
 Finish: 2024-05-14 12:10:48.241499
+------------------------------------------------------
+Started: 2024-05-14 14:02:09.717712
+Existing_entries: 755
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [References Are Like Jumps](https://without.boats/blog/references-are-like-jumps/)
+append_entries: 3
+Finish: 2024-05-14 14:02:10.562525
