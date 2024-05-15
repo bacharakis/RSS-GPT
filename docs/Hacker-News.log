@@ -3163,3 +3163,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 append_entries: 6
 Finish: 2024-05-15 00:28:36.472011
+------------------------------------------------------
+Started: 2024-05-15 02:24:06.015090
+Existing_entries: 811
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
+append_entries: 1
+Finish: 2024-05-15 02:24:06.324704
