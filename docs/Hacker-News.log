@@ -3265,3 +3265,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Rolling with the punches: How mantis shrimp defend against high-speed strikes](https://news.ucsb.edu/2024/021466/rolling-punches-how-mantis-shrimp-defend-against-high-speed-strikes)
 append_entries: 2
 Finish: 2024-05-15 10:06:41.670886
+------------------------------------------------------
+Started: 2024-05-15 12:11:44.323500
+Existing_entries: 835
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Review: The Variational Principles of Mechanics](https://www.thepsmiths.com/p/review-the-variational-principles)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dell leak details next-gen Windows on Arm chips](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tim Cook is running out of ideas](https://www.businessinsider.com/apple-tim-cook-running-out-of-ideas-iphone-ipad-sales-2024-5)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Boeing Emails Handed over to Congress in January 2020](https://archive.org/details/boeingemailsocr)
+append_entries: 6
+Finish: 2024-05-15 12:11:45.515635

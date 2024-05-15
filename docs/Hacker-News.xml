@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Gaussian Blue Noise</title>
+<link>https://arxiv.org/abs/2206.07798</link>
+<guid>https://arxiv.org/abs/2206.07798</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40365153">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 10:42:03 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 10:42:03 +0000</pubDate>
+</item>
+<item>
+<title>Oracle goes vegan: Dumps Terraform for OpenTofu</title>
+<link>https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/</link>
+<guid>https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40365198">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 10:50:33 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 10:50:33 +0000</pubDate>
+</item>
+<item>
+<title>Review: The Variational Principles of Mechanics</title>
+<link>https://www.thepsmiths.com/p/review-the-variational-principles</link>
+<guid>https://www.thepsmiths.com/p/review-the-variational-principles</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40361439">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 23:45:00 +0000</pubDate>
+<pubDate>Tue, 14 May 2024 23:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Dell leak details next-gen Windows on Arm chips</title>
+<link>https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life</link>
+<guid>https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40365126">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 10:33:09 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 10:33:09 +0000</pubDate>
+</item>
+<item>
+<title>Tim Cook is running out of ideas</title>
+<link>https://www.businessinsider.com/apple-tim-cook-running-out-of-ideas-iphone-ipad-sales-2024-5</link>
+<guid>https://www.businessinsider.com/apple-tim-cook-running-out-of-ideas-iphone-ipad-sales-2024-5</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40365619">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 11:47:15 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 11:47:15 +0000</pubDate>
+</item>
+<item>
+<title>Boeing Emails Handed over to Congress in January 2020</title>
+<link>https://archive.org/details/boeingemailsocr</link>
+<guid>https://archive.org/details/boeingemailsocr</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40365226">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 10:55:46 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 10:55:46 +0000</pubDate>
+</item>
+
+<item>
 <title>Notes on Japan</title>
 <link>https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan</link>
 <guid>https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40363971">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 07:10:38 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 07:10:38 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +85,10 @@
 <link>https://news.ucsb.edu/2024/021466/rolling-punches-how-mantis-shrimp-defend-against-high-speed-strikes</link>
 <guid>https://news.ucsb.edu/2024/021466/rolling-punches-how-mantis-shrimp-defend-against-high-speed-strikes</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40354364">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 12:17:04 +0000</pubDate>
-<pubDate>Tue, 14 May 2024 12:17:04 +0000</pubDate>
 </item>
-
 <item>
 <title>Translation of the Rust's core and alloc crates to Coq for formal verification</title>
 <link>https://formal.land/blog/2024/04/26/translation-core-alloc-crates</link>
