@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>PaliGemma: Open-Source Multimodal Model by Google</title>
+<link>https://blog.roboflow.com/paligemma-multimodal-vision/</link>
+<guid>https://blog.roboflow.com/paligemma-multimodal-vision/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40371237">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 19:24:47 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 19:24:47 +0000</pubDate>
+</item>
+<item>
+<title>Project Gameface Launches on Android</title>
+<link>https://developers.googleblog.com/en/project-gameface-launches-on-android/</link>
+<guid>https://developers.googleblog.com/en/project-gameface-launches-on-android/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40371401">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 19:39:28 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 19:39:28 +0000</pubDate>
+</item>
+<item>
+<title>Google Blog: Android's theft protection features keep your device and data safe</title>
+<link>https://blog.google/products/android/android-theft-protection/</link>
+<guid>https://blog.google/products/android/android-theft-protection/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40369668">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 17:12:05 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 17:12:05 +0000</pubDate>
+</item>
+<item>
+<title>Three of the oldest stars in the universe found circling the Milky Way</title>
+<link>https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514</link>
+<guid>https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40369226">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 16:40:30 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 16:40:30 +0000</pubDate>
+</item>
+<item>
+<title>An Empirical Evaluation of Columnar Storage Formats [pdf]</title>
+<link>https://www.vldb.org/pvldb/vol17/p148-zeng.pdf</link>
+<guid>https://www.vldb.org/pvldb/vol17/p148-zeng.pdf</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40370613">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 18:29:36 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 18:29:36 +0000</pubDate>
+</item>
+<item>
+<title>Jepsen: Datomic Pro 1.0.7075</title>
+<link>https://jepsen.io/analyses/datomic-pro-1.0.7075</link>
+<guid>https://jepsen.io/analyses/datomic-pro-1.0.7075</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40369467">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 16:57:30 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 16:57:30 +0000</pubDate>
+</item>
+<item>
+<title>Stop Using Discord</title>
+<link>https://usemumble.neocities.org/</link>
+<guid>https://usemumble.neocities.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40371595">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 19:55:24 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 19:55:24 +0000</pubDate>
+</item>
+<item>
+<title>Brain biopsies on 'vulnerable' patients at Mt Sinai set off alarm bells at FDA</title>
+<link>https://www.statnews.com/2024/05/01/brain-biopsies-mount-sinai-fda-review/</link>
+<guid>https://www.statnews.com/2024/05/01/brain-biopsies-mount-sinai-fda-review/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40368509">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 15:48:39 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 15:48:39 +0000</pubDate>
+</item>
+
+<item>
 <title>LDAPjs decomissioned by maintainer over hateful email</title>
 <link>https://github.com/ldapjs/node-ldapjs</link>
 <guid>https://github.com/ldapjs/node-ldapjs</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40370190">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 17:53:02 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 17:53:02 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://github.com/reworkd/tarsier</link>
 <guid>https://github.com/reworkd/tarsier</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40369319">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 16:46:15 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 16:46:15 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://www.inboxpurge.com/</link>
 <guid>https://www.inboxpurge.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40367488">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 14:33:32 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 14:33:32 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://www.ashbyhq.com/careers?utm_source=hn&amp;ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a</link>
 <guid>https://www.ashbyhq.com/careers?utm_source=hn&amp;ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40369524">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 17:00:50 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 17:00:50 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://www.dunlap.utoronto.ca/instrumentation/dragonfly/</link>
 <guid>https://www.dunlap.utoronto.ca/instrumentation/dragonfly/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40369021">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 16:24:03 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 16:24:03 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/</link>
 <guid>https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40367331">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 14:22:05 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 14:22:05 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +152,8 @@
 <link>https://www.theverge.com/2024/5/15/24157284/apple-iphone-ios-17-5-update-deleted-photos-voicemails</link>
 <guid>https://www.theverge.com/2024/5/15/24157284/apple-iphone-ios-17-5-update-deleted-photos-voicemails</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40370078">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 17:43:40 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 17:43:40 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +161,8 @@
 <link>https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity</link>
 <guid>https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40369084">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 16:29:47 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 16:29:47 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +170,8 @@
 <link>https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv</link>
 <guid>https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40369258">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 16:42:49 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 16:42:49 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +179,8 @@
 <link>https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages</link>
 <guid>https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40368760">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 16:05:02 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 16:05:02 +0000</pubDate>
 </item>
 <item>
@@ -119,13 +188,10 @@
 <link>https://www.businessinsider.com/swiss-vs-american-parenting-differences-independence-freedom-culture-shock-2024-5</link>
 <guid>https://www.businessinsider.com/swiss-vs-american-parenting-differences-independence-freedom-culture-shock-2024-5</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40368710">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 15 May 2024 16:02:16 +0000</pubDate>
-<pubDate>Wed, 15 May 2024 16:02:16 +0000</pubDate>
 </item>
-
 <item>
 <title>Adobe Photoshop Source Code (2013)</title>
 <link>https://computerhistory.org/blog/adobe-photoshop-source-code/</link>
