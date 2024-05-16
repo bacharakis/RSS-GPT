@@ -3511,3 +3511,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Fast Tokenizers with StringScanner (2023)](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
 append_entries: 1
 Finish: 2024-05-16 04:03:11.147461
+------------------------------------------------------
+Started: 2024-05-16 06:07:09.427901
+Existing_entries: 899
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Things I won't work with: the higher states of bromine](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Swift sucks at web serving or does it?](https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [40% of US lithium needs could come from wastewater](https://www.pitt.edu/pittwire/features-articles/gas-well-wastewater-lithium)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The most Northern railroad in the world](https://gelio.livejournal.com/295171.html)
+append_entries: 5
+Finish: 2024-05-16 06:07:10.806860
