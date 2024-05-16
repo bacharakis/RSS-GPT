@@ -3601,3 +3601,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [My Sony HB-F1XV](https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv)
 append_entries: 6
 Finish: 2024-05-16 12:10:48.030203
+------------------------------------------------------
+Started: 2024-05-16 14:03:05.133577
+Existing_entries: 921
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Elicit: The AI Research Assistant](https://elicit.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Forgotten APL Influences (2016) [pdf]](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: ['Anti-sex' beds have arrived at Paris Olympics](https://nypost.com/2024/05/14/lifestyle/anti-sex-beds-have-arrived-at-paris-olympics-after-horny-athletes-admit-to-orgies/)
+append_entries: 6
+Finish: 2024-05-16 14:03:06.685224
