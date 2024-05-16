@@ -3463,3 +3463,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Bossware is a big legal risk](https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble)
 append_entries: 8
 Finish: 2024-05-15 22:02:25.908363
+------------------------------------------------------
+Started: 2024-05-16 00:27:54.021356
+Existing_entries: 889
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Starting emails with "BEGIN PGP MESSAGE" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Doctor cancer free after novel glioblastoma self-treatment](https://nypost.com/2024/05/15/lifestyle/australian-doctor-richard-scolyer-cancer-free-year-after-terminal-diagnosis/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Qualcomm's Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [It's 2024 and drought is optional](https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [When to Split Patches (For PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Merging Remix and React Router](https://remix.run/blog/merging-remix-and-react-router)
+append_entries: 6
+Finish: 2024-05-16 00:27:55.758760
