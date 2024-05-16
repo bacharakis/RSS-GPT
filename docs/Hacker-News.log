@@ -3502,3 +3502,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Prototypal Inheritance (2008)](https://crockford.com/javascript/prototypal.html)
 append_entries: 3
 Finish: 2024-05-16 02:20:34.369400
+------------------------------------------------------
+Started: 2024-05-16 04:03:10.572273
+Existing_entries: 898
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fast Tokenizers with StringScanner (2023)](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
+append_entries: 1
+Finish: 2024-05-16 04:03:11.147461
