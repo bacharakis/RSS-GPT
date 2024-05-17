@@ -3814,3 +3814,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Introduction to the gfortran array descriptor / dope vector](https://thinkingeek.com/2017/01/14/gfortran-array-descriptor/)
 append_entries: 6
 Finish: 2024-05-17 00:28:44.453252
+------------------------------------------------------
+Started: 2024-05-17 02:20:14.701111
+Existing_entries: 980
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A Transport Protocol's View of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The United States of Avocado](https://tastecooking.com/the-united-states-of-avocado/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [LearnLM models tuned for human learning](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Interactive Visualizations of Rate-Limiting Algorithms](https://smudge.ai/blog/ratelimit-algorithms)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [WD Releases New 6TB 2.5-Inch External Hard Drives – First Upgrade in Seven Years](https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives)
+append_entries: 6
+Finish: 2024-05-17 02:20:16.518106
