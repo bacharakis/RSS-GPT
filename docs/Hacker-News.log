@@ -4075,3 +4075,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Ladders last a long time: Reading Raphael Samuel](https://www.lrb.co.uk/the-paper/v46/n10/florence-sutcliffe-braithwaite/ladders-last-a-long-time)
 append_entries: 9
 Finish: 2024-05-17 18:07:34.219150
+------------------------------------------------------
+Started: 2024-05-17 20:07:20.152417
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Back to the Past: IPv4 Browsing (Egress) Activated via NAT64](https://blog.ipv6.rs/ipv4-activated-via-nat64/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Drivr – VR with real vehicles [video]](https://www.youtube.com/watch?v=Q76X0cnSGHk)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
+append_entries: 5
+Finish: 2024-05-17 20:07:21.136382
