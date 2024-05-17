@@ -5,14 +5,112 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Bend: a high-level language that runs on GPUs (via HVM2)</title>
+<link>https://github.com/HigherOrderCO/Bend</link>
+<guid>https://github.com/HigherOrderCO/Bend</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40390287">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 14:23:44 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 14:23:44 +0000</pubDate>
+</item>
+<item>
+<title>The case against dual axis charts (and what to use instead) (2018)</title>
+<link>https://blog.datawrapper.de/dualaxis/</link>
+<guid>https://blog.datawrapper.de/dualaxis/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40391614">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 16:30:40 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 16:30:40 +0000</pubDate>
+</item>
+<item>
+<title>Meshroom a free and open-source 3D Reconstruction Software</title>
+<link>https://alicevision.org/</link>
+<guid>https://alicevision.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40391743">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 16:43:11 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 16:43:11 +0000</pubDate>
+</item>
+<item>
+<title>Glewbot scales buildings like a gecko to inspect wall tiles</title>
+<link>https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/</link>
+<guid>https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40391627">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 16:31:33 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 16:31:33 +0000</pubDate>
+</item>
+<item>
+<title>Third Time: a better way to work (2022)</title>
+<link>https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work</link>
+<guid>https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40378993">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 16 May 2024 14:35:28 +0000</pubDate>
+<pubDate>Thu, 16 May 2024 14:35:28 +0000</pubDate>
+</item>
+<item>
+<title>Escher's "Balcony" in Lego (2002)</title>
+<link>https://www.andrewlipson.com/escher/balcony.html</link>
+<guid>https://www.andrewlipson.com/escher/balcony.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40353914">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 14 May 2024 11:16:50 +0000</pubDate>
+<pubDate>Tue, 14 May 2024 11:16:50 +0000</pubDate>
+</item>
+<item>
+<title>Questions about molecular plastics recycling</title>
+<link>https://www.plasticstoday.com/advanced-recycling/tough-questions-and-honest-answers-about-molecular-plastics-recycling</link>
+<guid>https://www.plasticstoday.com/advanced-recycling/tough-questions-and-honest-answers-about-molecular-plastics-recycling</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40349491">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 13 May 2024 22:50:32 +0000</pubDate>
+<pubDate>Mon, 13 May 2024 22:50:32 +0000</pubDate>
+</item>
+<item>
+<title>Boilerplate busting in functional languages</title>
+<link>https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/</link>
+<guid>https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40367444">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 14:29:58 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 14:29:58 +0000</pubDate>
+</item>
+<item>
+<title>Ladders last a long time: Reading Raphael Samuel</title>
+<link>https://www.lrb.co.uk/the-paper/v46/n10/florence-sutcliffe-braithwaite/ladders-last-a-long-time</link>
+<guid>https://www.lrb.co.uk/the-paper/v46/n10/florence-sutcliffe-braithwaite/ladders-last-a-long-time</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40389888">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 13:53:11 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 13:53:11 +0000</pubDate>
+</item>
+
+<item>
 <title>How to recover lost Python source code if it's still resident in a running inter</title>
 <link>https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12</link>
 <guid>https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40380197">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 16 May 2024 16:24:03 +0000</pubDate>
 <pubDate>Thu, 16 May 2024 16:24:03 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +118,8 @@
 <link>https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-</link>
 <guid>https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40389267">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 12:43:14 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 12:43:14 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +127,8 @@
 <link>https://arxiv.org/abs/2405.09673</link>
 <guid>https://arxiv.org/abs/2405.09673</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40389421">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 13:00:55 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 13:00:55 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +136,8 @@
 <link>https://www.multicians.org/mepap.html</link>
 <guid>https://www.multicians.org/mepap.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40365064">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 10:24:02 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 10:24:02 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +145,8 @@
 <link>https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/</link>
 <guid>https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40389774">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 13:44:20 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 13:44:20 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +154,8 @@
 <link>https://arxiv.org/abs/2405.07425</link>
 <guid>https://arxiv.org/abs/2405.07425</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40389711">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 13:38:31 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 13:38:31 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +163,8 @@
 <link>https://www.niemanlab.org/2024/05/impossible-to-approach-the-reporting-the-way-i-normally-would-how-rachel-aviv-wrote-that-new-yorker-story-on-lucy-letby/</link>
 <guid>https://www.niemanlab.org/2024/05/impossible-to-approach-the-reporting-the-way-i-normally-would-how-rachel-aviv-wrote-that-new-yorker-story-on-lucy-letby/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40390536">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 14:47:42 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 14:47:42 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +172,8 @@
 <link>https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology</link>
 <guid>https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40391022">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 15:34:31 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 15:34:31 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +181,8 @@
 <link>https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans</link>
 <guid>https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40390820">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 15:15:11 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 15:15:11 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +190,8 @@
 <link>https://www.val.town/v/stevekrouse/staticWordle</link>
 <guid>https://www.val.town/v/stevekrouse/staticWordle</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40389119">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 12:23:13 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 12:23:13 +0000</pubDate>
 </item>
 <item>
@@ -119,13 +199,10 @@
 <link>https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix</link>
 <guid>https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40390731">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 15:06:26 +0000</pubDate>
-<pubDate>Fri, 17 May 2024 15:06:26 +0000</pubDate>
 </item>
-
 <item>
 <title>Toon3D: Seeing Cartoons from a New Perspective</title>
 <link>https://toon3d.studio/</link>
@@ -9026,105 +9103,6 @@
 <a href="https://news.ycombinator.com/item?id=40261001">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 4 May 2024 23:02:30 +0000</pubDate>
-</item>
-<item>
-<title>The business of wallets</title>
-<link>https://www.bitsaboutmoney.com/archive/the-business-of-wallets/</link>
-<guid>https://www.bitsaboutmoney.com/archive/the-business-of-wallets/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40235345">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 2 May 2024 12:24:13 +0000</pubDate>
-</item>
-<item>
-<title>Art and Memory</title>
-<link>https://www.lrb.co.uk/the-paper/v46/n09/julian-barnes/diary</link>
-<guid>https://www.lrb.co.uk/the-paper/v46/n09/julian-barnes/diary</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40253494">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 3 May 2024 23:37:59 +0000</pubDate>
-</item>
-<item>
-<title>Archaeology team discovers a 7k-year-old settlement in Serbia</title>
-<link>https://phys.org/news/2024-04-archaeology-team-year-settlement-serbia.html</link>
-<guid>https://phys.org/news/2024-04-archaeology-team-year-settlement-serbia.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40220691">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 1 May 2024 08:01:14 +0000</pubDate>
-</item>
-<item>
-<title>Was the Stone Age the Wood Age?</title>
-<link>https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html</link>
-<guid>https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40258273">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 4 May 2024 15:15:48 +0000</pubDate>
-</item>
-<item>
-<title>Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature</title>
-<link>https://publicdomainreview.org/essay/richard-owen-and-victorian-literature</link>
-<guid>https://publicdomainreview.org/essay/richard-owen-and-victorian-literature</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40236462">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 2 May 2024 14:04:10 +0000</pubDate>
-</item>
-<item>
-<title>Cathinone and Psilocybin in Cicada Pathogens (2019)</title>
-<link>https://www.sciencedirect.com/science/article/pii/S1754504819300352</link>
-<guid>https://www.sciencedirect.com/science/article/pii/S1754504819300352</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40260936">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 4 May 2024 22:49:21 +0000</pubDate>
-</item>
-<item>
-<title>A Debate about Words</title>
-<link>https://dstrohmaier.com/A-Debatte-about-Words/</link>
-<guid>https://dstrohmaier.com/A-Debatte-about-Words/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40255634">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 4 May 2024 07:19:39 +0000</pubDate>
-</item>
-<item>
-<title>Love to see the night sky on Mars? This is what it would be like to stargaze</title>
-<link>https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars</link>
-<guid>https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40260984">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 4 May 2024 22:59:45 +0000</pubDate>
-</item>
-<item>
-<title>CookingSense: A Culinary Knowledgebase with Multidisciplinary Assertions</title>
-<link>https://arxiv.org/abs/2405.00523</link>
-<guid>https://arxiv.org/abs/2405.00523</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40255649">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 4 May 2024 07:22:46 +0000</pubDate>
-</item>
-<item>
-<title>Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid</title>
-<link>https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid</link>
-<guid>https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40260881">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 4 May 2024 22:39:24 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Dillo 3.1.0 released after 9 years</title>
-<link>https://dillo-browser.github.io/latest.html</link>
-<guid>https://dillo-browser.github.io/latest.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40260035">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 4 May 2024 20:22:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
