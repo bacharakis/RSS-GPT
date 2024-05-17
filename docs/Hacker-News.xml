@@ -5,14 +5,123 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Wuffs: Wrangling Untrusted File Formats Safely</title>
+<link>https://github.com/google/wuffs</link>
+<guid>https://github.com/google/wuffs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40378433">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 16 May 2024 13:48:45 +0000</pubDate>
+<pubDate>Thu, 16 May 2024 13:48:45 +0000</pubDate>
+</item>
+<item>
+<title>Exact binary vector search for RAG in 100 lines of Julia</title>
+<link>https://domluna.com/blog/tiny-binary-rag</link>
+<guid>https://domluna.com/blog/tiny-binary-rag</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40379347">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 16 May 2024 15:09:21 +0000</pubDate>
+<pubDate>Thu, 16 May 2024 15:09:21 +0000</pubDate>
+</item>
+<item>
+<title>Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)</title>
+<link>https://dolphin-emu.org/blog/2017/07/30/ubershaders/</link>
+<guid>https://dolphin-emu.org/blog/2017/07/30/ubershaders/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40379833">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 16 May 2024 15:52:53 +0000</pubDate>
+<pubDate>Thu, 16 May 2024 15:52:53 +0000</pubDate>
+</item>
+<item>
+<title>ILGPU: Write GPU programs with C# and F#</title>
+<link>https://github.com/m4rs-mt/ILGPU</link>
+<guid>https://github.com/m4rs-mt/ILGPU</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40393873">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 20:25:40 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 20:25:40 +0000</pubDate>
+</item>
+<item>
+<title>The Beauty of Concrete</title>
+<link>https://worksinprogress.co/issue/the-beauty-of-concrete/</link>
+<guid>https://worksinprogress.co/issue/the-beauty-of-concrete/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40390751">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 15:09:15 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 15:09:15 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Slice Tap Toy</title>
+<link>https://memalign.github.io/m/slice/index.html</link>
+<guid>https://memalign.github.io/m/slice/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40393005">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 18:43:49 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 18:43:49 +0000</pubDate>
+</item>
+<item>
+<title>Chrome DevTools now uses Gemini to help with JavaScript Errors in the console</title>
+<link>https://developer.chrome.com/docs/devtools/console/understand-messages</link>
+<guid>https://developer.chrome.com/docs/devtools/console/understand-messages</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40393877">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 20:25:47 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 20:25:47 +0000</pubDate>
+</item>
+<item>
+<title>Pacific squid flashes its attack 'headlights'</title>
+<link>https://www.bbc.com/news/science-environment-69016405</link>
+<guid>https://www.bbc.com/news/science-environment-69016405</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40378628">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 16 May 2024 14:04:25 +0000</pubDate>
+<pubDate>Thu, 16 May 2024 14:04:25 +0000</pubDate>
+</item>
+<item>
+<title>The Delta Emulator is changing its logo after Adobe threatened it</title>
+<link>https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app</link>
+<guid>https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40394291">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 21:16:36 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 21:16:36 +0000</pubDate>
+</item>
+<item>
+<title>Reading Early Medicine</title>
+<link>https://readingearlymedicine.org/about/about-the-project/</link>
+<guid>https://readingearlymedicine.org/about/about-the-project/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40371913">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 20:22:07 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 20:22:07 +0000</pubDate>
+</item>
+
+<item>
 <title>Thinking out loud about 2nd-gen email</title>
 <link>https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/</link>
 <guid>https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40392709">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 18:16:14 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 18:16:14 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +129,8 @@
 <link>https://www.useequityval.com/</link>
 <guid>https://www.useequityval.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40392548">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 17:59:22 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 17:59:22 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +138,8 @@
 <link>https://blog.ipv6.rs/ipv4-activated-via-nat64/</link>
 <guid>https://blog.ipv6.rs/ipv4-activated-via-nat64/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40393664">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 19:58:47 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 19:58:47 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +147,8 @@
 <link>https://www.youtube.com/watch?v=Q76X0cnSGHk</link>
 <guid>https://www.youtube.com/watch?v=Q76X0cnSGHk</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40382056">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 16 May 2024 19:19:16 +0000</pubDate>
 <pubDate>Thu, 16 May 2024 19:19:16 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +156,10 @@
 <link>https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/</link>
 <guid>https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40374815">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 16 May 2024 03:03:41 +0000</pubDate>
-<pubDate>Thu, 16 May 2024 03:03:41 +0000</pubDate>
 </item>
-
 <item>
 <title>Bend: a high-level language that runs on GPUs (via HVM2)</title>
 <link>https://github.com/HigherOrderCO/Bend</link>
@@ -9014,51 +9114,6 @@
 <a href="https://news.ycombinator.com/item?id=40261681">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 5 May 2024 01:39:05 +0000</pubDate>
-</item>
-<item>
-<title>SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency</title>
-<link>https://infini-ai-lab.github.io/Sequoia-Page/</link>
-<guid>https://infini-ai-lab.github.io/Sequoia-Page/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40261965">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 03:03:49 +0000</pubDate>
-</item>
-<item>
-<title>Boeing faces 10 more whistleblowers after sudden death of two</title>
-<link>https://www.hindustantimes.com/world-news/us-news/is-boeing-in-big-trouble-worlds-largest-aerospace-firm-faces-10-more-whistleblowers-after-sudden-death-of-two-101714838675908.html</link>
-<guid>https://www.hindustantimes.com/world-news/us-news/is-boeing-in-big-trouble-worlds-largest-aerospace-firm-faces-10-more-whistleblowers-after-sudden-death-of-two-101714838675908.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40262093">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 03:38:59 +0000</pubDate>
-</item>
-<item>
-<title>Understanding Stein's Paradox (2021)</title>
-<link>https://joe-antognini.github.io/machine-learning/steins-paradox</link>
-<guid>https://joe-antognini.github.io/machine-learning/steins-paradox</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40261550">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 01:01:05 +0000</pubDate>
-</item>
-<item>
-<title>Why US renters are taking corporate landlords to court</title>
-<link>https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html</link>
-<guid>https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40261647">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 01:29:53 +0000</pubDate>
-</item>
-<item>
-<title>Moving the largest camera from California lab to Andes mountaintop</title>
-<link>https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/</link>
-<guid>https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40261705">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 01:46:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
