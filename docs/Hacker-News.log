@@ -3892,3 +3892,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [America's dramatic shift from gas power plants to batteries](https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/)
 append_entries: 9
 Finish: 2024-05-17 06:08:56.345497
+------------------------------------------------------
+Started: 2024-05-17 08:08:35.418464
+Existing_entries: 1000
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to fix bugs in 24 hours or less](https://www.dolthub.com/blog/2024-05-15-24-hour-bug-fixes/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Make a game with Hoot for the Lisp Game Jam](https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html)
+append_entries: 3
+Finish: 2024-05-17 08:08:36.449668
