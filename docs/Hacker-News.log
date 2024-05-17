@@ -3907,3 +3907,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Make a game with Hoot for the Lisp Game Jam](https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html)
 append_entries: 3
 Finish: 2024-05-17 08:08:36.449668
+------------------------------------------------------
+Started: 2024-05-17 10:04:30.806021
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [DNA confirms there IS a big cat roaming the British countryside](https://www.discoverwildlife.com/animal-facts/mammals/big-cat-british-countryside)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Finding Mona Lisa in the Game of Life (2020)](https://kevingal.com/blog/mona-lisa-gol.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [But Why a Penguin?](https://daily.jstor.org/but-why-a-penguin/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Welcome to the Parallel Future of Computation](https://hvm-page.pages.dev)
+append_entries: 6
+Finish: 2024-05-17 10:04:32.388501
