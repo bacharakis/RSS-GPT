@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>100 Exercises to Learn Rust</title>
+<link>https://rust-exercises.com/</link>
+<guid>https://rust-exercises.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40385536">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 01:53:13 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 01:53:13 +0000</pubDate>
+</item>
+<item>
+<title>Urban Renewal Ruined Everything</title>
+<link>https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything</link>
+<guid>https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40385710">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 02:21:57 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 02:21:57 +0000</pubDate>
+</item>
+<item>
+<title>Arch Linux RISC-V</title>
+<link>https://archriscv.felixc.at/</link>
+<guid>https://archriscv.felixc.at/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40365433">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 11:25:25 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 11:25:25 +0000</pubDate>
+</item>
+<item>
+<title>Databases for Data Scientist – And why you probably don't need one</title>
+<link>https://josiahparry.com/posts/2024-05-16-databases-for-ds</link>
+<guid>https://josiahparry.com/posts/2024-05-16-databases-for-ds</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40385693">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 02:19:44 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 02:19:44 +0000</pubDate>
+</item>
+<item>
+<title>How the Soviets Revolutionized Wristwatches (2016)</title>
+<link>https://www.collectorsweekly.com/articles/how-the-soviets-revolutionized-wristwatches/</link>
+<guid>https://www.collectorsweekly.com/articles/how-the-soviets-revolutionized-wristwatches/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40365956">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 12:21:21 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 12:21:21 +0000</pubDate>
+</item>
+
+<item>
 <title>Moment: A Family of Open Time-Series Foundation Models</title>
 <link>https://arxiv.org/abs/2402.03885</link>
 <guid>https://arxiv.org/abs/2402.03885</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40385469">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 01:42:09 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 01:42:09 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html</link>
 <guid>https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40384959">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 00:17:02 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 00:17:02 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://tastecooking.com/the-united-states-of-avocado/</link>
 <guid>https://tastecooking.com/the-united-states-of-avocado/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40366279">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 12:54:25 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 12:54:25 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/</link>
 <guid>https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40384234">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 16 May 2024 22:44:58 +0000</pubDate>
 <pubDate>Thu, 16 May 2024 22:44:58 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +101,8 @@
 <link>https://smudge.ai/blog/ratelimit-algorithms</link>
 <guid>https://smudge.ai/blog/ratelimit-algorithms</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40384421">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 16 May 2024 23:07:20 +0000</pubDate>
 <pubDate>Thu, 16 May 2024 23:07:20 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +110,10 @@
 <link>https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives</link>
 <guid>https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40385346">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 01:19:37 +0000</pubDate>
-<pubDate>Fri, 17 May 2024 01:19:37 +0000</pubDate>
 </item>
-
 <item>
 <title>Slack AI Training with Customer Data</title>
 <link>https://slack.com/trust/data-management/privacy-principles?nojsmode=1</link>

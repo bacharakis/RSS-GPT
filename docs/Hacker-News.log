@@ -3838,3 +3838,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [WD Releases New 6TB 2.5-Inch External Hard Drives – First Upgrade in Seven Years](https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives)
 append_entries: 6
 Finish: 2024-05-17 02:20:16.518106
+------------------------------------------------------
+Started: 2024-05-17 04:08:13.655234
+Existing_entries: 986
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [100 Exercises to Learn Rust](https://rust-exercises.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Urban Renewal Ruined Everything](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Arch Linux RISC-V](https://archriscv.felixc.at/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Databases for Data Scientist – And why you probably don't need one](https://josiahparry.com/posts/2024-05-16-databases-for-ds)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How the Soviets Revolutionized Wristwatches (2016)](https://www.collectorsweekly.com/articles/how-the-soviets-revolutionized-wristwatches/)
+append_entries: 5
+Finish: 2024-05-17 04:08:14.902092
