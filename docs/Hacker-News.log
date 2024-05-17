@@ -3931,3 +3931,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Welcome to the Parallel Future of Computation](https://hvm-page.pages.dev)
 append_entries: 6
 Finish: 2024-05-17 10:04:32.388501
+------------------------------------------------------
+Started: 2024-05-17 12:10:08.916594
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Extracting Words from Scanned Books: A Step-by-Step Tutorial with Python, OpenCV](https://github.com/feitgemel/Open-CV/tree/main/Words-Segmentation)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Random Attractors – Found Using Lyapunov Exponents (2001)](https://paulbourke.net/fractals/lyapunov/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [It's official: ADSL works over wet string](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
+append_entries: 4
+Finish: 2024-05-17 12:10:09.892878
