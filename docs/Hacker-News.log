@@ -4330,3 +4330,33 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Zombie 2nd mortgages are coming to life, threatening 1000s of Americans' homes](https://text.npr.org/1197959049)
 append_entries: 11
 Finish: 2024-05-18 18:07:31.509609
+------------------------------------------------------
+Started: 2024-05-18 20:05:37.918904
+Existing_entries: 1011
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [London Webcam](https://londonwebcam.co.uk/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: A Golang CP/M emulator](https://github.com/skx/cpmulator)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Almost a quarter of kids aged 5-7 have smartphones](https://www.bbc.com/news/technology-68838029)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Days since it was DNS](https://dayssince.itwasdns.net/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Frozen human brain tissue was successfully revived for the first time](https://bgr.com/science/frozen-human-brain-tissue-was-successfully-revived-for-the-first-time/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Personality Changes Associated with Organ Transplants](https://www.mdpi.com/2673-3943/5/1/2)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Psychedelics could treat some of the worst chronic pain in the world](https://www.vox.com/future-perfect/2024/5/15/24156372/psychedelics-chronic-pain-cluster-headache-medicine-lsd-psilocybin)
+append_entries: 8
+Finish: 2024-05-18 20:05:39.919720
