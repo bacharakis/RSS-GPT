@@ -5,14 +5,24 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Zoraxy: Open-Source, All in one homelab network routing solution</title>
+<link>https://zoraxy.arozos.com/</link>
+<guid>https://zoraxy.arozos.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40396005">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 02:13:13 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 02:13:13 +0000</pubDate>
+</item>
+
+<item>
 <title>OpenAI departures: Why can’t former employees talk?</title>
 <link>https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release</link>
 <guid>https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40393121">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 18:55:02 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 18:55:02 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://github.com/bytewax/hacking-hacker-news</link>
 <guid>https://github.com/bytewax/hacking-hacker-news</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40379987">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 16 May 2024 16:05:04 +0000</pubDate>
 <pubDate>Thu, 16 May 2024 16:05:04 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +39,10 @@
 <link>https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9</link>
 <guid>https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40394885">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 22:49:55 +0000</pubDate>
-<pubDate>Fri, 17 May 2024 22:49:55 +0000</pubDate>
 </item>
-
 <item>
 <title>Multi AI Agent Systems Using OpenAI's New GPT-4o Model</title>
 <link>https://github.com/metaskills/experts</link>
@@ -9010,33 +9015,6 @@
 <a href="https://news.ycombinator.com/item?id=40263289">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 5 May 2024 09:02:33 +0000</pubDate>
-</item>
-<item>
-<title>Xmake: A modern C/C++ build tool</title>
-<link>https://github.com/xmake-io/xmake</link>
-<guid>https://github.com/xmake-io/xmake</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40262779">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 06:47:40 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: I built a website to share files and messages without any server</title>
-<link>https://neighbor-share.vercel.app/</link>
-<guid>https://neighbor-share.vercel.app/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40263027">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 07:42:13 +0000</pubDate>
-</item>
-<item>
-<title>They Live</title>
-<link>https://en.wikipedia.org/wiki/They_Live</link>
-<guid>https://en.wikipedia.org/wiki/They_Live</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40263100">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 08:04:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
