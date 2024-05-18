@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>OpenAI departures: Why can’t former employees talk?</title>
+<link>https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release</link>
+<guid>https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40393121">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 18:55:02 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 18:55:02 +0000</pubDate>
+</item>
+<item>
+<title>Analyzing Prolific HN Commenters in Real Time</title>
+<link>https://github.com/bytewax/hacking-hacker-news</link>
+<guid>https://github.com/bytewax/hacking-hacker-news</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40379987">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 16 May 2024 16:05:04 +0000</pubDate>
+<pubDate>Thu, 16 May 2024 16:05:04 +0000</pubDate>
+</item>
+<item>
+<title>Wine 9.9 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS</title>
+<link>https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9</link>
+<guid>https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40394885">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 17 May 2024 22:49:55 +0000</pubDate>
+<pubDate>Fri, 17 May 2024 22:49:55 +0000</pubDate>
+</item>
+
+<item>
 <title>Multi AI Agent Systems Using OpenAI's New GPT-4o Model</title>
 <link>https://github.com/metaskills/experts</link>
 <guid>https://github.com/metaskills/experts</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40395107">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 23:25:32 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 23:25:32 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://x.com/KelseyTuoc/status/1791584357184127269</link>
 <guid>https://x.com/KelseyTuoc/status/1791584357184127269</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40394778">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 22:34:51 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 22:34:51 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://www.phocuswire.com/rathi-murthy-expedia-group-cto</link>
 <guid>https://www.phocuswire.com/rathi-murthy-expedia-group-cto</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40394277">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 17 May 2024 21:14:31 +0000</pubDate>
 <pubDate>Fri, 17 May 2024 21:14:31 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html</link>
 <guid>https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40373139">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 15 May 2024 22:23:07 +0000</pubDate>
 <pubDate>Wed, 15 May 2024 22:23:07 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +79,10 @@
 <link>https://a.exozy.me/posts/bad-apple-animated-qr-code/</link>
 <guid>https://a.exozy.me/posts/bad-apple-animated-qr-code/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40377122">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 16 May 2024 11:32:52 +0000</pubDate>
-<pubDate>Thu, 16 May 2024 11:32:52 +0000</pubDate>
 </item>
-
 <item>
 <title>Wuffs: Wrangling Untrusted File Formats Safely</title>
 <link>https://github.com/google/wuffs</link>
@@ -9014,51 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40263100">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 5 May 2024 08:04:38 +0000</pubDate>
-</item>
-<item>
-<title>New scanning electron microscope tech sees magnetic field with 100nm resolution</title>
-<link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812984</link>
-<guid>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812984</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40262643">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 06:05:55 +0000</pubDate>
-</item>
-<item>
-<title>Robert Haas: Hacking on PostgreSQL Is Hard</title>
-<link>http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html</link>
-<guid>http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40234398">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 2 May 2024 09:52:40 +0000</pubDate>
-</item>
-<item>
-<title>Council Bans Apostrophes on Street Signs to Avoid Database Issues</title>
-<link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321</link>
-<guid>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40262883">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 07:07:56 +0000</pubDate>
-</item>
-<item>
-<title>Time-Based CSS Animations</title>
-<link>https://yuanchuan.dev/time-based-css-animations</link>
-<guid>https://yuanchuan.dev/time-based-css-animations</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40262236">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 04:26:10 +0000</pubDate>
-</item>
-<item>
-<title>Emerge (YC W21) is hiring senior engineers to automate dead code deletion</title>
-<link>https://www.emergetools.com/careers</link>
-<guid>https://www.emergetools.com/careers</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40262846">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 07:00:07 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -4153,3 +4153,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
 append_entries: 5
 Finish: 2024-05-18 00:28:21.741640
+------------------------------------------------------
+Started: 2024-05-18 02:20:20.512415
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Analyzing Prolific HN Commenters in Real Time](https://github.com/bytewax/hacking-hacker-news)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Wine 9.9 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)
+append_entries: 3
+Finish: 2024-05-18 02:20:21.614149
