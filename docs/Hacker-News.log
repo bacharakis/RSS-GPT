@@ -4210,3 +4210,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Write Plain Text Files](https://sive.rs/plaintext)
 append_entries: 4
 Finish: 2024-05-18 08:07:09.214654
+------------------------------------------------------
+Started: 2024-05-18 10:02:16.234128
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [DOJ: Man sentenced to 14 years for posession of deepfake CSAM](https://www.justice.gov/opa/pr/recidivist-sex-offender-sentenced-possessing-deepfake-child-sexual-abuse-material)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The New 'Dream Chaser' Spacecraft Prepares to Visit the ISS](https://www.scientificamerican.com/article/the-new-dream-chaser-spacecraft-prepares-to-visit-the-international-space/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [wxHexEditor — a Free Hex Editor / Disk Editor for Huge Files or Devices](http://www.wxhexeditor.org/)
+append_entries: 4
+Finish: 2024-05-18 10:02:17.386420
