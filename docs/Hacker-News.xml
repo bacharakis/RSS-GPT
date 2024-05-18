@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Aggregating all cinema showtimes in Germany with Clojure</title>
+<link>https://tonsky.me/blog/allekinos/</link>
+<guid>https://tonsky.me/blog/allekinos/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40367566">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 15 May 2024 14:40:04 +0000</pubDate>
+<pubDate>Wed, 15 May 2024 14:40:04 +0000</pubDate>
+</item>
+<item>
+<title>Fixing the iterative damping interpolation in video games</title>
+<link>https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html</link>
+<guid>https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40398420">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 12:24:34 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 12:24:34 +0000</pubDate>
+</item>
+<item>
+<title>Working with jumbo/unity builds in C/C++</title>
+<link>https://austinmorlan.com/posts/unity_jumbo_build/</link>
+<guid>https://austinmorlan.com/posts/unity_jumbo_build/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40397834">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 10:30:27 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 10:30:27 +0000</pubDate>
+</item>
+
+<item>
 <title>Six charts help to explain 2024's freakish temperatures</title>
 <link>https://www.economist.com/graphic-detail/2024/05/15/six-charts-help-to-explain-2024s-freakish-temperatures</link>
 <guid>https://www.economist.com/graphic-detail/2024/05/15/six-charts-help-to-explain-2024s-freakish-temperatures</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40397882">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 18 May 2024 10:44:25 +0000</pubDate>
 <pubDate>Sat, 18 May 2024 10:44:25 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +52,10 @@
 <link>https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html</link>
 <guid>https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40398394">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 12:19:25 +0000</pubDate>
-<pubDate>Sat, 18 May 2024 12:19:25 +0000</pubDate>
 </item>
-
 <item>
 <title>NetBSD Bans AI-Generated Code from Commits</title>
 <link>https://www.netbsd.org/developers/commit-guidelines.html</link>
@@ -9008,24 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40249968">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 3 May 2024 17:16:22 +0000</pubDate>
-</item>
-<item>
-<title>Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85</title>
-<link>https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85</link>
-<guid>https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40266382">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 17:07:27 +0000</pubDate>
-</item>
-<item>
-<title>The Runners Who Went So Hard They Were Never the Same</title>
-<link>https://www.outsideonline.com/podcast/overtraining-syndrome-science/</link>
-<guid>https://www.outsideonline.com/podcast/overtraining-syndrome-science/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40265678">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 15:43:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
