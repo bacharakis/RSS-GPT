@@ -4627,3 +4627,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Building a Homelab, Part 4 – Nixification, Kubernetes](https://blog.janissary.xyz/posts/homelab-4)
 append_entries: 6
 Finish: 2024-05-19 14:01:34.178808
+------------------------------------------------------
+Started: 2024-05-19 16:02:55.288014
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Brawshot – Basic temporal denoise for videos in BRAW format](https://github.com/hackyourlife/brawshot)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Radio Caroline turns 60](https://abcnews.go.com/International/radio-caroline-britains-pirate-radio-station-broadcasting-sea/story?id=110204908)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Ambling Mind](https://theconvivialsociety.substack.com/p/the-ambling-mind)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [President of Iran in Helicopter Crash](https://www.bbc.co.uk/news/live/world-middle-east-69035051)
+append_entries: 6
+Finish: 2024-05-19 16:02:56.704196
