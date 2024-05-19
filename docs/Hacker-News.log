@@ -4681,3 +4681,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Russia's glide bombs devastating Ukraine's cities on the cheap](https://www.bbc.com/news/articles/cz5drkr8l1ko)
 append_entries: 8
 Finish: 2024-05-19 18:06:54.100134
+------------------------------------------------------
+Started: 2024-05-19 20:02:59.221383
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Am I too old to create a popular programming language?](https://pldb.io/posts/age.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [First Black astronaut candidate, now 90, reaches space in Blue Origin flight](https://www.theguardian.com/science/article/2024/may/19/ed-dwight-blue-origin-first-black-astronaut-candidate)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What ever happened to Modula-2?](https://www.goto10retro.com/p/what-ever-happened-to-modula-2)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: Video streaming is expensive yet YouTube "seems" to do it for free. How?](https://news.ycombinator.com/item?id=40408515)
+append_entries: 6
+Finish: 2024-05-19 20:03:00.358987
