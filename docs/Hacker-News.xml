@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Michelle's List: Glassdoor but for Landlords and Properties</title>
+<link>https://www.michelleslist.com/</link>
+<guid>https://www.michelleslist.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40403569">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 19 May 2024 01:58:42 +0000</pubDate>
+<pubDate>Sun, 19 May 2024 01:58:42 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Open-source GeForce NOW alternative with Stadia's social features</title>
+<link>https://github.com/netrisdotme/netris</link>
+<guid>https://github.com/netrisdotme/netris</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40403658">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 19 May 2024 02:18:23 +0000</pubDate>
+<pubDate>Sun, 19 May 2024 02:18:23 +0000</pubDate>
+</item>
+<item>
+<title>Mathematicians and the Selection Task</title>
+<link>https://eric.ed.gov/?id=ED489556</link>
+<guid>https://eric.ed.gov/?id=ED489556</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40403715">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 19 May 2024 02:30:20 +0000</pubDate>
+<pubDate>Sun, 19 May 2024 02:30:20 +0000</pubDate>
+</item>
+<item>
+<title>A Hack of Psychotherapy Records Revealed a Nation's Secrets</title>
+<link>https://www.bloomberg.com/news/features/2024-04-22/a-massive-therapy-hack-shows-just-how-unsafe-patients-files-can-be</link>
+<guid>https://www.bloomberg.com/news/features/2024-04-22/a-massive-therapy-hack-shows-just-how-unsafe-patients-files-can-be</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40402585">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 22:21:44 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 22:21:44 +0000</pubDate>
+</item>
+<item>
+<title>Reading list to join AI field from Hugging Face cofounder</title>
+<link>https://thomwolf.io/data/Thom_wolf_reading_list.txt</link>
+<guid>https://thomwolf.io/data/Thom_wolf_reading_list.txt</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40403768">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 19 May 2024 02:39:07 +0000</pubDate>
+<pubDate>Sun, 19 May 2024 02:39:07 +0000</pubDate>
+</item>
+<item>
+<title>Bend a Parallel Language</title>
+<link>https://higherorderco.com</link>
+<guid>https://higherorderco.com</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40396805">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 06:11:55 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 06:11:55 +0000</pubDate>
+</item>
+
+<item>
 <title>How to Exit Vim</title>
 <link>https://github.com/hakluke/how-to-exit-vim/blob/master/README.md</link>
 <guid>https://github.com/hakluke/how-to-exit-vim/blob/master/README.md</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40403115">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 19 May 2024 00:09:55 +0000</pubDate>
 <pubDate>Sun, 19 May 2024 00:09:55 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources</link>
 <guid>https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40403524">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 19 May 2024 01:50:20 +0000</pubDate>
 <pubDate>Sun, 19 May 2024 01:50:20 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://www.navalnews.com/naval-news/2024/05/china-builds-worlds-first-dedicated-drone-carrier/</link>
 <guid>https://www.navalnews.com/naval-news/2024/05/china-builds-worlds-first-dedicated-drone-carrier/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40397015">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 18 May 2024 07:06:10 +0000</pubDate>
 <pubDate>Sat, 18 May 2024 07:06:10 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +103,10 @@
 <link>https://blog.djhaskin.com/blog/common-data-structures-in-common-lisp/</link>
 <guid>https://blog.djhaskin.com/blog/common-data-structures-in-common-lisp/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40402838">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 23:10:31 +0000</pubDate>
-<pubDate>Sat, 18 May 2024 23:10:31 +0000</pubDate>
 </item>
-
 <item>
 <title>Go Browser Package</title>
 <link>https://browser.dineshgowda.com/</link>
@@ -9012,42 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40270219">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 6 May 2024 01:16:26 +0000</pubDate>
-</item>
-<item>
-<title>Increased productivity with a self hosted CRM</title>
-<link>https://growcrm.io/</link>
-<guid>https://growcrm.io/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40270872">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 6 May 2024 03:27:21 +0000</pubDate>
-</item>
-<item>
-<title>Giant Compressed-Air Battery in the Australian Outback</title>
-<link>https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/</link>
-<guid>https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40263711">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 10:28:17 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Supertone Shift – AI powered Real-time voice changer</title>
-<link>https://product.supertone.ai/shift</link>
-<guid>https://product.supertone.ai/shift</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40271706">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 6 May 2024 06:21:41 +0000</pubDate>
-</item>
-<item>
-<title>A High-Level Technical Overview of Homomorphic Encryption</title>
-<link>https://www.jeremykun.com/2024/05/04/fhe-overview/</link>
-<guid>https://www.jeremykun.com/2024/05/04/fhe-overview/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40262626">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 06:02:02 +0000</pubDate>
 </item>
 </channel>
 </rss>
