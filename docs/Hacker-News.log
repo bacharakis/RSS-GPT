@@ -4525,3 +4525,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
 append_entries: 10
 Finish: 2024-05-19 06:07:45.431303
+------------------------------------------------------
+Started: 2024-05-19 08:07:21.276706
+Existing_entries: 1010
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New blood test for stroke combines blood-based biomarkers with a clinical score](https://medicalxpress.com/news/2024-05-blood-combines-based-biomarkers-clinical.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Worklenz: Open-Source, All in one project management tool](https://github.com/Worklenz/worklenz)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Men's Shirts Button on the Right. Why Do Women's Button on the Left?](https://www.smithsonianmag.com/smart-news/mens-shirts-button-on-the-right-why-do-womens-button-on-the-left-180957361/)
+append_entries: 6
+Finish: 2024-05-19 08:07:22.775178
