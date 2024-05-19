@@ -4576,3 +4576,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Getting Materials Out of the Lab](https://worksinprogress.co/issue/getting-materials-out-of-the-lab/)
 append_entries: 7
 Finish: 2024-05-19 10:02:26.442043
+------------------------------------------------------
+Started: 2024-05-19 12:09:21.361126
+Existing_entries: 1007
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Interactive Graph by LLM (GPT-4o)](https://columns.ai/chatgpt)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ex-OpenAI employee reported losing 85% of his family's net worth](https://www.lesswrong.com/posts/kovCotfpTFWFXaxwi/simeon_c-s-shortform)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Chess and 18th Century artificial intelligence (2013)](https://www.bbc.com/news/magazine-21876120)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [I Couldn't Escape Poison Oak. So I Started Eating It](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI Books4 Dataset for training LLMs further](https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/)
+append_entries: 7
+Finish: 2024-05-19 12:09:23.034214
