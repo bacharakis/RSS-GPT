@@ -4651,3 +4651,33 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [President of Iran in Helicopter Crash](https://www.bbc.co.uk/news/live/world-middle-east-69035051)
 append_entries: 6
 Finish: 2024-05-19 16:02:56.704196
+------------------------------------------------------
+Started: 2024-05-19 18:06:52.619563
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Training my own AI to steal artists' styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A Floppy Disk MIDI Boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Bell Language](https://sep.turbifycdn.com/ty/cdn/paulgraham/bellanguage.txt)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sorry, Wrong Number](https://www.roads.org.uk/blog/sorry-wrong-number)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Italy's $12.7B Bridge to Sicily [video]](https://www.youtube.com/watch?v=wt1S46iqBAY)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Microsoft set to unveil its vision for AI PCs](https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Russia's glide bombs devastating Ukraine's cities on the cheap](https://www.bbc.com/news/articles/cz5drkr8l1ko)
+append_entries: 8
+Finish: 2024-05-19 18:06:54.100134
