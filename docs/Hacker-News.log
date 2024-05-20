@@ -4870,3 +4870,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Unicode CLDR Project](https://cldr.unicode.org/)
 append_entries: 3
 Finish: 2024-05-20 10:06:56.145360
+------------------------------------------------------
+Started: 2024-05-20 12:12:30.712777
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Konrad Zuse's Homepage](https://web.archive.org/web/20090214083953/http://user.cs.tu-berlin.de/~zuse/Konrad_Zuse/index.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Linux 6.10 Will Print the Number of Populated Memory Slots at Boot Time](https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [This USB flash drive can only store 8KB of data, but will last you 200 years](https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Overflow in Consistent Hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [4K 1000Hz Monitor Exhibited](https://blurbusters.com/displayweek-2024-news-4k-1000hz-monitor-exhibited-and-new-blur-busters-display-tester/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Eco-brutalism: when angular concrete meets the wonder of nature](https://www.theguardian.com/artanddesign/gallery/2024/may/11/eco-brutalism-when-angular-concrete-meets-the-wonder-of-nature-in-pictures)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI to Pull Scarlet Johansson Soundalike Sky's Voice from ChatGPT](https://www.bloomberg.com/news/articles/2024-05-20/openai-to-pull-johansson-soundalike-sky-s-voice-from-chatgpt)
+append_entries: 9
+Finish: 2024-05-20 12:12:32.604342
