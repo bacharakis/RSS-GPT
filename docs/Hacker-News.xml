@@ -5,53 +5,31 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
-<title>Dieter Rams turns 92 – Stream "Rams" for free May 20 and 21</title>
-<link>https://www.ohyouprettythings.com/rams</link>
-<guid>https://www.ohyouprettythings.com/rams</guid>
+<title>Rethinking Text Resizing on Web</title>
+<link>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</link>
+<guid>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</guid>
 <content:encoded><![CDATA[
 
-<a href="https://news.ycombinator.com/item?id=40418115">Comments</a>
+<a href="https://news.ycombinator.com/item?id=40418591">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 17:54:30 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 17:54:30 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 18:36:53 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 18:36:53 +0000</pubDate>
 </item>
 <item>
-<title>System 1 and System 2 Thinking</title>
-<link>https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking</link>
-<guid>https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking</guid>
+<title>Paying freelancers in equity and dividends</title>
+<link>https://sahillavingia.com/dividends</link>
+<guid>https://sahillavingia.com/dividends</guid>
 <content:encoded><![CDATA[
 
-<a href="https://news.ycombinator.com/item?id=40417850">Comments</a>
+<a href="https://news.ycombinator.com/item?id=40415947">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 17:28:41 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 17:28:41 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 14:35:59 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 14:35:59 +0000</pubDate>
 </item>
 <item>
-<title>GPU Quest: Multi-source graphics cards price comparator</title>
-<link>https://gpu.quest/us</link>
-<guid>https://gpu.quest/us</guid>
-<content:encoded><![CDATA[
-
-<a href="https://news.ycombinator.com/item?id=40417690">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 17:15:15 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 17:15:15 +0000</pubDate>
-</item>
-<item>
-<title>QuestDB (YC S20) Is Hiring a Core Database Engineer</title>
-<link>https://questdb.io/careers/core-database-engineer/</link>
-<guid>https://questdb.io/careers/core-database-engineer/</guid>
-<content:encoded><![CDATA[
-
-<a href="https://news.ycombinator.com/item?id=40417520">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 17:00:25 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 17:00:25 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft announces Copilot Plus PCs with built-in AI hardware</title>
-<link>https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event</link>
-<guid>https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event</guid>
+<title>Introducing Copilot+ PCs</title>
+<link>https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/</link>
+<guid>https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/</guid>
 <content:encoded><![CDATA[
 
 <a href="https://news.ycombinator.com/item?id=40417828">Comments</a>
@@ -60,14 +38,146 @@
 <pubDate>Mon, 20 May 2024 17:27:03 +0000</pubDate>
 </item>
 <item>
+<title>Using Postgres for Everything</title>
+<link>https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/</link>
+<guid>https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40418983">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 19:07:51 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 19:07:51 +0000</pubDate>
+</item>
+<item>
+<title>Migrating Uber's ledger data from DynamoDB to LedgerStore</title>
+<link>https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/</link>
+<guid>https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40413891">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 10:01:36 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 10:01:36 +0000</pubDate>
+</item>
+<item>
+<title>Edited highlights from the evisceration of Craig Wright</title>
+<link>https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0</link>
+<guid>https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40419141">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 19:22:21 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 19:22:21 +0000</pubDate>
+</item>
+<item>
+<title>Lumina's legal threats and my about-face</title>
+<link>https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about</link>
+<guid>https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40417624">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 17:09:28 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 17:09:28 +0000</pubDate>
+</item>
+<item>
+<title>ICC seeks arrest warrants against Sinwar and Netanyahu for war crimes</title>
+<link>https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html</link>
+<guid>https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40414329">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 11:27:34 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 11:27:34 +0000</pubDate>
+</item>
+<item>
+<title>A New Jersey couple survived the Alaskan wilderness on a homestead</title>
+<link>https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead</link>
+<guid>https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40418607">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 18:38:14 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 18:38:14 +0000</pubDate>
+</item>
+<item>
+<title>A promising 3-terminal diode for wireless comm. and optically driven computing</title>
+<link>https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html</link>
+<guid>https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40396347">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 03:55:39 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 03:55:39 +0000</pubDate>
+</item>
+<item>
+<title>Police in Austin, San Francisco skirt facial recognition ban</title>
+<link>https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/</link>
+<guid>https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40417575">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 17:04:59 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 17:04:59 +0000</pubDate>
+</item>
+
+<item>
+<title>Dieter Rams turns 92 – Stream "Rams" for free May 20 and 21</title>
+<link>https://www.ohyouprettythings.com/rams</link>
+<guid>https://www.ohyouprettythings.com/rams</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40418115">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 17:54:30 +0000</pubDate>
+</item>
+<item>
+<title>System 1 and System 2 Thinking</title>
+<link>https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking</link>
+<guid>https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40417850">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 17:28:41 +0000</pubDate>
+</item>
+<item>
+<title>GPU Quest: Multi-source graphics cards price comparator</title>
+<link>https://gpu.quest/us</link>
+<guid>https://gpu.quest/us</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40417690">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 17:15:15 +0000</pubDate>
+</item>
+<item>
+<title>QuestDB (YC S20) Is Hiring a Core Database Engineer</title>
+<link>https://questdb.io/careers/core-database-engineer/</link>
+<guid>https://questdb.io/careers/core-database-engineer/</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40417520">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 17:00:25 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft announces Copilot Plus PCs with built-in AI hardware</title>
+<link>https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event</link>
+<guid>https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40417828">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 17:27:03 +0000</pubDate>
+</item>
+<item>
 <title>26× Faster Inference with Layer-Condensed KV Cache for Large Language Models</title>
 <link>https://arxiv.org/abs/2405.10637</link>
 <guid>https://arxiv.org/abs/2405.10637</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40416657">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 15:33:44 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 15:33:44 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +185,8 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/12361440/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/12361440/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40416661">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 15:33:53 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 15:33:53 +0000</pubDate>
 </item>
 <item>
@@ -86,13 +194,10 @@
 <link>https://www.youtube.com/watch?v=W3I3kAg2J7w</link>
 <guid>https://www.youtube.com/watch?v=W3I3kAg2J7w</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40411274">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 01:43:00 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 01:43:00 +0000</pubDate>
 </item>
-
 <item>
 <title>Modernizing the AntennaPod Code Structure</title>
 <link>https://antennapod.org/blog/2024/05/modernizing-the-code-structure</link>
@@ -9020,78 +9125,6 @@
 <a href="https://news.ycombinator.com/item?id=40291490">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 7 May 2024 21:07:33 +0000</pubDate>
-</item>
-<item>
-<title>The Grateful Dead's Wall of Sound</title>
-<link>https://audioacademy.in/the-grateful-deads-wall-of-sound/</link>
-<guid>https://audioacademy.in/the-grateful-deads-wall-of-sound/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40289323">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 18:06:29 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Convert your Containerfile to a bootable OS</title>
-<link>https://github.com/containers/podman-desktop-extension-bootc</link>
-<guid>https://github.com/containers/podman-desktop-extension-bootc</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40289120">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 17:50:21 +0000</pubDate>
-</item>
-<item>
-<title>Facebook just updated its relationship status with Web Components</title>
-<link>https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components</link>
-<guid>https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40288947">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 17:38:32 +0000</pubDate>
-</item>
-<item>
-<title>ScrapeGraphAI: Web scraping using LLM and direct graph logic</title>
-<link>https://scrapegraph-doc.onrender.com/</link>
-<guid>https://scrapegraph-doc.onrender.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40290596">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 19:41:25 +0000</pubDate>
-</item>
-<item>
-<title>Conical Slicing: A different angle of 3D printing</title>
-<link>https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing</link>
-<guid>https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40273121">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 6 May 2024 10:42:03 +0000</pubDate>
-</item>
-<item>
-<title>YC’s founder-matching service helped medical records AI startup Hona</title>
-<link>https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/</link>
-<guid>https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40259505">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 4 May 2024 18:48:27 +0000</pubDate>
-</item>
-<item>
-<title>Confronting ableism to build a more inclusive web</title>
-<link>https://assistivlabs.com/articles/confronting-ableism-to-build-a-more-inclusive-web</link>
-<guid>https://assistivlabs.com/articles/confronting-ableism-to-build-a-more-inclusive-web</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40287785">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 16:25:40 +0000</pubDate>
-</item>
-<item>
-<title>SecureDrop Protocol</title>
-<link>https://securedrop.org/news/introducing-securedrop-protocol/</link>
-<guid>https://securedrop.org/news/introducing-securedrop-protocol/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40286632">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 15:12:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
