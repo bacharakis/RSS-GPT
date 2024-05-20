@@ -5,14 +5,112 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Enlightenmentware</title>
+<link>https://mmapped.blog/posts/28-enlightenmentware.html</link>
+<guid>https://mmapped.blog/posts/28-enlightenmentware.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40419856">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 20:23:02 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 20:23:02 +0000</pubDate>
+</item>
+<item>
+<title>pg_timeseries: Open-source time-series extension for PostgreSQL</title>
+<link>https://tembo.io/blog/pg-timeseries</link>
+<guid>https://tembo.io/blog/pg-timeseries</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40417347">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 16:44:13 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 16:44:13 +0000</pubDate>
+</item>
+<item>
+<title>How terminal works. Part 1: Xterm, user input</title>
+<link>https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html</link>
+<guid>https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40419325">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 19:37:12 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 19:37:12 +0000</pubDate>
+</item>
+<item>
+<title>Racket v8.13</title>
+<link>https://blog.racket-lang.org/2024/05/racket-v8-13.html</link>
+<guid>https://blog.racket-lang.org/2024/05/racket-v8-13.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40402340">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 18 May 2024 21:40:47 +0000</pubDate>
+<pubDate>Sat, 18 May 2024 21:40:47 +0000</pubDate>
+</item>
+<item>
+<title>Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)</title>
+<link>https://etleap.com/careers/software-engineer-integrations/</link>
+<guid>https://etleap.com/careers/software-engineer-integrations/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40420323">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 21:00:26 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 21:00:26 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: Hacker News-like forum, specific to Game Development?</title>
+<link>https://news.ycombinator.com/item?id=40419289</link>
+<guid>https://news.ycombinator.com/item?id=40419289</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40419289">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 19:34:09 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 19:34:09 +0000</pubDate>
+</item>
+<item>
+<title>AI-Free Products</title>
+<link>https://coryd.dev/posts/2024/ai-free-products/</link>
+<guid>https://coryd.dev/posts/2024/ai-free-products/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40420653">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 21:31:20 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 21:31:20 +0000</pubDate>
+</item>
+<item>
+<title>The parents who are saying no to "extracurriculars"</title>
+<link>https://slate.com/life/2024/05/smartphone-children-youth-sports-activities-overscheduled.html</link>
+<guid>https://slate.com/life/2024/05/smartphone-children-youth-sports-activities-overscheduled.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40420604">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 21:26:24 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 21:26:24 +0000</pubDate>
+</item>
+<item>
+<title>People want 'dumbphones'. Will companies make them?</title>
+<link>https://www.bbc.com/future/article/20240515-the-dumbphones-people-want-are-hard-to-find</link>
+<guid>https://www.bbc.com/future/article/20240515-the-dumbphones-people-want-are-hard-to-find</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40419358">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 19:40:07 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 19:40:07 +0000</pubDate>
+</item>
+
+<item>
 <title>Rethinking Text Resizing on Web</title>
 <link>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</link>
 <guid>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40418591">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 18:36:53 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 18:36:53 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +118,8 @@
 <link>https://sahillavingia.com/dividends</link>
 <guid>https://sahillavingia.com/dividends</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40415947">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 14:35:59 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 14:35:59 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +127,8 @@
 <link>https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/</link>
 <guid>https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40417828">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 17:27:03 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 17:27:03 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +136,8 @@
 <link>https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/</link>
 <guid>https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40418983">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 19:07:51 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 19:07:51 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +145,8 @@
 <link>https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/</link>
 <guid>https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40413891">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 10:01:36 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 10:01:36 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +154,8 @@
 <link>https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0</link>
 <guid>https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40419141">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 19:22:21 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 19:22:21 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +163,8 @@
 <link>https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about</link>
 <guid>https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40417624">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 17:09:28 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 17:09:28 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +172,8 @@
 <link>https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html</link>
 <guid>https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40414329">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 11:27:34 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 11:27:34 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +181,8 @@
 <link>https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead</link>
 <guid>https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40418607">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 20 May 2024 18:38:14 +0000</pubDate>
 <pubDate>Mon, 20 May 2024 18:38:14 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +190,8 @@
 <link>https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html</link>
 <guid>https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40396347">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 18 May 2024 03:55:39 +0000</pubDate>
 <pubDate>Sat, 18 May 2024 03:55:39 +0000</pubDate>
 </item>
 <item>
@@ -119,13 +199,10 @@
 <link>https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/</link>
 <guid>https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40417575">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 17:04:59 +0000</pubDate>
-<pubDate>Mon, 20 May 2024 17:04:59 +0000</pubDate>
 </item>
-
 <item>
 <title>Dieter Rams turns 92 – Stream "Rams" for free May 20 and 21</title>
 <link>https://www.ohyouprettythings.com/rams</link>
@@ -9026,105 +9103,6 @@
 <a href="https://news.ycombinator.com/item?id=40282641">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 7 May 2024 05:27:38 +0000</pubDate>
-</item>
-<item>
-<title>US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei</title>
-<link>https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO</link>
-<guid>https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40293614">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 01:55:53 +0000</pubDate>
-</item>
-<item>
-<title>Arena-based parsers</title>
-<link>https://iliabylich.github.io/arena-based-parsers/</link>
-<guid>https://iliabylich.github.io/arena-based-parsers/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40276112">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 6 May 2024 15:59:11 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Serverless collaborative notion-level note editor using CRDT in GO</title>
-<link>https://github.com/notebox/nbfm</link>
-<guid>https://github.com/notebox/nbfm</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40293974">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 03:09:29 +0000</pubDate>
-</item>
-<item>
-<title>Needle: A DFA Based Regex Library That Compiles to JVM ByteCode</title>
-<link>https://justinblank.com/experiments/needle.html</link>
-<guid>https://justinblank.com/experiments/needle.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40293505">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 01:38:49 +0000</pubDate>
-</item>
-<item>
-<title>Product Roadmap</title>
-<link>https://bsky.social/about/blog/05-07-2024-product-roadmap</link>
-<guid>https://bsky.social/about/blog/05-07-2024-product-roadmap</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40293368">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 01:14:14 +0000</pubDate>
-</item>
-<item>
-<title>Decker: A fantastic reincarnation of HyperCard with 1-bit graphics</title>
-<link>https://www.beyondloom.com/decker/index.html</link>
-<guid>https://www.beyondloom.com/decker/index.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40292181">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 22:15:05 +0000</pubDate>
-</item>
-<item>
-<title>IBM Granite: A Family of Open Foundation Models for Code Intelligence</title>
-<link>https://github.com/ibm-granite/granite-code-models</link>
-<guid>https://github.com/ibm-granite/granite-code-models</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40291598">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 21:16:36 +0000</pubDate>
-</item>
-<item>
-<title>PDEP-13: The Pandas Logical Type System</title>
-<link>https://github.com/pandas-dev/pandas/blob/8a246978e9812a2448f43d0df24a82d51e850d53/web/pandas/pdeps/0013-logical-type-system.md</link>
-<guid>https://github.com/pandas-dev/pandas/blob/8a246978e9812a2448f43d0df24a82d51e850d53/web/pandas/pdeps/0013-logical-type-system.md</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40262837">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 06:58:41 +0000</pubDate>
-</item>
-<item>
-<title>Unix forking the universe by running IBM's free online quantum computer</title>
-<link>https://parel.es/blog/quantum-dice</link>
-<guid>https://parel.es/blog/quantum-dice</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40292452">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 22:52:07 +0000</pubDate>
-</item>
-<item>
-<title>Qt and C++ Trivial Relocation (Part 1)</title>
-<link>https://www.kdab.com/qt-and-trivial-relocation-part-1/</link>
-<guid>https://www.kdab.com/qt-and-trivial-relocation-part-1/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40292047">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 22:01:12 +0000</pubDate>
-</item>
-<item>
-<title>Jolie, the service-oriented programming language</title>
-<link>https://www.jolie-lang.org/index.html</link>
-<guid>https://www.jolie-lang.org/index.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40291490">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 21:07:33 +0000</pubDate>
 </item>
 </channel>
 </rss>
