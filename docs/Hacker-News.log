@@ -4801,3 +4801,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Puzzle made by the WikiLeaks founder Julian Assange for the university quest](https://wondrousnet.blogspot.com/2023/05/solution-to-puzzle-sleuth.html)
 append_entries: 9
 Finish: 2024-05-20 02:23:10.842548
+------------------------------------------------------
+Started: 2024-05-20 04:07:38.357558
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why Fact Checking of Claims About Nuclear Power Projects Is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Myth of Medieval Small Beer (2017)](https://www.ianvisits.co.uk/articles/the-myth-of-medieval-small-beer-19763/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tutorial: Metacompilers Part 1 (2016)](http://www.bayfronttechnologies.com/mc_tutorial.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Devon: An open-source pair programmer](https://github.com/entropy-research/Devon)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to read a book: 10 rules from a reviewer](https://www.washingtonpost.com/books/2024/05/18/how-to-read-book-dirda/)
+append_entries: 6
+Finish: 2024-05-20 04:07:39.517293
