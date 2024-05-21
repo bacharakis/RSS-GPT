@@ -5161,3 +5161,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 append_entries: 1
 Finish: 2024-05-21 06:09:13.194865
+------------------------------------------------------
+Started: 2024-05-21 08:08:45.031374
+Existing_entries: 1001
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How Might We Learn?](https://andymatuschak.org/hmwl/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Taking Risk – Startups in UK vs. US](https://tomblomfield.com/post/750852175114174464/taking-risk)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
+append_entries: 5
+Finish: 2024-05-21 08:08:46.654195
