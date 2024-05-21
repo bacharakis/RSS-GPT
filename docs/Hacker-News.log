@@ -5053,3 +5053,42 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [People want 'dumbphones'. Will companies make them?](https://www.bbc.com/future/article/20240515-the-dumbphones-people-want-are-hard-to-find)
 append_entries: 9
 Finish: 2024-05-20 22:01:42.130045
+------------------------------------------------------
+Started: 2024-05-21 00:29:00.666529
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [SpaceX has grown to 87% of the tonnage to orbit](https://twitter.com/FutureJurvetson/status/1792672666316665198)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Apple's Photo Bug Exposes the Myth of 'Deleted'](https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Thorium: Cross-platform patched Chromium fork](https://github.com/Alex313031/thorium)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Statement from Scarlett Johansson on the OpenAI "Sky" voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Colorless green DNNs sleep furiously in an unexplainable fantasy](https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [City in a Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Geoffrey Hinton "godfather of AI" says that AI will surpass human intelligence](https://twitter.com/BBCNewsnight/status/1791587541721780400)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Enthusiast gets Windows XP running on an i486](https://www.tomshardware.com/software/windows/enthusiast-gets-windows-xp-running-on-an-i486)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [California residents: call your legislators about AI bill SB 1047](https://twitter.com/chrislengerich/status/1792659555920326993)
+append_entries: 11
+Finish: 2024-05-21 00:29:02.736417
