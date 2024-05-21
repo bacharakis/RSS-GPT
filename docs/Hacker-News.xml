@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>What UI density means and how to design for it</title>
+<link>https://matthewstrom.com/writing/ui-density/</link>
+<guid>https://matthewstrom.com/writing/ui-density/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40428386">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 13:41:39 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 13:41:39 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: I built a game to help you learn neural network architectures</title>
+<link>https://graphgame.sabrina.dev/</link>
+<guid>https://graphgame.sabrina.dev/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40429200">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 14:47:42 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 14:47:42 +0000</pubDate>
+</item>
+<item>
+<title>CADmium: A Local-First CAD Program Built for the Browser</title>
+<link>https://mattferraro.dev/posts/cadmium</link>
+<guid>https://mattferraro.dev/posts/cadmium</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40428827">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 14:19:56 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 14:19:56 +0000</pubDate>
+</item>
+<item>
+<title>Images that Sound: Generating spectrograms that are also images</title>
+<link>https://ificl.github.io/images-that-sound/</link>
+<guid>https://ificl.github.io/images-that-sound/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40426890">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 11:21:35 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 11:21:35 +0000</pubDate>
+</item>
+<item>
+<title>How Shadow Banning Can Silently Shift Opinion Online</title>
+<link>https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online</link>
+<guid>https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40429275">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 14:54:57 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 14:54:57 +0000</pubDate>
+</item>
+<item>
+<title>Mapping the Mind of a Large Language Model</title>
+<link>https://www.anthropic.com/research/mapping-mind-language-model</link>
+<guid>https://www.anthropic.com/research/mapping-mind-language-model</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40429326">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 14:58:34 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 14:58:34 +0000</pubDate>
+</item>
+<item>
+<title>Rare things become common at scale</title>
+<link>https://longform.asmartbear.com/scale-rare/</link>
+<guid>https://longform.asmartbear.com/scale-rare/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40427851">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 12:55:00 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 12:55:00 +0000</pubDate>
+</item>
+<item>
+<title>Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370</title>
+<link>https://www.nature.com/articles/s41598-024-60529-1</link>
+<guid>https://www.nature.com/articles/s41598-024-60529-1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40429420">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 15:05:53 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 15:05:53 +0000</pubDate>
+</item>
+
+<item>
 <title>40-Year old BASICA utility code for teaching</title>
 <link>https://github.com/norton120/educator-tools-87</link>
 <guid>https://github.com/norton120/educator-tools-87</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40427973">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 13:05:08 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 13:05:08 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://github.com/ImageOptim/gifski</link>
 <guid>https://github.com/ImageOptim/gifski</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40426442">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 10:16:06 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 10:16:06 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://braindump.me/blog-posts/building-an-ai-game-studio</link>
 <guid>https://braindump.me/blog-posts/building-an-ai-game-studio</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40426382">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 10:05:56 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 10:05:56 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/</link>
 <guid>https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40428419">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 13:44:08 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 13:44:08 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://github.com/dtonon/oracolo</link>
 <guid>https://github.com/dtonon/oracolo</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40426099">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 09:31:24 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 09:31:24 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://stratechery.com/2024/windows-returns/</link>
 <guid>https://stratechery.com/2024/windows-returns/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40426406">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 10:10:10 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 10:10:10 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +152,8 @@
 <link>https://phys.org/news/2024-05-devastating-years-moment-life-war.html</link>
 <guid>https://phys.org/news/2024-05-devastating-years-moment-life-war.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40396373">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 18 May 2024 04:03:48 +0000</pubDate>
 <pubDate>Sat, 18 May 2024 04:03:48 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +161,8 @@
 <link>https://www.youtube.com/watch?v=E-F2QQuZZGk</link>
 <guid>https://www.youtube.com/watch?v=E-F2QQuZZGk</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40426894">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 11:22:00 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 11:22:00 +0000</pubDate>
 </item>
 <item>
@@ -97,13 +170,10 @@
 <link>https://www.quantamagazine.org/ai-needs-enormous-computing-power-could-light-based-chips-help-20240520/</link>
 <guid>https://www.quantamagazine.org/ai-needs-enormous-computing-power-could-light-based-chips-help-20240520/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40425504">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 21 May 2024 08:20:02 +0000</pubDate>
-<pubDate>Tue, 21 May 2024 08:20:02 +0000</pubDate>
 </item>
-
 <item>
 <title>Google announces Firebase Genkit with Ollama support</title>
 <link>https://ollama.com/blog/firebase-genkit</link>
@@ -9022,87 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40302683">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 8 May 2024 21:03:04 +0000</pubDate>
-</item>
-<item>
-<title>English learners can now practice speaking on Google Search</title>
-<link>https://research.google/blog/english-learners-can-now-practice-speaking-on-search/</link>
-<guid>https://research.google/blog/english-learners-can-now-practice-speaking-on-search/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40302731">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 21:09:20 +0000</pubDate>
-</item>
-<item>
-<title>Surprised to see that the standard CO2 level on the space station is 4000 ppm</title>
-<link>https://twitter.com/ID_AA_Carmack/status/1788218953958858985</link>
-<guid>https://twitter.com/ID_AA_Carmack/status/1788218953958858985</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40302673">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 21:01:31 +0000</pubDate>
-</item>
-<item>
-<title>Empirical Health (YC S23) is hiring engineering leads in NYC</title>
-<link>https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead</link>
-<guid>https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40302665">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 21:00:26 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI: Model Spec</title>
-<link>https://openai.com/index/introducing-the-model-spec</link>
-<guid>https://openai.com/index/introducing-the-model-spec</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40300482">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 17:11:18 +0000</pubDate>
-</item>
-<item>
-<title>Industrial Design Student Work: "How Long Should Objects Last?"</title>
-<link>https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last</link>
-<guid>https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40283954">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 10:10:33 +0000</pubDate>
-</item>
-<item>
-<title>Test and learn how DMARC, SPF and DKIM work</title>
-<link>https://www.dmarctester.com/</link>
-<guid>https://www.dmarctester.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40302728">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 21:09:10 +0000</pubDate>
-</item>
-<item>
-<title>A Scientific Run-Down of Coffee Blooming</title>
-<link>https://www.seriouseats.com/perfect-coffee-bubbles-signs-sounds-6824133</link>
-<guid>https://www.seriouseats.com/perfect-coffee-bubbles-signs-sounds-6824133</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40302724">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 21:08:32 +0000</pubDate>
-</item>
-<item>
-<title>Microscopic heart vessels imaged in super-resolution for first time</title>
-<link>https://www.imperial.ac.uk/news/253118/microscopic-heart-vessels-imaged-superresolution-first/</link>
-<guid>https://www.imperial.ac.uk/news/253118/microscopic-heart-vessels-imaged-superresolution-first/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40302552">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 20:44:15 +0000</pubDate>
-</item>
-<item>
-<title>Stack Overflow upset over users deleting answers after OpenAI partnership</title>
-<link>https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/</link>
-<guid>https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40302792">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 21:16:53 +0000</pubDate>
 </item>
 </channel>
 </rss>
