@@ -5152,3 +5152,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [I Love Laravel (2022)](https://ben.page/laravel)
 append_entries: 8
 Finish: 2024-05-21 04:07:45.609885
+------------------------------------------------------
+Started: 2024-05-21 06:09:12.623527
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
+append_entries: 1
+Finish: 2024-05-21 06:09:13.194865
