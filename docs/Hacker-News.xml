@@ -5,14 +5,145 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Try Clojure</title>
+<link>https://tryclojure.org/</link>
+<guid>https://tryclojure.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40444121">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 18:11:34 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 18:11:34 +0000</pubDate>
+</item>
+<item>
+<title>Bluesky Adds Direct Messages</title>
+<link>https://bsky.social/about/blog/05-22-2024-direct-messages</link>
+<guid>https://bsky.social/about/blog/05-22-2024-direct-messages</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40444778">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 18:59:44 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 18:59:44 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)</title>
+<link>https://github.com/onecodex/rust-bfield</link>
+<guid>https://github.com/onecodex/rust-bfield</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40443920">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 17:53:16 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 17:53:16 +0000</pubDate>
+</item>
+<item>
+<title>Carmakers Will Give Your Location to Police Without a Warrant, Senators Say</title>
+<link>https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say</link>
+<guid>https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40445093">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 19:21:53 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 19:21:53 +0000</pubDate>
+</item>
+<item>
+<title>Systematically Improving Your RAG</title>
+<link>https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/</link>
+<guid>https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40443558">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 17:22:27 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 17:22:27 +0000</pubDate>
+</item>
+<item>
+<title>Emacs used as a message router in Germany's ATC systems in the 1990s (2021)</title>
+<link>https://www.emacswiki.org/emacs/EmacsStories</link>
+<guid>https://www.emacswiki.org/emacs/EmacsStories</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40426453">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 10:18:00 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 10:18:00 +0000</pubDate>
+</item>
+<item>
+<title>Windows Recall sounds like a privacy nightmare</title>
+<link>https://www.techradar.com/computing/computing-security/windows-recall-sounds-like-a-privacy-nightmare-heres-why-im-worried</link>
+<guid>https://www.techradar.com/computing/computing-security/windows-recall-sounds-like-a-privacy-nightmare-heres-why-im-worried</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40443682">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 17:33:21 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 17:33:21 +0000</pubDate>
+</item>
+<item>
+<title>Why Not Just Do Simple C++ RAII in C?</title>
+<link>https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it</link>
+<guid>https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40440841">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 13:38:51 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 13:38:51 +0000</pubDate>
+</item>
+<item>
+<title>The Gilded Gallows of Georg Honauer (1597)</title>
+<link>https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/</link>
+<guid>https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40424408">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 05:14:09 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 05:14:09 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft Paint's New AI Image Generator Builds on Your Brushstrokes</title>
+<link>https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/</link>
+<guid>https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40439654">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 11:23:20 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 11:23:20 +0000</pubDate>
+</item>
+<item>
+<title>One-third of Amazon warehouse workers are on food stamps or Medicaid</title>
+<link>https://twitter.com/DanPriceSeattle/status/1791299631558823954</link>
+<guid>https://twitter.com/DanPriceSeattle/status/1791299631558823954</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40443907">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 17:52:21 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 17:52:21 +0000</pubDate>
+</item>
+<item>
+<title>WebAssembly: A promising technology that is quietly being enshitified</title>
+<link>https://kerkour.com/webassembly-wasi-preview2</link>
+<guid>https://kerkour.com/webassembly-wasi-preview2</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40439681">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 11:26:48 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 11:26:48 +0000</pubDate>
+</item>
+
+<item>
 <title>Pluckable Strings</title>
 <link>https://string.spiel.com/</link>
 <guid>https://string.spiel.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40442595">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 16:05:06 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 16:05:06 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +151,8 @@
 <link>https://github.com/nucleuscloud/neosync</link>
 <guid>https://github.com/nucleuscloud/neosync</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40443927">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:53:45 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 17:53:45 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +160,8 @@
 <link>https://textualvariations.substack.com/p/fury-fx-furiosa</link>
 <guid>https://textualvariations.substack.com/p/fury-fx-furiosa</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40442587">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 16:04:37 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 16:04:37 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +169,8 @@
 <link>https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/</link>
 <guid>https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40440086">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 12:21:23 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 12:21:23 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +178,8 @@
 <link>https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24</link>
 <guid>https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40443276">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:00:03 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 17:00:03 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +187,8 @@
 <link>https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger</link>
 <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40443302">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:01:40 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 17:01:40 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +196,8 @@
 <link>https://github.com/srush/Tensor-Puzzles</link>
 <guid>https://github.com/srush/Tensor-Puzzles</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40440971">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 13:48:09 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 13:48:09 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +205,8 @@
 <link>https://finance.yahoo.com/news/tesla-sales-europe-fall-15-083601211.html</link>
 <guid>https://finance.yahoo.com/news/tesla-sales-europe-fall-15-083601211.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40443693">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:34:20 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 17:34:20 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +214,8 @@
 <link>https://devblogs.microsoft.com/oldnewthing/20190301-00/?p=101076</link>
 <guid>https://devblogs.microsoft.com/oldnewthing/20190301-00/?p=101076</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40435076">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 22:53:32 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 22:53:32 +0000</pubDate>
 </item>
 <item>
@@ -108,13 +223,10 @@
 <link>https://pldb.io/posts/ageAtCreation.html</link>
 <guid>https://pldb.io/posts/ageAtCreation.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40425394">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 21 May 2024 08:05:13 +0000</pubDate>
-<pubDate>Tue, 21 May 2024 08:05:13 +0000</pubDate>
 </item>
-
 <item>
 <title>Show HN: PBT – A property-based testing library for Ruby</title>
 <link>https://github.com/ohbarye/pbt</link>
@@ -9024,96 +9136,6 @@
 <a href="https://news.ycombinator.com/item?id=40316121">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 10 May 2024 07:00:38 +0000</pubDate>
-</item>
-<item>
-<title>Apple apologizes for iPad 'Crush' ad that 'missed the mark'</title>
-<link>https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology</link>
-<guid>https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40313733">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 9 May 2024 22:50:05 +0000</pubDate>
-</item>
-<item>
-<title>Radient – vectorize many data types, not just text</title>
-<link>https://github.com/fzliu/radient</link>
-<guid>https://github.com/fzliu/radient</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40294808">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 06:03:18 +0000</pubDate>
-</item>
-<item>
-<title>The poetic science of how cicadas sing</title>
-<link>https://www.themarginalian.org/2024/05/05/cicadas/</link>
-<guid>https://www.themarginalian.org/2024/05/05/cicadas/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40278459">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 6 May 2024 19:19:12 +0000</pubDate>
-</item>
-<item>
-<title>Selling 'Ghost in the Shell'</title>
-<link>https://animationobsessive.substack.com/p/selling-ghost-in-the-shell</link>
-<guid>https://animationobsessive.substack.com/p/selling-ghost-in-the-shell</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40275328">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 6 May 2024 14:48:02 +0000</pubDate>
-</item>
-<item>
-<title>In-Car Hydration and Urination Systems for Race Car Drivers</title>
-<link>https://www.core77.com/posts/132061/In-Car-Hydration-and-Urination-Systems-for-Race-Car-Drivers</link>
-<guid>https://www.core77.com/posts/132061/In-Car-Hydration-and-Urination-Systems-for-Race-Car-Drivers</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40265413">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 15:05:05 +0000</pubDate>
-</item>
-<item>
-<title>Boeing whistleblower says he was pressured to hide defects</title>
-<link>https://thehill.com/business/4652759-boeing-whistleblower-says-he-was-pressured-to-hide-defects/</link>
-<guid>https://thehill.com/business/4652759-boeing-whistleblower-says-he-was-pressured-to-hide-defects/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40315860">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 06:05:40 +0000</pubDate>
-</item>
-<item>
-<title>The most backdoor-looking bug I've ever seen (2021)</title>
-<link>https://words.filippo.io/dispatches/telegram-ecdh/</link>
-<guid>https://words.filippo.io/dispatches/telegram-ecdh/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40315274">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 03:33:11 +0000</pubDate>
-</item>
-<item>
-<title>Player-Driven Emergence in LLM-Driven Game Narrative</title>
-<link>https://arxiv.org/abs/2404.17027</link>
-<guid>https://arxiv.org/abs/2404.17027</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40315434">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 04:05:29 +0000</pubDate>
-</item>
-<item>
-<title>Object oriented design patterns in the Linux kernel</title>
-<link>https://lwn.net/Articles/444910/</link>
-<guid>https://lwn.net/Articles/444910/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40315400">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 03:58:42 +0000</pubDate>
-</item>
-<item>
-<title>Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis</title>
-<link>https://arxiv.org/abs/2405.00738</link>
-<guid>https://arxiv.org/abs/2405.00738</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40315022">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 02:46:11 +0000</pubDate>
 </item>
 </channel>
 </rss>
