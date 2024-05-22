@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>How I Made Google's "Web" View My Default Search</title>
+<link>https://tedium.co/2024/05/17/google-web-search-make-default/</link>
+<guid>https://tedium.co/2024/05/17/google-web-search-make-default/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40414943">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 20 May 2024 12:53:27 +0000</pubDate>
+<pubDate>Mon, 20 May 2024 12:53:27 +0000</pubDate>
+</item>
+<item>
+<title>A transport protocol's view of Starlink</title>
+<link>https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/</link>
+<guid>https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40437609">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 05:25:04 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 05:25:04 +0000</pubDate>
+</item>
+<item>
+<title>Alacritty – A fast, cross-platform, OpenGL terminal emulator</title>
+<link>https://github.com/alacritty/alacritty</link>
+<guid>https://github.com/alacritty/alacritty</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40437535">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 05:09:20 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 05:09:20 +0000</pubDate>
+</item>
+<item>
+<title>Emory Awards, Then Suspends Students Behind Study-Aide App</title>
+<link>https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app</link>
+<guid>https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40437506">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 05:03:00 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 05:03:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Unprecedented flooding in Brazil leaves hundreds of thousands displaced</title>
 <link>https://www.msf.org/unprecedented-flooding-brazil-leaves-millions-affected-and-hundreds-thousands-displaced</link>
 <guid>https://www.msf.org/unprecedented-flooding-brazil-leaves-millions-affected-and-hundreds-thousands-displaced</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40437435">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 04:47:31 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 04:47:31 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/</link>
 <guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40437379">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 04:36:11 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 04:36:11 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://www.undeadly.org/cgi?action=article;sid=20240522045252</link>
 <guid>https://www.undeadly.org/cgi?action=article;sid=20240522045252</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40437464">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 04:53:21 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 04:53:21 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +81,10 @@
 <link>https://github.com/jdrbc/podly_pure_podcasts</link>
 <guid>https://github.com/jdrbc/podly_pure_podcasts</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40435786">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 00:01:54 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 00:01:54 +0000</pubDate>
 </item>
-
 <item>
 <title>Scandal at America's top science fair</title>
 <link>https://www.karlstack.com/p/exclusive-scandal-at-americas-top</link>
@@ -9012,42 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40312434">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 9 May 2024 20:07:30 +0000</pubDate>
-</item>
-<item>
-<title>Cubic millimetre of brain mapped in spectacular detail</title>
-<link>https://www.nature.com/articles/d41586-024-01387-9</link>
-<guid>https://www.nature.com/articles/d41586-024-01387-9</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40313193">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 9 May 2024 21:36:06 +0000</pubDate>
-</item>
-<item>
-<title>It's always TCP_NODELAY</title>
-<link>https://brooker.co.za/blog/2024/05/09/nagle.html</link>
-<guid>https://brooker.co.za/blog/2024/05/09/nagle.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40310896">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 9 May 2024 17:54:49 +0000</pubDate>
-</item>
-<item>
-<title>Logarithmic Scales</title>
-<link>https://briefer.cloud/blog/posts/logarithms/</link>
-<guid>https://briefer.cloud/blog/posts/logarithms/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40296734">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 11:25:49 +0000</pubDate>
-</item>
-<item>
-<title>NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months</title>
-<link>https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831</link>
-<guid>https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40311982">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 9 May 2024 19:22:25 +0000</pubDate>
 </item>
 </channel>
 </rss>
