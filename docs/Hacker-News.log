@@ -5689,3 +5689,42 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [WebAssembly: A promising technology that is quietly being enshitified](https://kerkour.com/webassembly-wasi-preview2)
 append_entries: 12
 Finish: 2024-05-22 20:07:04.329895
+------------------------------------------------------
+Started: 2024-05-22 22:02:45.628351
+Existing_entries: 1012
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nvidia revenue up 262%, thanks to the AI boom](https://breakingthenews.net/Article/Nvidia%27s-Q1-revenue-up-262-to-dollar26.0B-beating-estimates/62096450)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Route your prompts to the best LLM](https://unify.ai/chat?default=true)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Orthodox C++](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Simple and fast resume document generation with AI](https://cvgist.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Numeric Tower Fiasco](https://mmapped.blog/posts/23-numeric-tower-fiasco.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Safe Terminal Escape Codes](https://www.arp242.net/safeterm.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dynamic loading of real-time content at Figma](https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [S3 Is Showing Its Age](https://materializedview.io/p/s3-is-showing-its-age)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fentanyl is fueling a record number of youth drug deaths](https://www.washingtonpost.com/dc-md-va/2024/05/22/fentanyl-youth-overdoses-increase/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [BreadboardOS firmware for the Raspberry Pi RP2040 features a Linux-like terminal](https://www.cnx-software.com/2024/05/21/breadboardos-firmware-for-the-raspberry-pi-rp2040-features-a-linux-like-terminal/)
+append_entries: 11
+Finish: 2024-05-22 22:02:48.413214

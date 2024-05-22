@@ -5,14 +5,134 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Cortile – Linux auto tiling manager with hot corner support</title>
+<link>https://github.com/leukipp/cortile</link>
+<guid>https://github.com/leukipp/cortile</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40446433">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 20:56:20 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 20:56:20 +0000</pubDate>
+</item>
+<item>
+<title>Nvidia revenue up 262%, thanks to the AI boom</title>
+<link>https://breakingthenews.net/Article/Nvidia%27s-Q1-revenue-up-262-to-dollar26.0B-beating-estimates/62096450</link>
+<guid>https://breakingthenews.net/Article/Nvidia%27s-Q1-revenue-up-262-to-dollar26.0B-beating-estimates/62096450</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40446100">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 20:32:34 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 20:32:34 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Route your prompts to the best LLM</title>
+<link>https://unify.ai/chat?default=true</link>
+<guid>https://unify.ai/chat?default=true</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40441945">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 15:07:20 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 15:07:20 +0000</pubDate>
+</item>
+<item>
+<title>Orthodox C++</title>
+<link>https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b</link>
+<guid>https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40445536">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 19:52:09 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 19:52:09 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Simple and fast resume document generation with AI</title>
+<link>https://cvgist.com/</link>
+<guid>https://cvgist.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40444926">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 19:11:15 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 19:11:15 +0000</pubDate>
+</item>
+<item>
+<title>The Numeric Tower Fiasco</title>
+<link>https://mmapped.blog/posts/23-numeric-tower-fiasco.html</link>
+<guid>https://mmapped.blog/posts/23-numeric-tower-fiasco.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40425161">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 07:21:25 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 07:21:25 +0000</pubDate>
+</item>
+<item>
+<title>Safe Terminal Escape Codes</title>
+<link>https://www.arp242.net/safeterm.html</link>
+<guid>https://www.arp242.net/safeterm.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40444392">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 18:31:18 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 18:31:18 +0000</pubDate>
+</item>
+<item>
+<title>Dynamic loading of real-time content at Figma</title>
+<link>https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/</link>
+<guid>https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40445746">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 20:07:57 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 20:07:57 +0000</pubDate>
+</item>
+<item>
+<title>S3 Is Showing Its Age</title>
+<link>https://materializedview.io/p/s3-is-showing-its-age</link>
+<guid>https://materializedview.io/p/s3-is-showing-its-age</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40444267">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 18:23:17 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 18:23:17 +0000</pubDate>
+</item>
+<item>
+<title>Fentanyl is fueling a record number of youth drug deaths</title>
+<link>https://www.washingtonpost.com/dc-md-va/2024/05/22/fentanyl-youth-overdoses-increase/</link>
+<guid>https://www.washingtonpost.com/dc-md-va/2024/05/22/fentanyl-youth-overdoses-increase/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40446941">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 21:38:09 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 21:38:09 +0000</pubDate>
+</item>
+<item>
+<title>BreadboardOS firmware for the Raspberry Pi RP2040 features a Linux-like terminal</title>
+<link>https://www.cnx-software.com/2024/05/21/breadboardos-firmware-for-the-raspberry-pi-rp2040-features-a-linux-like-terminal/</link>
+<guid>https://www.cnx-software.com/2024/05/21/breadboardos-firmware-for-the-raspberry-pi-rp2040-features-a-linux-like-terminal/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40445099">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 19:22:09 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 19:22:09 +0000</pubDate>
+</item>
+
+<item>
 <title>Try Clojure</title>
 <link>https://tryclojure.org/</link>
 <guid>https://tryclojure.org/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40444121">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 18:11:34 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 18:11:34 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +140,8 @@
 <link>https://bsky.social/about/blog/05-22-2024-direct-messages</link>
 <guid>https://bsky.social/about/blog/05-22-2024-direct-messages</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40444778">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 18:59:44 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 18:59:44 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +149,8 @@
 <link>https://github.com/onecodex/rust-bfield</link>
 <guid>https://github.com/onecodex/rust-bfield</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40443920">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:53:16 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 17:53:16 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +158,8 @@
 <link>https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say</link>
 <guid>https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40445093">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 19:21:53 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 19:21:53 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +167,8 @@
 <link>https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/</link>
 <guid>https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40443558">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:22:27 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 17:22:27 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +176,8 @@
 <link>https://www.emacswiki.org/emacs/EmacsStories</link>
 <guid>https://www.emacswiki.org/emacs/EmacsStories</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40426453">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 10:18:00 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 10:18:00 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +185,8 @@
 <link>https://www.techradar.com/computing/computing-security/windows-recall-sounds-like-a-privacy-nightmare-heres-why-im-worried</link>
 <guid>https://www.techradar.com/computing/computing-security/windows-recall-sounds-like-a-privacy-nightmare-heres-why-im-worried</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40443682">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:33:21 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 17:33:21 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +194,8 @@
 <link>https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it</link>
 <guid>https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40440841">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 13:38:51 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 13:38:51 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +203,8 @@
 <link>https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/</link>
 <guid>https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40424408">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 05:14:09 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 05:14:09 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +212,8 @@
 <link>https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/</link>
 <guid>https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40439654">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 11:23:20 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 11:23:20 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +221,8 @@
 <link>https://twitter.com/DanPriceSeattle/status/1791299631558823954</link>
 <guid>https://twitter.com/DanPriceSeattle/status/1791299631558823954</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40443907">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:52:21 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 17:52:21 +0000</pubDate>
 </item>
 <item>
@@ -130,13 +230,10 @@
 <link>https://kerkour.com/webassembly-wasi-preview2</link>
 <guid>https://kerkour.com/webassembly-wasi-preview2</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40439681">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 11:26:48 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 11:26:48 +0000</pubDate>
 </item>
-
 <item>
 <title>Pluckable Strings</title>
 <link>https://string.spiel.com/</link>
@@ -9028,114 +9125,6 @@
 <a href="https://news.ycombinator.com/item?id=40317885">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 10 May 2024 11:59:35 +0000</pubDate>
-</item>
-<item>
-<title>Computer models suggest modern plate tectonics due to blobs left by collision</title>
-<link>https://phys.org/news/2024-05-modern-plate-tectonics-due-blobs.html</link>
-<guid>https://phys.org/news/2024-05-modern-plate-tectonics-due-blobs.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40299681">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 16:06:42 +0000</pubDate>
-</item>
-<item>
-<title>Is the largest root of a random polynomial more likely to be real than complex?</title>
-<link>https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex</link>
-<guid>https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40316788">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 09:01:05 +0000</pubDate>
-</item>
-<item>
-<title>HiFi-DRAM: Enabling High-Fidelity DRAM Research by Uncovering Sense Amplifiers</title>
-<link>https://comsec.ethz.ch/research/dram/hifi-dram/</link>
-<guid>https://comsec.ethz.ch/research/dram/hifi-dram/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40300523">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 17:14:16 +0000</pubDate>
-</item>
-<item>
-<title>Searching for Lost Cities</title>
-<link>https://www.archaeology.org/issues/550-2405/features/12281-lost-cities-ancient-world</link>
-<guid>https://www.archaeology.org/issues/550-2405/features/12281-lost-cities-ancient-world</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40262642">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 06:05:31 +0000</pubDate>
-</item>
-<item>
-<title>I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb</title>
-<link>https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb</link>
-<guid>https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40316030">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 06:41:22 +0000</pubDate>
-</item>
-<item>
-<title>Weaver: An ergonomic CLI parsing library for Roc lang</title>
-<link>https://sammohr.dev/blog/announcing-weaver</link>
-<guid>https://sammohr.dev/blog/announcing-weaver</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40274113">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 6 May 2024 12:59:16 +0000</pubDate>
-</item>
-<item>
-<title>Roman Tyrian purple snail dye found in UK for first time</title>
-<link>https://www.bbc.com/news/articles/cjje132jvygo</link>
-<guid>https://www.bbc.com/news/articles/cjje132jvygo</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40315970">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 06:31:34 +0000</pubDate>
-</item>
-<item>
-<title>Elvish, expressive programming language and a versatile interactive shell</title>
-<link>https://elv.sh</link>
-<guid>https://elv.sh</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40316010">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 06:38:44 +0000</pubDate>
-</item>
-<item>
-<title>I was at the clapperboard for Orson Welles' drunk wine commercial (2021)</title>
-<link>https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial</link>
-<guid>https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40265928">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 5 May 2024 16:12:30 +0000</pubDate>
-</item>
-<item>
-<title>Logicola 3</title>
-<link>https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335</link>
-<guid>https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40297642">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 13:03:12 +0000</pubDate>
-</item>
-<item>
-<title>Sound-suppressing silk can create quiet spaces</title>
-<link>https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507</link>
-<guid>https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40291012">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 20:23:29 +0000</pubDate>
-</item>
-<item>
-<title>Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)</title>
-<link>https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer</link>
-<guid>https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40316121">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 07:00:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
