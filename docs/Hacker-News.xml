@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Show HN: PBT – A property-based testing library for Ruby</title>
+<link>https://github.com/ohbarye/pbt</link>
+<guid>https://github.com/ohbarye/pbt</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40441093">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 13:58:25 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 13:58:25 +0000</pubDate>
+</item>
+<item>
+<title>'Right to roam' movement fights to give the commons back to the public</title>
+<link>https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/</link>
+<guid>https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40440283">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 12:48:15 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 12:48:15 +0000</pubDate>
+</item>
+<item>
+<title>HumaneAI pin maker selling itself for $1B</title>
+<link>https://gizmodo.com/humane-ai-pin-selling-billion-1851493143</link>
+<guid>https://gizmodo.com/humane-ai-pin-selling-billion-1851493143</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40442490">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 15:56:04 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 15:56:04 +0000</pubDate>
+</item>
+<item>
+<title>Why physicists now question the fate of the Universe</title>
+<link>https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/</link>
+<guid>https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40441115">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 14:01:11 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 14:01:11 +0000</pubDate>
+</item>
+<item>
+<title>Mars rover mission will use pioneering nuclear power source</title>
+<link>https://www.nature.com/articles/d41586-024-01487-6</link>
+<guid>https://www.nature.com/articles/d41586-024-01487-6</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40440662">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 13:24:45 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 13:24:45 +0000</pubDate>
+</item>
+<item>
+<title>Sal Khan is pioneering innovation in education again</title>
+<link>https://www.gatesnotes.com/Brave-New-Words</link>
+<guid>https://www.gatesnotes.com/Brave-New-Words</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40440854">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 13:39:53 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 13:39:53 +0000</pubDate>
+</item>
+
+<item>
 <title>Cover Agent: open source regression test generation tool</title>
 <link>https://github.com/Codium-ai/cover-agent</link>
 <guid>https://github.com/Codium-ai/cover-agent</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40438664">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 08:27:44 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 08:27:44 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/</link>
 <guid>https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40436796">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 02:36:11 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 02:36:11 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +94,10 @@
 <link>https://github.com/context-labs/mactop</link>
 <guid>https://github.com/context-labs/mactop</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40435504">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 21 May 2024 23:29:02 +0000</pubDate>
-<pubDate>Tue, 21 May 2024 23:29:02 +0000</pubDate>
 </item>
-
 <item>
 <title>Psion 5mx Emulator</title>
 <link>https://wuffs.org/WindEmu/index.html</link>
@@ -9010,33 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40261378">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 5 May 2024 00:13:44 +0000</pubDate>
-</item>
-<item>
-<title>CS388: Natural Language Processing</title>
-<link>https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html</link>
-<guid>https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40314236">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 00:09:11 +0000</pubDate>
-</item>
-<item>
-<title>Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet</title>
-<link>https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/</link>
-<guid>https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40314845">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 02:00:17 +0000</pubDate>
-</item>
-<item>
-<title>Weapons in Space Technology, Politics, and the Rise and Fall of SDI</title>
-<link>https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise</link>
-<guid>https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40314285">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 00:16:39 +0000</pubDate>
 </item>
 </channel>
 </rss>
