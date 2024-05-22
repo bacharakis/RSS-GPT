@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Cover Agent: open source regression test generation tool</title>
+<link>https://github.com/Codium-ai/cover-agent</link>
+<guid>https://github.com/Codium-ai/cover-agent</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40438664">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 08:27:44 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 08:27:44 +0000</pubDate>
+</item>
+<item>
+<title>When Kodak and Polaroid went to war</title>
+<link>https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/</link>
+<guid>https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40436796">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 02:36:11 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 02:36:11 +0000</pubDate>
+</item>
+<item>
+<title>mactop</title>
+<link>https://github.com/context-labs/mactop</link>
+<guid>https://github.com/context-labs/mactop</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40435504">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 23:29:02 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 23:29:02 +0000</pubDate>
+</item>
+
+<item>
 <title>Psion 5mx Emulator</title>
 <link>https://wuffs.org/WindEmu/index.html</link>
 <guid>https://wuffs.org/WindEmu/index.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40438434">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 07:56:43 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 07:56:43 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas</link>
 <guid>https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40439913">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 12:01:01 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 12:01:01 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://www.theguardian.com/lifeandstyle/article/2024/may/22/the-denmark-secret-how-it-became-the-worlds-most-trusting-country-and-why-that-matters</link>
 <guid>https://www.theguardian.com/lifeandstyle/article/2024/may/22/the-denmark-secret-how-it-became-the-worlds-most-trusting-country-and-why-that-matters</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40439475">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 10:50:13 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 10:50:13 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html</link>
 <guid>https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40439379">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 10:33:15 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 10:33:15 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@
 <link>https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/</link>
 <guid>https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40439314">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 10:23:44 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 10:23:44 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@
 <link>https://www.space.com/comet-tsuchinshan-atlas-fall-2024</link>
 <guid>https://www.space.com/comet-tsuchinshan-atlas-fall-2024</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40439481">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 10:51:40 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 10:51:40 +0000</pubDate>
 </item>
-
 <item>
 <title>How and why to make a /now page on your site</title>
 <link>https://sive.rs/now2</link>
@@ -9016,60 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40314285">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 10 May 2024 00:16:39 +0000</pubDate>
-</item>
-<item>
-<title>Grace Version Control System</title>
-<link>https://github.com/ScottArbeit/Grace</link>
-<guid>https://github.com/ScottArbeit/Grace</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40272439">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 6 May 2024 08:26:04 +0000</pubDate>
-</item>
-<item>
-<title>C2PA from the Attacker's Perspective</title>
-<link>https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html</link>
-<guid>https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40313769">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 9 May 2024 22:56:55 +0000</pubDate>
-</item>
-<item>
-<title>A Record of Old Kashgar</title>
-<link>https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/</link>
-<guid>https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40313792">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 9 May 2024 23:00:55 +0000</pubDate>
-</item>
-<item>
-<title>The World Has (Probably) Passed Peak Pollution</title>
-<link>https://www.sustainabilitybynumbers.com/p/peak-pollution</link>
-<guid>https://www.sustainabilitybynumbers.com/p/peak-pollution</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40313451">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 9 May 2024 22:11:41 +0000</pubDate>
-</item>
-<item>
-<title>Viking-Age Hunters Took Down the Biggest Animal on Earth</title>
-<link>https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/</link>
-<guid>https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40290228">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 7 May 2024 19:12:15 +0000</pubDate>
-</item>
-<item>
-<title>Protobuf Editions are here: don't panic</title>
-<link>https://buf.build/blog/protobuf-editions-are-here</link>
-<guid>https://buf.build/blog/protobuf-editions-are-here</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40312895">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 9 May 2024 20:58:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
