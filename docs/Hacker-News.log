@@ -5761,3 +5761,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Nvidia announces financial results for first quarter fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
 append_entries: 9
 Finish: 2024-05-23 00:28:27.206729
+------------------------------------------------------
+Started: 2024-05-23 02:21:19.420194
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Faking William Morris, Generative Forgery, and the Erosion of Art History](https://maggieappleton.com/generative-forgery)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
+append_entries: 2
+Finish: 2024-05-23 02:21:20.292313
