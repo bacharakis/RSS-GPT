@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Von Neumann's First Computer Program (1970)</title>
+<link>https://dl.acm.org/doi/10.1145/356580.356581</link>
+<guid>https://dl.acm.org/doi/10.1145/356580.356581</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40437638">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 05:31:19 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 05:31:19 +0000</pubDate>
+</item>
+<item>
+<title>WinDirStat – Windows Directory Statistics</title>
+<link>https://windirstat.net/</link>
+<guid>https://windirstat.net/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40449767">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 02:34:14 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 02:34:14 +0000</pubDate>
+</item>
+<item>
+<title>Ballerina: Functional programming framework for front end web development</title>
+<link>https://github.com/giuseppemag/ballerina</link>
+<guid>https://github.com/giuseppemag/ballerina</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40425366">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 08:01:27 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 08:01:27 +0000</pubDate>
+</item>
+<item>
+<title>The push to ban ransom payments is gaining momentum</title>
+<link>https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum</link>
+<guid>https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40441487">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 14:31:58 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 14:31:58 +0000</pubDate>
+</item>
+
+<item>
 <title>OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show</title>
 <link>https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/</link>
 <guid>https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40448045">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 23:16:52 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 23:16:52 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://fpvsim.com/drone-flying-101</link>
 <guid>https://fpvsim.com/drone-flying-101</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40449278">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 01:25:35 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 01:25:35 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://news.ycombinator.com/item?id=40450633</link>
 <guid>https://news.ycombinator.com/item?id=40450633</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40450633">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 04:59:44 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 04:59:44 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://magicui.design/</link>
 <guid>https://magicui.design/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40450128">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 03:23:54 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 03:23:54 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +90,8 @@
 <link>https://wingolog.org/archives/2024/05/22/growing-a-bootie</link>
 <guid>https://wingolog.org/archives/2024/05/22/growing-a-bootie</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40439404">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 10:38:40 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 10:38:40 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +99,10 @@
 <link>https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php</link>
 <guid>https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40450306">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 23 May 2024 03:56:13 +0000</pubDate>
-<pubDate>Thu, 23 May 2024 03:56:13 +0000</pubDate>
 </item>
-
 <item>
 <title>Number 16 (Spider)</title>
 <link>https://en.wikipedia.org/wiki/Number_16_(spider)</link>
@@ -9016,60 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40321901">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 10 May 2024 17:58:15 +0000</pubDate>
-</item>
-<item>
-<title>Climate protesters storm Tesla gigafactory in Europe</title>
-<link>https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/</link>
-<guid>https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40322302">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 18:30:34 +0000</pubDate>
-</item>
-<item>
-<title>Cylindrical Slide Rules</title>
-<link>https://americanhistory.si.edu/collections/object-groups/slide-rules/cylindrical-slide-rules</link>
-<guid>https://americanhistory.si.edu/collections/object-groups/slide-rules/cylindrical-slide-rules</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40312192">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 9 May 2024 19:43:11 +0000</pubDate>
-</item>
-<item>
-<title>Deno KV internals: building a database for the modern web</title>
-<link>https://deno.com/blog/building-deno-kv</link>
-<guid>https://deno.com/blog/building-deno-kv</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40258903">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 4 May 2024 17:01:25 +0000</pubDate>
-</item>
-<item>
-<title>A Skeptic's Take on Beaming Power to Earth from Space</title>
-<link>https://spectrum.ieee.org/space-based-solar-power-2667878868</link>
-<guid>https://spectrum.ieee.org/space-based-solar-power-2667878868</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40320900">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 16:32:41 +0000</pubDate>
-</item>
-<item>
-<title>Coronal mass ejection impact imminent, Two more earth-directed CMEs</title>
-<link>https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html</link>
-<guid>https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40321821">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 17:50:52 +0000</pubDate>
-</item>
-<item>
-<title>The surging demand for data is guzzling Virginia's water</title>
-<link>https://grist.org/technology/surging-demand-data-guzzling-water-ai/</link>
-<guid>https://grist.org/technology/surging-demand-data-guzzling-water-ai/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40321230">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 16:59:06 +0000</pubDate>
 </item>
 </channel>
 </rss>
