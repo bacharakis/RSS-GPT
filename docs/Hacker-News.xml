@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Number 16 (Spider)</title>
+<link>https://en.wikipedia.org/wiki/Number_16_(spider)</link>
+<guid>https://en.wikipedia.org/wiki/Number_16_(spider)</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40438510">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 08:08:26 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 08:08:26 +0000</pubDate>
+</item>
+<item>
+<title>How to do a startup, according to YC data</title>
+<link>https://amvizion.org/blog/lessons-learned-from-yc.html</link>
+<guid>https://amvizion.org/blog/lessons-learned-from-yc.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40449454">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 01:48:53 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 01:48:53 +0000</pubDate>
+</item>
+<item>
+<title>Windows 10 wallpaper was physically built and photographed</title>
+<link>https://gmunk.com/Windows-10-Desktop/</link>
+<guid>https://gmunk.com/Windows-10-Desktop/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40439515">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 10:59:46 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 10:59:46 +0000</pubDate>
+</item>
+<item>
+<title>Emacs Easydraw – drawing tool inside Emacs</title>
+<link>https://github.com/misohena/el-easydraw</link>
+<guid>https://github.com/misohena/el-easydraw</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40447998">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 23:13:50 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 23:13:50 +0000</pubDate>
+</item>
+<item>
+<title>Helium Flash</title>
+<link>https://en.wikipedia.org/wiki/Helium_flash</link>
+<guid>https://en.wikipedia.org/wiki/Helium_flash</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40449531">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 01:59:35 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 01:59:35 +0000</pubDate>
+</item>
+
+<item>
 <title>Faking William Morris, Generative Forgery, and the Erosion of Art History</title>
 <link>https://maggieappleton.com/generative-forgery</link>
 <guid>https://maggieappleton.com/generative-forgery</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40437641">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 05:31:30 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 05:31:30 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +74,10 @@
 <link>https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/</link>
 <guid>https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40441602">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 14:42:37 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 14:42:37 +0000</pubDate>
 </item>
-
 <item>
 <title>Leaked OpenAI documents reveal aggressive tactics toward former employees</title>
 <link>https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees</link>
@@ -9008,24 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40320406">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 10 May 2024 15:51:01 +0000</pubDate>
-</item>
-<item>
-<title>Superfile – A fancy, pretty terminal file manager</title>
-<link>https://github.com/MHNightCat/superfile</link>
-<guid>https://github.com/MHNightCat/superfile</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40318714">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 13:27:20 +0000</pubDate>
-</item>
-<item>
-<title>OpenBSD Desktop</title>
-<link>https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html</link>
-<guid>https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40318804">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 13:35:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
