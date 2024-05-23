@@ -5794,3 +5794,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Helium Flash](https://en.wikipedia.org/wiki/Helium_flash)
 append_entries: 5
 Finish: 2024-05-23 04:07:32.968124
+------------------------------------------------------
+Started: 2024-05-23 06:08:38.398688
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show](https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: Those who use an Android and macOS, how do you manage sync?](https://news.ycombinator.com/item?id=40450633)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Magic UI: UI Library for Design Engineers](https://magicui.design/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Growing a Bootie](https://wingolog.org/archives/2024/05/22/growing-a-bootie)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [One of the most unusual heists in America seems to be unfolding at Taco Bell](https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php)
+append_entries: 6
+Finish: 2024-05-23 06:08:39.872849
