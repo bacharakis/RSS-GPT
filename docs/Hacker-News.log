@@ -5836,3 +5836,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The push to ban ransom payments is gaining momentum](https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum)
 append_entries: 4
 Finish: 2024-05-23 08:08:30.294244
+------------------------------------------------------
+Started: 2024-05-23 10:07:10.861045
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sorry, iPads](https://therectangle.substack.com/p/sorry-ipad)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
+append_entries: 2
+Finish: 2024-05-23 10:07:11.433994

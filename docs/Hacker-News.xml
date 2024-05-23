@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Sorry, iPads</title>
+<link>https://therectangle.substack.com/p/sorry-ipad</link>
+<guid>https://therectangle.substack.com/p/sorry-ipad</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40439443">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 10:46:09 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 10:46:09 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft Bing Search, Copilot face downtime</title>
+<link>https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/</link>
+<guid>https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40451949">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 08:12:53 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 08:12:53 +0000</pubDate>
+</item>
+
+<item>
 <title>Von Neumann's First Computer Program (1970)</title>
 <link>https://dl.acm.org/doi/10.1145/356580.356581</link>
 <guid>https://dl.acm.org/doi/10.1145/356580.356581</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40437638">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 05:31:19 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 05:31:19 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://windirstat.net/</link>
 <guid>https://windirstat.net/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40449767">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 02:34:14 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 02:34:14 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://github.com/giuseppemag/ballerina</link>
 <guid>https://github.com/giuseppemag/ballerina</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40425366">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 08:01:27 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 08:01:27 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +59,10 @@
 <link>https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum</link>
 <guid>https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40441487">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 14:31:58 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 14:31:58 +0000</pubDate>
 </item>
-
 <item>
 <title>OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show</title>
 <link>https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/</link>
@@ -9012,42 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40321867">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 10 May 2024 17:55:08 +0000</pubDate>
-</item>
-<item>
-<title>Laudatio Turiae</title>
-<link>https://en.wikipedia.org/wiki/Laudatio_Turiae</link>
-<guid>https://en.wikipedia.org/wiki/Laudatio_Turiae</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40271057">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 6 May 2024 04:06:09 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: I created 3,800+ Open Source React Icons (Beautiful, Rounded Style)</title>
-<link>https://github.com/hugeicons/hugeicons-react</link>
-<guid>https://github.com/hugeicons/hugeicons-react</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40301310">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 8 May 2024 18:17:45 +0000</pubDate>
-</item>
-<item>
-<title>Serial to Parallel Port Converter</title>
-<link>http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx</link>
-<guid>http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40315032">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 02:48:47 +0000</pubDate>
-</item>
-<item>
-<title>ElevenLabs Music</title>
-<link>https://twitter.com/elevenlabsio/status/1788628171044053386</link>
-<guid>https://twitter.com/elevenlabsio/status/1788628171044053386</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40321901">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 17:58:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
