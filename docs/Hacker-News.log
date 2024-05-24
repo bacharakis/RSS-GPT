@@ -6052,3 +6052,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [300k airplanes in five years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
 append_entries: 6
 Finish: 2024-05-23 22:02:03.182571
+------------------------------------------------------
+Started: 2024-05-24 00:28:55.230306
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to destroy your OS with tar](https://vorakl.com/articles/tar-curdir/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Biden Admin Working with Social Media Companies to Limit Pro-Palestinian Content](https://www.kenklippenstein.com/p/biden-admin-working-with-social-media)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Seaweed, Fashion, and the Mermaids](https://worldsensorium.com/seaweed-fashion-and-the-mermaids/)
+append_entries: 4
+Finish: 2024-05-24 00:28:56.405693
