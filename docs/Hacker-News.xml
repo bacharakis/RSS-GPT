@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Binarize CLIP for Multimodal Applications</title>
+<link>https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking</link>
+<guid>https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40462215">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 02:12:58 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 02:12:58 +0000</pubDate>
+</item>
+<item>
+<title>Google AI search feature suggested using glue to keep cheese sticking to a pizza</title>
+<link>https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5</link>
+<guid>https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40462340">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 02:41:51 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 02:41:51 +0000</pubDate>
+</item>
+<item>
+<title>LunarML – The Standard ML compiler that produces Lua/JavaScript</title>
+<link>https://github.com/minoki/LunarML</link>
+<guid>https://github.com/minoki/LunarML</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40440436">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 13:03:09 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 13:03:09 +0000</pubDate>
+</item>
+
+<item>
 <title>Forebruary</title>
 <link>https://ilyabirman.net/forebruary/</link>
 <guid>https://ilyabirman.net/forebruary/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40438894">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 09:01:40 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 09:01:40 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://blog.appsignal.com/2024/05/22/five-things-to-avoid-in-ruby.html</link>
 <guid>https://blog.appsignal.com/2024/05/22/five-things-to-avoid-in-ruby.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40438834">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 22 May 2024 08:50:41 +0000</pubDate>
 <pubDate>Wed, 22 May 2024 08:50:41 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://www.smithsonianmag.com/arts-culture/how-soon-reopen-folger-shakespeare-library-came-be-180984291/</link>
 <guid>https://www.smithsonianmag.com/arts-culture/how-soon-reopen-folger-shakespeare-library-came-be-180984291/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40424430">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 21 May 2024 05:17:20 +0000</pubDate>
 <pubDate>Tue, 21 May 2024 05:17:20 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +70,10 @@
 <link>https://fuqua.io/CSharpRepl/</link>
 <guid>https://fuqua.io/CSharpRepl/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40460296">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 23 May 2024 21:47:21 +0000</pubDate>
-<pubDate>Thu, 23 May 2024 21:47:21 +0000</pubDate>
 </item>
-
 <item>
 <title>Dehydration associated with poorer performance on attention tasks among adults</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051</link>
@@ -9012,42 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40316023">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 10 May 2024 06:40:29 +0000</pubDate>
-</item>
-<item>
-<title>Citation Needed – Wikimedia Foundation's Experimental LLM/RAG Chrome Extension</title>
-<link>https://chromewebstore.google.com/detail/wikipedia-citation-needed/kecnjhdipdihkibljeicopdcoinghmhj</link>
-<guid>https://chromewebstore.google.com/detail/wikipedia-citation-needed/kecnjhdipdihkibljeicopdcoinghmhj</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40330667">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 11 May 2024 21:12:57 +0000</pubDate>
-</item>
-<item>
-<title>Ancient Egyptian Stone-Drilling (1983)</title>
-<link>https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/</link>
-<guid>https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40331594">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 00:48:38 +0000</pubDate>
-</item>
-<item>
-<title>Charlieplexing</title>
-<link>https://en.wikipedia.org/wiki/Charlieplexing</link>
-<guid>https://en.wikipedia.org/wiki/Charlieplexing</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40331476">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 00:23:35 +0000</pubDate>
-</item>
-<item>
-<title>The global tree restoration potential (Bastin et al., 2019)</title>
-<link>https://www.science.org/doi/10.1126/science.aax0848</link>
-<guid>https://www.science.org/doi/10.1126/science.aax0848</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40317970">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 12:09:29 +0000</pubDate>
 </item>
 </channel>
 </rss>
