@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Perplexica: Open-Source Perplexity Alternative</title>
+<link>https://github.com/ItzCrazyKns/Perplexica</link>
+<guid>https://github.com/ItzCrazyKns/Perplexica</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40462369">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 02:49:44 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 02:49:44 +0000</pubDate>
+</item>
+<item>
+<title>Retired detective: We got it wrong in Robert Roberson's death penalty case</title>
+<link>https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/</link>
+<guid>https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40458662">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 19:08:29 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 19:08:29 +0000</pubDate>
+</item>
+<item>
+<title>The Irrevocable SSL Certificates of Cloudflare</title>
+<link>https://worldofmatthew.com/post/cloudflare-ssl/</link>
+<guid>https://worldofmatthew.com/post/cloudflare-ssl/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40437781">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 05:59:09 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 05:59:09 +0000</pubDate>
+</item>
+
+<item>
 <title>Binarize CLIP for Multimodal Applications</title>
 <link>https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking</link>
 <guid>https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40462215">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 02:12:58 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 02:12:58 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5</link>
 <guid>https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40462340">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 02:41:51 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 02:41:51 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +61,10 @@
 <link>https://github.com/minoki/LunarML</link>
 <guid>https://github.com/minoki/LunarML</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40440436">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 13:03:09 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 13:03:09 +0000</pubDate>
 </item>
-
 <item>
 <title>Forebruary</title>
 <link>https://ilyabirman.net/forebruary/</link>
@@ -9010,33 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40331886">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 02:00:23 +0000</pubDate>
-</item>
-<item>
-<title>Show NH: "data-to-paper" - autonomous stepwise LLM-driven research</title>
-<link>https://github.com/Technion-Kishony-lab/data-to-paper</link>
-<guid>https://github.com/Technion-Kishony-lab/data-to-paper</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40331850">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 01:52:08 +0000</pubDate>
-</item>
-<item>
-<title>Binius: Highly efficient proofs over binary fields</title>
-<link>https://vitalik.eth.link/general/2024/04/29/binius.html</link>
-<guid>https://vitalik.eth.link/general/2024/04/29/binius.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40326492">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 11 May 2024 06:55:21 +0000</pubDate>
-</item>
-<item>
-<title>Spherical Parallel Manipulator [video]</title>
-<link>https://www.youtube.com/watch?v=6yx700AdzLI</link>
-<guid>https://www.youtube.com/watch?v=6yx700AdzLI</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40316023">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 06:40:29 +0000</pubDate>
 </item>
 </channel>
 </rss>

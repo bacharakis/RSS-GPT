@@ -6103,3 +6103,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [LunarML – The Standard ML compiler that produces Lua/JavaScript](https://github.com/minoki/LunarML)
 append_entries: 3
 Finish: 2024-05-24 04:07:44.838771
+------------------------------------------------------
+Started: 2024-05-24 06:08:20.351774
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Retired detective: We got it wrong in Robert Roberson's death penalty case](https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Irrevocable SSL Certificates of Cloudflare](https://worldofmatthew.com/post/cloudflare-ssl/)
+append_entries: 3
+Finish: 2024-05-24 06:08:21.422650
