@@ -6070,3 +6070,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Seaweed, Fashion, and the Mermaids](https://worldsensorium.com/seaweed-fashion-and-the-mermaids/)
 append_entries: 4
 Finish: 2024-05-24 00:28:56.405693
+------------------------------------------------------
+Started: 2024-05-24 02:21:59.056237
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Forebruary](https://ilyabirman.net/forebruary/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Things to avoid in Ruby](https://blog.appsignal.com/2024/05/22/five-things-to-avoid-in-ruby.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How the soon-to-reopen Folger Shakespeare Library came to be](https://www.smithsonianmag.com/arts-culture/how-soon-reopen-folger-shakespeare-library-came-be-180984291/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
+append_entries: 4
+Finish: 2024-05-24 02:22:00.361411
