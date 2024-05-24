@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>2D Rigid Body Collision Resolution</title>
+<link>https://www.sassnow.ski/rigid-body-collisions/1</link>
+<guid>https://www.sassnow.ski/rigid-body-collisions/1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40463764">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 07:23:07 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 07:23:07 +0000</pubDate>
+</item>
+<item>
+<title>Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)</title>
+<link>https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer</link>
+<guid>https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40463633">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 07:01:28 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 07:01:28 +0000</pubDate>
+</item>
+<item>
+<title>Almost 30% of Americans Say College Not Worth It in Pew Poll</title>
+<link>https://www.bloomberg.com/news/articles/2024-05-23/almost-30-of-americans-say-college-not-worth-it-in-pew-poll</link>
+<guid>https://www.bloomberg.com/news/articles/2024-05-23/almost-30-of-americans-say-college-not-worth-it-in-pew-poll</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40463383">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 06:20:56 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 06:20:56 +0000</pubDate>
+</item>
+<item>
+<title>Go's old $GOPATH story for development and dependencies</title>
+<link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory</link>
+<guid>https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40438007">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 06:45:05 +0000</pubDate>
+<pubDate>Wed, 22 May 2024 06:45:05 +0000</pubDate>
+</item>
+<item>
+<title>New Regular expression (Regex) functions in Excel</title>
+<link>https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel</link>
+<guid>https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40426720">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 21 May 2024 10:57:35 +0000</pubDate>
+<pubDate>Tue, 21 May 2024 10:57:35 +0000</pubDate>
+</item>
+
+<item>
 <title>Perplexica: Open-Source Perplexity Alternative</title>
 <link>https://github.com/ItzCrazyKns/Perplexica</link>
 <guid>https://github.com/ItzCrazyKns/Perplexica</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40462369">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 02:49:44 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 02:49:44 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/</link>
 <guid>https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40458662">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 19:08:29 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 19:08:29 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +83,10 @@
 <link>https://worldofmatthew.com/post/cloudflare-ssl/</link>
 <guid>https://worldofmatthew.com/post/cloudflare-ssl/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40437781">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 05:59:09 +0000</pubDate>
-<pubDate>Wed, 22 May 2024 05:59:09 +0000</pubDate>
 </item>
-
 <item>
 <title>Binarize CLIP for Multimodal Applications</title>
 <link>https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking</link>
@@ -9010,33 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40332094">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 03:25:35 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Open-Source Video Editor Web App</title>
-<link>https://news.ycombinator.com/item?id=40331968</link>
-<guid>https://news.ycombinator.com/item?id=40331968</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40331968">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 02:35:03 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Attempt to bring a cinematic experience in 256 bytes (WASM)</title>
-<link>https://github.com/ilmenit/sizecoding/blob/main/Encounter/Encounter.md</link>
-<guid>https://github.com/ilmenit/sizecoding/blob/main/Encounter/Encounter.md</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40330555">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 11 May 2024 20:48:17 +0000</pubDate>
-</item>
-<item>
-<title>Virtualizing the 6502 on a 6502 with 6o6</title>
-<link>http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html</link>
-<guid>http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40331886">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 02:00:23 +0000</pubDate>
 </item>
 </channel>
 </rss>
