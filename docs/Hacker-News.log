@@ -6211,3 +6211,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Response Filter Denial of Service (RFDoS)](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/)
 append_entries: 6
 Finish: 2024-05-24 14:02:20.382977
+------------------------------------------------------
+Started: 2024-05-24 16:06:52.238010
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone](https://spectrum.ieee.org/arthur-erickson-drones-profile)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Morgan Spurlock, filmmaker behind 'Super Size Me' documentary, dies from cancer](https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [We Shift Testing Left: A Software Dev Cycle That Doesn't Scale](https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cosmic Glitch: Scientists Discover an Anomaly in the Universe's Gravity](https://www.businessinsider.com/cosmic-glitch-makes-scientists-rethink-einstein-greatest-theory-2024-5)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Imperceptible sensors can be printed directly on human skin](https://www.cam.ac.uk/research/news/imperceptible-sensors-made-from-electronic-spider-silk-can-be-printed-directly-on-human-skin)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
+append_entries: 6
+Finish: 2024-05-24 16:06:53.943862
