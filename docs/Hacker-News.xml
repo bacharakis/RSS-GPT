@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Mp3tag – The Universal Tag Editor</title>
+<link>https://www.mp3tag.de/en/</link>
+<guid>https://www.mp3tag.de/en/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40468933">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 18:15:58 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 18:15:58 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: We open sourced our entire text-to-SQL product</title>
+<link>https://github.com/Dataherald/dataherald</link>
+<guid>https://github.com/Dataherald/dataherald</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40456236">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 15:50:25 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 15:50:25 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go</title>
+<link>https://github.com/roblillack/spot</link>
+<guid>https://github.com/roblillack/spot</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40469592">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 19:19:31 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 19:19:31 +0000</pubDate>
+</item>
+<item>
+<title>Peeking underground with giant flying antennas</title>
+<link>https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/</link>
+<guid>https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40466255">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 13:50:39 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 13:50:39 +0000</pubDate>
+</item>
+<item>
+<title>Blue Field Entoptic Phenomenon</title>
+<link>https://en.wikipedia.org/wiki/Blue_field_entoptic_phenomenon</link>
+<guid>https://en.wikipedia.org/wiki/Blue_field_entoptic_phenomenon</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40463011">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 05:13:33 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 05:13:33 +0000</pubDate>
+</item>
+<item>
+<title>LANL Achieves Yottabyte-Scale Data Compression in Neutron Transport Equations</title>
+<link>https://www.hpcwire.com/off-the-wire/los-alamos-achieves-yottabyte-scale-data-compression-in-neutron-transport-equations/</link>
+<guid>https://www.hpcwire.com/off-the-wire/los-alamos-achieves-yottabyte-scale-data-compression-in-neutron-transport-equations/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40467426">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 15:55:38 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 15:55:38 +0000</pubDate>
+</item>
+<item>
+<title>The Student Syndrome: Delaying until right before deadlines</title>
+<link>https://solvingprocrastination.com/student-syndrome/</link>
+<guid>https://solvingprocrastination.com/student-syndrome/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40469040">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 18:25:09 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 18:25:09 +0000</pubDate>
+</item>
+<item>
+<title>Sharing details on a recent incident impacting one of our customers</title>
+<link>https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/</link>
+<guid>https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40466810">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 14:48:08 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 14:48:08 +0000</pubDate>
+</item>
+
+<item>
 <title>Financial Statement Analysis with Large Language Models</title>
 <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311</link>
 <guid>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40468518">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 17:39:39 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 17:39:39 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://icq.com/desktop/en</link>
 <guid>https://icq.com/desktop/en</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40467625">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 16:16:37 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 16:16:37 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://op-co.de/blog/posts/samsung_wb850f_firmware/</link>
 <guid>https://op-co.de/blog/posts/samsung_wb850f_firmware/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40467232">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 15:35:04 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 15:35:04 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://blog.zulip.com/2024/05/23/self-hosting-keeps-your-private-data-out-of-ai-models/</link>
 <guid>https://blog.zulip.com/2024/05/23/self-hosting-keeps-your-private-data-out-of-ai-models/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40467934">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 16:44:00 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 16:44:00 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://arxiv.org/abs/2405.13817</link>
 <guid>https://arxiv.org/abs/2405.13817</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40466826">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 14:50:07 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 14:50:07 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://www.ycombinator.com/blog/opportunities-in-ai/</link>
 <guid>https://www.ycombinator.com/blog/opportunities-in-ai/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40468627">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 17:49:29 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 17:49:29 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +152,8 @@
 <link>https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177</link>
 <guid>https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40468113">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 17:00:52 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 17:00:52 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +161,8 @@
 <link>https://enzuru.medium.com/emacs-in-a-few-dozen-keystrokes-and-why-some-of-you-should-just-use-vim-14b9af30be70</link>
 <guid>https://enzuru.medium.com/emacs-in-a-few-dozen-keystrokes-and-why-some-of-you-should-just-use-vim-14b9af30be70</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40468408">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 17:30:45 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 17:30:45 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +170,8 @@
 <link>https://www.blunix.com/blog/how-to-install-openbsd-on-hetzner-cloud-servers.html</link>
 <guid>https://www.blunix.com/blog/how-to-install-openbsd-on-hetzner-cloud-servers.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40460456">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 22:06:50 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 22:06:50 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +179,8 @@
 <link>https://www.medrxiv.org/content/10.1101/2023.07.07.23292338v1</link>
 <guid>https://www.medrxiv.org/content/10.1101/2023.07.07.23292338v1</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40459419">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 20:20:03 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 20:20:03 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +188,8 @@
 <link>https://www.theguardian.com/film/article/2024/may/24/super-size-me-director-morgan-spurlock-dies-aged-53</link>
 <guid>https://www.theguardian.com/film/article/2024/may/24/super-size-me-director-morgan-spurlock-dies-aged-53</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40466429">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 14:07:38 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 14:07:38 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +197,8 @@
 <link>https://github.com/es3n1n/no-defender</link>
 <guid>https://github.com/es3n1n/no-defender</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40467741">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 16:27:40 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 16:27:40 +0000</pubDate>
 </item>
 <item>
@@ -141,13 +206,10 @@
 <link>https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/</link>
 <guid>https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40468739">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 17:58:58 +0000</pubDate>
-<pubDate>Fri, 24 May 2024 17:58:58 +0000</pubDate>
 </item>
-
 <item>
 <title>Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone</title>
 <link>https://spectrum.ieee.org/arthur-erickson-drones-profile</link>
@@ -9030,123 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40329804">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 11 May 2024 18:31:38 +0000</pubDate>
-</item>
-<item>
-<title>Peter Jackson on how Tolkien stopped a Beatles LOTR film</title>
-<link>https://www.bbc.com/news/entertainment-arts-59387182</link>
-<guid>https://www.bbc.com/news/entertainment-arts-59387182</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40322137">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 10 May 2024 18:18:41 +0000</pubDate>
-</item>
-<item>
-<title>Zero Feet: a proposal for a systems-free Lisp</title>
-<link>https://applied-langua.ge/posts/zero-feet.html</link>
-<guid>https://applied-langua.ge/posts/zero-feet.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40335472">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 16:02:57 +0000</pubDate>
-</item>
-<item>
-<title>FCC explicitly prohibits fast lanes, closing possible net neutrality loophole</title>
-<link>https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/</link>
-<guid>https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40336310">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 18:10:20 +0000</pubDate>
-</item>
-<item>
-<title>Patient dies weeks after kidney transplant from genetically modified pig</title>
-<link>https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html</link>
-<guid>https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40336293">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 18:07:59 +0000</pubDate>
-</item>
-<item>
-<title>Parsing PNG Images in Mojo</title>
-<link>https://fnands.com/blog/2024/mojo-png-parsing/</link>
-<guid>https://fnands.com/blog/2024/mojo-png-parsing/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40328338">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 11 May 2024 14:32:58 +0000</pubDate>
-</item>
-<item>
-<title>Avoiding the soft delete anti-pattern</title>
-<link>https://www.cultured.systems/2024/04/24/Soft-delete/</link>
-<guid>https://www.cultured.systems/2024/04/24/Soft-delete/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40326815">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 11 May 2024 08:26:58 +0000</pubDate>
-</item>
-<item>
-<title>Homoiconic Python</title>
-<link>https://aljamal.substack.com/p/homoiconic-python</link>
-<guid>https://aljamal.substack.com/p/homoiconic-python</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40335608">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 16:24:05 +0000</pubDate>
-</item>
-<item>
-<title>Learning K programming: idiom by idiom [pdf]</title>
-<link>http://nsl.com/papers/idioms_K3.pdf</link>
-<guid>http://nsl.com/papers/idioms_K3.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40335921">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 17:06:55 +0000</pubDate>
-</item>
-<item>
-<title>Whole-body magnetic resonance imaging at 0.05 Tesla</title>
-<link>https://www.science.org/doi/10.1126/science.adm7168</link>
-<guid>https://www.science.org/doi/10.1126/science.adm7168</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40335170">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 15:20:39 +0000</pubDate>
-</item>
-<item>
-<title>Sweep (YC S23) is hiring a Founding Engineers to build a code generation bot</title>
-<link>https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml</link>
-<guid>https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40335885">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 17:00:25 +0000</pubDate>
-</item>
-<item>
-<title>16 years of CVE-2008-0166 – Debian OpenSSL Bug</title>
-<link>https://16years.secvuln.info/</link>
-<guid>https://16years.secvuln.info/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40333169">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 09:19:35 +0000</pubDate>
-</item>
-<item>
-<title>Ultraviolet Superradiance from Networks of Tryptophan in Biological Systems</title>
-<link>https://pubs.acs.org/doi/10.1021/acs.jpcb.3c07936</link>
-<guid>https://pubs.acs.org/doi/10.1021/acs.jpcb.3c07936</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40335203">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 15:26:45 +0000</pubDate>
-</item>
-<item>
-<title>Pražský Orloj: Prague astronomical clock simulator. (2022)</title>
-<link>https://orloj.org/orloj/</link>
-<guid>https://orloj.org/orloj/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40333408">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 10:42:02 +0000</pubDate>
 </item>
 </channel>
 </rss>
