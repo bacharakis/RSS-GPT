@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Lapis: A Web Framework for Lua</title>
+<link>https://leafo.net/lapis/</link>
+<guid>https://leafo.net/lapis/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40474165">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 10:56:41 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 10:56:41 +0000</pubDate>
+</item>
+<item>
+<title>Google just updated its algorithm. The Internet will never be the same</title>
+<link>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</link>
+<guid>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40474202">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 11:14:26 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 11:14:26 +0000</pubDate>
+</item>
+<item>
+<title>Publishing AI Slop Is a Choice</title>
+<link>https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice</link>
+<guid>https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40474236">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 11:25:52 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 11:25:52 +0000</pubDate>
+</item>
+<item>
+<title>Willow Sideloading Protocol</title>
+<link>https://willowprotocol.org/specs/sideloading</link>
+<guid>https://willowprotocol.org/specs/sideloading</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40464529">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 09:46:23 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 09:46:23 +0000</pubDate>
+</item>
+<item>
+<title>Essays on programming I think about a lot</title>
+<link>https://www.benkuhn.net/progessays/</link>
+<guid>https://www.benkuhn.net/progessays/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40470750">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 21:47:33 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 21:47:33 +0000</pubDate>
+</item>
+<item>
+<title>It's cheaper to buy ($33) than rent ($44/year) IPv4s from AWS</title>
+<link>https://twitter.com/billfranklinuk/status/1794268011383144518</link>
+<guid>https://twitter.com/billfranklinuk/status/1794268011383144518</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40474180">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 11:01:20 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 11:01:20 +0000</pubDate>
+</item>
+
+<item>
 <title>Mistral Fine-Tune</title>
 <link>https://github.com/mistralai/mistral-finetune</link>
 <guid>https://github.com/mistralai/mistral-finetune</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40473198">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 07:09:47 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 07:09:47 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://luart.org/index.html</link>
 <guid>https://luart.org/index.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40463209">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 05:49:27 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 05:49:27 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +94,10 @@
 <link>https://newatlas.com/medical/male-birth-control-stk333/</link>
 <guid>https://newatlas.com/medical/male-birth-control-stk333/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40473454">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 08:11:11 +0000</pubDate>
-<pubDate>Sat, 25 May 2024 08:11:11 +0000</pubDate>
 </item>
-
 <item>
 <title>Signal's Meredith Whittaker on the Telegram security clash</title>
 <link>https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/</link>
@@ -9010,33 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40340901">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 13 May 2024 08:18:47 +0000</pubDate>
-</item>
-<item>
-<title>Song Maker</title>
-<link>https://musiclab.chromeexperiments.com/Song-Maker</link>
-<guid>https://musiclab.chromeexperiments.com/Song-Maker</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40333226">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 09:38:27 +0000</pubDate>
-</item>
-<item>
-<title>Protecting your email address via SVG instead of JavaScript</title>
-<link>https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/</link>
-<guid>https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40340642">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 07:33:57 +0000</pubDate>
-</item>
-<item>
-<title>Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests</title>
-<link>https://news.ycombinator.com/item?id=40340450</link>
-<guid>https://news.ycombinator.com/item?id=40340450</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40340450">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 07:00:10 +0000</pubDate>
 </item>
 </channel>
 </rss>
