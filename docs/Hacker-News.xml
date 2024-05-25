@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Signal's Meredith Whittaker on the Telegram security clash</title>
+<link>https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/</link>
+<guid>https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40473130">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 06:51:13 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 06:51:13 +0000</pubDate>
+</item>
+<item>
+<title>Signalfd Is Useless</title>
+<link>https://ldpreload.com/blog/signalfd-is-useless</link>
+<guid>https://ldpreload.com/blog/signalfd-is-useless</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40472539">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 03:55:15 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 03:55:15 +0000</pubDate>
+</item>
+<item>
+<title>HackNote</title>
+<link>https://hacknote.co/</link>
+<guid>https://hacknote.co/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40472659">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 04:25:37 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 04:25:37 +0000</pubDate>
+</item>
+<item>
+<title>A simple core.async job system in Clojure</title>
+<link>https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/</link>
+<guid>https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40472161">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 02:19:23 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 02:19:23 +0000</pubDate>
+</item>
+<item>
+<title>The solar industrial revolution is the biggest investment opportunity in history</title>
+<link>https://caseyhandmer.wordpress.com/2024/05/22/the-solar-industrial-revolution-is-the-biggest-investment-opportunity-in-history/</link>
+<guid>https://caseyhandmer.wordpress.com/2024/05/22/the-solar-industrial-revolution-is-the-biggest-investment-opportunity-in-history/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40472856">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 05:36:58 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 05:36:58 +0000</pubDate>
+</item>
+<item>
+<title>Reverse engineering ESP32 Wi-Fi driver: the road ahead</title>
+<link>https://esp32-open-mac.be/posts/0005-the-road-ahead/</link>
+<guid>https://esp32-open-mac.be/posts/0005-the-road-ahead/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40464776">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 10:39:32 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 10:39:32 +0000</pubDate>
+</item>
+
+<item>
 <title>Addition with flamethrowers – why game devs don't unit test</title>
 <link>https://www.pixelatedplaygrounds.com/sidequests/addition-with-flamethrowers-or-why-game-devs-dont-unit-test</link>
 <guid>https://www.pixelatedplaygrounds.com/sidequests/addition-with-flamethrowers-or-why-game-devs-dont-unit-test</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40465014">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 11:25:32 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 11:25:32 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://dl.acm.org/doi/pdf/10.1145/79204.79212</link>
 <guid>https://dl.acm.org/doi/pdf/10.1145/79204.79212</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40465182">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 11:49:52 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 11:49:52 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://rachelbythebay.com/w/2018/04/28/meta/</link>
 <guid>https://rachelbythebay.com/w/2018/04/28/meta/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40472374">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 03:13:08 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 03:13:08 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://blog.jonasbengtson.se/cisco-7609-beer-tap</link>
 <guid>https://blog.jonasbengtson.se/cisco-7609-beer-tap</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40464496">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 09:40:24 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 09:40:24 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/</link>
 <guid>https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40472546">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 03:57:01 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 03:57:01 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +121,8 @@
 <link>https://www.bookmarked.club/lessons/thinking-outside-the-box</link>
 <guid>https://www.bookmarked.club/lessons/thinking-outside-the-box</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40471596">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 00:11:28 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 00:11:28 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +130,10 @@
 <link>https://blog.while-true-do.io/almalinux-os-samba-file-server/</link>
 <guid>https://blog.while-true-do.io/almalinux-os-samba-file-server/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40472119">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 02:08:08 +0000</pubDate>
-<pubDate>Sat, 25 May 2024 02:08:08 +0000</pubDate>
 </item>
-
 <item>
 <title>JetBrains releases RustRover IDE for Rust development</title>
 <link>https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html</link>
@@ -9018,69 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40339998">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 13 May 2024 05:12:54 +0000</pubDate>
-</item>
-<item>
-<title>Dymaxion Car</title>
-<link>https://en.wikipedia.org/wiki/Dymaxion_car</link>
-<guid>https://en.wikipedia.org/wiki/Dymaxion_car</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40327837">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 11 May 2024 13:11:59 +0000</pubDate>
-</item>
-<item>
-<title>A Slower Speed of Light – MIT Game Lab</title>
-<link>http://gamelab.mit.edu/games/a-slower-speed-of-light/</link>
-<guid>http://gamelab.mit.edu/games/a-slower-speed-of-light/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40332586">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 06:27:34 +0000</pubDate>
-</item>
-<item>
-<title>Fort Worth's tallest building sells for $12.3M, bought for $137.5M in 2021</title>
-<link>https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop</link>
-<guid>https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40339415">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 03:00:10 +0000</pubDate>
-</item>
-<item>
-<title>An introduction to advanced Rust traits and generics</title>
-<link>https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust</link>
-<guid>https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40339204">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 02:07:52 +0000</pubDate>
-</item>
-<item>
-<title>MacRelix – Unix-like features for classic Mac OS</title>
-<link>https://www.macrelix.org/</link>
-<guid>https://www.macrelix.org/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40338443">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 23:47:18 +0000</pubDate>
-</item>
-<item>
-<title>Open Source YouTube to MP3 Downloader</title>
-<link>https://github.com/PackJC/YoutubeToMP3</link>
-<guid>https://github.com/PackJC/YoutubeToMP3</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40338967">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 01:22:35 +0000</pubDate>
-</item>
-<item>
-<title>Mindfulness interventions for teens decrease mindfulness, study finds</title>
-<link>https://suchscience.net/mindfulness-interventions-for-teens-actually-decrease-mindfulness-new-study-finds/</link>
-<guid>https://suchscience.net/mindfulness-interventions-for-teens-actually-decrease-mindfulness-new-study-finds/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40337815">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 21:41:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
