@@ -5,20 +5,42 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
-<title>The road to hell is paved with good intentions and C++ modules</title>
-<link>https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html</link>
-<guid>https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html</guid>
+<title>Extend your battery life with scx_rustland</title>
+<link>http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html</link>
+<guid>http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html</guid>
 <content:encoded><![CDATA[
 
-<a href="https://news.ycombinator.com/item?id=40476134">Comments</a>
+<a href="https://news.ycombinator.com/item?id=40477500">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 16:42:03 +0000</pubDate>
-<pubDate>Sat, 25 May 2024 16:42:03 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 20:13:34 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 20:13:34 +0000</pubDate>
 </item>
 <item>
-<title>Canada orders dissolution of two firms, citing national security concerns</title>
-<link>https://www.reuters.com/business/canada-orders-dissolution-two-firms-citing-national-security-concerns-2024-05-25/</link>
-<guid>https://www.reuters.com/business/canada-orders-dissolution-two-firms-citing-national-security-concerns-2024-05-25/</guid>
+<title>Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)</title>
+<link>https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote</link>
+<guid>https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40477840">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 21:01:30 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 21:01:30 +0000</pubDate>
+</item>
+<item>
+<title>The Fall of the House of Etsy</title>
+<link>https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/</link>
+<guid>https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40477325">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 19:42:43 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 19:42:43 +0000</pubDate>
+</item>
+<item>
+<title>Two B.C. companies ordered to shut down on national security grounds</title>
+<link>https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns</link>
+<guid>https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns</guid>
 <content:encoded><![CDATA[
 
 <a href="https://news.ycombinator.com/item?id=40477261">Comments</a>
@@ -27,14 +49,42 @@
 <pubDate>Sat, 25 May 2024 19:30:16 +0000</pubDate>
 </item>
 <item>
+<title>Exploring the NEC V20 CPU</title>
+<link>https://martypc.blogspot.com/2024/05/exploring-nec-v20-cpu.html</link>
+<guid>https://martypc.blogspot.com/2024/05/exploring-nec-v20-cpu.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40477345">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 19:46:35 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 19:46:35 +0000</pubDate>
+</item>
+
+<item>
+<title>The road to hell is paved with good intentions and C++ modules</title>
+<link>https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html</link>
+<guid>https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40476134">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 16:42:03 +0000</pubDate>
+</item>
+<item>
+<title>Canada orders dissolution of two firms, citing national security concerns</title>
+<link>https://www.reuters.com/business/canada-orders-dissolution-two-firms-citing-national-security-concerns-2024-05-25/</link>
+<guid>https://www.reuters.com/business/canada-orders-dissolution-two-firms-citing-national-security-concerns-2024-05-25/</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40477261">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 19:30:16 +0000</pubDate>
+</item>
+<item>
 <title>Where Are the Builders?</title>
 <link>https://near.blog/where-are-the-builders/</link>
 <guid>https://near.blog/where-are-the-builders/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40476572">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 17:44:15 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 17:44:15 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://github.com/akopdev/obsidian-bibtex-manager</link>
 <guid>https://github.com/akopdev/obsidian-bibtex-manager</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40459404">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 20:18:52 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 20:18:52 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +101,8 @@
 <link>https://www.sciencealert.com/cannabis-use-linked-to-epigenetic-changes-study-reveals</link>
 <guid>https://www.sciencealert.com/cannabis-use-linked-to-epigenetic-changes-study-reveals</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40477130">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 19:04:43 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 19:04:43 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +110,10 @@
 <link>https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html</link>
 <guid>https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40453716">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 23 May 2024 12:08:53 +0000</pubDate>
-<pubDate>Thu, 23 May 2024 12:08:53 +0000</pubDate>
 </item>
-
 <item>
 <title>`tmux` is worse is better</title>
 <link>https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/</link>
@@ -9016,60 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40345775">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 13 May 2024 17:28:00 +0000</pubDate>
-</item>
-<item>
-<title>Unix version control lore: what, ident – Tony Finch</title>
-<link>https://dotat.at/@/2024-05-13-what-ident.html</link>
-<guid>https://dotat.at/@/2024-05-13-what-ident.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40344946">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 16:17:20 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: An open source framework for voice assistants</title>
-<link>https://github.com/pipecat-ai/pipecat</link>
-<guid>https://github.com/pipecat-ai/pipecat</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40345696">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 17:21:14 +0000</pubDate>
-</item>
-<item>
-<title>Good, Kind, Caring People Became the Bad Guys</title>
-<link>https://www.okdoomer.io/thebadguys/</link>
-<guid>https://www.okdoomer.io/thebadguys/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40345552">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 17:09:46 +0000</pubDate>
-</item>
-<item>
-<title>Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience</title>
-<link>https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a</link>
-<guid>https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40345460">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 17:02:12 +0000</pubDate>
-</item>
-<item>
-<title>GxHash is a fast and robust non-cryptographic hashing algorithm</title>
-<link>https://github.com/ogxd/gxhash</link>
-<guid>https://github.com/ogxd/gxhash</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40344581">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 15:42:12 +0000</pubDate>
-</item>
-<item>
-<title>Overbite Project: Why still use Gopher? What makes Gopher relevant?</title>
-<link>https://gopher.floodgap.com/overbite/relevance.html</link>
-<guid>https://gopher.floodgap.com/overbite/relevance.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40333584">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 11:37:11 +0000</pubDate>
 </item>
 </channel>
 </rss>
