@@ -6481,3 +6481,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [It's cheaper to buy ($33) than rent ($44/year) IPv4s from AWS](https://twitter.com/billfranklinuk/status/1794268011383144518)
 append_entries: 6
 Finish: 2024-05-25 12:09:12.710586
+------------------------------------------------------
+Started: 2024-05-25 14:01:37.424518
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Cognitive Design of Tools of Thought [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Breakdown (2018)](https://www.futilitycloset.com/2018/02/02/breakdown-2/)
+append_entries: 3
+Finish: 2024-05-25 14:01:38.509591

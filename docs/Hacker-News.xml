@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Abusing Go's Infrastructure</title>
+<link>https://reverse.put.as/2024/05/24/abusing-go-infrastructure/</link>
+<guid>https://reverse.put.as/2024/05/24/abusing-go-infrastructure/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40474712">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 12:50:00 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 12:50:00 +0000</pubDate>
+</item>
+<item>
+<title>The Cognitive Design of Tools of Thought [pdf]</title>
+<link>http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf</link>
+<guid>http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40474759">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 12:58:20 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 12:58:20 +0000</pubDate>
+</item>
+<item>
+<title>Breakdown (2018)</title>
+<link>https://www.futilitycloset.com/2018/02/02/breakdown-2/</link>
+<guid>https://www.futilitycloset.com/2018/02/02/breakdown-2/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40466597">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 14:25:05 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 14:25:05 +0000</pubDate>
+</item>
+
+<item>
 <title>Lapis: A Web Framework for Lua</title>
 <link>https://leafo.net/lapis/</link>
 <guid>https://leafo.net/lapis/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40474165">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 10:56:41 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 10:56:41 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</link>
 <guid>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40474202">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 11:14:26 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 11:14:26 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice</link>
 <guid>https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40474236">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 11:25:52 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 11:25:52 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://willowprotocol.org/specs/sideloading</link>
 <guid>https://willowprotocol.org/specs/sideloading</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40464529">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 09:46:23 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 09:46:23 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@
 <link>https://www.benkuhn.net/progessays/</link>
 <guid>https://www.benkuhn.net/progessays/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40470750">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 21:47:33 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 21:47:33 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@
 <link>https://twitter.com/billfranklinuk/status/1794268011383144518</link>
 <guid>https://twitter.com/billfranklinuk/status/1794268011383144518</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40474180">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 11:01:20 +0000</pubDate>
-<pubDate>Sat, 25 May 2024 11:01:20 +0000</pubDate>
 </item>
-
 <item>
 <title>Mistral Fine-Tune</title>
 <link>https://github.com/mistralai/mistral-finetune</link>
@@ -9016,60 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40333342">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 12 May 2024 10:17:49 +0000</pubDate>
-</item>
-<item>
-<title>MixRank (YC S11) Is Hiring Software Engineers and Founders Globally</title>
-<link>https://news.ycombinator.com/item?id=40342299</link>
-<guid>https://news.ycombinator.com/item?id=40342299</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40342299">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 12:00:32 +0000</pubDate>
-</item>
-<item>
-<title>Big Fridge</title>
-<link>https://sherwood.news/business/the-hot-business-of-cold-storage/</link>
-<guid>https://sherwood.news/business/the-hot-business-of-cold-storage/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40336605">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 18:55:02 +0000</pubDate>
-</item>
-<item>
-<title>Solar storms are disrupting farmer GPS systems</title>
-<link>https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer</link>
-<guid>https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40341877">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 11:15:47 +0000</pubDate>
-</item>
-<item>
-<title>Calendar, Not Todos (2018)</title>
-<link>https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd</link>
-<guid>https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40332546">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 06:11:07 +0000</pubDate>
-</item>
-<item>
-<title>The Death of a Mnemonist</title>
-<link>https://www.historytoday.com/archive/months-past/death-mnemonist</link>
-<guid>https://www.historytoday.com/archive/months-past/death-mnemonist</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40340316">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 06:26:46 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript</title>
-<link>https://github.com/buxlabs/boxwood</link>
-<guid>https://github.com/buxlabs/boxwood</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40340901">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 08:18:47 +0000</pubDate>
 </item>
 </channel>
 </rss>
