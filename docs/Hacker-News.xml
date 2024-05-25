@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Mistral Fine-Tune</title>
+<link>https://github.com/mistralai/mistral-finetune</link>
+<guid>https://github.com/mistralai/mistral-finetune</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40473198">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 07:09:47 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 07:09:47 +0000</pubDate>
+</item>
+<item>
+<title>LuaRT: Lua programming environment for console, desktop applications for Windows</title>
+<link>https://luart.org/index.html</link>
+<guid>https://luart.org/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40463209">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 05:49:27 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 05:49:27 +0000</pubDate>
+</item>
+<item>
+<title>Male birth control breakthrough safely switches off fit sperm for a while</title>
+<link>https://newatlas.com/medical/male-birth-control-stk333/</link>
+<guid>https://newatlas.com/medical/male-birth-control-stk333/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40473454">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 08:11:11 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 08:11:11 +0000</pubDate>
+</item>
+
+<item>
 <title>Signal's Meredith Whittaker on the Telegram security clash</title>
 <link>https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/</link>
 <guid>https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40473130">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 06:51:13 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 06:51:13 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://ldpreload.com/blog/signalfd-is-useless</link>
 <guid>https://ldpreload.com/blog/signalfd-is-useless</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40472539">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 03:55:15 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 03:55:15 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://hacknote.co/</link>
 <guid>https://hacknote.co/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40472659">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 04:25:37 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 04:25:37 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/</link>
 <guid>https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40472161">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 02:19:23 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 02:19:23 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@
 <link>https://caseyhandmer.wordpress.com/2024/05/22/the-solar-industrial-revolution-is-the-biggest-investment-opportunity-in-history/</link>
 <guid>https://caseyhandmer.wordpress.com/2024/05/22/the-solar-industrial-revolution-is-the-biggest-investment-opportunity-in-history/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40472856">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 05:36:58 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 05:36:58 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@
 <link>https://esp32-open-mac.be/posts/0005-the-road-ahead/</link>
 <guid>https://esp32-open-mac.be/posts/0005-the-road-ahead/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40464776">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 10:39:32 +0000</pubDate>
-<pubDate>Fri, 24 May 2024 10:39:32 +0000</pubDate>
 </item>
-
 <item>
 <title>Addition with flamethrowers – why game devs don't unit test</title>
 <link>https://www.pixelatedplaygrounds.com/sidequests/addition-with-flamethrowers-or-why-game-devs-dont-unit-test</link>
@@ -9016,60 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40340450">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 13 May 2024 07:00:10 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Making GNU Make a better Task Runner</title>
-<link>https://github.com/mitjafelicijan/makext</link>
-<guid>https://github.com/mitjafelicijan/makext</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40333481">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 11:11:50 +0000</pubDate>
-</item>
-<item>
-<title>State actor blamed for cyberattack on B.C. government systems</title>
-<link>https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735</link>
-<guid>https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40340055">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 05:24:21 +0000</pubDate>
-</item>
-<item>
-<title>Why Make Art in the Dark?</title>
-<link>https://aeon.co/essays/why-did-our-ancestors-make-startling-art-in-dark-firelit-caves</link>
-<guid>https://aeon.co/essays/why-did-our-ancestors-make-startling-art-in-dark-firelit-caves</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40332515">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 12 May 2024 05:59:14 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: CarCheck – Car Buying Checklist App</title>
-<link>https://usefulchecklists.com/</link>
-<guid>https://usefulchecklists.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40339405">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 02:56:43 +0000</pubDate>
-</item>
-<item>
-<title>PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card</title>
-<link>https://texelec.com/product/picomem/</link>
-<guid>https://texelec.com/product/picomem/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40339723">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 04:10:37 +0000</pubDate>
-</item>
-<item>
-<title>GNU LibreJS: blocks JavaScript traps</title>
-<link>https://www.gnu.org/software/librejs/</link>
-<guid>https://www.gnu.org/software/librejs/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40339998">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 05:12:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
