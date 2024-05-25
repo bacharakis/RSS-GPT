@@ -6349,3 +6349,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [How private equity rolled Red Lobster](https://www.nbcnews.com/business/consumer/private-equity-rolled-red-lobster-rcna153397)
 append_entries: 7
 Finish: 2024-05-25 00:28:05.754857
+------------------------------------------------------
+Started: 2024-05-25 02:19:47.921101
+Existing_entries: 1007
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Byuu.org – Depression](https://archive.fo/2014.12.18-152806/https://byuu.org/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Soda-Can Planimeter](http://durealeyes.com/planimeter.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How massive, feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
+append_entries: 5
+Finish: 2024-05-25 02:19:49.281355
