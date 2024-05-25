@@ -6538,3 +6538,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The new visa fees for foreign artists are out. This is not good](https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/)
 append_entries: 12
 Finish: 2024-05-25 16:03:41.531318
+------------------------------------------------------
+Started: 2024-05-25 18:06:47.841753
+Existing_entries: 1012
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [`tmux` is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [CompilerFax: Sending C source code via telefax to a compiler-as-a-service](https://chaos.social/@LaF0rge/112486079122303420)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: LogsQL – opinionated query language for logs](https://docs.victoriametrics.com/victorialogs/logsql/)
+append_entries: 4
+Finish: 2024-05-25 18:06:48.998398
