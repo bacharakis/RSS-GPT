@@ -6715,3 +6715,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Best of Google AI search results](https://threadreaderapp.com/thread/1794543007129387208.html)
 append_entries: 5
 Finish: 2024-05-26 06:07:52.396978
+------------------------------------------------------
+Started: 2024-05-26 08:07:27.272568
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hurl, the Exceptional Language](https://hurl.wtf/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Braid: Synchronization for HTTP](https://braid.org/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How Home Assistant is being used to protect from missile and drone attacks](https://denysdovhan.com/home-assistant-config/config/war/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Algorithm Behind Jim Simons's Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hacking phones is too easy. Time to make it harder](https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Mersenne Twister PRNG for JavaScript](https://github.com/jawj/mtwist)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [(FinTech) Synapse has collapsed, 10M consumers, 100s of fintechs in trouble](https://techcrunch.com/2024/05/25/with-a16z-backed-synapses-collapse-baas-fintech-is-a-mess-and-10-million-consumers-could-be-hurt/)
+append_entries: 7
+Finish: 2024-05-26 08:07:28.558109

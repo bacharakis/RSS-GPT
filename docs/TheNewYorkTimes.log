@@ -1797,3 +1797,10 @@ Fetching from http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 Feed error: 301
 append_entries: 0
 Finish: 2024-05-26 06:07:52.764659
+------------------------------------------------------
+Started: 2024-05-26 08:07:28.745906
+Existing_entries: 0
+Fetching from http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Feed error: 301
+append_entries: 0
+Finish: 2024-05-26 08:07:28.852632
