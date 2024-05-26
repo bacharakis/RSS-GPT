@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>How do layer 2s differ from execution sharding?</title>
+<link>https://vitalik.eth.limo/general/2024/05/23/l2exec.html</link>
+<guid>https://vitalik.eth.limo/general/2024/05/23/l2exec.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40455118">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 14:23:49 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 14:23:49 +0000</pubDate>
+</item>
+<item>
+<title>Fixing My Yamaha Electone Me-50: An FM Synthesizer Home Organ from 1986</title>
+<link>https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html</link>
+<guid>https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40457535">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 23 May 2024 17:32:18 +0000</pubDate>
+<pubDate>Thu, 23 May 2024 17:32:18 +0000</pubDate>
+</item>
+<item>
+<title>The Route of a Text Message (2019)</title>
+<link>https://web.archive.org/web/20210301230703/http://scottbot.net/the-route-of-a-text-message/</link>
+<guid>https://web.archive.org/web/20210301230703/http://scottbot.net/the-route-of-a-text-message/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40474101">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 10:41:31 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 10:41:31 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: What is your ChatGPT customization prompt?</title>
+<link>https://news.ycombinator.com/item?id=40474716</link>
+<guid>https://news.ycombinator.com/item?id=40474716</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40474716">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 12:50:49 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 12:50:49 +0000</pubDate>
+</item>
+<item>
+<title>VisionGPT open source – Analyze your image in seconds with AI</title>
+<link>https://github.com/megoxv/visionGPT</link>
+<guid>https://github.com/megoxv/visionGPT</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40476947">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 18:36:45 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 18:36:45 +0000</pubDate>
+</item>
+
+<item>
 <title>'I was misidentified as shoplifter by facial recognition tech'</title>
 <link>https://www.bbc.com/news/technology-69055945</link>
 <guid>https://www.bbc.com/news/technology-69055945</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40478923">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 26 May 2024 00:45:04 +0000</pubDate>
 <pubDate>Sun, 26 May 2024 00:45:04 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://thejournal.com/Articles/2024/05/21/Microsoft-Khan-Academy-Partner-to-Make-Khanmigo-Teaching-Tool-Free.aspx</link>
 <guid>https://thejournal.com/Articles/2024/05/21/Microsoft-Khan-Academy-Partner-to-Make-Khanmigo-Teaching-Tool-Free.aspx</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40455514">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 14:55:38 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 14:55:38 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +83,10 @@
 <link>https://computer.rip/2024-05-25-grc-spinrite.html</link>
 <guid>https://computer.rip/2024-05-25-grc-spinrite.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40478976">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 00:54:23 +0000</pubDate>
-<pubDate>Sun, 26 May 2024 00:54:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Zellij: A terminal workspace with batteries included</title>
 <link>https://zellij.dev/</link>
@@ -9010,33 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40349288">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 13 May 2024 22:26:41 +0000</pubDate>
-</item>
-<item>
-<title>Static Chess</title>
-<link>https://www.val.town/v/maxm/staticChess</link>
-<guid>https://www.val.town/v/maxm/staticChess</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40342803">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 12:56:34 +0000</pubDate>
-</item>
-<item>
-<title>Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku</title>
-<link>https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html</link>
-<guid>https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40348371">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 21:01:49 +0000</pubDate>
-</item>
-<item>
-<title>New Earliest Emoji Sets from 1988 and 1990 Uncovered</title>
-<link>https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/</link>
-<guid>https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40348459">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 21:09:31 +0000</pubDate>
 </item>
 </channel>
 </rss>

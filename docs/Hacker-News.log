@@ -6673,3 +6673,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 append_entries: 3
 Finish: 2024-05-26 02:24:19.781936
+------------------------------------------------------
+Started: 2024-05-26 04:07:27.594924
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How do layer 2s differ from execution sharding?](https://vitalik.eth.limo/general/2024/05/23/l2exec.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fixing My Yamaha Electone Me-50: An FM Synthesizer Home Organ from 1986](https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Route of a Text Message (2019)](https://web.archive.org/web/20210301230703/http://scottbot.net/the-route-of-a-text-message/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [VisionGPT open source – Analyze your image in seconds with AI](https://github.com/megoxv/visionGPT)
+append_entries: 5
+Finish: 2024-05-26 04:07:28.962970
