@@ -5,14 +5,134 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>The Evolution of Lisp (1993) [pdf]</title>
+<link>https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf</link>
+<guid>https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40484007">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 17:48:59 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 17:48:59 +0000</pubDate>
+</item>
+<item>
+<title>The CompCert C Compiler</title>
+<link>https://compcert.org/compcert-C.html</link>
+<guid>https://compcert.org/compcert-C.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40484190">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 18:15:41 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 18:15:41 +0000</pubDate>
+</item>
+<item>
+<title>llama-fs: A self-organizing file system with llama 3</title>
+<link>https://github.com/iyaja/llama-fs</link>
+<guid>https://github.com/iyaja/llama-fs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40484512">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 19:00:21 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 19:00:21 +0000</pubDate>
+</item>
+<item>
+<title>My $2.2k laptop can't drive two screens</title>
+<link>https://notes.nokun.eu/post/2024-05-26-expensive-laptops-dont-pro/</link>
+<guid>https://notes.nokun.eu/post/2024-05-26-expensive-laptops-dont-pro/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40484702">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 19:31:10 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 19:31:10 +0000</pubDate>
+</item>
+<item>
+<title>Self-hosted offline transcription and diarization service with LLM summary</title>
+<link>https://github.com/transcriptionstream/transcriptionstream</link>
+<guid>https://github.com/transcriptionstream/transcriptionstream</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40483878">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 17:30:50 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 17:30:50 +0000</pubDate>
+</item>
+<item>
+<title>Kernel dev writes a USB driver from scratch in 3h [video]</title>
+<link>https://www.youtube.com/watch?v=IXBC85SGC0Q</link>
+<guid>https://www.youtube.com/watch?v=IXBC85SGC0Q</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40483855">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 17:28:12 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 17:28:12 +0000</pubDate>
+</item>
+<item>
+<title>How to enhance generative AI's problem-solving capabilities, boost productivity</title>
+<link>https://blogs.lse.ac.uk/businessreview/2024/05/24/how-to-enhance-generative-ais-problem-solving-capabilities-and-boost-workplace-productivity/</link>
+<guid>https://blogs.lse.ac.uk/businessreview/2024/05/24/how-to-enhance-generative-ais-problem-solving-capabilities-and-boost-workplace-productivity/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40483752">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 17:15:07 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 17:15:07 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: I generated API documentation for all Java packages</title>
+<link>https://docland.io</link>
+<guid>https://docland.io</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40481686">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 12:35:51 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 12:35:51 +0000</pubDate>
+</item>
+<item>
+<title>Milk Watcher</title>
+<link>https://en.wikipedia.org/wiki/Milk_watcher</link>
+<guid>https://en.wikipedia.org/wiki/Milk_watcher</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40484513">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 19:00:34 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 19:00:34 +0000</pubDate>
+</item>
+<item>
+<title>Launch from inside an Apollo capsule (restored in 4K/30 FPS) [video]</title>
+<link>https://www.youtube.com/watch?v=v1SGDbpeFFg</link>
+<guid>https://www.youtube.com/watch?v=v1SGDbpeFFg</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40484168">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 18:11:15 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 18:11:15 +0000</pubDate>
+</item>
+<item>
+<title>Long distance sound localization with the Raspberry Pi</title>
+<link>https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa</link>
+<guid>https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40484119">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 18:05:20 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 18:05:20 +0000</pubDate>
+</item>
+
+<item>
 <title>Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad</title>
 <link>https://github.com/DiscoGrad/DiscoGrad</link>
 <guid>https://github.com/DiscoGrad/DiscoGrad</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40481578">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 26 May 2024 12:14:19 +0000</pubDate>
 <pubDate>Sun, 26 May 2024 12:14:19 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +140,8 @@
 <link>https://github.com/harbaum/NanoMig</link>
 <guid>https://github.com/harbaum/NanoMig</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40483882">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 26 May 2024 17:31:58 +0000</pubDate>
 <pubDate>Sun, 26 May 2024 17:31:58 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +149,8 @@
 <link>https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html</link>
 <guid>https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40482833">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 26 May 2024 15:22:02 +0000</pubDate>
 <pubDate>Sun, 26 May 2024 15:22:02 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +158,8 @@
 <link>https://github.com/glebbash/LO</link>
 <guid>https://github.com/glebbash/LO</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40483367">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 26 May 2024 16:28:56 +0000</pubDate>
 <pubDate>Sun, 26 May 2024 16:28:56 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +167,8 @@
 <link>https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https</link>
 <guid>https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40482799">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 26 May 2024 15:17:48 +0000</pubDate>
 <pubDate>Sun, 26 May 2024 15:17:48 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +176,8 @@
 <link>http://cuda.dcc.ufmg.br/psyche-c/</link>
 <guid>http://cuda.dcc.ufmg.br/psyche-c/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40458142">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 18:30:43 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 18:30:43 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +185,10 @@
 <link>https://news.ycombinator.com/item?id=40482845</link>
 <guid>https://news.ycombinator.com/item?id=40482845</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40482845">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 15:22:56 +0000</pubDate>
-<pubDate>Sun, 26 May 2024 15:22:56 +0000</pubDate>
 </item>
-
 <item>
 <title>Feynman's Garden</title>
 <link>https://www.marginalia.nu/log/a_108_feynman_revisited/</link>
@@ -9018,69 +9125,6 @@
 <a href="https://news.ycombinator.com/item?id=40354988">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 13:24:43 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Pico: An open-source Ngrok alternative built for production traffic</title>
-<link>https://github.com/andydunstall/pico</link>
-<guid>https://github.com/andydunstall/pico</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40355744">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 14:44:37 +0000</pubDate>
-</item>
-<item>
-<title>Active learning is more effective, but students don't think so</title>
-<link>https://arstechnica.com/science/2019/09/college-students-think-they-learn-less-with-an-effective-teaching-method/</link>
-<guid>https://arstechnica.com/science/2019/09/college-students-think-they-learn-less-with-an-effective-teaching-method/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40355544">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 14:24:02 +0000</pubDate>
-</item>
-<item>
-<title>Firefox to collect anonymized and categorized search data</title>
-<link>https://blog.mozilla.org/en/products/firefox/firefox-search-update/</link>
-<guid>https://blog.mozilla.org/en/products/firefox/firefox-search-update/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40355982">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 15:07:41 +0000</pubDate>
-</item>
-<item>
-<title>Silicon reverse engineering: The 8085's undocumented flags (2013)</title>
-<link>https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html</link>
-<guid>https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40355825">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 14:53:33 +0000</pubDate>
-</item>
-<item>
-<title>Timekeeping Before Clocks</title>
-<link>https://worldhistory.substack.com/p/to-cut-and-hack-my-days</link>
-<guid>https://worldhistory.substack.com/p/to-cut-and-hack-my-days</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40340536">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 07:14:54 +0000</pubDate>
-</item>
-<item>
-<title>What Factors Explain the Nature of Software?</title>
-<link>https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html</link>
-<guid>https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40353615">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 10:28:32 +0000</pubDate>
-</item>
-<item>
-<title>References Are Like Jumps</title>
-<link>https://without.boats/blog/references-are-like-jumps/</link>
-<guid>https://without.boats/blog/references-are-like-jumps/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40349124">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 22:11:17 +0000</pubDate>
 </item>
 </channel>
 </rss>
