@@ -6658,3 +6658,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Animating Ptolemy's Equant with Python, SVG, and CSS](https://rhodesmill.org/brandon/2019/animating-the-equant/)
 append_entries: 17
 Finish: 2024-05-26 00:31:28.070544
+------------------------------------------------------
+Started: 2024-05-26 02:24:18.782483
+Existing_entries: 1017
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.com/news/technology-69055945)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Microsoft, Khan Academy Partner to Make Khanmigo Teaching Tool Free](https://thejournal.com/Articles/2024/05/21/Microsoft-Khan-Academy-Partner-to-Make-Khanmigo-Teaching-Tool-Free.aspx)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
+append_entries: 3
+Finish: 2024-05-26 02:24:19.781936
