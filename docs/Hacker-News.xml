@@ -5,14 +5,123 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Instead of "auth", we should say "permissions" and "login"</title>
+<link>https://ntietz.com/blog/lets-say-instead-of-auth/</link>
+<guid>https://ntietz.com/blog/lets-say-instead-of-auth/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40491480">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 15:11:38 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 15:11:38 +0000</pubDate>
+</item>
+<item>
+<title>Should I Use jwts For Authentication Tokens?</title>
+<link>https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/</link>
+<guid>https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40491694">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 15:31:24 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 15:31:24 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Use Go's HTML/template to write React-like code</title>
+<link>https://news.ycombinator.com/item?id=40490608</link>
+<guid>https://news.ycombinator.com/item?id=40490608</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40490608">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 13:39:28 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 13:39:28 +0000</pubDate>
+</item>
+<item>
+<title>Reclaiming IPv4 Class E's 240.0.0.0/4</title>
+<link>https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world</link>
+<guid>https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40491038">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 14:28:02 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 14:28:02 +0000</pubDate>
+</item>
+<item>
+<title>Linux virtual machines, with a focus on running containers</title>
+<link>https://lima-vm.io/</link>
+<guid>https://lima-vm.io/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40490154">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 12:30:32 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 12:30:32 +0000</pubDate>
+</item>
+<item>
+<title>Cycling's Silent Epidemic: Labial swelling and pain in women</title>
+<link>https://www.bicycling.com/health-nutrition/a60412469/cycling-saddle-pain-women-surgery/</link>
+<guid>https://www.bicycling.com/health-nutrition/a60412469/cycling-saddle-pain-women-surgery/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40491163">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 14:40:07 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 14:40:07 +0000</pubDate>
+</item>
+<item>
+<title>Why We're Turning Psychiatric Labels into Identities</title>
+<link>https://www.newyorker.com/magazine/2024/05/13/why-were-turning-psychiatric-labels-into-identities</link>
+<guid>https://www.newyorker.com/magazine/2024/05/13/why-were-turning-psychiatric-labels-into-identities</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40488390">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 07:06:07 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 07:06:07 +0000</pubDate>
+</item>
+<item>
+<title>Yerba Mate: South America's Indigenous Tea, from Paraguay to Syria</title>
+<link>https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/</link>
+<guid>https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40490759">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 13:58:52 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 13:58:52 +0000</pubDate>
+</item>
+<item>
+<title>My BDFL guiding principles (cURL) – daniel.haxx.se</title>
+<link>https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/</link>
+<guid>https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40491438">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 15:07:59 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 15:07:59 +0000</pubDate>
+</item>
+<item>
+<title>Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine</title>
+<link>https://www.ambionics.io/blog/iconv-cve-2024-2961-p1</link>
+<guid>https://www.ambionics.io/blog/iconv-cve-2024-2961-p1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40489885">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 11:44:07 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 11:44:07 +0000</pubDate>
+</item>
+
+<item>
 <title>Lufthansa brings the inflight experience to life with mixed reality</title>
 <link>https://forwork.meta.com/case-studies/lufthansa-mixed-reality-inflight-experience/</link>
 <guid>https://forwork.meta.com/case-studies/lufthansa-mixed-reality-inflight-experience/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40490313">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 27 May 2024 12:55:56 +0000</pubDate>
 <pubDate>Mon, 27 May 2024 12:55:56 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +129,8 @@
 <link>https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490</link>
 <guid>https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40490045">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 27 May 2024 12:12:32 +0000</pubDate>
 <pubDate>Mon, 27 May 2024 12:12:32 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +138,8 @@
 <link>https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed</link>
 <guid>https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40489486">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 27 May 2024 10:39:23 +0000</pubDate>
 <pubDate>Mon, 27 May 2024 10:39:23 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +147,8 @@
 <link>https://developers.google.com/youtube/cobalt</link>
 <guid>https://developers.google.com/youtube/cobalt</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40490630">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 27 May 2024 13:42:22 +0000</pubDate>
 <pubDate>Mon, 27 May 2024 13:42:22 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +156,10 @@
 <link>https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/</link>
 <guid>https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40489905">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 27 May 2024 11:46:28 +0000</pubDate>
-<pubDate>Mon, 27 May 2024 11:46:28 +0000</pubDate>
 </item>
-
 <item>
 <title>My new PSU burns out I fix it, and torture it by cracking water</title>
 <link>https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water</link>
@@ -9014,51 +9114,6 @@
 <a href="https://news.ycombinator.com/item?id=40362105">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 15 May 2024 01:25:44 +0000</pubDate>
-</item>
-<item>
-<title>How did authorities identify the alleged LockBit boss?</title>
-<link>https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/</link>
-<guid>https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40342057">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 11:36:10 +0000</pubDate>
-</item>
-<item>
-<title>Parking reform legalized most of the new homes in Buffalo and Seattle (2023)</title>
-<link>https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/</link>
-<guid>https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40362621">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 02:57:08 +0000</pubDate>
-</item>
-<item>
-<title>Air Quality Monitors Compared: AirGradient vs. Purple Air</title>
-<link>https://www.airgradient.com/blog/airgradient-vs-purple-air/</link>
-<guid>https://www.airgradient.com/blog/airgradient-vs-purple-air/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40362848">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 03:37:46 +0000</pubDate>
-</item>
-<item>
-<title>URLhaus: A database of malicious URLs used for malware distribution</title>
-<link>https://urlhaus.abuse.ch/</link>
-<guid>https://urlhaus.abuse.ch/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40362449">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 02:24:03 +0000</pubDate>
-</item>
-<item>
-<title>Add sysctl to disable Nagle's algorithm (RFC 896 – Congestion Control)</title>
-<link>https://marc.info/?l=openbsd-tech&amp;m=171562561424289</link>
-<guid>https://marc.info/?l=openbsd-tech&amp;m=171562561424289</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40352656">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 07:51:04 +0000</pubDate>
 </item>
 </channel>
 </rss>
