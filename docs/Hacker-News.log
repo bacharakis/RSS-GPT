@@ -7033,3 +7033,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Show HN: I've Created the First Artificial Memory (and It's Open-Source)](https://www.recallmemory.io/)
 append_entries: 8
 Finish: 2024-05-27 08:09:11.357134
+------------------------------------------------------
+Started: 2024-05-27 10:06:46.171152
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Big data is dead (2023)](https://motherduck.com/blog/big-data-is-dead/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Twitter is now attention roulette and ultimately meaningless](https://playpermissionless.substack.com/p/twitter-is-now-attention-roulette)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Rete Algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [MSI Teases Z790 Project Zero Plus Motherboard with CAMM2 Memory Support](https://www.anandtech.com/show/21410/msi-teases-z790-project-zero-plus-motherboard-camm2-memory-support)
+append_entries: 4
+Finish: 2024-05-27 10:06:47.272086
