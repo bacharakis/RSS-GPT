@@ -5,14 +5,24 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Phobos photometric properties from Mars Express HRSC observations</title>
+<link>https://arxiv.org/abs/2403.12156</link>
+<guid>https://arxiv.org/abs/2403.12156</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40479660">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 03:49:33 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 03:49:33 +0000</pubDate>
+</item>
+
+<item>
 <title>Nocobase, on prem Notion for creating production-ready apps</title>
 <link>https://github.com/nocobase/nocobase</link>
 <guid>https://github.com/nocobase/nocobase</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40486307">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 26 May 2024 23:34:32 +0000</pubDate>
 <pubDate>Sun, 26 May 2024 23:34:32 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/</link>
 <guid>https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40461223">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 23 May 2024 23:41:02 +0000</pubDate>
 <pubDate>Thu, 23 May 2024 23:41:02 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +39,10 @@
 <link>https://suziepetryk.com/blog/chickens.html</link>
 <guid>https://suziepetryk.com/blog/chickens.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40456393">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 23 May 2024 16:01:29 +0000</pubDate>
-<pubDate>Thu, 23 May 2024 16:01:29 +0000</pubDate>
 </item>
-
 <item>
 <title>Julia Evans' Git Cheat Sheet [pdf]</title>
 <link>https://wizardzines.com/git-cheat-sheet.pdf</link>
@@ -9010,33 +9015,6 @@
 <a href="https://news.ycombinator.com/item?id=40358071">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 14 May 2024 18:00:59 +0000</pubDate>
-</item>
-<item>
-<title>Sir, there's a cat in your mirror dimension</title>
-<link>https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension</link>
-<guid>https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40357141">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 16:42:54 +0000</pubDate>
-</item>
-<item>
-<title>'Shake' Design Documents</title>
-<link>https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/</link>
-<guid>https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40359250">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 19:38:41 +0000</pubDate>
-</item>
-<item>
-<title>The new APT 3.0 solver</title>
-<link>https://blog.jak-linux.org/2024/05/14/solver3/</link>
-<guid>https://blog.jak-linux.org/2024/05/14/solver3/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40358588">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 18:40:50 +0000</pubDate>
 </item>
 </channel>
 </rss>

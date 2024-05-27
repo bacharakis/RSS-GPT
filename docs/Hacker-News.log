@@ -6973,3 +6973,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
 append_entries: 3
 Finish: 2024-05-27 02:23:19.372138
+------------------------------------------------------
+Started: 2024-05-27 04:08:28.801316
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Phobos photometric properties from Mars Express HRSC observations](https://arxiv.org/abs/2403.12156)
+append_entries: 1
+Finish: 2024-05-27 04:08:29.426149
