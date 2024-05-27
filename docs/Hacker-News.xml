@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Regular Expression Matching with a Trigram Index (2012)</title>
+<link>https://swtch.com/~rsc/regexp/regexp4.html</link>
+<guid>https://swtch.com/~rsc/regexp/regexp4.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40494216">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 20:13:20 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 20:13:20 +0000</pubDate>
+</item>
+<item>
+<title>GTFL – A Graphical Terminal for Common Lisp</title>
+<link>http://www.martin-loetzsch.de/gtfl/</link>
+<guid>http://www.martin-loetzsch.de/gtfl/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40494097">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 20:00:11 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 20:00:11 +0000</pubDate>
+</item>
+<item>
+<title>Recently increased prevalence of human forearm median artery: Microevolution</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1111/joa.13224</link>
+<guid>https://onlinelibrary.wiley.com/doi/10.1111/joa.13224</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40478417">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 22:52:57 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 22:52:57 +0000</pubDate>
+</item>
+<item>
+<title>The future of foundation models is closed-source</title>
+<link>https://blog.johnluttig.com/p/the-future-of-foundation-models-is</link>
+<guid>https://blog.johnluttig.com/p/the-future-of-foundation-models-is</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40475965">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 16:21:26 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 16:21:26 +0000</pubDate>
+</item>
+<item>
+<title>Notepad Tab</title>
+<link>https://notepadtab.com/</link>
+<guid>https://notepadtab.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40494793">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 27 May 2024 21:15:40 +0000</pubDate>
+<pubDate>Mon, 27 May 2024 21:15:40 +0000</pubDate>
+</item>
+
+<item>
 <title>More Itertools</title>
 <link>https://more-itertools.readthedocs.io/en/stable/</link>
 <guid>https://more-itertools.readthedocs.io/en/stable/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40493074">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 27 May 2024 18:03:36 +0000</pubDate>
 <pubDate>Mon, 27 May 2024 18:03:36 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://www.bbc.co.uk/news/articles/cmj66r4lvzzo</link>
 <guid>https://www.bbc.co.uk/news/articles/cmj66r4lvzzo</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40490610">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 27 May 2024 13:39:42 +0000</pubDate>
 <pubDate>Mon, 27 May 2024 13:39:42 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html</link>
 <guid>https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40491896">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 27 May 2024 15:50:34 +0000</pubDate>
 <pubDate>Mon, 27 May 2024 15:50:34 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +92,10 @@
 <link>https://github.com/danielweidman/pixmob-ir-reverse-engineering</link>
 <guid>https://github.com/danielweidman/pixmob-ir-reverse-engineering</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40492915">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 27 May 2024 17:41:09 +0000</pubDate>
-<pubDate>Mon, 27 May 2024 17:41:09 +0000</pubDate>
 </item>
-
 <item>
 <title>British Museum gems for sale on eBay – how a theft was exposed</title>
 <link>https://www.bbc.co.uk/news/articles/cpegg27g74do</link>
@@ -9012,42 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40366443">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 15 May 2024 13:11:08 +0000</pubDate>
-</item>
-<item>
-<title>Speculating the entire x86-64 instruction set in seconds (2021)</title>
-<link>https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/</link>
-<guid>https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40353694">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 10:42:03 +0000</pubDate>
-</item>
-<item>
-<title>The Volvo VNL, a heavy truck purpose-designed for North American roads</title>
-<link>https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/</link>
-<guid>https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40366474">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 13:13:23 +0000</pubDate>
-</item>
-<item>
-<title>Abstract Interpretation as a Programming Language</title>
-<link>https://arxiv.org/abs/1309.5133</link>
-<guid>https://arxiv.org/abs/1309.5133</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40364604">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 08:52:59 +0000</pubDate>
-</item>
-<item>
-<title>SMTP 550-5.7.1 Rejected Because of Virginia Redistricting</title>
-<link>https://www.khanna.law/blog/smtp-550-571-redistricting</link>
-<guid>https://www.khanna.law/blog/smtp-550-571-redistricting</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40365821">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 12:07:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
