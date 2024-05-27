@@ -7069,3 +7069,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 append_entries: 4
 Finish: 2024-05-27 12:10:55.762944
+------------------------------------------------------
+Started: 2024-05-27 14:02:18.676609
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Lufthansa brings the inflight experience to life with mixed reality](https://forwork.meta.com/case-studies/lufthansa-mixed-reality-inflight-experience/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Depression, schizophrenia and bipolar disorder linked with ancient viral DNA](https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Possible association between tattoos and lymphoma revealed](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cobalt – lightweight HTML5 application container from YouTube](https://developers.google.com/youtube/cobalt)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How Many EV Charging Stations Does the US Need to Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)
+append_entries: 5
+Finish: 2024-05-27 14:02:19.625448
