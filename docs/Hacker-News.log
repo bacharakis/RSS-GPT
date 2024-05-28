@@ -7381,3 +7381,39 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [JWT Tokens vs. Session Tokens](https://oguzkurukaya.medium.com/jwt-tokens-vs-session-tokens-06903e25c84d)
 append_entries: 5
 Finish: 2024-05-28 14:02:54.557462
+------------------------------------------------------
+Started: 2024-05-28 16:07:08.044765
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An Air Quality Model That Is Evolving with the Times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Mobifree – An open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Civil society to YouTube: stop helping Russia suppress free speech](https://www.accessnow.org/press-release/youtube-russia-stop-supressing-free-speech/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hate Chatbots? You Aren't the Only One](https://www.wsj.com/tech/ai/chatbots-consumer-sentiment-f045b6cd)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Orcas are still smashing up boats – and we've worked out why](https://newatlas.com/biology/orcas-killer-whales-boats/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Trickle-down economics were always bullshit](https://joanwestenberg.com/blog/trickle-down-economics-were-always-bullshit)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [You leave a 'microbe fingerprint' on all clothing you wear–might forensic impl](https://phys.org/news/2024-05-microbe-fingerprint-piece-forensic-scientists.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Could I use the iPad as my only computer?](https://thejollyteapot.com/2024/05/24/could-i-use-the-ipad-as-my-only-computer)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [T-Mobile to acquire most of U.S. Cellular in $4.4B deal](https://www.cnbc.com/2024/05/28/t-mobile-to-acquire-most-of-us-cellular-in-4point4-billion-deal.html)
+append_entries: 10
+Finish: 2024-05-28 16:07:10.900572
