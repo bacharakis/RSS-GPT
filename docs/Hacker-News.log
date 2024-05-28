@@ -7243,3 +7243,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Origin of BDFL (2008)](https://www.artima.com/weblogs/viewpost.jsp?thread=235725)
 append_entries: 2
 Finish: 2024-05-28 02:23:04.139197
+------------------------------------------------------
+Started: 2024-05-28 04:09:12.988050
+Existing_entries: 1002
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [WP21](https://ma.tt/2024/05/wp21/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [My Hour of Memoryless Lucidity](https://ericneyman.wordpress.com/2024/05/04/my-hour-of-memoryless-lucidity/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dlvhdr/gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Emigre typography and graphic design magazine (1984–2005)](https://blog.gingerbeardman.com/2024/05/24/emigre-typography-and-graphic-design-magazine-1984-2005/)
+append_entries: 5
+Finish: 2024-05-28 04:09:13.963272
