@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>What You Shouldn't Know About Quantum Computers</title>
+<link>https://arxiv.org/abs/2405.15838</link>
+<guid>https://arxiv.org/abs/2405.15838</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40498933">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 09:23:24 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 09:23:24 +0000</pubDate>
+</item>
+<item>
+<title>Let's Destroy C</title>
+<link>https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163</link>
+<guid>https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40498723">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 08:43:27 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 08:43:27 +0000</pubDate>
+</item>
+<item>
+<title>More transparent than glass, new material cools rooms and self-cleans</title>
+<link>https://newatlas.com/materials/metamaterial-glass-radiative-cooling-self-cleaning/</link>
+<guid>https://newatlas.com/materials/metamaterial-glass-radiative-cooling-self-cleaning/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40500181">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 12:45:03 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 12:45:03 +0000</pubDate>
+</item>
+<item>
+<title>A Cursory Look at Cursors</title>
+<link>https://www.eno-writer.com/016-a-cursory-look-at-cursors/</link>
+<guid>https://www.eno-writer.com/016-a-cursory-look-at-cursors/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40470971">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 24 May 2024 22:18:07 +0000</pubDate>
+<pubDate>Fri, 24 May 2024 22:18:07 +0000</pubDate>
+</item>
+<item>
+<title>JWT Tokens vs. Session Tokens</title>
+<link>https://oguzkurukaya.medium.com/jwt-tokens-vs-session-tokens-06903e25c84d</link>
+<guid>https://oguzkurukaya.medium.com/jwt-tokens-vs-session-tokens-06903e25c84d</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40496681">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 02:04:36 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 02:04:36 +0000</pubDate>
+</item>
+
+<item>
 <title>My computer has an underscore in its name, and I have trouble with the network</title>
 <link>https://kb.iu.edu/d/afqs</link>
 <guid>https://kb.iu.edu/d/afqs</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40499260">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 10:31:37 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 10:31:37 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://www.electricmonk.nl/log/2017/09/30/root-your-docker-host-in-10-seconds-for-fun-and-profit/</link>
 <guid>https://www.electricmonk.nl/log/2017/09/30/root-your-docker-host-in-10-seconds-for-fun-and-profit/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40498760">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 08:49:28 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 08:49:28 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer</link>
 <guid>https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40499824">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 12:00:30 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 12:00:30 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/</link>
 <guid>https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40468066">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 24 May 2024 16:56:42 +0000</pubDate>
 <pubDate>Fri, 24 May 2024 16:56:42 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +101,8 @@
 <link>https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/</link>
 <guid>https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40499130">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 10:06:37 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 10:06:37 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +110,10 @@
 <link>https://blog.jak-linux.org/2024/05/24/observations-in-debsat/</link>
 <guid>https://blog.jak-linux.org/2024/05/24/observations-in-debsat/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40470893">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 22:06:16 +0000</pubDate>
-<pubDate>Fri, 24 May 2024 22:06:16 +0000</pubDate>
 </item>
-
 <item>
 <title>Doctor DOS Betamax's DOS Website (2024)</title>
 <link>http://www.chebucto.ns.ca/~ak621/DOS/</link>
@@ -9016,60 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40371785">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 15 May 2024 20:11:55 +0000</pubDate>
-</item>
-<item>
-<title>Making a Postgres query 1k times faster</title>
-<link>https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/</link>
-<guid>https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40372296">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 21:00:02 +0000</pubDate>
-</item>
-<item>
-<title>SSD death, tricky read-only filesystems, and systemd magic?</title>
-<link>https://rachelbythebay.com/w/2024/05/15/ro/</link>
-<guid>https://rachelbythebay.com/w/2024/05/15/ro/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40372317">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 21:02:50 +0000</pubDate>
-</item>
-<item>
-<title>More frequent, focused updates for Android Studio</title>
-<link>https://android-developers.googleblog.com/2024/05/more-frequent-focused-updates-for-android-studio.html</link>
-<guid>https://android-developers.googleblog.com/2024/05/more-frequent-focused-updates-for-android-studio.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40340161">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 13 May 2024 05:47:34 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: I made a Mac app to search my images and videos locally with ML</title>
-<link>https://desktopdocs.com</link>
-<guid>https://desktopdocs.com</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40371467">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 19:44:46 +0000</pubDate>
-</item>
-<item>
-<title>Bossware is a big legal risk</title>
-<link>https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble</link>
-<guid>https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40354407">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 12:21:42 +0000</pubDate>
-</item>
-<item>
-<title>PaliGemma: Open-Source Multimodal Model by Google</title>
-<link>https://blog.roboflow.com/paligemma-multimodal-vision/</link>
-<guid>https://blog.roboflow.com/paligemma-multimodal-vision/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40371237">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 19:24:47 +0000</pubDate>
 </item>
 </channel>
 </rss>

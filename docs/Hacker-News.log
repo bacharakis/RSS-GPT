@@ -7360,3 +7360,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Observations in Debian Dependency Solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
 append_entries: 6
 Finish: 2024-05-28 12:11:06.771957
+------------------------------------------------------
+Started: 2024-05-28 14:02:53.054403
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What You Shouldn't Know About Quantum Computers](https://arxiv.org/abs/2405.15838)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Let's Destroy C](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [More transparent than glass, new material cools rooms and self-cleans](https://newatlas.com/materials/metamaterial-glass-radiative-cooling-self-cleaning/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A Cursory Look at Cursors](https://www.eno-writer.com/016-a-cursory-look-at-cursors/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [JWT Tokens vs. Session Tokens](https://oguzkurukaya.medium.com/jwt-tokens-vs-session-tokens-06903e25c84d)
+append_entries: 5
+Finish: 2024-05-28 14:02:54.557462
