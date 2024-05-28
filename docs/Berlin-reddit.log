@@ -1979,3 +1979,10 @@ Fetching from https://api.reddit.com/subreddit/berlin
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/Berlin-reddit
+------------------------------------------------------
+Started: 2024-05-28 12:11:06.772920
+Existing_entries: 0
+Fetching from https://api.reddit.com/subreddit/berlin
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/Berlin-reddit
