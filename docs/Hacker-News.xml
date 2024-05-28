@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Doctor DOS Betamax's DOS Website (2024)</title>
+<link>http://www.chebucto.ns.ca/~ak621/DOS/</link>
+<guid>http://www.chebucto.ns.ca/~ak621/DOS/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40479107">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 26 May 2024 01:23:22 +0000</pubDate>
+<pubDate>Sun, 26 May 2024 01:23:22 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Sum (algebraic) types for C in one 100 line header</title>
+<link>https://github.com/grego/sumtype.h</link>
+<guid>https://github.com/grego/sumtype.h</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40478175">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 21:58:20 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 21:58:20 +0000</pubDate>
+</item>
+
+<item>
 <title>So many feed readers, so many behaviors</title>
 <link>https://rachelbythebay.com/w/2024/05/27/feed/</link>
 <guid>https://rachelbythebay.com/w/2024/05/27/feed/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40498024">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 06:45:52 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 06:45:52 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://brainbaking.com/post/2024/05/i-miss-bsd-linux/</link>
 <guid>https://brainbaking.com/post/2024/05/i-miss-bsd-linux/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40497966">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 06:34:00 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 06:34:00 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/</link>
 <guid>https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40497623">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 05:32:29 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 05:32:29 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +59,8 @@
 <link>https://arxiv.org/abs/2405.17399</link>
 <guid>https://arxiv.org/abs/2405.17399</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40497379">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 04:39:39 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 04:39:39 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +68,8 @@
 <link>https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&amp;lever-source%5B%5D=yc</link>
 <guid>https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&amp;lever-source%5B%5D=yc</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40498122">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 07:00:10 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 07:00:10 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +77,8 @@
 <link>https://sleeplessbeastie.eu/2018/09/03/how-to-remove-useless-localizations/</link>
 <guid>https://sleeplessbeastie.eu/2018/09/03/how-to-remove-useless-localizations/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40474314">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 11:44:51 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 11:44:51 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +86,8 @@
 <link>https://uyha.github.io/technical/dbus-systemd.html</link>
 <guid>https://uyha.github.io/technical/dbus-systemd.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40496894">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 02:49:52 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 02:49:52 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +95,8 @@
 <link>https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061</link>
 <guid>https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40497602">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 05:30:29 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 05:30:29 +0000</pubDate>
 </item>
 <item>
@@ -97,13 +104,10 @@
 <link>https://gleam.run/news/fault-tolerant-gleam/</link>
 <guid>https://gleam.run/news/fault-tolerant-gleam/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40498092">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 06:55:35 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 06:55:35 +0000</pubDate>
 </item>
-
 <item>
 <title>The Nonprofit Industrial Complex and the Corruption of the American City</title>
 <link>https://americanaffairsjournal.org/2024/05/the-nonprofit-industrial-complex-and-the-corruption-of-the-american-city/</link>
@@ -9022,87 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40369668">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 15 May 2024 17:12:05 +0000</pubDate>
-</item>
-<item>
-<title>Three of the oldest stars in the universe found circling the Milky Way</title>
-<link>https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514</link>
-<guid>https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40369226">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 16:40:30 +0000</pubDate>
-</item>
-<item>
-<title>An Empirical Evaluation of Columnar Storage Formats [pdf]</title>
-<link>https://www.vldb.org/pvldb/vol17/p148-zeng.pdf</link>
-<guid>https://www.vldb.org/pvldb/vol17/p148-zeng.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40370613">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 18:29:36 +0000</pubDate>
-</item>
-<item>
-<title>Jepsen: Datomic Pro 1.0.7075</title>
-<link>https://jepsen.io/analyses/datomic-pro-1.0.7075</link>
-<guid>https://jepsen.io/analyses/datomic-pro-1.0.7075</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40369467">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 16:57:30 +0000</pubDate>
-</item>
-<item>
-<title>Stop Using Discord</title>
-<link>https://usemumble.neocities.org/</link>
-<guid>https://usemumble.neocities.org/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40371595">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 19:55:24 +0000</pubDate>
-</item>
-<item>
-<title>Brain biopsies on 'vulnerable' patients at Mt Sinai set off alarm bells at FDA</title>
-<link>https://www.statnews.com/2024/05/01/brain-biopsies-mount-sinai-fda-review/</link>
-<guid>https://www.statnews.com/2024/05/01/brain-biopsies-mount-sinai-fda-review/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40368509">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 15:48:39 +0000</pubDate>
-</item>
-<item>
-<title>LDAPjs decomissioned by maintainer over hateful email</title>
-<link>https://github.com/ldapjs/node-ldapjs</link>
-<guid>https://github.com/ldapjs/node-ldapjs</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40370190">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 17:53:02 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Tarsier – vision for text-only LLM web agents that beats GPT-4o</title>
-<link>https://github.com/reworkd/tarsier</link>
-<guid>https://github.com/reworkd/tarsier</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40369319">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 16:46:15 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: I made a Chrome extension to clean up your Gmail inbox locally</title>
-<link>https://www.inboxpurge.com/</link>
-<guid>https://www.inboxpurge.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40367488">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 14:33:32 +0000</pubDate>
-</item>
-<item>
-<title>Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching</title>
-<link>https://www.ashbyhq.com/careers?utm_source=hn&amp;ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a</link>
-<guid>https://www.ashbyhq.com/careers?utm_source=hn&amp;ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40369524">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 17:00:50 +0000</pubDate>
 </item>
 </channel>
 </rss>
