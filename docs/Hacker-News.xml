@@ -5,53 +5,20 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
-<title>Show HN: Openkoda – Open–source, private, Salesforce alternative</title>
-<link>https://github.com/openkoda/openkoda</link>
-<guid>https://github.com/openkoda/openkoda</guid>
+<title>TTE: Terminal Text Effects</title>
+<link>https://chrisbuilds.github.io/terminaltexteffects/showroom/</link>
+<guid>https://chrisbuilds.github.io/terminaltexteffects/showroom/</guid>
 <content:encoded><![CDATA[
 
-<a href="https://news.ycombinator.com/item?id=40502956">Comments</a>
+<a href="https://news.ycombinator.com/item?id=40503202">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 17:11:56 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 17:11:56 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 17:31:48 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 17:31:48 +0000</pubDate>
 </item>
 <item>
-<title>Researchers accurately dating a 7k-year-old settlement using cosmic rays</title>
-<link>https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html</link>
-<guid>https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html</guid>
-<content:encoded><![CDATA[
-
-<a href="https://news.ycombinator.com/item?id=40496660">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 02:00:13 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 02:00:13 +0000</pubDate>
-</item>
-<item>
-<title>Steve Jurvetson's personal collection of Apollo Lunar Module parts</title>
-<link>https://www.flickr.com/photos/jurvetson/albums/72157623704246792/</link>
-<guid>https://www.flickr.com/photos/jurvetson/albums/72157623704246792/</guid>
-<content:encoded><![CDATA[
-
-<a href="https://news.ycombinator.com/item?id=40502877">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 17:03:03 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 17:03:03 +0000</pubDate>
-</item>
-<item>
-<title>Generalizing Support for Functional OOP in R</title>
-<link>https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html</link>
-<guid>https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html</guid>
-<content:encoded><![CDATA[
-
-<a href="https://news.ycombinator.com/item?id=40501561">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 15:19:00 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 15:19:00 +0000</pubDate>
-</item>
-<item>
-<title>Reproduce GPT-2 in llm.c</title>
-<link>https://twitter.com/karpathy/status/1795484547267834137</link>
-<guid>https://twitter.com/karpathy/status/1795484547267834137</guid>
+<title>Reproducing GPT-2 in llm.c</title>
+<link>https://github.com/karpathy/llm.c/discussions/481</link>
+<guid>https://github.com/karpathy/llm.c/discussions/481</guid>
 <content:encoded><![CDATA[
 
 <a href="https://news.ycombinator.com/item?id=40502090">Comments</a>
@@ -60,14 +27,157 @@
 <pubDate>Tue, 28 May 2024 15:58:46 +0000</pubDate>
 </item>
 <item>
+<title>API Shouldn't Redirect HTTP to HTTPS</title>
+<link>https://jviide.iki.fi/http-redirects</link>
+<guid>https://jviide.iki.fi/http-redirects</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40504756">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 19:42:34 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 19:42:34 +0000</pubDate>
+</item>
+<item>
+<title>Yet another project management SaaS</title>
+<link>https://www.plan-b.today/</link>
+<guid>https://www.plan-b.today/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40503363">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 17:44:46 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 17:44:46 +0000</pubDate>
+</item>
+<item>
+<title>Paris's Catacomb Mushrooms (2017)</title>
+<link>https://www.atlasobscura.com/articles/paris-catacomb-mushrooms</link>
+<guid>https://www.atlasobscura.com/articles/paris-catacomb-mushrooms</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40504265">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 19:02:53 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 19:02:53 +0000</pubDate>
+</item>
+<item>
+<title>A robot will soon try to remove melted nuclear fuel from Fukushima reactor</title>
+<link>https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58</link>
+<guid>https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40503648">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 18:08:23 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 18:08:23 +0000</pubDate>
+</item>
+<item>
+<title>Tinygrad 0.9.0</title>
+<link>https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0</link>
+<guid>https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40504212">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 18:58:45 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 18:58:45 +0000</pubDate>
+</item>
+<item>
+<title>Why does traffic bottleneck on freeways for no apparent reason? (2009)</title>
+<link>https://engineering.mit.edu/engage/ask-an-engineer/why-does-traffic-bottleneck-on-freeways-for-no-apparent-reason/</link>
+<guid>https://engineering.mit.edu/engage/ask-an-engineer/why-does-traffic-bottleneck-on-freeways-for-no-apparent-reason/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40476911">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 25 May 2024 18:31:03 +0000</pubDate>
+<pubDate>Sat, 25 May 2024 18:31:03 +0000</pubDate>
+</item>
+<item>
+<title>Researchers Cracked an 11-Year-Old Password to a $3M Crypto Wallet</title>
+<link>https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/</link>
+<guid>https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40503925">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 18:32:06 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 18:32:06 +0000</pubDate>
+</item>
+<item>
+<title>Chatbot Arena Leaderboard: Gemini 1.5 Flash, Pro and Advanced Results</title>
+<link>https://twitter.com/lmsysorg/status/1795512202465845686</link>
+<guid>https://twitter.com/lmsysorg/status/1795512202465845686</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40503611">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 18:05:07 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 18:05:07 +0000</pubDate>
+</item>
+<item>
+<title>She Was 29. And Doctors Helped Her Die</title>
+<link>https://www.thefp.com/p/zoraya-ter-beek-dead-assisted-suicide</link>
+<guid>https://www.thefp.com/p/zoraya-ter-beek-dead-assisted-suicide</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40504554">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 19:26:11 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 19:26:11 +0000</pubDate>
+</item>
+
+<item>
+<title>Show HN: Openkoda – Open–source, private, Salesforce alternative</title>
+<link>https://github.com/openkoda/openkoda</link>
+<guid>https://github.com/openkoda/openkoda</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40502956">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 17:11:56 +0000</pubDate>
+</item>
+<item>
+<title>Researchers accurately dating a 7k-year-old settlement using cosmic rays</title>
+<link>https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html</link>
+<guid>https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40496660">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 02:00:13 +0000</pubDate>
+</item>
+<item>
+<title>Steve Jurvetson's personal collection of Apollo Lunar Module parts</title>
+<link>https://www.flickr.com/photos/jurvetson/albums/72157623704246792/</link>
+<guid>https://www.flickr.com/photos/jurvetson/albums/72157623704246792/</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40502877">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 17:03:03 +0000</pubDate>
+</item>
+<item>
+<title>Generalizing Support for Functional OOP in R</title>
+<link>https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html</link>
+<guid>https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40501561">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 15:19:00 +0000</pubDate>
+</item>
+<item>
+<title>Reproduce GPT-2 in llm.c</title>
+<link>https://twitter.com/karpathy/status/1795484547267834137</link>
+<guid>https://twitter.com/karpathy/status/1795484547267834137</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40502090">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 15:58:46 +0000</pubDate>
+</item>
+<item>
 <title>Linum (YC W23) is a hiring a founding AI engineer to train text-to-video models</title>
 <link>https://www.workatastartup.com/jobs/66397</link>
 <guid>https://www.workatastartup.com/jobs/66397</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40502858">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 17:00:50 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 17:00:50 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +185,8 @@
 <link>https://astrid.tech/2024/05/28/0/ping-ff02-1/</link>
 <guid>https://astrid.tech/2024/05/28/0/ping-ff02-1/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40500997">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 14:21:38 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 14:21:38 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +194,8 @@
 <link>https://github.com/turbo9team/turbo9</link>
 <guid>https://github.com/turbo9team/turbo9</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40501164">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 14:39:14 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 14:39:14 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +203,8 @@
 <link>https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/</link>
 <guid>https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40477362">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 19:48:53 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 19:48:53 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +212,8 @@
 <link>http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html</link>
 <guid>http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40473381">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 25 May 2024 07:54:10 +0000</pubDate>
 <pubDate>Sat, 25 May 2024 07:54:10 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +221,8 @@
 <link>https://www.file0.dev</link>
 <guid>https://www.file0.dev</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40498580">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 08:17:00 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 08:17:00 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +230,8 @@
 <link>https://www.npr.org/2024/05/28/1243933142/diverging-diamond-interchange-chlewicki</link>
 <guid>https://www.npr.org/2024/05/28/1243933142/diverging-diamond-interchange-chlewicki</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40501034">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 14:25:17 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 14:25:17 +0000</pubDate>
 </item>
 <item>
@@ -141,13 +239,10 @@
 <link>https://news.ycombinator.com/item?id=40500429</link>
 <guid>https://news.ycombinator.com/item?id=40500429</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40500429">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 13:13:22 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 13:13:22 +0000</pubDate>
 </item>
-
 <item>
 <title>An Air Quality Model That Is Evolving with the Times</title>
 <link>https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times</link>
@@ -9030,123 +9125,6 @@
 <a href="https://news.ycombinator.com/item?id=40364989">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 15 May 2024 10:08:04 +0000</pubDate>
-</item>
-<item>
-<title>"Is This Project Still Maintained?"</title>
-<link>https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html</link>
-<guid>https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40364104">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 07:36:07 +0000</pubDate>
-</item>
-<item>
-<title>(OpenBSD) Add sysctl to disable Nagle's algorithm</title>
-<link>https://marc.info/?l=openbsd-tech&amp;m=171562561424289&amp;w=2</link>
-<guid>https://marc.info/?l=openbsd-tech&amp;m=171562561424289&amp;w=2</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40375700">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 06:15:01 +0000</pubDate>
-</item>
-<item>
-<title>VCs aren’t your friends</title>
-<link>https://www.openvc.app/blog/vcs-arent-your-friends</link>
-<guid>https://www.openvc.app/blog/vcs-arent-your-friends</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40375548">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 05:42:23 +0000</pubDate>
-</item>
-<item>
-<title>Typewise (YC S22) is hiring Product Designer for AI writing assistant</title>
-<link>https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x</link>
-<guid>https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40376143">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 07:59:41 +0000</pubDate>
-</item>
-<item>
-<title>Enhancing R: The Vision and Impact of Jan Vitek's MaintainR Initiative</title>
-<link>https://www.r-consortium.org/blog/2024/05/15/enhancing-r-the-vision-and-impact-of-jan-viteks-maintainr-initiative</link>
-<guid>https://www.r-consortium.org/blog/2024/05/15/enhancing-r-the-vision-and-impact-of-jan-viteks-maintainr-initiative</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40375226">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 04:37:13 +0000</pubDate>
-</item>
-<item>
-<title>Learning from the Object Oriented Mania</title>
-<link>https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/</link>
-<guid>https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40363946">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 07:07:44 +0000</pubDate>
-</item>
-<item>
-<title>MKUltra</title>
-<link>https://en.wikipedia.org/wiki/MKUltra</link>
-<guid>https://en.wikipedia.org/wiki/MKUltra</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40376052">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 07:36:23 +0000</pubDate>
-</item>
-<item>
-<title>Earth rotation limits in-body image stabilization to 6.3 stops (2020)</title>
-<link>https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/</link>
-<guid>https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40374879">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 03:17:08 +0000</pubDate>
-</item>
-<item>
-<title>Piece Chains (2006)</title>
-<link>https://www.catch22.net/tuts/neatpad/piece-chains/</link>
-<guid>https://www.catch22.net/tuts/neatpad/piece-chains/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40351938">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 14 May 2024 05:34:30 +0000</pubDate>
-</item>
-<item>
-<title>Kernel.org servers infected with backdoors for two years from 2009</title>
-<link>https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/</link>
-<guid>https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40375498">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 05:32:35 +0000</pubDate>
-</item>
-<item>
-<title>Things I won't work with: the higher states of bromine</title>
-<link>https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine</link>
-<guid>https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40375178">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 04:24:02 +0000</pubDate>
-</item>
-<item>
-<title>Some notes on Rust, mutable aliasing and formal verification</title>
-<link>https://graydon2.dreamwidth.org/312681.html</link>
-<guid>https://graydon2.dreamwidth.org/312681.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40375341">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 05:01:53 +0000</pubDate>
-</item>
-<item>
-<title>Swift sucks at web serving or does it?</title>
-<link>https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/</link>
-<guid>https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40374946">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 03:29:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
