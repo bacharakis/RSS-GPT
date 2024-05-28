@@ -7213,3 +7213,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Notepad Tab](https://notepadtab.com/)
 append_entries: 5
 Finish: 2024-05-27 22:02:22.888583
+------------------------------------------------------
+Started: 2024-05-28 00:28:54.504477
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Truth, Math, and Models (Part 8 in a series on the scientific method)](http://blog.rongarret.info/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Last Hours of an Organ Donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Egypt is building a $1B mega-museum](https://www.nature.com/immersive/d41586-024-01467-w/index.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
+append_entries: 4
+Finish: 2024-05-28 00:28:55.598184
