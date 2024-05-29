@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>You can force employees back to the office, but not the good ones</title>
+<link>https://www.rte.ie/brainstorm/2024/0521/1450272-return-to-office-mandates-employees-work-from-home/</link>
+<guid>https://www.rte.ie/brainstorm/2024/0521/1450272-return-to-office-mandates-employees-work-from-home/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40509409">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 07:28:56 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 07:28:56 +0000</pubDate>
+</item>
+<item>
+<title>Ex-OpenAI board member provides her first detailed account of CEO ouster</title>
+<link>https://www.reuters.com/technology/ex-openai-board-member-provides-her-first-detailed-account-ceo-ouster-2024-05-29/</link>
+<guid>https://www.reuters.com/technology/ex-openai-board-member-provides-her-first-detailed-account-ceo-ouster-2024-05-29/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40508719">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 05:17:02 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 05:17:02 +0000</pubDate>
+</item>
+<item>
+<title>webview: Tiny cross-platform webview library for C/C++</title>
+<link>https://github.com/webview/webview</link>
+<guid>https://github.com/webview/webview</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40507170">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 01:00:37 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 01:00:37 +0000</pubDate>
+</item>
+<item>
+<title>NSA Ghidra open-source reverse engineering framework</title>
+<link>https://ghidra-sre.org/</link>
+<guid>https://ghidra-sre.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40508777">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 05:28:40 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 05:28:40 +0000</pubDate>
+</item>
+<item>
+<title>Beginner's guide to the Shenandoah garbage collector</title>
+<link>https://developers.redhat.com/articles/2024/05/28/beginners-guide-shenandoah-garbage-collector</link>
+<guid>https://developers.redhat.com/articles/2024/05/28/beginners-guide-shenandoah-garbage-collector</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40498533">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 08:09:46 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 08:09:46 +0000</pubDate>
+</item>
+<item>
+<title>Former OpenAI board member explains why they fired Sam Altman</title>
+<link>https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired</link>
+<guid>https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40509399">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 07:26:49 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 07:26:49 +0000</pubDate>
+</item>
+
+<item>
 <title>AI headphones let you listen to a single person in crowd, by looking at them</title>
 <link>https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/</link>
 <guid>https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40508278">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 03:52:36 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 03:52:36 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a</link>
 <guid>https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40507319">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 01:27:09 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 01:27:09 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/</link>
 <guid>https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40508390">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 04:14:16 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 04:14:16 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://github.com/tan-ad/SignWave</link>
 <guid>https://github.com/tan-ad/SignWave</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40497769">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 06:00:19 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 06:00:19 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://www.EmbeddedRelated.com/showarticle/1668.php</link>
 <guid>https://www.EmbeddedRelated.com/showarticle/1668.php</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40507391">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 01:36:21 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 01:36:21 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +121,10 @@
 <link>https://www.abc.net.au/news/2024-05-27/wa-indigenous-app-linking-science-and-culture/103869762</link>
 <guid>https://www.abc.net.au/news/2024-05-27/wa-indigenous-app-linking-science-and-culture/103869762</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40508241">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 29 May 2024 03:45:44 +0000</pubDate>
-<pubDate>Wed, 29 May 2024 03:45:44 +0000</pubDate>
 </item>
-
 <item>
 <title>ChatTTS-Best open source TTS Model</title>
 <link>https://github.com/2noise/ChatTTS</link>
@@ -9016,60 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40380016">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 16 May 2024 16:07:15 +0000</pubDate>
-</item>
-<item>
-<title>Google Gemini: Context Caching</title>
-<link>https://ai.google.dev/gemini-api/docs/caching</link>
-<guid>https://ai.google.dev/gemini-api/docs/caching</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40364220">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 07:56:22 +0000</pubDate>
-</item>
-<item>
-<title>The most confusing emojis in every US state in 2024</title>
-<link>https://preply.com/en/blog/most-confusing-emojis-2024/</link>
-<guid>https://preply.com/en/blog/most-confusing-emojis-2024/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40381671">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 18:34:56 +0000</pubDate>
-</item>
-<item>
-<title>Crypto Brothers Front-Ran the Front-Runners</title>
-<link>https://www.bloomberg.com/opinion/articles/2024-05-16/crypto-brothers-front-ran-the-front-runners</link>
-<guid>https://www.bloomberg.com/opinion/articles/2024-05-16/crypto-brothers-front-ran-the-front-runners</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40380975">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 17:32:21 +0000</pubDate>
-</item>
-<item>
-<title>High-Quality Software Engineering (2007)</title>
-<link>https://www.lurklurk.org/hqse/hqse.html</link>
-<guid>https://www.lurklurk.org/hqse/hqse.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40363458">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 05:39:44 +0000</pubDate>
-</item>
-<item>
-<title>You probably don't need to validate UTF-8 strings</title>
-<link>https://viralinstruction.com/posts/utf8/</link>
-<guid>https://viralinstruction.com/posts/utf8/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40381511">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 18:21:17 +0000</pubDate>
-</item>
-<item>
-<title>Companies need AI services revenues, not cost savings</title>
-<link>https://www.ft.com/content/f8e4dac5-5869-4db9-b4ba-1398408e3962</link>
-<guid>https://www.ft.com/content/f8e4dac5-5869-4db9-b4ba-1398408e3962</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40381747">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 18:43:11 +0000</pubDate>
 </item>
 </channel>
 </rss>
