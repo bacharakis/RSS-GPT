@@ -7600,3 +7600,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Love Spells and Deadly Shrieks: Illustrations of Mandrakes (Ca. 650–1927)](https://publicdomainreview.org/collection/mandrakes/)
 append_entries: 2
 Finish: 2024-05-29 04:09:50.133046
+------------------------------------------------------
+Started: 2024-05-29 06:08:40.551786
+Existing_entries: 1002
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [USB disk as /dev/sda on a not-rooted smartphone using Termux, QEMU, Alpine Linux](https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [SignWave: Program to transcribe text, audio files into a sign language animation](https://github.com/tan-ad/SignWave)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to use I2C devices in (Apache) NuttX: Adding support for an I2C device](https://www.EmbeddedRelated.com/showarticle/1668.php)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [App designed by Indigenous people in W. Australia preserves language, culture](https://www.abc.net.au/news/2024-05-27/wa-indigenous-app-linking-science-and-culture/103869762)
+append_entries: 6
+Finish: 2024-05-29 06:08:42.079494

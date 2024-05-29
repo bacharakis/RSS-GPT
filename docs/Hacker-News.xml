@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>AI headphones let you listen to a single person in crowd, by looking at them</title>
+<link>https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/</link>
+<guid>https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40508278">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 03:52:36 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 03:52:36 +0000</pubDate>
+</item>
+<item>
+<title>USB disk as /dev/sda on a not-rooted smartphone using Termux, QEMU, Alpine Linux</title>
+<link>https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a</link>
+<guid>https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40507319">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 01:27:09 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 01:27:09 +0000</pubDate>
+</item>
+<item>
+<title>What We Learned from a Year of Building with LLMs</title>
+<link>https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/</link>
+<guid>https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40508390">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 04:14:16 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 04:14:16 +0000</pubDate>
+</item>
+<item>
+<title>SignWave: Program to transcribe text, audio files into a sign language animation</title>
+<link>https://github.com/tan-ad/SignWave</link>
+<guid>https://github.com/tan-ad/SignWave</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40497769">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 06:00:19 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 06:00:19 +0000</pubDate>
+</item>
+<item>
+<title>How to use I2C devices in (Apache) NuttX: Adding support for an I2C device</title>
+<link>https://www.EmbeddedRelated.com/showarticle/1668.php</link>
+<guid>https://www.EmbeddedRelated.com/showarticle/1668.php</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40507391">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 01:36:21 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 01:36:21 +0000</pubDate>
+</item>
+<item>
+<title>App designed by Indigenous people in W. Australia preserves language, culture</title>
+<link>https://www.abc.net.au/news/2024-05-27/wa-indigenous-app-linking-science-and-culture/103869762</link>
+<guid>https://www.abc.net.au/news/2024-05-27/wa-indigenous-app-linking-science-and-culture/103869762</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40508241">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 03:45:44 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 03:45:44 +0000</pubDate>
+</item>
+
+<item>
 <title>ChatTTS-Best open source TTS Model</title>
 <link>https://github.com/2noise/ChatTTS</link>
 <guid>https://github.com/2noise/ChatTTS</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40507039">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 00:37:58 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 00:37:58 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +85,10 @@
 <link>https://publicdomainreview.org/collection/mandrakes/</link>
 <guid>https://publicdomainreview.org/collection/mandrakes/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40497422">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 04:48:54 +0000</pubDate>
-<pubDate>Tue, 28 May 2024 04:48:54 +0000</pubDate>
 </item>
-
 <item>
 <title>Temu's semi-managed model could change everything</title>
 <link>https://techbuzzchina.substack.com/p/how-temus-semi-managed-model-could</link>
@@ -9008,24 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40381747">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 16 May 2024 18:43:11 +0000</pubDate>
-</item>
-<item>
-<title>Build WebGPU Apps Today with PlayCanvas</title>
-<link>https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/</link>
-<guid>https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40379982">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 16:04:47 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT-4o vs. Math</title>
-<link>https://www.sabrina.dev/p/chatgpt4o-vs-math</link>
-<guid>https://www.sabrina.dev/p/chatgpt4o-vs-math</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40379599">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 15:30:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
