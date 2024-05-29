@@ -7588,3 +7588,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Tesla Settles Fatal Crash Suit Ahead of California Trial](https://www.ttnews.com/articles/tesla-fatal-suit-trial)
 append_entries: 5
 Finish: 2024-05-29 02:24:49.105245
+------------------------------------------------------
+Started: 2024-05-29 04:09:49.377123
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ChatTTS-Best open source TTS Model](https://github.com/2noise/ChatTTS)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Love Spells and Deadly Shrieks: Illustrations of Mandrakes (Ca. 650–1927)](https://publicdomainreview.org/collection/mandrakes/)
+append_entries: 2
+Finish: 2024-05-29 04:09:50.133046
