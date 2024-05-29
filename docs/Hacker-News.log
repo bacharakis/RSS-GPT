@@ -7693,3 +7693,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Samsung Electronics union announces first-ever strike](https://techxplore.com/news/2024-05-samsung-electronics-union.html)
 append_entries: 8
 Finish: 2024-05-29 12:11:04.799994
+------------------------------------------------------
+Started: 2024-05-29 14:02:29.265354
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hello World, Simple Event Broker](https://blog.vbang.dk//2024/05/26/seb/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenAI training its next major AI model, forms new safety committee](https://arstechnica.com/information-technology/2024/05/openai-training-its-next-major-ai-model-forms-new-safety-committee/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Training /= chatting: ChatGPT and other LLMs don't remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
+append_entries: 4
+Finish: 2024-05-29 14:02:30.350459

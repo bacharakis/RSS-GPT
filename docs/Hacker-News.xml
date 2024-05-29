@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>AdFlush</title>
+<link>https://dl.acm.org/doi/abs/10.1145/3589334.3645698</link>
+<guid>https://dl.acm.org/doi/abs/10.1145/3589334.3645698</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40497957">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 28 May 2024 06:32:29 +0000</pubDate>
+<pubDate>Tue, 28 May 2024 06:32:29 +0000</pubDate>
+</item>
+<item>
+<title>Hello World, Simple Event Broker</title>
+<link>https://blog.vbang.dk//2024/05/26/seb/</link>
+<guid>https://blog.vbang.dk//2024/05/26/seb/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40510536">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 10:54:23 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 10:54:23 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI training its next major AI model, forms new safety committee</title>
+<link>https://arstechnica.com/information-technology/2024/05/openai-training-its-next-major-ai-model-forms-new-safety-committee/</link>
+<guid>https://arstechnica.com/information-technology/2024/05/openai-training-its-next-major-ai-model-forms-new-safety-committee/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40511370">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 12:44:23 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 12:44:23 +0000</pubDate>
+</item>
+<item>
+<title>Training /= chatting: ChatGPT and other LLMs don't remember everything you say</title>
+<link>https://simonwillison.net/2024/May/29/training-not-chatting/</link>
+<guid>https://simonwillison.net/2024/May/29/training-not-chatting/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40510668">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 11:14:44 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 11:14:44 +0000</pubDate>
+</item>
+
+<item>
 <title>Google Search document leak reveals inner workings of ranking algorithm</title>
 <link>https://searchengineland.com/google-search-document-leak-ranking-442617</link>
 <guid>https://searchengineland.com/google-search-document-leak-ranking-442617</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40510125">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 09:36:14 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 09:36:14 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams</link>
 <guid>https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40510994">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 12:00:47 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 12:00:47 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/</link>
 <guid>https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40497579">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 05:24:30 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 05:24:30 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/</link>
 <guid>https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40497525">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 05:13:34 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 05:13:34 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +90,8 @@
 <link>https://github.com/panglesd/slipshow</link>
 <guid>https://github.com/panglesd/slipshow</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40509638">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 08:12:20 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 08:12:20 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +99,8 @@
 <link>https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive</link>
 <guid>https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40510617">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 11:06:26 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 11:06:26 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +108,8 @@
 <link>https://companiesmarketcap.com/amd/marketcap/</link>
 <guid>https://companiesmarketcap.com/amd/marketcap/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40510771">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 11:30:30 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 11:30:30 +0000</pubDate>
 </item>
 <item>
@@ -86,13 +117,10 @@
 <link>https://techxplore.com/news/2024-05-samsung-electronics-union.html</link>
 <guid>https://techxplore.com/news/2024-05-samsung-electronics-union.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40509865">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 29 May 2024 08:54:23 +0000</pubDate>
-<pubDate>Wed, 29 May 2024 08:54:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Three Laws of Software Complexity</title>
 <link>https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html</link>
@@ -9020,78 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40383029">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 16 May 2024 20:56:17 +0000</pubDate>
-</item>
-<item>
-<title>Llama 3 implemented in pure NumPy</title>
-<link>https://docs.likejazz.com/llama3.np/</link>
-<guid>https://docs.likejazz.com/llama3.np/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40378499">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 13:53:22 +0000</pubDate>
-</item>
-<item>
-<title>Egypt's pyramids may have been built on a long-lost branch of the Nile</title>
-<link>https://www.nature.com/articles/d41586-024-01449-y</link>
-<guid>https://www.nature.com/articles/d41586-024-01449-y</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40379488">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 15:20:45 +0000</pubDate>
-</item>
-<item>
-<title>Wind farms can offset their emissions within two years, new study shows</title>
-<link>https://newsroom.taylorandfrancisgroup.com/wind-farms-can-offset-their-emissions-within-two-years-new-study-shows/</link>
-<guid>https://newsroom.taylorandfrancisgroup.com/wind-farms-can-offset-their-emissions-within-two-years-new-study-shows/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40381166">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 17:48:04 +0000</pubDate>
-</item>
-<item>
-<title>The Tragic Downfall of the Internet's Art Gallery</title>
-<link>https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html</link>
-<guid>https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40380744">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 17:12:22 +0000</pubDate>
-</item>
-<item>
-<title>Germany's Sovereign Tech Fund Now Supporting FFmpeg</title>
-<link>https://www.phoronix.com/news/Germany-STF-For-FFmpeg</link>
-<guid>https://www.phoronix.com/news/Germany-STF-For-FFmpeg</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40382568">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 20:09:19 +0000</pubDate>
-</item>
-<item>
-<title>Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring</title>
-<link>https://skio.com/careers/</link>
-<guid>https://skio.com/careers/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40383078">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 21:01:29 +0000</pubDate>
-</item>
-<item>
-<title>JEP Draft: Support HTTP/3 in the HttpClient</title>
-<link>https://openjdk.org/jeps/8291976</link>
-<guid>https://openjdk.org/jeps/8291976</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40382246">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 19:35:21 +0000</pubDate>
-</item>
-<item>
-<title>Exit Strategy: The Case for Single-Stair Egress</title>
-<link>https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress</link>
-<guid>https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40382163">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 19:29:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
