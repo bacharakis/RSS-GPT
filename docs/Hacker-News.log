@@ -7711,3 +7711,48 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Training /= chatting: ChatGPT and other LLMs don't remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
 append_entries: 4
 Finish: 2024-05-29 14:02:30.350459
+------------------------------------------------------
+Started: 2024-05-29 16:07:47.583031
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [20 Years of Blogging on my own website](https://jeena.net/20-years-blogging)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Canada wants the power to create backdoors in telecom networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Biggest Bookstore. 10 years after closing, it has a grip on readers](https://www.thestar.com/news/gta/going-to-the-world-s-biggest-bookstore-was-an-event-10-years-after-closing-it/article_5c3647a0-01a7-11ef-b85d-33ecf09526c7.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [In one of the US's hottest deserts, utilities push gas rather than solar](https://www.theguardian.com/us-news/article/2024/may/23/gas-peaker-plant-republicans-fort-mohave-arizona)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Smoking weed every day makes me less presentable and less productive. I love it](https://www.theguardian.com/us-news/article/2024/may/29/smoking-weed-every-day)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Today's AI Isn't Sentient](https://time.com/collection/time100-voices/6980134/ai-llm-not-sentient/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Three.js Shading Language](https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nalanda: The university that changed the world](https://www.bbc.com/travel/article/20230222-nalanda-the-university-that-changed-the-world)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Qlock – A JavaScript Quine Clock](http://aem1k.com/qlock/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New Earplugs Won't Amplify the Sound of Your Own Voice](https://www.scientificamerican.com/article/new-earplugs-wont-amplify-the-sound-of-your-own-voice/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Rise of the Disposable Car](https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Phone cameras can take in more light than the human eye](https://theconversation.com/phone-cameras-can-take-in-more-light-than-the-human-eye-thats-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera-230068)
+append_entries: 13
+Finish: 2024-05-29 16:07:50.544340
