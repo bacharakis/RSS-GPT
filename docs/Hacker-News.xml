@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>What We're Working on in Firefox</title>
+<link>https://blog.mozilla.org/en/mozilla/heres-what-were-working-on-in-firefox/</link>
+<guid>https://blog.mozilla.org/en/mozilla/heres-what-were-working-on-in-firefox/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40527730">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 19:32:05 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 19:32:05 +0000</pubDate>
+</item>
+<item>
+<title>James Webb Space Telescope Finds Most Distant Known Galaxy</title>
+<link>https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/</link>
+<guid>https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40526488">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 17:40:16 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 17:40:16 +0000</pubDate>
+</item>
+<item>
+<title>Windows 11 disabled all ways to get around Auto Restarts. Is there a workaround?</title>
+<link>https://superuser.com/questions/1843873/windows-11-seems-to-have-disabled-all-ways-to-get-around-auto-update-restarts-i</link>
+<guid>https://superuser.com/questions/1843873/windows-11-seems-to-have-disabled-all-ways-to-get-around-auto-update-restarts-i</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40527904">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 19:52:25 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 19:52:25 +0000</pubDate>
+</item>
+<item>
+<title>New York governor to launch bill banning smartphones in schools</title>
+<link>https://www.theguardian.com/us-news/article/2024/may/30/new-york-smartphone-school-ban-bill</link>
+<guid>https://www.theguardian.com/us-news/article/2024/may/30/new-york-smartphone-school-ban-bill</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40527743">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 19:33:53 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 19:33:53 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Webhooks for Any Event</title>
+<link>https://markets.sh/notifications/api</link>
+<guid>https://markets.sh/notifications/api</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40524681">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 15:10:55 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 15:10:55 +0000</pubDate>
+</item>
+<item>
+<title>'Smart' antibiotic can kill deadly bacteria while sparing the microbiome</title>
+<link>https://www.nature.com/articles/d41586-024-01566-8</link>
+<guid>https://www.nature.com/articles/d41586-024-01566-8</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40527242">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 18:43:32 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 18:43:32 +0000</pubDate>
+</item>
+
+<item>
 <title>Don't DRY Your Code Prematurely</title>
 <link>https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html</link>
 <guid>https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40525064">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 15:45:54 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 15:45:54 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/</link>
 <guid>https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40526068">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 17:06:26 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 17:06:26 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024</link>
 <guid>https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40522071">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 10:25:11 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 10:25:11 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/</link>
 <guid>https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40525802">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 16:46:17 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 16:46:17 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://news.ycombinator.com/item?id=40525788</link>
 <guid>https://news.ycombinator.com/item?id=40525788</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40525788">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 16:44:58 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 16:44:58 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +121,8 @@
 <link>https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</link>
 <guid>https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40524759">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 15:17:39 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 15:17:39 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +130,8 @@
 <link>https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/</link>
 <guid>https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40524238">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 14:33:46 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 14:33:46 +0000</pubDate>
 </item>
 <item>
@@ -86,13 +139,10 @@
 <link>https://news.ycombinator.com/item?id=40524501</link>
 <guid>https://news.ycombinator.com/item?id=40524501</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40524501">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 14:54:13 +0000</pubDate>
-<pubDate>Thu, 30 May 2024 14:54:13 +0000</pubDate>
 </item>
-
 <item>
 <title>Mystery malware destroys 600k routers from a single ISP during 72-hour span</title>
 <link>https://blog.lumen.com/the-pumpkin-eclipse/</link>
@@ -9020,78 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40395234">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 23:44:10 +0000</pubDate>
-</item>
-<item>
-<title>Truemetrics (YC S23) is hiring a back end engineer</title>
-<link>https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills</link>
-<guid>https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40396989">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 07:00:31 +0000</pubDate>
-</item>
-<item>
-<title>Japanese court rules that AI cannot be issued patents</title>
-<link>https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/</link>
-<guid>https://japannews.yomiuri.co.jp/society/crime-courts/20240517-186568/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40395991">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 02:10:07 +0000</pubDate>
-</item>
-<item>
-<title>FBI seizes hacking forum BreachForums – again</title>
-<link>https://techcrunch.com/2024/05/15/fbi-seizes-hacking-forum-breachforums-again/</link>
-<guid>https://techcrunch.com/2024/05/15/fbi-seizes-hacking-forum-breachforums-again/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40372920">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 21:58:35 +0000</pubDate>
-</item>
-<item>
-<title>Write Plain Text Files</title>
-<link>https://sive.rs/plaintext</link>
-<guid>https://sive.rs/plaintext</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40396601">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 05:21:12 +0000</pubDate>
-</item>
-<item>
-<title>First proof that "plunging regions" exist around black holes in space</title>
-<link>https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space</link>
-<guid>https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40396227">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 03:15:14 +0000</pubDate>
-</item>
-<item>
-<title>The Time I Convinced the CTO Not to Outsource Our Developers</title>
-<link>https://GrumpyOldDev.com/post/the-one-where-i-convince-the-cto-not-to-outsource/</link>
-<guid>https://GrumpyOldDev.com/post/the-one-where-i-convince-the-cto-not-to-outsource/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40396212">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 03:09:38 +0000</pubDate>
-</item>
-<item>
-<title>NetBSD bans use of Copilot-generated code</title>
-<link>https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/</link>
-<guid>https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40377831">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 13:00:28 +0000</pubDate>
-</item>
-<item>
-<title>Zoraxy: Open-Source, All in one homelab network routing solution</title>
-<link>https://zoraxy.arozos.com/</link>
-<guid>https://zoraxy.arozos.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40396005">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 02:13:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
