@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>FrankenPHP: Modern PHP App Server</title>
+<link>https://frankenphp.dev/</link>
+<guid>https://frankenphp.dev/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40519722">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 03:10:32 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 03:10:32 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Resource Index – FOSS Git Repository and NPM Package Index</title>
+<link>https://res-index.hkit.cc/</link>
+<guid>https://res-index.hkit.cc/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40519749">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 03:18:40 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 03:18:40 +0000</pubDate>
+</item>
+<item>
+<title>Johnny Cash – Strawberry Cake</title>
+<link>https://playingintheworldgame.com/2015/04/21/johnny-cash-strawberry-cake/</link>
+<guid>https://playingintheworldgame.com/2015/04/21/johnny-cash-strawberry-cake/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40509123">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 06:34:02 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 06:34:02 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: Can a website kill my internet connection? (WebRTC)</title>
+<link>https://news.ycombinator.com/item?id=40510627</link>
+<guid>https://news.ycombinator.com/item?id=40510627</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40510627">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 11:09:14 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 11:09:14 +0000</pubDate>
+</item>
+
+<item>
 <title>Sam Altman's constant lies created toxic culture, reveals OpenAI ex-Board member</title>
 <link>https://www.thenews.com.pk/latest/1194787-sam-altmans-constant-lies-created-toxic-culture-reveals-openais-ex-board-member</link>
 <guid>https://www.thenews.com.pk/latest/1194787-sam-altmans-constant-lies-created-toxic-culture-reveals-openais-ex-board-member</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40519156">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 01:26:36 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 01:26:36 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://kottke.org/24/05/my-bike-is-everything-to-me</link>
 <guid>https://kottke.org/24/05/my-bike-is-everything-to-me</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40518849">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 00:39:19 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 00:39:19 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +72,10 @@
 <link>https://www.theatlantic.com/technology/archive/2024/05/a-devils-bargain-with-openai/678537/</link>
 <guid>https://www.theatlantic.com/technology/archive/2024/05/a-devils-bargain-with-openai/678537/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40519410">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 02:07:28 +0000</pubDate>
-<pubDate>Thu, 30 May 2024 02:07:28 +0000</pubDate>
 </item>
-
 <item>
 <title>Donating Forks to the Dining Hall</title>
 <link>https://1.coc0o44.preview.ben.page/forks</link>
@@ -9010,33 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40391022">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 15:34:31 +0000</pubDate>
-</item>
-<item>
-<title>A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans</title>
-<link>https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans</link>
-<guid>https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40390820">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 17 May 2024 15:15:11 +0000</pubDate>
-</item>
-<item>
-<title>Static Wordle</title>
-<link>https://www.val.town/v/stevekrouse/staticWordle</link>
-<guid>https://www.val.town/v/stevekrouse/staticWordle</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40389119">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 17 May 2024 12:23:13 +0000</pubDate>
-</item>
-<item>
-<title>Rust 1.78: Performance Impact of the 128-Bit Memory Alignment Fix</title>
-<link>https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix</link>
-<guid>https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40390731">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 17 May 2024 15:06:26 +0000</pubDate>
 </item>
 </channel>
 </rss>
