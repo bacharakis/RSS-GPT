@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Don't DRY Your Code Prematurely</title>
+<link>https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html</link>
+<guid>https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40525064">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 15:45:54 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 15:45:54 +0000</pubDate>
+</item>
+<item>
+<title>Disrupting deceptive uses of AI by covert influence operations</title>
+<link>https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/</link>
+<guid>https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40526068">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 17:06:26 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 17:06:26 +0000</pubDate>
+</item>
+<item>
+<title>Geometry for Entertainment (1950)</title>
+<link>https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024</link>
+<guid>https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40522071">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 10:25:11 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 10:25:11 +0000</pubDate>
+</item>
+<item>
+<title>Unexpected Anti-Patterns for Engineering Leaders</title>
+<link>https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/</link>
+<guid>https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40525802">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 16:46:17 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 16:46:17 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: Why are all major operating systems monolithic?</title>
+<link>https://news.ycombinator.com/item?id=40525788</link>
+<guid>https://news.ycombinator.com/item?id=40525788</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40525788">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 16:44:58 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 16:44:58 +0000</pubDate>
+</item>
+<item>
+<title>Better RAG Results with Reciprocal Rank Fusion and Hybrid Search</title>
+<link>https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</link>
+<guid>https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40524759">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 15:17:39 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 15:17:39 +0000</pubDate>
+</item>
+<item>
+<title>Physicists Puzzle over Emergence of Electron Aggregates</title>
+<link>https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/</link>
+<guid>https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40524238">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 14:33:46 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 14:33:46 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: What do devs use for quickly setting up a feedback form?</title>
+<link>https://news.ycombinator.com/item?id=40524501</link>
+<guid>https://news.ycombinator.com/item?id=40524501</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40524501">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 14:54:13 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 14:54:13 +0000</pubDate>
+</item>
+
+<item>
 <title>Mystery malware destroys 600k routers from a single ISP during 72-hour span</title>
 <link>https://blog.lumen.com/the-pumpkin-eclipse/</link>
 <guid>https://blog.lumen.com/the-pumpkin-eclipse/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40525130">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 15:52:29 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 15:52:29 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html</link>
 <guid>https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40523047">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 12:50:37 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 12:50:37 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/</link>
 <guid>https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40524823">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 15:24:36 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 15:24:36 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://quadra-two.vercel.app/</link>
 <guid>https://quadra-two.vercel.app/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40523920">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 14:09:35 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 14:09:35 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://news.ycombinator.com/item?id=40524292</link>
 <guid>https://news.ycombinator.com/item?id=40524292</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40524292">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 14:37:25 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 14:37:25 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://www.bloomberg.com/news/articles/2024-05-29/salesforce-gives-weak-sales-outlook-with-slowdown-fears-growing</link>
 <guid>https://www.bloomberg.com/news/articles/2024-05-29/salesforce-gives-weak-sales-outlook-with-slowdown-fears-growing</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40524949">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 15:36:04 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 15:36:04 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +152,8 @@
 <link>https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753</link>
 <guid>https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40523743">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 13:53:57 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 13:53:57 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +161,8 @@
 <link>https://www.digitalcameraworld.com/news/black-eye-panasonic-caught-red-handed-using-a-nikon-photo-to-promote-multiple-cameras</link>
 <guid>https://www.digitalcameraworld.com/news/black-eye-panasonic-caught-red-handed-using-a-nikon-photo-to-promote-multiple-cameras</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40523510">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 13:30:45 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 13:30:45 +0000</pubDate>
 </item>
 <item>
@@ -97,13 +170,10 @@
 <link>https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html</link>
 <guid>https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40524219">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 14:32:28 +0000</pubDate>
-<pubDate>Thu, 30 May 2024 14:32:28 +0000</pubDate>
 </item>
-
 <item>
 <title>Show HN: ChatGPT UI for Rabbit Holes</title>
 <link>https://delve.a9.io/</link>
@@ -9022,87 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40396005">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 02:13:13 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI departures: Why can’t former employees talk?</title>
-<link>https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release</link>
-<guid>https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40393121">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 17 May 2024 18:55:02 +0000</pubDate>
-</item>
-<item>
-<title>Analyzing Prolific HN Commenters in Real Time</title>
-<link>https://github.com/bytewax/hacking-hacker-news</link>
-<guid>https://github.com/bytewax/hacking-hacker-news</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40379987">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 16:05:04 +0000</pubDate>
-</item>
-<item>
-<title>Wine 9.9 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS</title>
-<link>https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9</link>
-<guid>https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40394885">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 17 May 2024 22:49:55 +0000</pubDate>
-</item>
-<item>
-<title>Multi AI Agent Systems Using OpenAI's New GPT-4o Model</title>
-<link>https://github.com/metaskills/experts</link>
-<guid>https://github.com/metaskills/experts</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40395107">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 17 May 2024 23:25:32 +0000</pubDate>
-</item>
-<item>
-<title>Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity</title>
-<link>https://x.com/KelseyTuoc/status/1791584357184127269</link>
-<guid>https://x.com/KelseyTuoc/status/1791584357184127269</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40394778">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 17 May 2024 22:34:51 +0000</pubDate>
-</item>
-<item>
-<title>Expedia Group fired their CTO, Rathi Murthy</title>
-<link>https://www.phocuswire.com/rathi-murthy-expedia-group-cto</link>
-<guid>https://www.phocuswire.com/rathi-murthy-expedia-group-cto</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40394277">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 17 May 2024 21:14:31 +0000</pubDate>
-</item>
-<item>
-<title>The Unusual Evolutionary Journey of the Baobab Tree</title>
-<link>https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html</link>
-<guid>https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40373139">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 15 May 2024 22:23:07 +0000</pubDate>
-</item>
-<item>
-<title>An Animated QR Code of Bad Apple</title>
-<link>https://a.exozy.me/posts/bad-apple-animated-qr-code/</link>
-<guid>https://a.exozy.me/posts/bad-apple-animated-qr-code/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40377122">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 11:32:52 +0000</pubDate>
-</item>
-<item>
-<title>Wuffs: Wrangling Untrusted File Formats Safely</title>
-<link>https://github.com/google/wuffs</link>
-<guid>https://github.com/google/wuffs</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40378433">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 13:48:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
