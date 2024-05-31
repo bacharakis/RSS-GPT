@@ -8155,3 +8155,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Older gamers are a growth opportunity for AAA publishers](https://www.midiaresearch.com/blog/older-gamers-are-a-growth-opportunity-for-aaa-publishers-here-is-how-to-capture-it)
 append_entries: 7
 Finish: 2024-05-30 22:06:54.558488
+------------------------------------------------------
+Started: 2024-05-31 00:28:38.619214
+Existing_entries: 1007
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Washing machine chime scandal shows how absurd YouTube copyright abuse can get](https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NPGA: Neural Parametric Gaussian Avatars – high-fidelity digital faces](https://arxiv.org/abs/2405.19331)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A Week with Elixir (Joe Armstrong)](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Claude AI Claims Anthropic Is Wrong for Charging a Premium Plan for Claude AI](https://targettrend.com/claude-ai-claims-anthropic-is-wrong-for-charging-a-premium-plan-for-claude-ai/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Transmission of Mental Disorders in Adolescent Peer Networks](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2818735)
+append_entries: 6
+Finish: 2024-05-31 00:28:40.257071
