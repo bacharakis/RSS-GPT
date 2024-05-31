@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Heroku Postgres is now based on AWS Aurora</title>
+<link>https://blog.heroku.com/heroku-postgres-essential-launch</link>
+<guid>https://blog.heroku.com/heroku-postgres-essential-launch</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40539172">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 19:17:20 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 19:17:20 +0000</pubDate>
+</item>
+<item>
+<title>GNU Nano 8 comes with modern key bindings</title>
+<link>https://www.nano-editor.org/news.php</link>
+<guid>https://www.nano-editor.org/news.php</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40539729">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 20:15:41 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 20:15:41 +0000</pubDate>
+</item>
+<item>
+<title>Can confirm Indeed is selling user information</title>
+<link>https://old.reddit.com/r/recruitinghell/comments/11nsi47/can_confirm_indeed_is_selling_user_information/</link>
+<guid>https://old.reddit.com/r/recruitinghell/comments/11nsi47/can_confirm_indeed_is_selling_user_information/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40539575">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 19:59:15 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 19:59:15 +0000</pubDate>
+</item>
+<item>
+<title>Cyber house of cards – Politicians' personal details exposed online</title>
+<link>https://proton.me/blog/politicians-exposed-dark-web</link>
+<guid>https://proton.me/blog/politicians-exposed-dark-web</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40540172">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 20:59:41 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 20:59:41 +0000</pubDate>
+</item>
+<item>
+<title>Windrecorder – Personal Memory Search Engine</title>
+<link>https://github.com/yuka-friends/Windrecorder</link>
+<guid>https://github.com/yuka-friends/Windrecorder</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40538889">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 18:48:46 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 18:48:46 +0000</pubDate>
+</item>
+
+<item>
 <title>Bento: Open-source fork of the project formerly known as Benthos</title>
 <link>https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos</link>
 <guid>https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40537911">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 17:26:46 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 17:26:46 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://blog.nradk.com/posts/degoogling/</link>
 <guid>https://blog.nradk.com/posts/degoogling/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40539031">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 19:02:53 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 19:02:53 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/</link>
 <guid>https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40535436">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 14:12:32 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 14:12:32 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/</link>
 <guid>https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40514033">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 16:49:04 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 16:49:04 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +101,8 @@
 <link>https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/</link>
 <guid>https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40537502">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 16:57:48 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 16:57:48 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +110,10 @@
 <link>https://apo.org.au/sites/default/files/resource-files/2024-05/apo-nid326992.pdf</link>
 <guid>https://apo.org.au/sites/default/files/resource-files/2024-05/apo-nid326992.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40537134">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 16:29:26 +0000</pubDate>
-<pubDate>Fri, 31 May 2024 16:29:26 +0000</pubDate>
 </item>
-
 <item>
 <title>Legal models hallucinate in 1 out of 6 (or more) benchmarking queries</title>
 <link>https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries</link>
@@ -9016,60 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40404522">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 19 May 2024 05:46:25 +0000</pubDate>
-</item>
-<item>
-<title>Is artificial consciousness achievable? Lessons from the human brain</title>
-<link>https://arxiv.org/abs/2405.04540</link>
-<guid>https://arxiv.org/abs/2405.04540</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40403962">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 19 May 2024 03:18:04 +0000</pubDate>
-</item>
-<item>
-<title>RISC vs. CISC by John R. Mashey (1995)</title>
-<link>https://yarchive.net/comp/risc_definition.html</link>
-<guid>https://yarchive.net/comp/risc_definition.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40404450">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 19 May 2024 05:20:00 +0000</pubDate>
-</item>
-<item>
-<title>Ken Silverman's Official Home Page</title>
-<link>http://advsys.net/ken/</link>
-<guid>http://advsys.net/ken/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40397000">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 07:03:15 +0000</pubDate>
-</item>
-<item>
-<title>"No Mow May" Won't Fix Our Biodiversity Problems</title>
-<link>https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/</link>
-<guid>https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40405340">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 19 May 2024 08:36:34 +0000</pubDate>
-</item>
-<item>
-<title>Getting Materials Out of the Lab</title>
-<link>https://worksinprogress.co/issue/getting-materials-out-of-the-lab/</link>
-<guid>https://worksinprogress.co/issue/getting-materials-out-of-the-lab/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40397576">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 09:19:08 +0000</pubDate>
-</item>
-<item>
-<title>Katy – 68000 Linux on a Solderless Breadboard</title>
-<link>https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/</link>
-<guid>https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40404423">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 19 May 2024 05:12:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
