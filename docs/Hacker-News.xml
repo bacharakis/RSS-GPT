@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Things you wish you didn't need to know about S3</title>
+<link>https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/</link>
+<guid>https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40531301">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 03:51:31 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 03:51:31 +0000</pubDate>
+</item>
+<item>
+<title>YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras</title>
+<link>https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/</link>
+<guid>https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40531165">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 03:19:51 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 03:19:51 +0000</pubDate>
+</item>
+<item>
+<title>Myths about platform engineering: what it is and what it isn't</title>
+<link>https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering/</link>
+<guid>https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40531258">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 03:43:52 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 03:43:52 +0000</pubDate>
+</item>
+<item>
+<title>Testing a 1912-style Radio [video]</title>
+<link>https://www.youtube.com/watch?v=U6ZVqr0fPo4</link>
+<guid>https://www.youtube.com/watch?v=U6ZVqr0fPo4</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40519095">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 01:16:47 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 01:16:47 +0000</pubDate>
+</item>
+<item>
+<title>The Special Challenges of Attempting a New Translation of Kafka</title>
+<link>https://lithub.com/the-special-challenges-of-attempting-a-new-translation-of-kafka/</link>
+<guid>https://lithub.com/the-special-challenges-of-attempting-a-new-translation-of-kafka/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40508268">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 29 May 2024 03:50:58 +0000</pubDate>
+<pubDate>Wed, 29 May 2024 03:50:58 +0000</pubDate>
+</item>
+<item>
+<title>The Scully Effect</title>
+<link>https://theastoundinganalogcompanion.com/2018/08/21/the-scully-effect/</link>
+<guid>https://theastoundinganalogcompanion.com/2018/08/21/the-scully-effect/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40531003">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 02:46:54 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 02:46:54 +0000</pubDate>
+</item>
+<item>
+<title>Trinity keeps KDE 3 on life support</title>
+<link>https://lwn.net/Articles/973130/</link>
+<guid>https://lwn.net/Articles/973130/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40530505">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 01:12:16 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 01:12:16 +0000</pubDate>
+</item>
+
+<item>
 <title>Engineering for Slow Internet</title>
 <link>https://brr.fyi/posts/engineering-for-slow-internet</link>
 <guid>https://brr.fyi/posts/engineering-for-slow-internet</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40531100">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 03:06:05 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 03:06:05 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://blog.google/products/search/ai-overviews-update-may-2024/</link>
 <guid>https://blog.google/products/search/ai-overviews-update-may-2024/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40530833">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 02:19:20 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 02:19:20 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://www.nature.com/articles/d41586-024-01493-8</link>
 <guid>https://www.nature.com/articles/d41586-024-01493-8</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40530670">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 01:46:00 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 01:46:00 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://technicshistory.com/2024/05/30/coda-steams-last-stand/</link>
 <guid>https://technicshistory.com/2024/05/30/coda-steams-last-stand/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40530130">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 23:59:47 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 23:59:47 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +123,8 @@
 <link>https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e</link>
 <guid>https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40531175">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 03:24:05 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 03:24:05 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +132,8 @@
 <link>https://firstmicroprocessor.com/</link>
 <guid>https://firstmicroprocessor.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40506495">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 28 May 2024 23:00:43 +0000</pubDate>
 <pubDate>Tue, 28 May 2024 23:00:43 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +141,8 @@
 <link>https://chipsandcheese.com/2024/05/30/thoughts-on-skymont-slides/</link>
 <guid>https://chipsandcheese.com/2024/05/30/thoughts-on-skymont-slides/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40530276">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 00:25:54 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 00:25:54 +0000</pubDate>
 </item>
 <item>
@@ -86,13 +150,10 @@
 <link>https://news.ycombinator.com/item?id=40530719</link>
 <guid>https://news.ycombinator.com/item?id=40530719</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40530719">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 01:57:25 +0000</pubDate>
-<pubDate>Fri, 31 May 2024 01:57:25 +0000</pubDate>
 </item>
-
 <item>
 <title>Tesla Auto Wipers: Why They Don't Work and Why There Isn't an Easy Fix</title>
 <link>https://www.notateslaapp.com/news/2045/tesla-auto-wipers-why-they-dont-work-and-why-there-isnt-an-easy-fix</link>
@@ -9020,78 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40401161">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 18 May 2024 18:56:10 +0000</pubDate>
-</item>
-<item>
-<title>Frozen human brain tissue was successfully revived for the first time</title>
-<link>https://bgr.com/science/frozen-human-brain-tissue-was-successfully-revived-for-the-first-time/</link>
-<guid>https://bgr.com/science/frozen-human-brain-tissue-was-successfully-revived-for-the-first-time/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40400591">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 17:41:50 +0000</pubDate>
-</item>
-<item>
-<title>Personality Changes Associated with Organ Transplants</title>
-<link>https://www.mdpi.com/2673-3943/5/1/2</link>
-<guid>https://www.mdpi.com/2673-3943/5/1/2</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40401496">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 19:47:33 +0000</pubDate>
-</item>
-<item>
-<title>Psychedelics could treat some of the worst chronic pain in the world</title>
-<link>https://www.vox.com/future-perfect/2024/5/15/24156372/psychedelics-chronic-pain-cluster-headache-medicine-lsd-psilocybin</link>
-<guid>https://www.vox.com/future-perfect/2024/5/15/24156372/psychedelics-chronic-pain-cluster-headache-medicine-lsd-psilocybin</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40401076">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 18:45:30 +0000</pubDate>
-</item>
-<item>
-<title>I organized a 20-acre game of Capture the Flag</title>
-<link>https://www.ntnbr.com/61/</link>
-<guid>https://www.ntnbr.com/61/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40400139">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 16:21:23 +0000</pubDate>
-</item>
-<item>
-<title>A word game I built to understand semantic distance</title>
-<link>https://celestineplawrence.itch.io/guess-the-word</link>
-<guid>https://celestineplawrence.itch.io/guess-the-word</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40400101">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 16:14:49 +0000</pubDate>
-</item>
-<item>
-<title>Free, Linux Capable, Self-Hosting 64bit RISC-V Computer on an FPGA</title>
-<link>https://www.contrib.andrew.cmu.edu/~somlo/BTCP/</link>
-<guid>https://www.contrib.andrew.cmu.edu/~somlo/BTCP/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40399987">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 15:53:56 +0000</pubDate>
-</item>
-<item>
-<title>International Scientific Report on the Safety of Advanced AI [pdf]</title>
-<link>https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf</link>
-<guid>https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40400438">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 17:16:09 +0000</pubDate>
-</item>
-<item>
-<title>BenQ RD280UA: a 3:2 aspect ratio "programming monitor"</title>
-<link>https://www.benq.com/en-us/monitor/programming/rd280ua.html</link>
-<guid>https://www.benq.com/en-us/monitor/programming/rd280ua.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40399662">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 15:09:46 +0000</pubDate>
 </item>
 </channel>
 </rss>
