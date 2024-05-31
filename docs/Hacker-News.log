@@ -8290,3 +8290,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
 append_entries: 8
 Finish: 2024-05-31 08:08:50.658854
+------------------------------------------------------
+Started: 2024-05-31 10:06:59.919050
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Maybe This Is Too Cool](https://radarblog.substack.com/p/maybe-this-is-too-cool)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Deno 1.44](https://deno.com/blog/v1.44)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Google scales back AI search answers after it told users to eat glue](https://www.washingtonpost.com/technology/2024/05/30/google-halt-ai-search/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Surviving History: The Fever (2014)](http://theappendix.net/special/the-fever/)
+append_entries: 5
+Finish: 2024-05-31 10:07:01.176021
