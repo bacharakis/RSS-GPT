@@ -1973,3 +1973,9 @@ Existing_entries: 29
 Fetching from http://rss.cnn.com/rss/cnn_world.rss
 append_entries: 0
 Finish: 2024-05-31 14:02:21.131079
+------------------------------------------------------
+Started: 2024-05-31 16:05:32.502170
+Existing_entries: 29
+Fetching from http://rss.cnn.com/rss/cnn_world.rss
+append_entries: 0
+Finish: 2024-05-31 16:05:32.637232
