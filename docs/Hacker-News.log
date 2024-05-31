@@ -8440,3 +8440,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [All Santander staff and 30M customers in Spain, Chile and Uruguay hacked](https://www.bbc.com/news/articles/c6ppv06e3n8o)
 append_entries: 16
 Finish: 2024-05-31 18:07:52.758835
+------------------------------------------------------
+Started: 2024-05-31 20:05:10.064779
+Existing_entries: 1016
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [De-googling, so far](https://blog.nradk.com/posts/degoogling/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Carpenter's AirTags help uncover 'massive' case of stolen tools in Maryland](https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why Linux developers do not fix reported issues or ignore bug reports](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How many holes does the universe have?](https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Small modular reactors: Still too expensive, too slow, and too risky [pdf]](https://apo.org.au/sites/default/files/resource-files/2024-05/apo-nid326992.pdf)
+append_entries: 6
+Finish: 2024-05-31 20:05:11.567446
