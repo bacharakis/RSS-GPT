@@ -1997,3 +1997,9 @@ Existing_entries: 29
 Fetching from http://rss.cnn.com/rss/cnn_world.rss
 append_entries: 0
 Finish: 2024-05-31 22:02:35.305353
+------------------------------------------------------
+Started: 2024-06-01 00:31:27.332554
+Existing_entries: 29
+Fetching from http://rss.cnn.com/rss/cnn_world.rss
+append_entries: 0
+Finish: 2024-06-01 00:31:27.468524

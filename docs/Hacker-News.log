@@ -8485,3 +8485,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Windrecorder – Personal Memory Search Engine](https://github.com/yuka-friends/Windrecorder)
 append_entries: 5
 Finish: 2024-05-31 22:02:34.692846
+------------------------------------------------------
+Started: 2024-06-01 00:31:25.244353
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Recall: Stealing everything you've ever typed or viewed on your own Windows PC](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hexadecimal Sucks](https://tylercipriani.com/blog/2024/05/31/hexadecimal-sucks/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: ["Moveable Type" to end 17-year run in The New York Times's lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [London's Evening Standard axes daily print edition](https://www.bbc.com/news/articles/cyrr0yex40yo)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Go: Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
+append_entries: 7
+Finish: 2024-06-01 00:31:26.924953
