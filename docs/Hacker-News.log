@@ -8773,3 +8773,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [David Hilbert's 1930 Radio Address [video]](https://www.youtube.com/watch?v=wuLFqgx2Pec)
 append_entries: 18
 Finish: 2024-06-01 20:02:44.372909
+------------------------------------------------------
+Started: 2024-06-01 22:02:16.898441
+Existing_entries: 1018
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [LLMs Aren't "Trained on the Internet" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Orion's mysterious free-floating planets](https://www.bbc.com/future/article/20240522-the-mystery-of-orions-free-floating-giant-twin-planets)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Disassembling Dalvik](https://margin.re/2024/05/dalvik-disassembly/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Apple downgrades new M2 iPad Air, 9-core GPU instead of 10-core](https://9to5mac.com/2024/06/01/m2-ipad-air-gpu-core-count/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cellular Automata Rule 30](https://codegolf.stackexchange.com/questions/273387/cellular-automata-rule-30)
+append_entries: 5
+Finish: 2024-06-01 22:02:18.384357
