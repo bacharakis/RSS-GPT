@@ -8548,3 +8548,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [When Companies Ask for Your Social Security Number, Try Saying No](https://www.wsj.com/tech/cybersecurity/identity-theft-social-security-number-580f01a4)
 append_entries: 1
 Finish: 2024-06-01 04:07:43.897672
+------------------------------------------------------
+Started: 2024-06-01 06:07:48.048041
+Existing_entries: 1001
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Japanese 'My Number Card' Digital IDs Coming to Apple's Wallet App](https://www.macrumors.com/2024/05/29/japan-my-number-card-apple-wallet/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [California sides with big utilities, trimming incentives for community solar](https://calmatters.org/environment/2024/05/california-community-solar-incentives/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why is no Laravel/Rails in JavaScript? Will there be one?](https://zenstack.dev/blog/js-fullstack)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tiny number of 'supersharers' spread the majority of fake news](https://www.science.org/content/article/tiny-number-supersharers-spread-vast-majority-fake-news)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [DearMoon, the first private circum-lunar flight project, will be cancelled](https://twitter.com/dearmoonproject/status/1796759847817625933)
+append_entries: 5
+Finish: 2024-06-01 06:07:49.359557
