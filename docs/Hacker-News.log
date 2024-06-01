@@ -8653,3 +8653,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Is Red Meat Healthy? Multiverse Analysis Has Lessons Beyond Meat](https://www.medscape.com/viewarticle/red-meat-healthy-multiverse-analysis-has-lessons-beyond-meat-2024a10008qv)
 append_entries: 7
 Finish: 2024-06-01 12:09:48.338296
+------------------------------------------------------
+Started: 2024-06-01 14:01:42.012319
+Existing_entries: 1007
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Napster Sparked a File-Sharing Revolution 25 Years Ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I built a Backend so Simple that it Fits in 1 YAML File](https://manifest.build)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
+append_entries: 3
+Finish: 2024-06-01 14:01:43.003968
