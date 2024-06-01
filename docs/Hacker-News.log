@@ -8569,3 +8569,33 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [DearMoon, the first private circum-lunar flight project, will be cancelled](https://twitter.com/dearmoonproject/status/1796759847817625933)
 append_entries: 5
 Finish: 2024-06-01 06:07:49.359557
+------------------------------------------------------
+Started: 2024-06-01 08:07:39.711566
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nginx Unit: open-source, lightweight and versatile application runtime](https://unit.nginx.org/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dioxus S23 is hiring a cracked founding engineer (Rust)](https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ticketmaster confirms data breach with a SEC filing](https://stackdiary.com/ticketmaster-confirms-data-breach-with-a-sec-filing/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Spring Forth, My Creation](https://wondermark.com/c/1548/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [BYD unveils new hybrid tech as battle with gasoline rivals heats up](https://www.reuters.com/business/autos-transportation/byd-launches-new-hybrid-vehicle-tech-with-lower-fuel-consumption-2024-05-28/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Helldivers 2 has caused over 20k Steam accounts to be banned](https://www.videogamer.com/news/helldivers-2-has-caused-over-20000-steam-accounts-to-be-banned/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sony Pictures to Use AI to Produce Movies and Shows in "More Efficient Ways"](https://www.hollywoodreporter.com/business/business-news/sony-pictures-adopt-ai-streamline-production-says-ceo-tony-vinciquerra-1235912109/)
+append_entries: 8
+Finish: 2024-06-01 08:07:41.764583
