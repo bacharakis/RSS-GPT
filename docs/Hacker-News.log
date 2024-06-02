@@ -8998,3 +8998,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Simple Equation Predicts the Shapes of Carbon-Capturing Wetlands](https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/)
 append_entries: 8
 Finish: 2024-06-02 16:03:34.179200
+------------------------------------------------------
+Started: 2024-06-02 18:07:59.215142
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Reading Google Sheets from a Go Program](https://eli.thegreenplace.net/2024/reading-google-sheets-from-a-go-program/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Workmanship Standard for Crimping, Interconnecting Cables, Harnesses, and Wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hotwire: HTML Over The Wire](https://hotwired.dev/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Positionhigh/MicroDexed-touch: a DX7 in a box, with a sequencer and tracker](https://codeberg.org/positionhigh/MicroDexed-touch)
+append_entries: 4
+Finish: 2024-06-02 18:07:59.958016
