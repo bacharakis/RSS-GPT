@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Survival of the richest: Inside the short-lived fallout shelter bubble</title>
+<link>https://thehustle.co/originals/survival-of-the-richest-inside-the-short-lived-fallout-shelter-bubble</link>
+<guid>https://thehustle.co/originals/survival-of-the-richest-inside-the-short-lived-fallout-shelter-bubble</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40549776">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 1 Jun 2024 22:48:08 +0000</pubDate>
+<pubDate>Sat, 1 Jun 2024 22:48:08 +0000</pubDate>
+</item>
+<item>
+<title>Lisp: Icing or Cake?</title>
+<link>https://dthompson.us/posts/lisp-icing-or-cake.html</link>
+<guid>https://dthompson.us/posts/lisp-icing-or-cake.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40549250">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 1 Jun 2024 21:32:12 +0000</pubDate>
+<pubDate>Sat, 1 Jun 2024 21:32:12 +0000</pubDate>
+</item>
+<item>
+<title>CSS Written in Pure Go</title>
+<link>https://github.com/AccentDesign/gcss</link>
+<guid>https://github.com/AccentDesign/gcss</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40550218">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 00:04:21 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 00:04:21 +0000</pubDate>
+</item>
+<item>
+<title>Artificial geysers can compensate for our mineral shortages</title>
+<link>https://phys.org/news/2024-05-artificial-geysers-compensate-mineral-shortages.html</link>
+<guid>https://phys.org/news/2024-05-artificial-geysers-compensate-mineral-shortages.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40523302">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 13:14:46 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 13:14:46 +0000</pubDate>
+</item>
+
+<item>
 <title>LLMs Aren't "Trained on the Internet" Anymore</title>
 <link>https://allenpike.com/2024/llms-trained-on-internet</link>
 <guid>https://allenpike.com/2024/llms-trained-on-internet</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40549021">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 1 Jun 2024 20:59:13 +0000</pubDate>
 <pubDate>Sat, 1 Jun 2024 20:59:13 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://www.bbc.com/future/article/20240522-the-mystery-of-orions-free-floating-giant-twin-planets</link>
 <guid>https://www.bbc.com/future/article/20240522-the-mystery-of-orions-free-floating-giant-twin-planets</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40534504">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 12:52:27 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 12:52:27 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://margin.re/2024/05/dalvik-disassembly/</link>
 <guid>https://margin.re/2024/05/dalvik-disassembly/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40518525">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 29 May 2024 23:51:40 +0000</pubDate>
 <pubDate>Wed, 29 May 2024 23:51:40 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://9to5mac.com/2024/06/01/m2-ipad-air-gpu-core-count/</link>
 <guid>https://9to5mac.com/2024/06/01/m2-ipad-air-gpu-core-count/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40549173">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 1 Jun 2024 21:22:39 +0000</pubDate>
 <pubDate>Sat, 1 Jun 2024 21:22:39 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +90,10 @@
 <link>https://codegolf.stackexchange.com/questions/273387/cellular-automata-rule-30</link>
 <guid>https://codegolf.stackexchange.com/questions/273387/cellular-automata-rule-30</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40547503">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 1 Jun 2024 17:22:56 +0000</pubDate>
-<pubDate>Sat, 1 Jun 2024 17:22:56 +0000</pubDate>
 </item>
-
 <item>
 <title>This Message Does Not Exist</title>
 <link>https://www.kmjn.org/notes/message_existence.html</link>
@@ -9014,51 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40413931">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 10:09:45 +0000</pubDate>
-</item>
-<item>
-<title>Linux 6.10 Will Print the Number of Populated Memory Slots at Boot Time</title>
-<link>https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots</link>
-<guid>https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40414288">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 11:19:28 +0000</pubDate>
-</item>
-<item>
-<title>This USB flash drive can only store 8KB of data, but will last you 200 years</title>
-<link>https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years</link>
-<guid>https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40414388">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 11:39:08 +0000</pubDate>
-</item>
-<item>
-<title>Overflow in Consistent Hashing</title>
-<link>https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html</link>
-<guid>https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40405829">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 19 May 2024 10:22:45 +0000</pubDate>
-</item>
-<item>
-<title>Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually</title>
-<link>https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/</link>
-<guid>https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40413891">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 10:01:36 +0000</pubDate>
-</item>
-<item>
-<title>4K 1000Hz Monitor Exhibited</title>
-<link>https://blurbusters.com/displayweek-2024-news-4k-1000hz-monitor-exhibited-and-new-blur-busters-display-tester/</link>
-<guid>https://blurbusters.com/displayweek-2024-news-4k-1000hz-monitor-exhibited-and-new-blur-busters-display-tester/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40405923">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 19 May 2024 10:43:52 +0000</pubDate>
 </item>
 </channel>
 </rss>

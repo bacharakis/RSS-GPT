@@ -8794,3 +8794,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Cellular Automata Rule 30](https://codegolf.stackexchange.com/questions/273387/cellular-automata-rule-30)
 append_entries: 5
 Finish: 2024-06-01 22:02:18.384357
+------------------------------------------------------
+Started: 2024-06-02 00:31:42.398336
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Survival of the richest: Inside the short-lived fallout shelter bubble](https://thehustle.co/originals/survival-of-the-richest-inside-the-short-lived-fallout-shelter-bubble)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [CSS Written in Pure Go](https://github.com/AccentDesign/gcss)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Artificial geysers can compensate for our mineral shortages](https://phys.org/news/2024-05-artificial-geysers-compensate-mineral-shortages.html)
+append_entries: 4
+Finish: 2024-06-02 00:31:43.653161
