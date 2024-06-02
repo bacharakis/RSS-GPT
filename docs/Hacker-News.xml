@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>SPI Flash</title>
+<link>https://trmm.net/SPI_flash/</link>
+<guid>https://trmm.net/SPI_flash/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40554396">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 14:21:21 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 14:21:21 +0000</pubDate>
+</item>
+<item>
+<title>A secure embedded operating system for microcontrollers</title>
+<link>https://tockos.org/</link>
+<guid>https://tockos.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40554658">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 14:51:20 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 14:51:20 +0000</pubDate>
+</item>
+<item>
+<title>Lord Kelvin and His Analog Computer</title>
+<link>https://spectrum.ieee.org/tide-predictions</link>
+<guid>https://spectrum.ieee.org/tide-predictions</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40553863">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 13:17:18 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 13:17:18 +0000</pubDate>
+</item>
+<item>
+<title>Circle C++ with Memory Safety</title>
+<link>https://www.circle-lang.org/site/intro/</link>
+<guid>https://www.circle-lang.org/site/intro/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40553709">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 12:53:25 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 12:53:25 +0000</pubDate>
+</item>
+<item>
+<title>Footage of Chang'e-6's land on far side of the moon</title>
+<link>https://www.cnsa.gov.cn/n6759533/c10541660/content.html</link>
+<guid>https://www.cnsa.gov.cn/n6759533/c10541660/content.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40554133">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 13:54:05 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 13:54:05 +0000</pubDate>
+</item>
+<item>
+<title>New head of one of the world’s oldest universities organized a citation cartel</title>
+<link>https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html</link>
+<guid>https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40554394">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 14:21:00 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 14:21:00 +0000</pubDate>
+</item>
+<item>
+<title>Arenas and the almighty concatenation operator</title>
+<link>https://nullprogram.com/blog/2024/05/25/</link>
+<guid>https://nullprogram.com/blog/2024/05/25/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40520254">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 05:04:30 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 05:04:30 +0000</pubDate>
+</item>
+<item>
+<title>Simple Equation Predicts the Shapes of Carbon-Capturing Wetlands</title>
+<link>https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/</link>
+<guid>https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40553526">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 12:21:00 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 12:21:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Windows: A Software Engineering Odyssey</title>
 <link>https://danluu.com/microsoft-culture/</link>
 <guid>https://danluu.com/microsoft-culture/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40553684">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 12:50:04 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 12:50:04 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://www.lungy.app/</link>
 <guid>https://www.lungy.app/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40553986">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 13:35:36 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 13:35:36 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://arxiv.org/abs/2011.13127</link>
 <guid>https://arxiv.org/abs/2011.13127</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40553448">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 12:07:07 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 12:07:07 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://milvus.io/blog/introducing-milvus-lite.md</link>
 <guid>https://milvus.io/blog/introducing-milvus-lite.md</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40522400">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 11:17:52 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 11:17:52 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://fosspost.org/there-has-never-been-a-better-time-to-switch-to-linux</link>
 <guid>https://fosspost.org/there-has-never-been-a-better-time-to-switch-to-linux</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40554012">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 13:37:18 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 13:37:18 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/</link>
 <guid>https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40553881">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 13:19:47 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 13:19:47 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +152,10 @@
 <link>https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar</link>
 <guid>https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40523612">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 13:41:36 +0000</pubDate>
-<pubDate>Thu, 30 May 2024 13:41:36 +0000</pubDate>
 </item>
-
 <item>
 <title>The Ticketmaster Data Breach May Be Just the Beginning</title>
 <link>https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/</link>
@@ -9018,69 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40421915">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 23:30:23 +0000</pubDate>
-</item>
-<item>
-<title>California residents: call your legislators about AI bill SB 1047</title>
-<link>https://twitter.com/chrislengerich/status/1792659555920326993</link>
-<guid>https://twitter.com/chrislengerich/status/1792659555920326993</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40421986">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 23:38:04 +0000</pubDate>
-</item>
-<item>
-<title>Enlightenmentware</title>
-<link>https://mmapped.blog/posts/28-enlightenmentware.html</link>
-<guid>https://mmapped.blog/posts/28-enlightenmentware.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40419856">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 20:23:02 +0000</pubDate>
-</item>
-<item>
-<title>pg_timeseries: Open-source time-series extension for PostgreSQL</title>
-<link>https://tembo.io/blog/pg-timeseries</link>
-<guid>https://tembo.io/blog/pg-timeseries</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40417347">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 16:44:13 +0000</pubDate>
-</item>
-<item>
-<title>How terminal works. Part 1: Xterm, user input</title>
-<link>https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html</link>
-<guid>https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40419325">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 19:37:12 +0000</pubDate>
-</item>
-<item>
-<title>Racket v8.13</title>
-<link>https://blog.racket-lang.org/2024/05/racket-v8-13.html</link>
-<guid>https://blog.racket-lang.org/2024/05/racket-v8-13.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40402340">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 21:40:47 +0000</pubDate>
-</item>
-<item>
-<title>Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)</title>
-<link>https://etleap.com/careers/software-engineer-integrations/</link>
-<guid>https://etleap.com/careers/software-engineer-integrations/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40420323">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 21:00:26 +0000</pubDate>
-</item>
-<item>
-<title>Ask HN: Hacker News-like forum, specific to Game Development?</title>
-<link>https://news.ycombinator.com/item?id=40419289</link>
-<guid>https://news.ycombinator.com/item?id=40419289</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40419289">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 19:34:09 +0000</pubDate>
 </item>
 </channel>
 </rss>
