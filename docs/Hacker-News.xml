@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Windows: A Software Engineering Odyssey</title>
+<link>https://danluu.com/microsoft-culture/</link>
+<guid>https://danluu.com/microsoft-culture/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40553684">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 12:50:04 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 12:50:04 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep</title>
+<link>https://www.lungy.app/</link>
+<guid>https://www.lungy.app/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40553986">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 13:35:36 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 13:35:36 +0000</pubDate>
+</item>
+<item>
+<title>Copy-and-Patch Compilation: fast compilation algorithm for high-level languages</title>
+<link>https://arxiv.org/abs/2011.13127</link>
+<guid>https://arxiv.org/abs/2011.13127</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40553448">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 12:07:07 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 12:07:07 +0000</pubDate>
+</item>
+<item>
+<title>Milvus Lite: The Lightweight Version of Milvus</title>
+<link>https://milvus.io/blog/introducing-milvus-lite.md</link>
+<guid>https://milvus.io/blog/introducing-milvus-lite.md</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40522400">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 11:17:52 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 11:17:52 +0000</pubDate>
+</item>
+<item>
+<title>There Has Never Been a Better Time to Switch to Linux</title>
+<link>https://fosspost.org/there-has-never-been-a-better-time-to-switch-to-linux</link>
+<guid>https://fosspost.org/there-has-never-been-a-better-time-to-switch-to-linux</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40554012">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 13:37:18 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 13:37:18 +0000</pubDate>
+</item>
+<item>
+<title>Hugging Face detected 'unauthorized access' to its AI model hosting platform</title>
+<link>https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/</link>
+<guid>https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40553881">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 13:19:47 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 13:19:47 +0000</pubDate>
+</item>
+<item>
+<title>How to Consult an Onion Oracle</title>
+<link>https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar</link>
+<guid>https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40523612">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 13:41:36 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 13:41:36 +0000</pubDate>
+</item>
+
+<item>
 <title>The Ticketmaster Data Breach May Be Just the Beginning</title>
 <link>https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/</link>
 <guid>https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40553163">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 11:16:02 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 11:16:02 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html</link>
 <guid>https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40544628">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 1 Jun 2024 11:02:40 +0000</pubDate>
 <pubDate>Sat, 1 Jun 2024 11:02:40 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html</link>
 <guid>https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40552621">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 09:03:54 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 09:03:54 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://www.msn.com/en-us/news/us/if-a-i-can-do-your-job-maybe-it-can-also-replace-your-c-e-o/ar-BB1nbdAX</link>
 <guid>https://www.msn.com/en-us/news/us/if-a-i-can-do-your-job-maybe-it-can-also-replace-your-c-e-o/ar-BB1nbdAX</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40552398">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 08:16:13 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 08:16:13 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +123,10 @@
 <link>https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai</link>
 <guid>https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40552423">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 2 Jun 2024 08:20:49 +0000</pubDate>
-<pubDate>Sun, 2 Jun 2024 08:20:49 +0000</pubDate>
 </item>
-
 <item>
 <title>PEP 730 – Adding iOS as a supported platform</title>
 <link>https://peps.python.org/pep-0730/</link>
@@ -9014,51 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40419289">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 19:34:09 +0000</pubDate>
-</item>
-<item>
-<title>AI-Free Products</title>
-<link>https://coryd.dev/posts/2024/ai-free-products/</link>
-<guid>https://coryd.dev/posts/2024/ai-free-products/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40420653">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 21:31:20 +0000</pubDate>
-</item>
-<item>
-<title>The parents who are saying no to "extracurriculars"</title>
-<link>https://slate.com/life/2024/05/smartphone-children-youth-sports-activities-overscheduled.html</link>
-<guid>https://slate.com/life/2024/05/smartphone-children-youth-sports-activities-overscheduled.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40420604">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 21:26:24 +0000</pubDate>
-</item>
-<item>
-<title>People want 'dumbphones'. Will companies make them?</title>
-<link>https://www.bbc.com/future/article/20240515-the-dumbphones-people-want-are-hard-to-find</link>
-<guid>https://www.bbc.com/future/article/20240515-the-dumbphones-people-want-are-hard-to-find</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40419358">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 19:40:07 +0000</pubDate>
-</item>
-<item>
-<title>Rethinking Text Resizing on Web</title>
-<link>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</link>
-<guid>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40418591">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 18:36:53 +0000</pubDate>
-</item>
-<item>
-<title>Paying freelancers in equity and dividends</title>
-<link>https://sahillavingia.com/dividends</link>
-<guid>https://sahillavingia.com/dividends</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40415947">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 14:35:59 +0000</pubDate>
 </item>
 </channel>
 </rss>
