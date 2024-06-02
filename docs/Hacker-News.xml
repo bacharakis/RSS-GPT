@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>PEP 730 – Adding iOS as a supported platform</title>
+<link>https://peps.python.org/pep-0730/</link>
+<guid>https://peps.python.org/pep-0730/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40552632">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 09:06:40 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 09:06:40 +0000</pubDate>
+</item>
+<item>
+<title>Pre-Work for Setting OKRs</title>
+<link>https://eleganthack.com/pre-work-for-setting-okrs/</link>
+<guid>https://eleganthack.com/pre-work-for-setting-okrs/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40552291">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 07:58:45 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 07:58:45 +0000</pubDate>
+</item>
+<item>
+<title>Java Language Update – a look at where the language is going by Brian Goetz</title>
+<link>https://www.youtube.com/watch?v=bKwzONOGLxs</link>
+<guid>https://www.youtube.com/watch?v=bKwzONOGLxs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40527014">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 18:21:53 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 18:21:53 +0000</pubDate>
+</item>
+<item>
+<title>FineWeb: Decanting the web for the finest text data at scale</title>
+<link>https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1</link>
+<guid>https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40552548">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 08:47:36 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 08:47:36 +0000</pubDate>
+</item>
+<item>
+<title>How Novy Built Zelma for Emily Oster Using OpenAI and Postgres</title>
+<link>https://www.stepchange.work/blog/how-novy-built-zelma-for-emily-oster-using-openai-and-postgres</link>
+<guid>https://www.stepchange.work/blog/how-novy-built-zelma-for-emily-oster-using-openai-and-postgres</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40525607">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 30 May 2024 16:29:34 +0000</pubDate>
+<pubDate>Thu, 30 May 2024 16:29:34 +0000</pubDate>
+</item>
+<item>
+<title>Little Lisp Interpreter (2014)</title>
+<link>https://maryrosecook.com/blog/post/little-lisp-interpreter</link>
+<guid>https://maryrosecook.com/blog/post/little-lisp-interpreter</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40548498">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 1 Jun 2024 19:41:21 +0000</pubDate>
+<pubDate>Sat, 1 Jun 2024 19:41:21 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Fusio 5.0 released – open-source API management platform</title>
+<link>https://www.fusio-project.org/</link>
+<guid>https://www.fusio-project.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40552549">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 08:47:37 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 08:47:37 +0000</pubDate>
+</item>
+
+<item>
 <title>Parable of the Sofa</title>
 <link>https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa</link>
 <guid>https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40551725">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 05:57:48 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 05:57:48 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://github.com/decrazyo/fdxb</link>
 <guid>https://github.com/decrazyo/fdxb</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40526020">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 30 May 2024 17:03:28 +0000</pubDate>
 <pubDate>Thu, 30 May 2024 17:03:28 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +105,10 @@
 <link>https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html</link>
 <guid>https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40550830">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 2 Jun 2024 02:20:09 +0000</pubDate>
-<pubDate>Sun, 2 Jun 2024 02:20:09 +0000</pubDate>
 </item>
-
 <item>
 <title>Unlocking the Duron and Athlon Using the Pencil</title>
 <link>http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html</link>
@@ -9010,33 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40418607">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 20 May 2024 18:38:14 +0000</pubDate>
-</item>
-<item>
-<title>A promising 3-terminal diode for wireless comm. and optically driven computing</title>
-<link>https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html</link>
-<guid>https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40396347">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 18 May 2024 03:55:39 +0000</pubDate>
-</item>
-<item>
-<title>Police in Austin, San Francisco skirt facial recognition ban</title>
-<link>https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/</link>
-<guid>https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40417575">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 17:04:59 +0000</pubDate>
-</item>
-<item>
-<title>Dieter Rams turns 92 – Stream "Rams" for free May 20 and 21</title>
-<link>https://www.ohyouprettythings.com/rams</link>
-<guid>https://www.ohyouprettythings.com/rams</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40418115">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 20 May 2024 17:54:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
