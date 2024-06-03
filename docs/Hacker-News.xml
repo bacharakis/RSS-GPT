@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)</title>
+<link>https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/</link>
+<guid>https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40560913">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 09:42:36 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 09:42:36 +0000</pubDate>
+</item>
+<item>
+<title>Qimgv – Fast, simple image viewer</title>
+<link>https://github.com/easymodo/qimgv</link>
+<guid>https://github.com/easymodo/qimgv</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40559657">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 05:37:27 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 05:37:27 +0000</pubDate>
+</item>
+<item>
+<title>Just Live</title>
+<link>https://drb.ie/articles/just-live/</link>
+<guid>https://drb.ie/articles/just-live/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40556516">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 19:11:49 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 19:11:49 +0000</pubDate>
+</item>
+<item>
+<title>Corporations Learned the Maximum Amount They Can Charge for a Product</title>
+<link>https://www.bloomberg.com/news/articles/2024-06-03/corporations-learned-the-maximum-amount-they-can-charge-for-a-product</link>
+<guid>https://www.bloomberg.com/news/articles/2024-06-03/corporations-learned-the-maximum-amount-they-can-charge-for-a-product</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40561031">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 09:59:07 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 09:59:07 +0000</pubDate>
+</item>
+<item>
+<title>Kaspersky releases a malware scanner for Linux systems</title>
+<link>https://www.kaspersky.com/blog/kvrt-for-linux/51375/</link>
+<guid>https://www.kaspersky.com/blog/kvrt-for-linux/51375/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40560910">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 09:41:56 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 09:41:56 +0000</pubDate>
+</item>
+<item>
+<title>A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever</title>
+<link>https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/</link>
+<guid>https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40561308">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 10:42:49 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 10:42:49 +0000</pubDate>
+</item>
+<item>
+<title>Cis-lunar space and the security dilemma</title>
+<link>https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/</link>
+<guid>https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40560951">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 09:47:15 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 09:47:15 +0000</pubDate>
+</item>
+
+<item>
 <title>I'm forking Ladybird and stepping down as SerenityOS BDFL</title>
 <link>https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos</link>
 <guid>https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40560768">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 09:22:53 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 09:22:53 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://popovicu.com/posts/making-usb-devices/</link>
 <guid>https://popovicu.com/posts/making-usb-devices/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40560300">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 07:53:46 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 07:53:46 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://www.fact.ist/building-a-first-side-project/</link>
 <guid>https://www.fact.ist/building-a-first-side-project/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40560929">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 09:44:19 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 09:44:19 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/</link>
 <guid>https://www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40560710">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 09:14:35 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 09:14:35 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +123,8 @@
 <link>https://www.infoq.com/news/2024/05/csharp-13-preview/</link>
 <guid>https://www.infoq.com/news/2024/05/csharp-13-preview/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40530780">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 31 May 2024 02:08:01 +0000</pubDate>
 <pubDate>Fri, 31 May 2024 02:08:01 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +132,10 @@
 <link>https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/</link>
 <guid>https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40560391">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 3 Jun 2024 08:13:47 +0000</pubDate>
-<pubDate>Mon, 3 Jun 2024 08:13:47 +0000</pubDate>
 </item>
-
 <item>
 <title>The Sword of Kumdor</title>
 <link>https://lynn.github.io/kumdor/</link>
@@ -9016,60 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40394462">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 17 May 2024 21:43:19 +0000</pubDate>
-</item>
-<item>
-<title>Frog or Toad?</title>
-<link>https://downpour.games/~joenash/frog-or-toad?p=gi3</link>
-<guid>https://downpour.games/~joenash/frog-or-toad?p=gi3</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40382922">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 16 May 2024 20:46:37 +0000</pubDate>
-</item>
-<item>
-<title>Backblaze Scales Storage Cloud</title>
-<link>https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/</link>
-<guid>https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40430381">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 16:14:06 +0000</pubDate>
-</item>
-<item>
-<title>Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet</title>
-<link>https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html</link>
-<guid>https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40429649">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 15:25:05 +0000</pubDate>
-</item>
-<item>
-<title>Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet</title>
-<link>https://transformer-circuits.pub/2024/scaling-monosemanticity/</link>
-<guid>https://transformer-circuits.pub/2024/scaling-monosemanticity/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40429540">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 15:15:52 +0000</pubDate>
-</item>
-<item>
-<title>What UI density means and how to design for it</title>
-<link>https://matthewstrom.com/writing/ui-density/</link>
-<guid>https://matthewstrom.com/writing/ui-density/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40428386">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 13:41:39 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: I built a game to help you learn neural network architectures</title>
-<link>https://graphgame.sabrina.dev/</link>
-<guid>https://graphgame.sabrina.dev/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40429200">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 14:47:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
