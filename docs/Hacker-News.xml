@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>The Sword of Kumdor</title>
+<link>https://lynn.github.io/kumdor/</link>
+<guid>https://lynn.github.io/kumdor/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40552377">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 08:13:51 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 08:13:51 +0000</pubDate>
+</item>
+<item>
+<title>Formlabs Form 4 Teardown</title>
+<link>https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/</link>
+<guid>https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40558102">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 23:56:58 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 23:56:58 +0000</pubDate>
+</item>
+
+<item>
 <title>AMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5</title>
 <link>https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024</link>
 <guid>https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40559368">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 04:34:04 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 04:34:04 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf</link>
 <guid>https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40553027">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 10:42:02 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 10:42:02 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://www.engadget.com/twitch-removes-every-member-of-its-safety-advisory-council-131501219.html</link>
 <guid>https://www.engadget.com/twitch-removes-every-member-of-its-safety-advisory-council-131501219.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40559218">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 04:02:28 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 04:02:28 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +59,8 @@
 <link>https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and</link>
 <guid>https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40558982">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 03:04:53 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 03:04:53 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +68,10 @@
 <link>https://space.tcsenpai.com/bliss-a-constructed-writing-system-for-quick-and-nice-texts/</link>
 <guid>https://space.tcsenpai.com/bliss-a-constructed-writing-system-for-quick-and-nice-texts/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40558273">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 3 Jun 2024 00:33:25 +0000</pubDate>
-<pubDate>Mon, 3 Jun 2024 00:33:25 +0000</pubDate>
 </item>
-
 <item>
 <title>Quake in 13kb (2021)</title>
 <link>https://js13kgames.com/entries/q1k3</link>
@@ -9014,51 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40426890">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 21 May 2024 11:21:35 +0000</pubDate>
-</item>
-<item>
-<title>How Shadow Banning Can Silently Shift Opinion Online</title>
-<link>https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online</link>
-<guid>https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40429275">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 14:54:57 +0000</pubDate>
-</item>
-<item>
-<title>Mapping the Mind of a Large Language Model</title>
-<link>https://www.anthropic.com/research/mapping-mind-language-model</link>
-<guid>https://www.anthropic.com/research/mapping-mind-language-model</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40429326">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 14:58:34 +0000</pubDate>
-</item>
-<item>
-<title>Rare things become common at scale</title>
-<link>https://longform.asmartbear.com/scale-rare/</link>
-<guid>https://longform.asmartbear.com/scale-rare/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40427851">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 12:55:00 +0000</pubDate>
-</item>
-<item>
-<title>Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370</title>
-<link>https://www.nature.com/articles/s41598-024-60529-1</link>
-<guid>https://www.nature.com/articles/s41598-024-60529-1</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40429420">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 15:05:53 +0000</pubDate>
-</item>
-<item>
-<title>40-Year old BASICA utility code for teaching</title>
-<link>https://github.com/norton120/educator-tools-87</link>
-<guid>https://github.com/norton120/educator-tools-87</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40427973">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 13:05:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
