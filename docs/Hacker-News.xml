@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>I'm forking Ladybird and stepping down as SerenityOS BDFL</title>
+<link>https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos</link>
+<guid>https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40560768">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 09:22:53 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 09:22:53 +0000</pubDate>
+</item>
+<item>
+<title>Making USB devices – end to end guide to your first gadget</title>
+<link>https://popovicu.com/posts/making-usb-devices/</link>
+<guid>https://popovicu.com/posts/making-usb-devices/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40560300">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 07:53:46 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 07:53:46 +0000</pubDate>
+</item>
+<item>
+<title>Build a side project using your data</title>
+<link>https://www.fact.ist/building-a-first-side-project/</link>
+<guid>https://www.fact.ist/building-a-first-side-project/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40560929">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 09:44:19 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 09:44:19 +0000</pubDate>
+</item>
+<item>
+<title>Broadcom's VMware strategy looks ever more shaky – and less relevant</title>
+<link>https://www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/</link>
+<guid>https://www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40560710">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 09:14:35 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 09:14:35 +0000</pubDate>
+</item>
+<item>
+<title>What's New in C# 13: Enhanced Params, Performance Boosts and New Extension Types</title>
+<link>https://www.infoq.com/news/2024/05/csharp-13-preview/</link>
+<guid>https://www.infoq.com/news/2024/05/csharp-13-preview/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40530780">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 31 May 2024 02:08:01 +0000</pubDate>
+<pubDate>Fri, 31 May 2024 02:08:01 +0000</pubDate>
+</item>
+<item>
+<title>EU: Users who refuse scanning to be prevented from sharing photos and links</title>
+<link>https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/</link>
+<guid>https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40560391">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 08:13:47 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 08:13:47 +0000</pubDate>
+</item>
+
+<item>
 <title>The Sword of Kumdor</title>
 <link>https://lynn.github.io/kumdor/</link>
 <guid>https://lynn.github.io/kumdor/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40552377">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 08:13:51 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 08:13:51 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +85,10 @@
 <link>https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/</link>
 <guid>https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40558102">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 2 Jun 2024 23:56:58 +0000</pubDate>
-<pubDate>Sun, 2 Jun 2024 23:56:58 +0000</pubDate>
 </item>
-
 <item>
 <title>AMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5</title>
 <link>https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024</link>
@@ -9008,24 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40429200">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 21 May 2024 14:47:42 +0000</pubDate>
-</item>
-<item>
-<title>CADmium: A Local-First CAD Program Built for the Browser</title>
-<link>https://mattferraro.dev/posts/cadmium</link>
-<guid>https://mattferraro.dev/posts/cadmium</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40428827">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 14:19:56 +0000</pubDate>
-</item>
-<item>
-<title>Images that Sound: Generating spectrograms that are also images</title>
-<link>https://ificl.github.io/images-that-sound/</link>
-<guid>https://ificl.github.io/images-that-sound/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40426890">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 11:21:35 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -9211,3 +9211,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Formlabs Form 4 Teardown](https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/)
 append_entries: 2
 Finish: 2024-06-03 08:09:43.638682
+------------------------------------------------------
+Started: 2024-06-03 10:08:37.793777
+Existing_entries: 1002
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Build a side project using your data](https://www.fact.ist/building-a-first-side-project/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Broadcom's VMware strategy looks ever more shaky – and less relevant](https://www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What's New in C# 13: Enhanced Params, Performance Boosts and New Extension Types](https://www.infoq.com/news/2024/05/csharp-13-preview/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [EU: Users who refuse scanning to be prevented from sharing photos and links](https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/)
+append_entries: 6
+Finish: 2024-06-03 10:08:39.428610
