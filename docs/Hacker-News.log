@@ -9178,3 +9178,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Flow-Matic](https://en.wikipedia.org/wiki/FLOW-MATIC)
 append_entries: 9
 Finish: 2024-06-03 04:09:58.294539
+------------------------------------------------------
+Started: 2024-06-03 06:09:01.398181
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5](https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Will we have a negative leap second? [pdf]](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Twitch removes every member of its Safety Advisory Council](https://www.engadget.com/twitch-removes-every-member-of-its-safety-advisory-council-131501219.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Bliss – A constructed writing system for fast and beautiful writing](https://space.tcsenpai.com/bliss-a-constructed-writing-system-for-quick-and-nice-texts/)
+append_entries: 5
+Finish: 2024-06-03 06:09:02.711423
