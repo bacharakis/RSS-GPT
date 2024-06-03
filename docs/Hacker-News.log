@@ -9361,3 +9361,39 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)
 append_entries: 15
 Finish: 2024-06-03 18:08:38.574275
+------------------------------------------------------
+Started: 2024-06-03 20:04:51.419108
+Existing_entries: 1015
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [If English was written like Chinese (1999)](https://zompist.com/yingzi/yingzi.htm)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Physicists create a Bose-Einstein condensate](https://news.columbia.edu/news/coldest-lab-new-york-has-new-quantum-offering)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I made a tiny camera with super long battery life](https://toaster.llc/photon/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Brioche – A new Nix-like package manager](https://brioche.dev/blog/announcing-brioche/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Algorithms Interviews: Theory vs. Practice](https://danluu.com/algorithms-interviews/)
+append_entries: 10
+Finish: 2024-06-03 20:04:54.001295
