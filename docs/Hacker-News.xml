@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Koheesio: Nike's Python-based framework to build advanced data-pipelines</title>
+<link>https://github.com/Nike-Inc/koheesio</link>
+<guid>https://github.com/Nike-Inc/koheesio</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40570892">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 05:07:57 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 05:07:57 +0000</pubDate>
+</item>
+<item>
+<title>Intel's Lion Cove Architecture Preview</title>
+<link>https://chipsandcheese.com/2024/06/03/intels-lion-cove-architecture-preview/</link>
+<guid>https://chipsandcheese.com/2024/06/03/intels-lion-cove-architecture-preview/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40570326">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 03:11:18 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 03:11:18 +0000</pubDate>
+</item>
+<item>
+<title>Hacking Millions of Modems (and Investigating Who Hacked My Modem)</title>
+<link>https://samcurry.net/hacking-millions-of-modems</link>
+<guid>https://samcurry.net/hacking-millions-of-modems</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40570781">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 04:46:58 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 04:46:58 +0000</pubDate>
+</item>
+<item>
+<title>Ligra – an open source image projector based off of flea marked parts</title>
+<link>https://github.com/Jana-Marie/ligra</link>
+<guid>https://github.com/Jana-Marie/ligra</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40553720">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 12:55:25 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 12:55:25 +0000</pubDate>
+</item>
+
+<item>
 <title>Intel Unveils Lunar Lake Architecture: New P and E Cores, Xe2-LPG GPU, NPU 4</title>
 <link>https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4</link>
 <guid>https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40570356">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 03:17:48 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 03:17:48 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://www.merriam-webster.com/wordplay/top-10-rare-and-amusing-insults-vol-2</link>
 <guid>https://www.merriam-webster.com/wordplay/top-10-rare-and-amusing-insults-vol-2</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40570131">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 02:32:47 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 02:32:47 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +72,10 @@
 <link>https://asteriskmag.com/issues/06/how-to-make-a-great-government-website</link>
 <guid>https://asteriskmag.com/issues/06/how-to-make-a-great-government-website</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40556627">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 2 Jun 2024 19:28:10 +0000</pubDate>
-<pubDate>Sun, 2 Jun 2024 19:28:10 +0000</pubDate>
 </item>
-
 <item>
 <title>Diffusion on Syntax Trees for Program Synthesis</title>
 <link>https://tree-diffusion.github.io/</link>
@@ -9010,33 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40436796">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 02:36:11 +0000</pubDate>
-</item>
-<item>
-<title>mactop</title>
-<link>https://github.com/context-labs/mactop</link>
-<guid>https://github.com/context-labs/mactop</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40435504">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 23:29:02 +0000</pubDate>
-</item>
-<item>
-<title>Psion 5mx Emulator</title>
-<link>https://wuffs.org/WindEmu/index.html</link>
-<guid>https://wuffs.org/WindEmu/index.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40438434">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 07:56:43 +0000</pubDate>
-</item>
-<item>
-<title>Plane (YC W17) is hiring product engineers (Rails/Remote/Americas)</title>
-<link>https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas</link>
-<guid>https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40439913">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 12:01:01 +0000</pubDate>
 </item>
 </channel>
 </rss>

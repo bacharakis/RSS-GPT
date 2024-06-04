@@ -9487,3 +9487,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [How to make a great government website](https://asteriskmag.com/issues/06/how-to-make-a-great-government-website)
 append_entries: 3
 Finish: 2024-06-04 04:07:49.950010
+------------------------------------------------------
+Started: 2024-06-04 06:08:39.012437
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Koheesio: Nike's Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Intel's Lion Cove Architecture Preview](https://chipsandcheese.com/2024/06/03/intels-lion-cove-architecture-preview/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ligra – an open source image projector based off of flea marked parts](https://github.com/Jana-Marie/ligra)
+append_entries: 4
+Finish: 2024-06-04 06:08:40.173858
