@@ -9574,3 +9574,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The Hat and the Spectre](https://momath.org/the-hat/)
 append_entries: 10
 Finish: 2024-06-04 12:11:01.134727
+------------------------------------------------------
+Started: 2024-06-04 14:03:12.631753
+Existing_entries: 1010
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf] (2007)](https://rangevoting.org/HPL-2007-28R1.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ht: Headless Terminal](https://github.com/andyk/ht)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: ['Extremely impressive': melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The world's largest 3D printer is building cozy homes from wood](https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html)
+append_entries: 5
+Finish: 2024-06-04 14:03:14.082092
