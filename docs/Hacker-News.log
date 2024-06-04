@@ -9472,3 +9472,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Why No Roman Industrial Revolution? (2022)](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
 append_entries: 8
 Finish: 2024-06-04 02:24:00.093380
+------------------------------------------------------
+Started: 2024-06-04 04:07:48.949228
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Intel Unveils Lunar Lake Architecture: New P and E Cores, Xe2-LPG GPU, NPU 4](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Rare and Amusing Insults, Volume 2](https://www.merriam-webster.com/wordplay/top-10-rare-and-amusing-insults-vol-2)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to make a great government website](https://asteriskmag.com/issues/06/how-to-make-a-great-government-website)
+append_entries: 3
+Finish: 2024-06-04 04:07:49.950010
