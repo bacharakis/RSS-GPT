@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Epoch Times CFO charged in $67M crypto money laundering plot</title>
+<link>https://www.bbc.com/news/articles/cg66xe59zyeo</link>
+<guid>https://www.bbc.com/news/articles/cg66xe59zyeo</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40572107">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 08:42:57 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 08:42:57 +0000</pubDate>
+</item>
+<item>
+<title>The simdjson library</title>
+<link>https://simdjson.org/</link>
+<guid>https://simdjson.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40560233">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 07:40:41 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 07:40:41 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft blocks Windows 11 workaround that enabled local accounts</title>
+<link>https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html</link>
+<guid>https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40572289">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 09:10:10 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 09:10:10 +0000</pubDate>
+</item>
+
+<item>
 <title>I Am So Sick of Leetcode-Style Interviews</title>
 <link>https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/</link>
 <guid>https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40571395">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 06:47:51 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 06:47:51 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://en.wikipedia.org/wiki/Ganjifa</link>
 <guid>https://en.wikipedia.org/wiki/Ganjifa</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40552494">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 08:34:58 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 08:34:58 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://news.ycombinator.com/item?id=40571500</link>
 <guid>https://news.ycombinator.com/item?id=40571500</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40571500">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 07:08:48 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 07:08:48 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +70,10 @@
 <link>https://technomancy.us/197</link>
 <guid>https://technomancy.us/197</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40560101">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 3 Jun 2024 07:10:02 +0000</pubDate>
-<pubDate>Mon, 3 Jun 2024 07:10:02 +0000</pubDate>
 </item>
-
 <item>
 <title>Koheesio: Nike's Python-based framework to build advanced data-pipelines</title>
 <link>https://github.com/Nike-Inc/koheesio</link>
@@ -9012,42 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40425394">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 21 May 2024 08:05:13 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: PBT – A property-based testing library for Ruby</title>
-<link>https://github.com/ohbarye/pbt</link>
-<guid>https://github.com/ohbarye/pbt</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40441093">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 13:58:25 +0000</pubDate>
-</item>
-<item>
-<title>'Right to roam' movement fights to give the commons back to the public</title>
-<link>https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/</link>
-<guid>https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40440283">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 12:48:15 +0000</pubDate>
-</item>
-<item>
-<title>HumaneAI pin maker selling itself for $1B</title>
-<link>https://gizmodo.com/humane-ai-pin-selling-billion-1851493143</link>
-<guid>https://gizmodo.com/humane-ai-pin-selling-billion-1851493143</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40442490">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 15:56:04 +0000</pubDate>
-</item>
-<item>
-<title>Why physicists now question the fate of the Universe</title>
-<link>https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/</link>
-<guid>https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40441115">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 14:01:11 +0000</pubDate>
 </item>
 </channel>
 </rss>

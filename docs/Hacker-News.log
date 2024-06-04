@@ -9523,3 +9523,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [In which five different paths lead to methods](https://technomancy.us/197)
 append_entries: 4
 Finish: 2024-06-04 08:08:48.263666
+------------------------------------------------------
+Started: 2024-06-04 10:05:05.263303
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The simdjson library](https://simdjson.org/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Microsoft blocks Windows 11 workaround that enabled local accounts](https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html)
+append_entries: 3
+Finish: 2024-06-04 10:05:06.345400
