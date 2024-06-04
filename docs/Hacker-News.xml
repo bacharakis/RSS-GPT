@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Diffusion on Syntax Trees for Program Synthesis</title>
+<link>https://tree-diffusion.github.io/</link>
+<guid>https://tree-diffusion.github.io/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40569531">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 00:52:27 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 00:52:27 +0000</pubDate>
+</item>
+<item>
+<title>Please support "skip to main content" on your docs site</title>
+<link>https://technicalwriting.dev/a11y/skip.html</link>
+<guid>https://technicalwriting.dev/a11y/skip.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40569458">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 00:39:22 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 00:39:22 +0000</pubDate>
+</item>
+<item>
+<title>New telescope images of Jupiter's moon Io rival those from spacecraft</title>
+<link>https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html</link>
+<guid>https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40569949">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 01:57:29 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 01:57:29 +0000</pubDate>
+</item>
+<item>
+<title>New theory suggests time is an illusion created by quantum entanglement</title>
+<link>https://bgr.com/science/new-theory-suggests-time-is-an-illusion-created-by-quantum-entanglement/</link>
+<guid>https://bgr.com/science/new-theory-suggests-time-is-an-illusion-created-by-quantum-entanglement/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40567676">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 21:19:42 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 21:19:42 +0000</pubDate>
+</item>
+<item>
+<title>Psychedelics are challenging the standard of randomized controlled trials</title>
+<link>https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/</link>
+<guid>https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40568515">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 22:45:08 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 22:45:08 +0000</pubDate>
+</item>
+<item>
+<title>A Baseline Scrapscript Compiler</title>
+<link>https://bernsteinbear.com/blog/scrapscript-baseline/</link>
+<guid>https://bernsteinbear.com/blog/scrapscript-baseline/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40551583">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 05:22:42 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 05:22:42 +0000</pubDate>
+</item>
+<item>
+<title>Optimizing 128-bit Division (2020)</title>
+<link>https://danlark.org/2020/06/14/128-bit-division/</link>
+<guid>https://danlark.org/2020/06/14/128-bit-division/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40553541">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 2 Jun 2024 12:23:44 +0000</pubDate>
+<pubDate>Sun, 2 Jun 2024 12:23:44 +0000</pubDate>
+</item>
+<item>
+<title>Why No Roman Industrial Revolution? (2022)</title>
+<link>https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/</link>
+<guid>https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40567667">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 3 Jun 2024 21:18:04 +0000</pubDate>
+<pubDate>Mon, 3 Jun 2024 21:18:04 +0000</pubDate>
+</item>
+
+<item>
 <title>Scientists should use AI as a tool, not an oracle</title>
 <link>https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool</link>
 <guid>https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40568026">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 21:54:09 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 21:54:09 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://www.pythonmorsels.com/cli-tools/</link>
 <guid>https://www.pythonmorsels.com/cli-tools/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40567532">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 21:03:59 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 21:03:59 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://www.belfercenter.org/publication/seeing-data-structure</link>
 <guid>https://www.belfercenter.org/publication/seeing-data-structure</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40548571">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 1 Jun 2024 19:53:09 +0000</pubDate>
 <pubDate>Sat, 1 Jun 2024 19:53:09 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf</link>
 <guid>https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40552644">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 09:09:10 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 09:09:10 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +134,10 @@
 <link>https://www.forkingpaths.co/p/the-thrilling-tale-of-longitude-and</link>
 <guid>https://www.forkingpaths.co/p/the-thrilling-tale-of-longitude-and</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40548367">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 1 Jun 2024 19:22:14 +0000</pubDate>
-<pubDate>Sat, 1 Jun 2024 19:22:14 +0000</pubDate>
 </item>
-
 <item>
 <title>Sam Altman, Lately</title>
 <link>http://oftheclock.com/sam-altman-lately</link>
@@ -9014,51 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40437535">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 05:09:20 +0000</pubDate>
-</item>
-<item>
-<title>Emory Awards, Then Suspends Students Behind Study-Aide App</title>
-<link>https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app</link>
-<guid>https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40437506">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 05:03:00 +0000</pubDate>
-</item>
-<item>
-<title>Unprecedented flooding in Brazil leaves hundreds of thousands displaced</title>
-<link>https://www.msf.org/unprecedented-flooding-brazil-leaves-millions-affected-and-hundreds-thousands-displaced</link>
-<guid>https://www.msf.org/unprecedented-flooding-brazil-leaves-millions-affected-and-hundreds-thousands-displaced</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40437435">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 04:47:31 +0000</pubDate>
-</item>
-<item>
-<title>"No way to prevent this" say users of only language where this regularly happens</title>
-<link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/</link>
-<guid>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40437379">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 04:36:11 +0000</pubDate>
-</item>
-<item>
-<title>Possible firmware issues for Apple Silicon OpenBSD/ARM64 users</title>
-<link>https://www.undeadly.org/cgi?action=article;sid=20240522045252</link>
-<guid>https://www.undeadly.org/cgi?action=article;sid=20240522045252</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40437464">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 04:53:21 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Adblock for Podcasts</title>
-<link>https://github.com/jdrbc/podly_pure_podcasts</link>
-<guid>https://github.com/jdrbc/podly_pure_podcasts</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40435786">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 00:01:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
