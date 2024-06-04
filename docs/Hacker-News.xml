@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Don't be terrified of Pale Fire</title>
+<link>https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/</link>
+<guid>https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40571402">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 06:48:55 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 06:48:55 +0000</pubDate>
+</item>
+<item>
+<title>Creating a Safari webarchive from the command line</title>
+<link>https://alexwlchan.net/2024/creating-a-safari-webarchive/</link>
+<guid>https://alexwlchan.net/2024/creating-a-safari-webarchive/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40571270">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 06:24:39 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 06:24:39 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Allocate poker chips optimally with mixed-integer nonlinear programming</title>
+<link>https://github.com/jstrieb/poker-chipper</link>
+<guid>https://github.com/jstrieb/poker-chipper</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40569385">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 00:29:37 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 00:29:37 +0000</pubDate>
+</item>
+<item>
+<title>Reverse Z in 3D graphics (and why it's so awesome)</title>
+<link>https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html</link>
+<guid>https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40574562">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 13:42:03 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 13:42:03 +0000</pubDate>
+</item>
+<item>
+<title>Why I'm building a Home Lab with K8s on Raspberry Pis</title>
+<link>https://iamsafts.com/posts/homelab-intro/</link>
+<guid>https://iamsafts.com/posts/homelab-intro/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40573274">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 11:33:25 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 11:33:25 +0000</pubDate>
+</item>
+
+<item>
 <title>Encryption at Rest: Whose Threat Model Is It Anyway?</title>
 <link>https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/</link>
 <guid>https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40573211">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 11:25:18 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 11:25:18 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://rangevoting.org/HPL-2007-28R1.pdf</link>
 <guid>https://rangevoting.org/HPL-2007-28R1.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40573814">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 12:31:31 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 12:31:31 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://github.com/andyk/ht</link>
 <guid>https://github.com/andyk/ht</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40552257">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 07:53:14 +0000</pubDate>
 <pubDate>Sun, 2 Jun 2024 07:53:14 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors</link>
 <guid>https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40574604">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 13:46:55 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 13:46:55 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +101,10 @@
 <link>https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html</link>
 <guid>https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40573693">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 4 Jun 2024 12:17:33 +0000</pubDate>
-<pubDate>Tue, 4 Jun 2024 12:17:33 +0000</pubDate>
 </item>
-
 <item>
 <title>Show HN: Web Development with Htmx, Type-Guided Components, Pure Python</title>
 <link>https://getludic.dev/docs/</link>
@@ -9014,51 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40445093">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 22 May 2024 19:21:53 +0000</pubDate>
-</item>
-<item>
-<title>Systematically Improving Your RAG</title>
-<link>https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/</link>
-<guid>https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40443558">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:22:27 +0000</pubDate>
-</item>
-<item>
-<title>Emacs used as a message router in Germany's ATC systems in the 1990s (2021)</title>
-<link>https://www.emacswiki.org/emacs/EmacsStories</link>
-<guid>https://www.emacswiki.org/emacs/EmacsStories</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40426453">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 10:18:00 +0000</pubDate>
-</item>
-<item>
-<title>Windows Recall sounds like a privacy nightmare</title>
-<link>https://www.techradar.com/computing/computing-security/windows-recall-sounds-like-a-privacy-nightmare-heres-why-im-worried</link>
-<guid>https://www.techradar.com/computing/computing-security/windows-recall-sounds-like-a-privacy-nightmare-heres-why-im-worried</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40443682">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 17:33:21 +0000</pubDate>
-</item>
-<item>
-<title>Why Not Just Do Simple C++ RAII in C?</title>
-<link>https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it</link>
-<guid>https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40440841">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 13:38:51 +0000</pubDate>
-</item>
-<item>
-<title>The Gilded Gallows of Georg Honauer (1597)</title>
-<link>https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/</link>
-<guid>https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40424408">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 05:14:09 +0000</pubDate>
 </item>
 </channel>
 </rss>
