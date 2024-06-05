@@ -9982,3 +9982,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Prototype of AROS ABIv0 emulator for 64-bit AROS](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1218&rowstart=60)
 append_entries: 19
 Finish: 2024-06-05 18:08:05.265733
+------------------------------------------------------
+Started: 2024-06-05 20:07:12.782778
+Existing_entries: 1019
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Employees Who Stay in Companies Longer Than Two Years Get Paid 50% Less (2014)](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Feature Flags in Bazel Builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What no one has seen before: gravitational waveforms from warp drive collapse](https://arxiv.org/abs/2406.02466)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fink, a Police Informer](https://blog.oup.com/2024/05/fink-a-police-informer/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Democrat calls only 7 EV-charging stations deployed under US program 'pathetic'](https://finance.yahoo.com/news/democrat-calls-only-7-ev-182511859.html)
+append_entries: 5
+Finish: 2024-06-05 20:07:14.203676
