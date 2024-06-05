@@ -9736,3 +9736,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Debian's /tmpest in a teapot](https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/)
 append_entries: 12
 Finish: 2024-06-04 22:02:32.943364
+------------------------------------------------------
+Started: 2024-06-05 00:28:55.874143
+Existing_entries: 1012
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The state of the art in copter drones and flight control systems](https://www.mdpi.com/1424-8220/24/11/3349)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Positive Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
+append_entries: 5
+Finish: 2024-06-05 00:28:57.290025
