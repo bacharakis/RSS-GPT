@@ -9832,3 +9832,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Japan's Most Actively Traded Stock Is a Fraud and Ticking Time Bomb [pdf]](https://scorpionreports.s3.us-east-2.amazonaws.com/6920.pdf)
 append_entries: 6
 Finish: 2024-06-05 08:08:32.248637
+------------------------------------------------------
+Started: 2024-06-05 10:06:49.288395
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Intel Brings a Big Fork to a Server CPU Knife Fight](https://www.nextplatform.com/2024/06/03/intel-brings-a-big-fork-to-a-server-cpu-knife-fight/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [I Think, Therefore I Relate](https://worldsensorium.com/i-think-therefore-i-relate/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Warren Buffett Controls 3% of the Treasury Bill Market](https://ca.finance.yahoo.com/news/warren-buffett-controls-3-treasury-130200874.html)
+append_entries: 3
+Finish: 2024-06-05 10:06:50.238223

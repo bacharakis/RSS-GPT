@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Intel Brings a Big Fork to a Server CPU Knife Fight</title>
+<link>https://www.nextplatform.com/2024/06/03/intel-brings-a-big-fork-to-a-server-cpu-knife-fight/</link>
+<guid>https://www.nextplatform.com/2024/06/03/intel-brings-a-big-fork-to-a-server-cpu-knife-fight/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40573634">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 12:11:03 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 12:11:03 +0000</pubDate>
+</item>
+<item>
+<title>I Think, Therefore I Relate</title>
+<link>https://worldsensorium.com/i-think-therefore-i-relate/</link>
+<guid>https://worldsensorium.com/i-think-therefore-i-relate/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40572585">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 10:00:32 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 10:00:32 +0000</pubDate>
+</item>
+<item>
+<title>Warren Buffett Controls 3% of the Treasury Bill Market</title>
+<link>https://ca.finance.yahoo.com/news/warren-buffett-controls-3-treasury-130200874.html</link>
+<guid>https://ca.finance.yahoo.com/news/warren-buffett-controls-3-treasury-130200874.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40582767">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 5 Jun 2024 08:46:16 +0000</pubDate>
+<pubDate>Wed, 5 Jun 2024 08:46:16 +0000</pubDate>
+</item>
+
+<item>
 <title>In defence of swap: common misconceptions</title>
 <link>https://chrisdown.name/2018/01/02/in-defence-of-swap.html</link>
 <guid>https://chrisdown.name/2018/01/02/in-defence-of-swap.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40582029">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 06:42:42 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 06:42:42 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://www.zdnet.com/article/google-to-shut-down-google-one-vpn-on-june-20-here-are-some-alternatives/</link>
 <guid>https://www.zdnet.com/article/google-to-shut-down-google-one-vpn-on-june-20-here-are-some-alternatives/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40571925">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 08:13:45 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 08:13:45 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/</link>
 <guid>https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40581918">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 06:25:10 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 06:25:10 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://gamehistory.org/atari-2600-tarzan/</link>
 <guid>https://gamehistory.org/atari-2600-tarzan/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40572113">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 08:43:59 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 08:43:59 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@
 <link>https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date</link>
 <guid>https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40582259">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 07:22:28 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 07:22:28 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@
 <link>https://scorpionreports.s3.us-east-2.amazonaws.com/6920.pdf</link>
 <guid>https://scorpionreports.s3.us-east-2.amazonaws.com/6920.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40581565">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 5 Jun 2024 05:09:14 +0000</pubDate>
-<pubDate>Wed, 5 Jun 2024 05:09:14 +0000</pubDate>
 </item>
-
 <item>
 <title>How to chop off bytes of an UTF-8 string to fit into a small slot and look nice</title>
 <link>https://domm.plix.at/perl/2024_06_chopping_utf8.html</link>
@@ -9016,60 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40456315">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 23 May 2024 15:55:54 +0000</pubDate>
-</item>
-<item>
-<title>Change the default temp file prefix to be "SQLite" spelled backwards</title>
-<link>https://github.com/sqlite/sqlite/commit/fd288f3549a1ab9a309a9e120d46319d42adea29</link>
-<guid>https://github.com/sqlite/sqlite/commit/fd288f3549a1ab9a309a9e120d46319d42adea29</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40453384">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 11:32:30 +0000</pubDate>
-</item>
-<item>
-<title>A Designer's Guide to Documenting Accessibility and User Interactions</title>
-<link>https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/</link>
-<guid>https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40424650">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 05:56:13 +0000</pubDate>
-</item>
-<item>
-<title>Game Changer: Southwest Airlines Now Available on Google Flights</title>
-<link>https://viewfromthewing.com/game-changer-southwest-airlines-now-available-on-google-flights/</link>
-<guid>https://viewfromthewing.com/game-changer-southwest-airlines-now-available-on-google-flights/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40455243">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 14:34:08 +0000</pubDate>
-</item>
-<item>
-<title>Microplastics detected in human testicles, troubling researchers</title>
-<link>https://www.npr.org/sections/health-shots/2024/05/22/1252831827/microplastics-testicles-humans-health</link>
-<guid>https://www.npr.org/sections/health-shots/2024/05/22/1252831827/microplastics-testicles-humans-health</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40456204">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 15:48:15 +0000</pubDate>
-</item>
-<item>
-<title>Common Lisp for Shell Scripting</title>
-<link>https://simonsafar.com/2021/lisp_scripting/</link>
-<guid>https://simonsafar.com/2021/lisp_scripting/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40427337">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 21 May 2024 12:12:57 +0000</pubDate>
-</item>
-<item>
-<title>DuckDuckGo was down</title>
-<link>https://duckduckgo.com</link>
-<guid>https://duckduckgo.com</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40451009">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 06:03:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
