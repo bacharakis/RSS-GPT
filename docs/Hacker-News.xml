@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>You'll regret using natural keys</title>
+<link>https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</link>
+<guid>https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40580549">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 5 Jun 2024 01:25:09 +0000</pubDate>
+<pubDate>Wed, 5 Jun 2024 01:25:09 +0000</pubDate>
+</item>
+<item>
+<title>Atash Behram – Types of Fire</title>
+<link>https://en.wikipedia.org/wiki/Atash_Behram</link>
+<guid>https://en.wikipedia.org/wiki/Atash_Behram</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40571614">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 07:25:34 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 07:25:34 +0000</pubDate>
+</item>
+<item>
+<title>New AI system detects rare epileptic seizures</title>
+<link>https://viterbischool.usc.edu/news/2024/06/ai-detects-rare-epilepsy/</link>
+<guid>https://viterbischool.usc.edu/news/2024/06/ai-detects-rare-epilepsy/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40580456">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 5 Jun 2024 01:09:31 +0000</pubDate>
+<pubDate>Wed, 5 Jun 2024 01:09:31 +0000</pubDate>
+</item>
+
+<item>
 <title>The state of the art in copter drones and flight control systems</title>
 <link>https://www.mdpi.com/1424-8220/24/11/3349</link>
 <guid>https://www.mdpi.com/1424-8220/24/11/3349</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40564489">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 16:45:01 +0000</pubDate>
 <pubDate>Mon, 3 Jun 2024 16:45:01 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer</link>
 <guid>https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40579508">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 22:15:16 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 22:15:16 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://github.com/garritfra/positive_hackernews</link>
 <guid>https://github.com/garritfra/positive_hackernews</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40579563">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 22:21:21 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 22:21:21 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html</link>
 <guid>https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40579761">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 22:51:48 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 22:51:48 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +79,10 @@
 <link>https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/</link>
 <guid>https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40579660">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 4 Jun 2024 22:34:56 +0000</pubDate>
-<pubDate>Tue, 4 Jun 2024 22:34:56 +0000</pubDate>
 </item>
-
 <item>
 <title>Some Notes on Influenceering</title>
 <link>https://lcamtuf.substack.com/p/some-notes-on-influenceering</link>
@@ -9014,51 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40452795">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 23 May 2024 10:11:57 +0000</pubDate>
-</item>
-<item>
-<title>A Faster SuperSplat with PWA Support</title>
-<link>https://blog.playcanvas.com/a-faster-supersplat-with-pwa-support/</link>
-<guid>https://blog.playcanvas.com/a-faster-supersplat-with-pwa-support/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40439641">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 11:21:16 +0000</pubDate>
-</item>
-<item>
-<title>Sorry, iPads</title>
-<link>https://therectangle.substack.com/p/sorry-ipad</link>
-<guid>https://therectangle.substack.com/p/sorry-ipad</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40439443">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 10:46:09 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft Bing Search, Copilot face downtime</title>
-<link>https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/</link>
-<guid>https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40451949">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 08:12:53 +0000</pubDate>
-</item>
-<item>
-<title>Von Neumann's First Computer Program (1970)</title>
-<link>https://dl.acm.org/doi/10.1145/356580.356581</link>
-<guid>https://dl.acm.org/doi/10.1145/356580.356581</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40437638">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 22 May 2024 05:31:19 +0000</pubDate>
-</item>
-<item>
-<title>WinDirStat – Windows Directory Statistics</title>
-<link>https://windirstat.net/</link>
-<guid>https://windirstat.net/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40449767">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 02:34:14 +0000</pubDate>
 </item>
 </channel>
 </rss>
