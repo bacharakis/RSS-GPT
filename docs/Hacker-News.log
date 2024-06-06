@@ -10330,3 +10330,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [An Interview with Lola De La Mata about tinnitus](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
 append_entries: 9
 Finish: 2024-06-06 20:08:01.847207
+------------------------------------------------------
+Started: 2024-06-06 22:02:43.431128
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Boeing's starliner docks at ISS after five thrusters unexpectedly shut off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GOG will delete cloud saves bigger than 200MB after August 31st](https://support.gog.com/hc/en-us/articles/18730340487709-Review-your-Cloud-Saves-to-avoid-loss-of-files?product=gog)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Brain overgrowth dictates autism severity, new research suggests](https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Stallman Was Right](https://twitter.com/snowden/status/1798728673698443638)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bank Rescinds a Job Offer Because It Had Cancelled Candidate's Credit Cards](https://www.nytimes.com/2024/06/06/your-money/chase-account-closed-job.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dr. George Merryweather's 1851 Tempest Prognosticator](https://victorianweb.org/technology/packer/merryweather.html)
+append_entries: 7
+Finish: 2024-06-06 22:02:45.050257
