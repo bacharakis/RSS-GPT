@@ -10087,3 +10087,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [High Altitude Platform Station (HAPS)](https://www.aaltohaps.com/news/ntt-docomo-and-space-compass-partners-with-airbus-on-haps-committing-to-a-usd-100-million-investment-in-aalto)
 append_entries: 3
 Finish: 2024-06-06 02:23:45.376372
+------------------------------------------------------
+Started: 2024-06-06 04:07:38.917762
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Save Team Fortress 2 (#savetf2)](https://save.tf/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Most Life on Earth Is Dormant, After Pulling an 'Emergency Brake'](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GameStop stock influencer Roaring Kitty may lose access to E-Trade, report says](https://arstechnica.com/tech-policy/2024/06/gamestop-stock-influencer-roaring-kitty-may-lose-access-to-e-trade-report-says/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Is mathematics a single science or a set of arts? [pdf]](https://math.ucr.edu/home/baez/Polymath.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Photoshop ToS grants Adobe access to user projects for 'content moderation'](https://nichegamer.com/photoshop-terms-of-service-grants-adobe-access-to-user-projects-for-content-moderation/)
+append_entries: 6
+Finish: 2024-06-06 04:07:40.446517
