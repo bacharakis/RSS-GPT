@@ -10072,3 +10072,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.ajc.com/news/atlanta-news/fbi-raids-atlanta-corporate-landlord-with-ties-to-realpage/PT65C57YUFF2JGB7TRVRC7IFLE/)
 append_entries: 8
 Finish: 2024-06-06 00:29:08.071285
+------------------------------------------------------
+Started: 2024-06-06 02:23:44.390139
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Researchers to retract landmark Alzheimer's paper containing doctored images](https://www.science.org/content/article/researchers-plan-retract-landmark-alzheimers-paper-containing-doctored-images)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [High Altitude Platform Station (HAPS)](https://www.aaltohaps.com/news/ntt-docomo-and-space-compass-partners-with-airbus-on-haps-committing-to-a-usd-100-million-investment-in-aalto)
+append_entries: 3
+Finish: 2024-06-06 02:23:45.376372
