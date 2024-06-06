@@ -5,14 +5,112 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Let rand = main as usize</title>
+<link>https://codeandbitters.com/main-as-usize/</link>
+<guid>https://codeandbitters.com/main-as-usize/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40600384">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 17:55:28 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 17:55:28 +0000</pubDate>
+</item>
+<item>
+<title>Extracting concepts from GPT-4</title>
+<link>https://openai.com/index/extracting-concepts-from-gpt-4/</link>
+<guid>https://openai.com/index/extracting-concepts-from-gpt-4/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40599749">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 17:01:37 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 17:01:37 +0000</pubDate>
+</item>
+<item>
+<title>Dragonfly: A large vision-language model with multi-resolution zoom</title>
+<link>https://www.together.ai/blog/dragonfly-v1</link>
+<guid>https://www.together.ai/blog/dragonfly-v1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40600775">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 18:31:04 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 18:31:04 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft Issues New Warning for 70% of All Windows Users</title>
+<link>https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/</link>
+<guid>https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40601565">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 19:46:42 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 19:46:42 +0000</pubDate>
+</item>
+<item>
+<title>Telegram Stars: Pay for Digital Goods and More</title>
+<link>https://telegram.org/blog/telegram-stars</link>
+<guid>https://telegram.org/blog/telegram-stars</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40599857">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 17:09:58 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 17:09:58 +0000</pubDate>
+</item>
+<item>
+<title>Compromised Visions Are Superior</title>
+<link>https://ericnormand.substack.com/p/compromised-visions-are-superior</link>
+<guid>https://ericnormand.substack.com/p/compromised-visions-are-superior</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40581904">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 5 Jun 2024 06:22:26 +0000</pubDate>
+<pubDate>Wed, 5 Jun 2024 06:22:26 +0000</pubDate>
+</item>
+<item>
+<title>Windows Recall: Microsoft has lost trust with its users</title>
+<link>https://www.windowscentral.com/software-apps/nvidia-3-trillion-market-valuation-second-most-valuable-company</link>
+<guid>https://www.windowscentral.com/software-apps/nvidia-3-trillion-market-valuation-second-most-valuable-company</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40601423">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 19:31:16 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 19:31:16 +0000</pubDate>
+</item>
+<item>
+<title>High resolution logo for any domain or stock ticker</title>
+<link>https://logo.synthfinance.com/</link>
+<guid>https://logo.synthfinance.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40600506">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 18:06:55 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 18:06:55 +0000</pubDate>
+</item>
+<item>
+<title>An Interview with Lola De La Mata about tinnitus</title>
+<link>https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/</link>
+<guid>https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40600748">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 18:28:22 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 18:28:22 +0000</pubDate>
+</item>
+
+<item>
 <title>Roman Roads (2017)</title>
 <link>https://sashamaps.net/docs/maps/roman-roads-original/</link>
 <guid>https://sashamaps.net/docs/maps/roman-roads-original/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40597216">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 13:32:36 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 13:32:36 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +118,8 @@
 <link>https://qwenlm.github.io/blog/qwen2/</link>
 <guid>https://qwenlm.github.io/blog/qwen2/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40599018">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 16:01:13 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 16:01:13 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +127,8 @@
 <link>https://www.workatastartup.com/jobs/66928</link>
 <guid>https://www.workatastartup.com/jobs/66928</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40600083">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 17:27:08 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 17:27:08 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +136,8 @@
 <link>https://github.com/hackerb9/lsix</link>
 <guid>https://github.com/hackerb9/lsix</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40598629">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 15:29:56 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 15:29:56 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +145,8 @@
 <link>https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf</link>
 <guid>https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40599868">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 17:11:13 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 17:11:13 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +154,8 @@
 <link>https://raould.github.io/pn0gstr0m/</link>
 <guid>https://raould.github.io/pn0gstr0m/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40582357">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 07:37:38 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 07:37:38 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +163,8 @@
 <link>https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/</link>
 <guid>https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40582475">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 07:57:12 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 07:57:12 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +172,8 @@
 <link>https://worldsensorium.com/the-dual-nature-of-japanese-knotweed/</link>
 <guid>https://worldsensorium.com/the-dual-nature-of-japanese-knotweed/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40583836">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 11:59:06 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 11:59:06 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +181,8 @@
 <link>https://xpipe.io</link>
 <guid>https://xpipe.io</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40599419">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 16:34:31 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 16:34:31 +0000</pubDate>
 </item>
 <item>
@@ -108,13 +190,10 @@
 <link>https://ploomber.io/blog/json-monitor-llm/</link>
 <guid>https://ploomber.io/blog/json-monitor-llm/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40598979">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 6 Jun 2024 15:58:32 +0000</pubDate>
-<pubDate>Thu, 6 Jun 2024 15:58:32 +0000</pubDate>
 </item>
-
 <item>
 <title>The Roads of Ancient Rome Visualized in the Style of Modern Subway Maps</title>
 <link>https://www.openculture.com/2024/06/the-roads-of-ancient-rome-visualized-in-modern-subway-maps.html</link>
@@ -9024,96 +9103,6 @@
 <a href="https://news.ycombinator.com/item?id=40472119">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 02:08:08 +0000</pubDate>
-</item>
-<item>
-<title>JetBrains releases RustRover IDE for Rust development</title>
-<link>https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html</link>
-<guid>https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40472146">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 02:15:58 +0000</pubDate>
-</item>
-<item>
-<title>You are lucky Full moon tonight</title>
-<link>https://twitter.com/cupiabart/status/1793930355617259811</link>
-<guid>https://twitter.com/cupiabart/status/1793930355617259811</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40472226">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 02:35:56 +0000</pubDate>
-</item>
-<item>
-<title>Unleashed Chat</title>
-<link>https://unleashed.chat/</link>
-<guid>https://unleashed.chat/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40472022">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 01:40:54 +0000</pubDate>
-</item>
-<item>
-<title>Test Functions for Global Optimization</title>
-<link>https://www.sfu.ca/~ssurjano/optimization.html</link>
-<guid>https://www.sfu.ca/~ssurjano/optimization.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40464579">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 10:01:00 +0000</pubDate>
-</item>
-<item>
-<title>Email.ml – Minimalist Temporary Email</title>
-<link>https://email.ml/</link>
-<guid>https://email.ml/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40471798">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 00:52:02 +0000</pubDate>
-</item>
-<item>
-<title>Byuu.org – Depression</title>
-<link>https://archive.fo/2014.12.18-152806/https://byuu.org/</link>
-<guid>https://archive.fo/2014.12.18-152806/https://byuu.org/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40471864">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 01:03:57 +0000</pubDate>
-</item>
-<item>
-<title>Recursion, Continuations and Trampolines</title>
-<link>https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/</link>
-<guid>https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40463626">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 07:00:11 +0000</pubDate>
-</item>
-<item>
-<title>Soda-Can Planimeter</title>
-<link>http://durealeyes.com/planimeter.html</link>
-<guid>http://durealeyes.com/planimeter.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40463426">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 06:28:27 +0000</pubDate>
-</item>
-<item>
-<title>How massive, feral goldfish are threatening the Great Lakes ecosystem [video]</title>
-<link>https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem</link>
-<guid>https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40471958">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 01:26:32 +0000</pubDate>
-</item>
-<item>
-<title>ICQ messenger shuts down after almost 28 years</title>
-<link>https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/</link>
-<guid>https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40471306">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 23:12:27 +0000</pubDate>
 </item>
 </channel>
 </rss>
