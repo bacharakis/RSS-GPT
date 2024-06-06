@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>I learned Vulkan and wrote a small game engine with it</title>
+<link>https://edw.is/learning-vulkan/</link>
+<guid>https://edw.is/learning-vulkan/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40595741">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 10:24:23 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 10:24:23 +0000</pubDate>
+</item>
+<item>
+<title>Browsing Log Streams with Fzf</title>
+<link>https://junegunn.github.io/fzf/tips/browsing-log-streams/</link>
+<guid>https://junegunn.github.io/fzf/tips/browsing-log-streams/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40597094">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 13:21:49 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 13:21:49 +0000</pubDate>
+</item>
+<item>
+<title>Starship made it through re-entry, did its first ever landing burn</title>
+<link>https://twitter.com/SpaceX/status/1798715759193096245</link>
+<guid>https://twitter.com/SpaceX/status/1798715759193096245</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40597434">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 13:57:52 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 13:57:52 +0000</pubDate>
+</item>
+<item>
+<title>How does hardware acceleration work with containers?</title>
+<link>https://torizon.github.io/blog/how-does-hardware-acceleration-work-with-containers/</link>
+<guid>https://torizon.github.io/blog/how-does-hardware-acceleration-work-with-containers/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40597031">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 13:16:08 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 13:16:08 +0000</pubDate>
+</item>
+<item>
+<title>Super Heavy has splashed down in The Gulf of Mexico</title>
+<link>https://twitter.com/SpaceX/status/1798701489097183286</link>
+<guid>https://twitter.com/SpaceX/status/1798701489097183286</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40596883">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 13:02:48 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 13:02:48 +0000</pubDate>
+</item>
+<item>
+<title>Apple Fell Behind in the AI Arms Race</title>
+<link>https://www.wsj.com/tech/ai/apple-ai-siri-development-behind-9ea65ee8</link>
+<guid>https://www.wsj.com/tech/ai/apple-ai-siri-development-behind-9ea65ee8</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40597114">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 13:23:17 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 13:23:17 +0000</pubDate>
+</item>
+<item>
+<title>My Programming Journey</title>
+<link>https://gavinhoward.com/2024/06/my-programming-journey/</link>
+<guid>https://gavinhoward.com/2024/06/my-programming-journey/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40582712">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 5 Jun 2024 08:36:35 +0000</pubDate>
+<pubDate>Wed, 5 Jun 2024 08:36:35 +0000</pubDate>
+</item>
+<item>
+<title>The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data</title>
+<link>https://link.springer.com/article/10.1007/s13347-023-00616-9</link>
+<guid>https://link.springer.com/article/10.1007/s13347-023-00616-9</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40597503">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 14:03:17 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 14:03:17 +0000</pubDate>
+</item>
+
+<item>
 <title>St Michael Sword investigation: Are the 7 Cathedrals on a straight line?</title>
 <link>https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/</link>
 <guid>https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40595499">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 09:48:59 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 09:48:59 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://www.qemu.org/2018/02/09/understanding-qemu-devices/</link>
 <guid>https://www.qemu.org/2018/02/09/understanding-qemu-devices/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40595384">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 09:33:19 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 09:33:19 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808</link>
 <guid>https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40596386">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 12:01:07 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 12:01:07 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://newatlas.com/technology/night-vision-thin-light-lens/</link>
 <guid>https://newatlas.com/technology/night-vision-thin-light-lens/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40573364">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 11:42:13 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 11:42:13 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +134,10 @@
 <link>https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_inaugural_launch_targeted_for_9_July</link>
 <guid>https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_inaugural_launch_targeted_for_9_July</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40595222">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 6 Jun 2024 09:11:34 +0000</pubDate>
-<pubDate>Thu, 6 Jun 2024 09:11:34 +0000</pubDate>
 </item>
-
 <item>
 <title>FBI has obtained 7k Lockbit ransomware decryption keys</title>
 <link>https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security</link>
@@ -9014,51 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40467625">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 16:16:37 +0000</pubDate>
-</item>
-<item>
-<title>Samsung WB850F Firmware Reverse Engineering</title>
-<link>https://op-co.de/blog/posts/samsung_wb850f_firmware/</link>
-<guid>https://op-co.de/blog/posts/samsung_wb850f_firmware/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40467232">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 15:35:04 +0000</pubDate>
-</item>
-<item>
-<title>Self-hosting keeps your private data out of AI models</title>
-<link>https://blog.zulip.com/2024/05/23/self-hosting-keeps-your-private-data-out-of-ai-models/</link>
-<guid>https://blog.zulip.com/2024/05/23/self-hosting-keeps-your-private-data-out-of-ai-models/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40467934">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 16:44:00 +0000</pubDate>
-</item>
-<item>
-<title>Thermodynamic Natural Gradient Descent</title>
-<link>https://arxiv.org/abs/2405.13817</link>
-<guid>https://arxiv.org/abs/2405.13817</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40466826">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 14:50:07 +0000</pubDate>
-</item>
-<item>
-<title>AI will create more successful founders</title>
-<link>https://www.ycombinator.com/blog/opportunities-in-ai/</link>
-<guid>https://www.ycombinator.com/blog/opportunities-in-ai/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40468627">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 17:49:29 +0000</pubDate>
-</item>
-<item>
-<title>Flexport (YC W14) is hiring an OR/ML guru to optimize global trade routing</title>
-<link>https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177</link>
-<guid>https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40468113">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 17:00:52 +0000</pubDate>
 </item>
 </channel>
 </rss>
