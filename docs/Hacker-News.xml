@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>FBI has obtained 7k Lockbit ransomware decryption keys</title>
+<link>https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security</link>
+<guid>https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40594533">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 07:28:11 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 07:28:11 +0000</pubDate>
+</item>
+<item>
+<title>Starship's Fourth Flight Test: Window Opens 07:00 AM Central Time</title>
+<link>https://www.spacex.com/launches/mission/?missionId=starship-flight-4</link>
+<guid>https://www.spacex.com/launches/mission/?missionId=starship-flight-4</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40595164">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 09:04:32 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 09:04:32 +0000</pubDate>
+</item>
+<item>
+<title>Study Finds 268% Higher Failure Rates for Agile Software Projects</title>
+<link>https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects</link>
+<guid>https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40595465">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 09:45:40 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 09:45:40 +0000</pubDate>
+</item>
+<item>
+<title>Televised Music Is a Pointless Rigmarole (1968)</title>
+<link>https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/</link>
+<guid>https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40578137">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 19:33:38 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 19:33:38 +0000</pubDate>
+</item>
+
+<item>
 <title>TPM GPIO fail: How bad OEM firmware ruins Intel TPM security</title>
 <link>https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html</link>
 <guid>https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40593540">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 04:34:57 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 04:34:57 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf</link>
 <guid>https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40594152">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 06:24:19 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 06:24:19 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://shkspr.mobi/blog/2024/06/infrared-infrastructure/</link>
 <guid>https://shkspr.mobi/blog/2024/06/infrared-infrastructure/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40573506">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 11:57:18 +0000</pubDate>
 <pubDate>Tue, 4 Jun 2024 11:57:18 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try</link>
 <guid>https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40592998">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 03:03:59 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 03:03:59 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +90,10 @@
 <link>https://barretts.club/posts/rust-for-the-engine/</link>
 <guid>https://barretts.club/posts/rust-for-the-engine/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40593943">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 6 Jun 2024 05:50:52 +0000</pubDate>
-<pubDate>Thu, 6 Jun 2024 05:50:52 +0000</pubDate>
 </item>
-
 <item>
 <title>Mitsubishi robot solves Rubik's Cube in 0.305s</title>
 <link>https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/</link>
@@ -9014,51 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40466429">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 24 May 2024 14:07:38 +0000</pubDate>
-</item>
-<item>
-<title>A slightly more fun way to disable Windows Defender (through the WSC API)</title>
-<link>https://github.com/es3n1n/no-defender</link>
-<guid>https://github.com/es3n1n/no-defender</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40467741">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 16:27:40 +0000</pubDate>
-</item>
-<item>
-<title>Open-source AI projects selected by GitHub accelerator</title>
-<link>https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/</link>
-<guid>https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40468739">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 17:58:58 +0000</pubDate>
-</item>
-<item>
-<title>Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone</title>
-<link>https://spectrum.ieee.org/arthur-erickson-drones-profile</link>
-<guid>https://spectrum.ieee.org/arthur-erickson-drones-profile</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40466469">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 14:12:01 +0000</pubDate>
-</item>
-<item>
-<title>Morgan Spurlock, filmmaker behind 'Super Size Me' documentary, dies from cancer</title>
-<link>https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964</link>
-<guid>https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40467393">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 15:51:50 +0000</pubDate>
-</item>
-<item>
-<title>We Shift Testing Left: A Software Dev Cycle That Doesn't Scale</title>
-<link>https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/</link>
-<guid>https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40466868">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 14:54:25 +0000</pubDate>
 </item>
 </channel>
 </rss>
