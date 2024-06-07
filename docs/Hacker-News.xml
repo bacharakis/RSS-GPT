@@ -5,14 +5,24 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Ice - open source bar manager for macOS</title>
+<link>https://github.com/jordanbaird/Ice</link>
+<guid>https://github.com/jordanbaird/Ice</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40605532">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 05:11:58 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 05:11:58 +0000</pubDate>
+</item>
+
+<item>
 <title>Shopify is acquiring the Threads team</title>
 <link>https://framer.threads.com/announcement</link>
 <guid>https://framer.threads.com/announcement</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40604997">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 03:22:30 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 03:22:30 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://peopleofcolorintech.com/articles/metas-ad-system-shows-racial-bias-directing-black-users-to-for-profit-colleges/</link>
 <guid>https://peopleofcolorintech.com/articles/metas-ad-system-shows-racial-bias-directing-black-users-to-for-profit-colleges/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40605056">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 03:33:06 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 03:33:06 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@
 <link>https://github.com/sosy-lab/cpu-energy-meter</link>
 <guid>https://github.com/sosy-lab/cpu-energy-meter</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40604596">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 01:59:21 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 01:59:21 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +48,8 @@
 <link>https://www.datagubbe.se/stupidslow/</link>
 <guid>https://www.datagubbe.se/stupidslow/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40604972">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 03:17:51 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 03:17:51 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +57,8 @@
 <link>https://news.ycombinator.com/item?id=40605103</link>
 <guid>https://news.ycombinator.com/item?id=40605103</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40605103">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 03:40:57 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 03:40:57 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +66,8 @@
 <link>https://www.linguistic-antipatterns.com/</link>
 <guid>https://www.linguistic-antipatterns.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40604626">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 02:05:50 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 02:05:50 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +75,10 @@
 <link>https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad</link>
 <guid>https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40604674">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 7 Jun 2024 02:14:52 +0000</pubDate>
-<pubDate>Fri, 7 Jun 2024 02:14:52 +0000</pubDate>
 </item>
-
 <item>
 <title>Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager</title>
 <link>https://news.ycombinator.com/item?id=40604246</link>
@@ -9018,69 +9015,6 @@
 <a href="https://news.ycombinator.com/item?id=40474557">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 12:24:38 +0000</pubDate>
-</item>
-<item>
-<title>Goodix Fingerprint Drivers for Linux (Or at Least Debian)</title>
-<link>https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell</link>
-<guid>https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40475125">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 14:01:22 +0000</pubDate>
-</item>
-<item>
-<title>Google labeled "an illegal monopolist" by US federal judge</title>
-<link>https://www.notebookcheck.net/Google-labeled-an-illegal-monopolist-by-US-federal-judge.841019.0.html</link>
-<guid>https://www.notebookcheck.net/Google-labeled-an-illegal-monopolist-by-US-federal-judge.841019.0.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40475736">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 15:50:32 +0000</pubDate>
-</item>
-<item>
-<title>100BASE-T4 over barbed wire (2001)</title>
-<link>https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm</link>
-<guid>https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40456621">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 16:20:23 +0000</pubDate>
-</item>
-<item>
-<title>The Prophet Who Failed – After the apocalypse that wasn't</title>
-<link>https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/</link>
-<guid>https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40475089">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 13:53:09 +0000</pubDate>
-</item>
-<item>
-<title>A shrinking life: Why some Asian youth withdraw from the world</title>
-<link>https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/</link>
-<guid>https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40475178">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 14:10:36 +0000</pubDate>
-</item>
-<item>
-<title>The Case for Japan's Clothes-Drying Bathrooms</title>
-<link>https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology</link>
-<guid>https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40475076">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 13:50:19 +0000</pubDate>
-</item>
-<item>
-<title>Single atom defect in 2D material can hold quantum information at room temp</title>
-<link>https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp</link>
-<guid>https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40461325">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 23:53:48 +0000</pubDate>
 </item>
 </channel>
 </rss>

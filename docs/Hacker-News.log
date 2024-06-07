@@ -10432,3 +10432,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
 append_entries: 7
 Finish: 2024-06-07 04:08:53.446192
+------------------------------------------------------
+Started: 2024-06-07 06:09:31.472668
+Existing_entries: 1007
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
+append_entries: 1
+Finish: 2024-06-07 06:09:32.190534

@@ -2447,3 +2447,9 @@ Existing_entries: 29
 Fetching from http://rss.cnn.com/rss/cnn_world.rss
 append_entries: 0
 Finish: 2024-06-07 04:08:54.033931
+------------------------------------------------------
+Started: 2024-06-07 06:09:32.725350
+Existing_entries: 29
+Fetching from http://rss.cnn.com/rss/cnn_world.rss
+append_entries: 0
+Finish: 2024-06-07 06:09:32.858649
