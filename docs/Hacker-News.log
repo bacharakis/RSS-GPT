@@ -10441,3 +10441,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 append_entries: 1
 Finish: 2024-06-07 06:09:32.190534
+------------------------------------------------------
+Started: 2024-06-07 08:08:56.682774
+Existing_entries: 1001
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [GNU JUSTIFIED PUBLIC LICENSE](http://tom7.org/bovex/JCOPYING)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Desktop Linux is an Untapped Gold Mine](https://gebna.gg/blog/desktop-linux-is-an-untapped-gold-mine)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [US has the highest rate of maternal deaths among rich nations. Norway has zero](https://www.cnn.com/2024/06/04/health/maternal-deaths-high-income-nations/index.html)
+append_entries: 3
+Finish: 2024-06-07 08:08:57.374188
