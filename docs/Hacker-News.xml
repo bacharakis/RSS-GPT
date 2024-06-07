@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Zig Goals</title>
+<link>https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761</link>
+<guid>https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40611925">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 19:15:29 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 19:15:29 +0000</pubDate>
+</item>
+<item>
+<title>Alarms in Medical Equipment</title>
+<link>https://th.id.au/alarms/</link>
+<guid>https://th.id.au/alarms/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40611638">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 18:45:59 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 18:45:59 +0000</pubDate>
+</item>
+<item>
+<title>The largest solar farm just came online in China</title>
+<link>https://electrek.co/2024/06/04/worlds-largest-solar-farm-china/</link>
+<guid>https://electrek.co/2024/06/04/worlds-largest-solar-farm-china/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40579045">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 4 Jun 2024 21:18:17 +0000</pubDate>
+<pubDate>Tue, 4 Jun 2024 21:18:17 +0000</pubDate>
+</item>
+<item>
+<title>The Man Who Reinvented the Cat</title>
+<link>https://www.newyorker.com/magazine/2024/06/10/catland-louis-wain-and-the-great-cat-mania-kathryn-hughes-book-review</link>
+<guid>https://www.newyorker.com/magazine/2024/06/10/catland-louis-wain-and-the-great-cat-mania-kathryn-hughes-book-review</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40608523">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 13:29:35 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 13:29:35 +0000</pubDate>
+</item>
+<item>
+<title>Gravity Without Mass: UAH Study Proposes Alternative to Dark Matter</title>
+<link>https://www.azoquantum.com/News.aspx?newsID=10305</link>
+<guid>https://www.azoquantum.com/News.aspx?newsID=10305</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40610133">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 16:23:08 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 16:23:08 +0000</pubDate>
+</item>
+
+<item>
 <title>OpenSSH introduces options to penalize undesirable behavior</title>
 <link>https://undeadly.org/cgi?action=article;sid=20240607042157</link>
 <guid>https://undeadly.org/cgi?action=article;sid=20240607042157</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40610621">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 17:08:23 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 17:08:23 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://meatfighter.com/ascii-silhouettify/</link>
 <guid>https://meatfighter.com/ascii-silhouettify/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40610641">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 17:10:00 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 17:10:00 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://www.wired.com/story/microsoft-recall-off-default-security-concerns/</link>
 <guid>https://www.wired.com/story/microsoft-recall-off-default-security-concerns/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40610435">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 16:47:28 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 16:47:28 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd</link>
 <guid>https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40609968">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 16:07:25 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 16:07:25 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +101,8 @@
 <link>https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code</link>
 <guid>https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40609485">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 15:14:29 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 15:14:29 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +110,8 @@
 <link>https://www.atlasobscura.com/articles/italian-streets-not-on-map</link>
 <guid>https://www.atlasobscura.com/articles/italian-streets-not-on-map</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40608615">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 13:42:02 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 13:42:02 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +119,8 @@
 <link>https://www.economist.com/science-and-technology/2024/06/06/zany-ideas-to-slow-polar-melting-are-gathering-momentum</link>
 <guid>https://www.economist.com/science-and-technology/2024/06/06/zany-ideas-to-slow-polar-melting-are-gathering-momentum</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40609986">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 16:09:07 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 16:09:07 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +128,8 @@
 <link>https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/</link>
 <guid>https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40603509">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 23:12:02 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 23:12:02 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +137,8 @@
 <link>https://github.com/krusynth/webring-starter</link>
 <guid>https://github.com/krusynth/webring-starter</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40610574">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 17:02:25 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 17:02:25 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +146,8 @@
 <link>https://knowablemagazine.org/content/article/living-world/2024/life-of-the-narwhal-martin-nweeia</link>
 <guid>https://knowablemagazine.org/content/article/living-world/2024/life-of-the-narwhal-martin-nweeia</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40580458">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 01:09:55 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 01:09:55 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +155,8 @@
 <link>https://www.wired.com/story/google-and-microsofts-chatbots-refuse-election-questions/</link>
 <guid>https://www.wired.com/story/google-and-microsofts-chatbots-refuse-election-questions/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40610926">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 17:39:00 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 17:39:00 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +164,8 @@
 <link>https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202303575</link>
 <guid>https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202303575</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40609499">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 15:16:09 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 15:16:09 +0000</pubDate>
 </item>
 <item>
@@ -141,13 +173,10 @@
 <link>https://news.ycombinator.com/item?id=40610794</link>
 <guid>https://news.ycombinator.com/item?id=40610794</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40610794">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 7 Jun 2024 17:26:34 +0000</pubDate>
-<pubDate>Fri, 7 Jun 2024 17:26:34 +0000</pubDate>
 </item>
-
 <item>
 <title>Recovery after HP tech support bricked my father's laptop</title>
 <link>https://github.com/ctag/hp_envy_reviver</link>
@@ -9030,123 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40478470">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 23:01:29 +0000</pubDate>
-</item>
-<item>
-<title>$899 mini PC puts Snapdragon X Elite into a mini desktop for developers</title>
-<link>https://arstechnica.com/gadgets/2024/05/snapdragon-dev-kit-for-windows-is-a-next-gen-mini-desktop-with-snapdragon-x-elite/</link>
-<guid>https://arstechnica.com/gadgets/2024/05/snapdragon-dev-kit-for-windows-is-a-next-gen-mini-desktop-with-snapdragon-x-elite/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40458329">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 18:44:57 +0000</pubDate>
-</item>
-<item>
-<title>Best of Google AI search results</title>
-<link>https://threadreaderapp.com/thread/1794543007129387208.html</link>
-<guid>https://threadreaderapp.com/thread/1794543007129387208.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40479438">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 02:48:35 +0000</pubDate>
-</item>
-<item>
-<title>How do layer 2s differ from execution sharding?</title>
-<link>https://vitalik.eth.limo/general/2024/05/23/l2exec.html</link>
-<guid>https://vitalik.eth.limo/general/2024/05/23/l2exec.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40455118">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 14:23:49 +0000</pubDate>
-</item>
-<item>
-<title>Fixing My Yamaha Electone Me-50: An FM Synthesizer Home Organ from 1986</title>
-<link>https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html</link>
-<guid>https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40457535">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 17:32:18 +0000</pubDate>
-</item>
-<item>
-<title>The Route of a Text Message (2019)</title>
-<link>https://web.archive.org/web/20210301230703/http://scottbot.net/the-route-of-a-text-message/</link>
-<guid>https://web.archive.org/web/20210301230703/http://scottbot.net/the-route-of-a-text-message/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40474101">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 10:41:31 +0000</pubDate>
-</item>
-<item>
-<title>Ask HN: What is your ChatGPT customization prompt?</title>
-<link>https://news.ycombinator.com/item?id=40474716</link>
-<guid>https://news.ycombinator.com/item?id=40474716</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40474716">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 12:50:49 +0000</pubDate>
-</item>
-<item>
-<title>VisionGPT open source – Analyze your image in seconds with AI</title>
-<link>https://github.com/megoxv/visionGPT</link>
-<guid>https://github.com/megoxv/visionGPT</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40476947">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 18:36:45 +0000</pubDate>
-</item>
-<item>
-<title>'I was misidentified as shoplifter by facial recognition tech'</title>
-<link>https://www.bbc.com/news/technology-69055945</link>
-<guid>https://www.bbc.com/news/technology-69055945</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40478923">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 00:45:04 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft, Khan Academy Partner to Make Khanmigo Teaching Tool Free</title>
-<link>https://thejournal.com/Articles/2024/05/21/Microsoft-Khan-Academy-Partner-to-Make-Khanmigo-Teaching-Tool-Free.aspx</link>
-<guid>https://thejournal.com/Articles/2024/05/21/Microsoft-Khan-Academy-Partner-to-Make-Khanmigo-Teaching-Tool-Free.aspx</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40455514">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 14:55:38 +0000</pubDate>
-</item>
-<item>
-<title>GRC SpinRite</title>
-<link>https://computer.rip/2024-05-25-grc-spinrite.html</link>
-<guid>https://computer.rip/2024-05-25-grc-spinrite.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40478976">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 00:54:23 +0000</pubDate>
-</item>
-<item>
-<title>Zellij: A terminal workspace with batteries included</title>
-<link>https://zellij.dev/</link>
-<guid>https://zellij.dev/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40478188">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 22:02:29 +0000</pubDate>
-</item>
-<item>
-<title>Majorana, the search for the most elusive neutrino of all</title>
-<link>https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/</link>
-<guid>https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40477653">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 20:35:59 +0000</pubDate>
-</item>
-<item>
-<title>Helen Keller on her life before self-consciousness</title>
-<link>http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html</link>
-<guid>http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40466814">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 14:48:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
