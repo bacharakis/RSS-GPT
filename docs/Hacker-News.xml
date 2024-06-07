@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Recovery after HP tech support bricked my father's laptop</title>
+<link>https://github.com/ctag/hp_envy_reviver</link>
+<guid>https://github.com/ctag/hp_envy_reviver</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40609126">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 14:33:05 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 14:33:05 +0000</pubDate>
+</item>
+<item>
+<title>LedgerStore Supports Trillions of Indexes at Uber</title>
+<link>https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb</link>
+<guid>https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40609326">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 14:55:48 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 14:55:48 +0000</pubDate>
+</item>
+<item>
+<title>The illusion of state in state-space models</title>
+<link>https://arxiv.org/abs/2404.08819</link>
+<guid>https://arxiv.org/abs/2404.08819</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40607733">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 11:53:27 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 11:53:27 +0000</pubDate>
+</item>
+<item>
+<title>Towards Federated Key Transparency</title>
+<link>https://soatok.blog/2024/06/06/towards-federated-key-transparency/</link>
+<guid>https://soatok.blog/2024/06/06/towards-federated-key-transparency/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40606503">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 08:22:47 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 08:22:47 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: E-Paper 7-color display showing the current weather</title>
+<link>https://github.com/blixt/sol-mate-eink</link>
+<guid>https://github.com/blixt/sol-mate-eink</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40607889">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 12:10:30 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 12:10:30 +0000</pubDate>
+</item>
+<item>
+<title>Andrew Ng on AI Regulation</title>
+<link>https://twitter.com/AndrewYNg/status/1788648531873628607</link>
+<guid>https://twitter.com/AndrewYNg/status/1788648531873628607</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40608439">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 13:18:10 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 13:18:10 +0000</pubDate>
+</item>
+
+<item>
 <title>A Picture Is Worth 170 Tokens: How Does GPT-4o Encode Images?</title>
 <link>https://www.oranlooney.com/post/gpt-cnn/</link>
 <guid>https://www.oranlooney.com/post/gpt-cnn/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40608269">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 12:54:27 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 12:54:27 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://arxiv.org/abs/2404.09562</link>
 <guid>https://arxiv.org/abs/2404.09562</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40608413">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 13:12:31 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 13:12:31 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>http://tom7.org/bovex/</link>
 <guid>http://tom7.org/bovex/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40608332">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 13:01:15 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 13:01:15 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/</link>
 <guid>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40606924">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 09:36:48 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 09:36:48 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/</link>
 <guid>https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40602792">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 21:52:02 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 21:52:02 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +121,8 @@
 <link>https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf</link>
 <guid>https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40608373">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 13:06:43 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 13:06:43 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +130,8 @@
 <link>https://hakaimagazine.com/features/quieting-the-global-growl/</link>
 <guid>https://hakaimagazine.com/features/quieting-the-global-growl/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40605574">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 05:21:54 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 05:21:54 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +139,8 @@
 <link>https://thinhcorner.com/blog/hayday-game-schedule</link>
 <guid>https://thinhcorner.com/blog/hayday-game-schedule</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40605824">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 06:25:21 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 06:25:21 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +148,8 @@
 <link>https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/</link>
 <guid>https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40601356">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 19:25:24 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 19:25:24 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +157,8 @@
 <link>https://nautil.us/we-are-made-of-waves-640732/</link>
 <guid>https://nautil.us/we-are-made-of-waves-640732/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40607307">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 10:47:22 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 10:47:22 +0000</pubDate>
 </item>
 <item>
@@ -119,13 +166,10 @@
 <link>https://polar.sh/eval/posts/a-better-regex-experience</link>
 <guid>https://polar.sh/eval/posts/a-better-regex-experience</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40606477">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 7 Jun 2024 08:19:12 +0000</pubDate>
-<pubDate>Fri, 7 Jun 2024 08:19:12 +0000</pubDate>
 </item>
-
 <item>
 <title>Cancel Adobe if you are a creative under NDA with your clients</title>
 <link>https://twitter.com/Stretchedwiener/status/1798153619285708909</link>
@@ -9026,105 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40475355">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 25 May 2024 14:44:58 +0000</pubDate>
-</item>
-<item>
-<title>Startup is about to install bladeless rooftop wind turbines on box buildings</title>
-<link>https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/</link>
-<guid>https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40478294">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 22:26:31 +0000</pubDate>
-</item>
-<item>
-<title>Rootless Docker in a multi-user environment</title>
-<link>https://www.cmtops.dev/posts/rootless-docker-in-multiuser-environment/</link>
-<guid>https://www.cmtops.dev/posts/rootless-docker-in-multiuser-environment/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40477166">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 19:11:40 +0000</pubDate>
-</item>
-<item>
-<title>Lessons Learned from My First Roblox Game</title>
-<link>https://mandeepbhutani.com/blog</link>
-<guid>https://mandeepbhutani.com/blog</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40455865">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 15:24:21 +0000</pubDate>
-</item>
-<item>
-<title>&amp;udm=14 – easy access to an AI-free Google search</title>
-<link>https://udm14.com/</link>
-<guid>https://udm14.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40450267">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 03:47:41 +0000</pubDate>
-</item>
-<item>
-<title>Ian Clarke explains the next generation of Freenet [video] (2023)</title>
-<link>https://www.youtube.com/watch?v=yBtyNIqZios</link>
-<guid>https://www.youtube.com/watch?v=yBtyNIqZios</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40469711">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 19:33:36 +0000</pubDate>
-</item>
-<item>
-<title>Inventing my own writing system for English, VJScript</title>
-<link>https://www.vkethana.com/vjscript/</link>
-<guid>https://www.vkethana.com/vjscript/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40456449">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 16:05:15 +0000</pubDate>
-</item>
-<item>
-<title>Looking Glass debuts 16-inch OLED and 32-inch 'holographic' spatial displays</title>
-<link>https://petapixel.com/2024/05/14/looking-glass-debuts-16-inch-oled-and-32-inch-holographic-spatial-displays/</link>
-<guid>https://petapixel.com/2024/05/14/looking-glass-debuts-16-inch-oled-and-32-inch-holographic-spatial-displays/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40470123">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 24 May 2024 20:17:13 +0000</pubDate>
-</item>
-<item>
-<title>Animating Ptolemy's Equant with Python, SVG, and CSS</title>
-<link>https://rhodesmill.org/brandon/2019/animating-the-equant/</link>
-<guid>https://rhodesmill.org/brandon/2019/animating-the-equant/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40454475">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 13:30:56 +0000</pubDate>
-</item>
-<item>
-<title>Extend your battery life with scx_rustland</title>
-<link>http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html</link>
-<guid>http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40477500">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 20:13:34 +0000</pubDate>
-</item>
-<item>
-<title>Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)</title>
-<link>https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote</link>
-<guid>https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40477840">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 21:01:30 +0000</pubDate>
-</item>
-<item>
-<title>The Fall of the House of Etsy</title>
-<link>https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/</link>
-<guid>https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40477325">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 25 May 2024 19:42:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
