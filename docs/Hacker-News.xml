@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>South Pole Water Infrastructure</title>
+<link>https://brr.fyi/posts/south-pole-water-infrastructure</link>
+<guid>https://brr.fyi/posts/south-pole-water-infrastructure</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40615530">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 05:41:43 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 05:41:43 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Scipress.io – a Markdown writing platform like Notion Medium MkDocs</title>
+<link>https://www.scipress.io/post/kehluzWG8Iq9y1Nu7IMP/docs</link>
+<guid>https://www.scipress.io/post/kehluzWG8Iq9y1Nu7IMP/docs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40608941">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 14:12:42 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 14:12:42 +0000</pubDate>
+</item>
+<item>
+<title>Tokyo's Government Is Building Its Own Dating App to Combat Falling Birthrates</title>
+<link>https://time.com/6986142/japan-tokyo-government-dating-app-marriage/</link>
+<guid>https://time.com/6986142/japan-tokyo-government-dating-app-marriage/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40615953">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 07:34:43 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 07:34:43 +0000</pubDate>
+</item>
+<item>
+<title>Boeing Passenger Jet Nearly Crashes Because of Known Software Bug</title>
+<link>https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html</link>
+<guid>https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40615786">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 06:52:09 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 06:52:09 +0000</pubDate>
+</item>
+
+<item>
 <title>Content Injection Attack on GitHub</title>
 <link>https://github.com/younesbram/younesbram</link>
 <guid>https://github.com/younesbram/younesbram</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40615653">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 06:15:11 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 06:15:11 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html</link>
 <guid>https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40615723">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 06:34:03 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 06:34:03 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/</link>
 <guid>https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40615301">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 04:33:29 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 04:33:29 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://www.doc.cc/articles/can-a-bridge-be-unethical</link>
 <guid>https://www.doc.cc/articles/can-a-bridge-be-unethical</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40598431">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 15:15:47 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 15:15:47 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +90,10 @@
 <link>https://github.com/verygoodgraphics</link>
 <guid>https://github.com/verygoodgraphics</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40599524">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 6 Jun 2024 16:43:03 +0000</pubDate>
-<pubDate>Thu, 6 Jun 2024 16:43:03 +0000</pubDate>
 </item>
-
 <item>
 <title>A pure NumPy implementation of Mamba</title>
 <link>https://github.com/idoh/mamba.np</link>
@@ -9014,51 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40482833">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 15:22:02 +0000</pubDate>
-</item>
-<item>
-<title>LO – simple WASM native language</title>
-<link>https://github.com/glebbash/LO</link>
-<guid>https://github.com/glebbash/LO</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40483367">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 16:28:56 +0000</pubDate>
-</item>
-<item>
-<title>Mediocre Engineer's Guide to HTTPS</title>
-<link>https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https</link>
-<guid>https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40482799">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 15:17:48 +0000</pubDate>
-</item>
-<item>
-<title>Psyche-C: automatic compilation of partially-available C programs</title>
-<link>http://cuda.dcc.ufmg.br/psyche-c/</link>
-<guid>http://cuda.dcc.ufmg.br/psyche-c/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40458142">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 18:30:43 +0000</pubDate>
-</item>
-<item>
-<title>What are your favourite websites that display a lot of data / tables?</title>
-<link>https://news.ycombinator.com/item?id=40482845</link>
-<guid>https://news.ycombinator.com/item?id=40482845</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40482845">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 15:22:56 +0000</pubDate>
-</item>
-<item>
-<title>Feynman's Garden</title>
-<link>https://www.marginalia.nu/log/a_108_feynman_revisited/</link>
-<guid>https://www.marginalia.nu/log/a_108_feynman_revisited/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40482328">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 14:11:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
