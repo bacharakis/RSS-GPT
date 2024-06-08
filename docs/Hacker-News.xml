@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Content Injection Attack on GitHub</title>
+<link>https://github.com/younesbram/younesbram</link>
+<guid>https://github.com/younesbram/younesbram</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40615653">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 06:15:11 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 06:15:11 +0000</pubDate>
+</item>
+<item>
+<title>What happened to Captura? OSS maintainer burnout (2023)</title>
+<link>https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html</link>
+<guid>https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40615723">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 06:34:03 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 06:34:03 +0000</pubDate>
+</item>
+<item>
+<title>Welcome to the safest time to give birth in human history</title>
+<link>https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/</link>
+<guid>https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40615301">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 04:33:29 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 04:33:29 +0000</pubDate>
+</item>
+<item>
+<title>Can a bridge be unethical?</title>
+<link>https://www.doc.cc/articles/can-a-bridge-be-unethical</link>
+<guid>https://www.doc.cc/articles/can-a-bridge-be-unethical</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40598431">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 15:15:47 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 15:15:47 +0000</pubDate>
+</item>
+<item>
+<title>VGG Specs: Next-Gen Cross-Platform Vector Graphics with Advanced UI Effects</title>
+<link>https://github.com/verygoodgraphics</link>
+<guid>https://github.com/verygoodgraphics</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40599524">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 16:43:03 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 16:43:03 +0000</pubDate>
+</item>
+
+<item>
 <title>A pure NumPy implementation of Mamba</title>
 <link>https://github.com/idoh/mamba.np</link>
 <guid>https://github.com/idoh/mamba.np</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40594743">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 07:55:49 +0000</pubDate>
 <pubDate>Thu, 6 Jun 2024 07:55:49 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://intuitiveexplanations.com/tech/replit/</link>
 <guid>https://intuitiveexplanations.com/tech/replit/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40615537">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 05:43:48 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 05:43:48 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +83,10 @@
 <link>https://inquiringmind.com/article/2602_32_mcmahon/</link>
 <guid>https://inquiringmind.com/article/2602_32_mcmahon/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40603967">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 7 Jun 2024 00:11:53 +0000</pubDate>
-<pubDate>Fri, 7 Jun 2024 00:11:53 +0000</pubDate>
 </item>
-
 <item>
 <title>Le vieux Paris n'est plus</title>
 <link>https://davidabell.substack.com/p/le-vieux-paris-nest-plus</link>
@@ -9010,33 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40482328">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 14:11:15 +0000</pubDate>
-</item>
-<item>
-<title>Periodic Table of the Elements, in Pictures and Words</title>
-<link>https://elements.wlonk.com/</link>
-<guid>https://elements.wlonk.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40481887">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 13:10:29 +0000</pubDate>
-</item>
-<item>
-<title>Integrating AI CodeGen with Low Code Application Development</title>
-<link>https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html</link>
-<guid>https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40482129">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 13:43:01 +0000</pubDate>
-</item>
-<item>
-<title>To the brain, reading computer code is not the same as reading language (2020)</title>
-<link>https://news.mit.edu/2020/brain-reading-computer-code-1215</link>
-<guid>https://news.mit.edu/2020/brain-reading-computer-code-1215</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40480913">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 09:54:58 +0000</pubDate>
 </item>
 </channel>
 </rss>
