@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Le vieux Paris n'est plus</title>
+<link>https://davidabell.substack.com/p/le-vieux-paris-nest-plus</link>
+<guid>https://davidabell.substack.com/p/le-vieux-paris-nest-plus</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40593707">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 05:05:05 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 05:05:05 +0000</pubDate>
+</item>
+<item>
+<title>Memory-safe, clean implementation of classic Posix "BC" calculator</title>
+<link>https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src</link>
+<guid>https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40614467">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 01:04:34 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 01:04:34 +0000</pubDate>
+</item>
+
+<item>
 <title>Apollo 8 astronaut William Anders ID'd in WA plane crash</title>
 <link>https://www.fox13seattle.com/news/william-anders-wa-plane-crash</link>
 <guid>https://www.fox13seattle.com/news/william-anders-wa-plane-crash</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40614227">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 00:16:35 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 00:16:35 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://www.EmbeddedRelated.com/showarticle/152.php</link>
 <guid>https://www.EmbeddedRelated.com/showarticle/152.php</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40614338">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 00:37:57 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 00:37:57 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://www.weather.gov/iln/cwop</link>
 <guid>https://www.weather.gov/iln/cwop</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40589172">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 19:18:44 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 19:18:44 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +59,8 @@
 <link>https://blog.eliperkins.com/great-contributions-to-a-codebase</link>
 <guid>https://blog.eliperkins.com/great-contributions-to-a-codebase</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40591671">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 23:06:24 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 23:06:24 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +68,10 @@
 <link>https://github.com/dev-null321/MIND</link>
 <guid>https://github.com/dev-null321/MIND</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40590778">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 5 Jun 2024 21:21:52 +0000</pubDate>
-<pubDate>Wed, 5 Jun 2024 21:21:52 +0000</pubDate>
 </item>
-
 <item>
 <title>What Is PID 0?</title>
 <link>https://blog.dave.tf/post/linux-pid0/</link>
@@ -9014,51 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40481722">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 12:41:08 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Offline sketch to image geneartor in a whiteboard</title>
-<link>https://drawing.pics</link>
-<guid>https://drawing.pics</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40480336">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 07:35:27 +0000</pubDate>
-</item>
-<item>
-<title>Cloudflare took down our site after trying to force us to pay $120k within 24h</title>
-<link>https://robindev.substack.com/p/cloudflare-took-down-our-website</link>
-<guid>https://robindev.substack.com/p/cloudflare-took-down-our-website</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40481808">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 12:57:10 +0000</pubDate>
-</item>
-<item>
-<title>LuaX – Lua interpreter, REPL, and useful packages</title>
-<link>https://github.com/CDSoft/luax</link>
-<guid>https://github.com/CDSoft/luax</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40481377">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 11:37:02 +0000</pubDate>
-</item>
-<item>
-<title>'Supercharger on wheels' brings fast charging to you</title>
-<link>https://electrek.co/2024/05/22/this-supercharger-on-wheels-brings-fast-charging-to-you/</link>
-<guid>https://electrek.co/2024/05/22/this-supercharger-on-wheels-brings-fast-charging-to-you/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40459597">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 20:35:22 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Affordable text-to-speech for long-form content</title>
-<link>https://www.audiowaveai.com/</link>
-<guid>https://www.audiowaveai.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40452411">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 09:18:03 +0000</pubDate>
 </item>
 </channel>
 </rss>

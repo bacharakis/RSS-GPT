@@ -10711,3 +10711,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [New Racket Deep Learning Library](https://github.com/dev-null321/MIND)
 append_entries: 5
 Finish: 2024-06-08 02:23:38.600577
+------------------------------------------------------
+Started: 2024-06-08 04:07:33.299615
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Le vieux Paris n'est plus](https://davidabell.substack.com/p/le-vieux-paris-nest-plus)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Memory-safe, clean implementation of classic Posix "BC" calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
+append_entries: 2
+Finish: 2024-06-08 04:07:34.016555
