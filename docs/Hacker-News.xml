@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Detecting a PS2 Emulator: When 1*X does not equal X</title>
+<link>https://fobes.dev/ps2/detecting-emu-vu-floats</link>
+<guid>https://fobes.dev/ps2/detecting-emu-vu-floats</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40618459">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 16:05:45 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 16:05:45 +0000</pubDate>
+</item>
+<item>
+<title>My favorite 1980's Canadian TV show: Bits and Bytes</title>
+<link>https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show</link>
+<guid>https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40618766">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 16:43:46 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 16:43:46 +0000</pubDate>
+</item>
+<item>
+<title>Cloud Performance on a "Toy" Computer: From Python to Rust</title>
+<link>https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust</link>
+<guid>https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40589922">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 5 Jun 2024 20:09:22 +0000</pubDate>
+<pubDate>Wed, 5 Jun 2024 20:09:22 +0000</pubDate>
+</item>
+<item>
+<title>Scientists wonder if shape of the universe is like a doughnut</title>
+<link>https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions</link>
+<guid>https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40619008">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 17:25:05 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 17:25:05 +0000</pubDate>
+</item>
+<item>
+<title>A humble Indian fabric became a symbol of luxury in 1960s America</title>
+<link>https://www.cnn.com/2024/06/05/style/india-madras-fabric-us-fashion-intl-hnk/index.html</link>
+<guid>https://www.cnn.com/2024/06/05/style/india-madras-fabric-us-fashion-intl-hnk/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40594367">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 06:59:05 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 06:59:05 +0000</pubDate>
+</item>
+<item>
+<title>Simple, Efficient, and Robust Hash Tables for Join Processing</title>
+<link>https://cedardb.com/blog/simple_efficient_hash_tables/</link>
+<guid>https://cedardb.com/blog/simple_efficient_hash_tables/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40605922">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 06:42:52 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 06:42:52 +0000</pubDate>
+</item>
+<item>
+<title>Strange File Resizing on DOS</title>
+<link>http://www.os2museum.com/wp/learn-something-old-every-day-part-xii-strange-file-resizing-on-dos/</link>
+<guid>http://www.os2museum.com/wp/learn-something-old-every-day-part-xii-strange-file-resizing-on-dos/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40609087">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 14:27:26 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 14:27:26 +0000</pubDate>
+</item>
+<item>
+<title>Moving CHERIoT RTOS to a tickless model</title>
+<link>https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html</link>
+<guid>https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40614144">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 00:01:04 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 00:01:04 +0000</pubDate>
+</item>
+
+<item>
 <title>The Backrooms of the Internet Archive</title>
 <link>https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/</link>
 <guid>https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40618079">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 15:17:53 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 15:17:53 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html</link>
 <guid>https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40616778">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 11:02:32 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 11:02:32 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://github.com/SilasMarvin/lsp-ai</link>
 <guid>https://github.com/SilasMarvin/lsp-ai</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40617082">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 12:24:58 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 12:24:58 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://www.nature.com/articles/d41586-024-01671-8</link>
 <guid>https://www.nature.com/articles/d41586-024-01671-8</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40606748">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 09:04:52 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 09:04:52 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://spj.science.org/doi/10.34133/cbsystems.0092</link>
 <guid>https://spj.science.org/doi/10.34133/cbsystems.0092</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40617160">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 12:39:56 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 12:39:56 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a</link>
 <guid>https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40616856">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 11:23:05 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 11:23:05 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +152,8 @@
 <link>https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/</link>
 <guid>https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40609753">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 15:45:09 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 15:45:09 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +161,8 @@
 <link>https://makegathergrow.com/blog/regenerative-no-till-gardening</link>
 <guid>https://makegathergrow.com/blog/regenerative-no-till-gardening</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40607897">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 12:11:17 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 12:11:17 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +170,8 @@
 <link>https://undark.org/2024/06/03/toad-toxin-to-medicine-dmt/</link>
 <guid>https://undark.org/2024/06/03/toad-toxin-to-medicine-dmt/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40613106">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 21:18:52 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 21:18:52 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +179,8 @@
 <link>https://www.eff.org/deeplinks/2024/05/wanna-make-big-tech-monopolies-even-worse-kill-section-230</link>
 <guid>https://www.eff.org/deeplinks/2024/05/wanna-make-big-tech-monopolies-even-worse-kill-section-230</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40618135">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 15:24:13 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 15:24:13 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +188,8 @@
 <link>https://www.nippon.com/en/japan-topics/c12802/</link>
 <guid>https://www.nippon.com/en/japan-topics/c12802/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40612363">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 20:00:56 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 20:00:56 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +197,8 @@
 <link>https://github.com/batfish/batfish</link>
 <guid>https://github.com/batfish/batfish</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40612934">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 21:01:00 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 21:01:00 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +206,8 @@
 <link>https://austinhenley.com/blog/codeaid.html</link>
 <guid>https://austinhenley.com/blog/codeaid.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40609916">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 16:02:00 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 16:02:00 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +215,8 @@
 <link>https://etodd.io/2017/11/28/poor-mans-3d-camera/</link>
 <guid>https://etodd.io/2017/11/28/poor-mans-3d-camera/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40610909">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 17:37:52 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 17:37:52 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +224,8 @@
 <link>https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals</link>
 <guid>https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40604592">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 01:58:33 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 01:58:33 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +233,8 @@
 <link>https://www.nngroup.com/articles/promptframes/</link>
 <guid>https://www.nngroup.com/articles/promptframes/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40606385">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 08:05:08 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 08:05:08 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +242,8 @@
 <link>https://news.ycombinator.com/item?id=40617786</link>
 <guid>https://news.ycombinator.com/item?id=40617786</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40617786">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 14:34:22 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 14:34:22 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +251,8 @@
 <link>https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/</link>
 <guid>https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40616121">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 08:14:54 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 08:14:54 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +260,8 @@
 <link>https://news.ycombinator.com/item?id=40615271</link>
 <guid>https://news.ycombinator.com/item?id=40615271</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40615271">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 04:22:39 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 04:22:39 +0000</pubDate>
 </item>
 <item>
@@ -218,10 +269,8 @@
 <link>https://alexnisnevich.github.io/untrusted/</link>
 <guid>https://alexnisnevich.github.io/untrusted/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40607266">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 10:40:54 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 10:40:54 +0000</pubDate>
 </item>
 <item>
@@ -229,10 +278,8 @@
 <link>https://news.ycombinator.com/item?id=40612190</link>
 <guid>https://news.ycombinator.com/item?id=40612190</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40612190">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 19:43:25 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 19:43:25 +0000</pubDate>
 </item>
 <item>
@@ -240,13 +287,10 @@
 <link>https://archive.org/details/systemsthinkingp0000lind</link>
 <guid>https://archive.org/details/systemsthinkingp0000lind</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40608189">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 7 Jun 2024 12:45:49 +0000</pubDate>
-<pubDate>Fri, 7 Jun 2024 12:45:49 +0000</pubDate>
 </item>
-
 <item>
 <title>Forested Wetlands Are Missing from Maps</title>
 <link>https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/</link>
@@ -9048,204 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40479660">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 03:49:33 +0000</pubDate>
-</item>
-<item>
-<title>Nocobase, on prem Notion for creating production-ready apps</title>
-<link>https://github.com/nocobase/nocobase</link>
-<guid>https://github.com/nocobase/nocobase</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40486307">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 23:34:32 +0000</pubDate>
-</item>
-<item>
-<title>Stark Industries Solutions: An Iron Hammer in the Cloud</title>
-<link>https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/</link>
-<guid>https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40461223">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 23:41:02 +0000</pubDate>
-</item>
-<item>
-<title>Chickens in Trees</title>
-<link>https://suziepetryk.com/blog/chickens.html</link>
-<guid>https://suziepetryk.com/blog/chickens.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40456393">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 16:01:29 +0000</pubDate>
-</item>
-<item>
-<title>Julia Evans' Git Cheat Sheet [pdf]</title>
-<link>https://wizardzines.com/git-cheat-sheet.pdf</link>
-<guid>https://wizardzines.com/git-cheat-sheet.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40486197">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 23:04:07 +0000</pubDate>
-</item>
-<item>
-<title>The t-test was invented at the Guinness brewery</title>
-<link>https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/</link>
-<guid>https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40485313">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 20:55:22 +0000</pubDate>
-</item>
-<item>
-<title>Old dogs, new CSS tricks</title>
-<link>https://mxb.dev/blog/old-dogs-new-css-tricks/</link>
-<guid>https://mxb.dev/blog/old-dogs-new-css-tricks/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40484802">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 19:46:37 +0000</pubDate>
-</item>
-<item>
-<title>API Governance Delivers Quality</title>
-<link>https://apichangelog.substack.com/p/api-governance-delivers-quality</link>
-<guid>https://apichangelog.substack.com/p/api-governance-delivers-quality</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40486168">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 22:59:21 +0000</pubDate>
-</item>
-<item>
-<title>Netflix is removing offline downloads from its Windows app</title>
-<link>https://twitter.com/ArtemR/status/1794513583650329036</link>
-<guid>https://twitter.com/ArtemR/status/1794513583650329036</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40486205">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 23:06:17 +0000</pubDate>
-</item>
-<item>
-<title>Artificial Intelligence and the Skill Premium</title>
-<link>https://www.nber.org/papers/w32430</link>
-<guid>https://www.nber.org/papers/w32430</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40486016">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 22:31:07 +0000</pubDate>
-</item>
-<item>
-<title>A vintage 1903 espresso machine at a Village cafe (2012)</title>
-<link>https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/</link>
-<guid>https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40461351">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 23:58:11 +0000</pubDate>
-</item>
-<item>
-<title>Mastering Bitcoin 3rd Edition (2023)</title>
-<link>https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md</link>
-<guid>https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40486147">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 22:55:34 +0000</pubDate>
-</item>
-<item>
-<title>Tracking Releases and CI Across Software Teams and Forges</title>
-<link>https://jnsgr.uk/2024/05/tracking-software-across-teams/</link>
-<guid>https://jnsgr.uk/2024/05/tracking-software-across-teams/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40456020">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 15:35:40 +0000</pubDate>
-</item>
-<item>
-<title>AI firms mustn’t govern themselves, say ex-members of OpenAI’s board</title>
-<link>https://www.economist.com/by-invitation/2024/05/26/ai-firms-mustnt-govern-themselves-say-ex-members-of-openais-board</link>
-<guid>https://www.economist.com/by-invitation/2024/05/26/ai-firms-mustnt-govern-themselves-say-ex-members-of-openais-board</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40485318">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 20:55:48 +0000</pubDate>
-</item>
-<item>
-<title>What the damaged Svalbard cable looked like when it came up from the depths</title>
-<link>https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904</link>
-<guid>https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40484591">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 19:12:58 +0000</pubDate>
-</item>
-<item>
-<title>FILE_ID.DIZ Description (1994)</title>
-<link>http://pcmicro.com/getdiz/file_id.html</link>
-<guid>http://pcmicro.com/getdiz/file_id.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40484930">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 20:04:59 +0000</pubDate>
-</item>
-<item>
-<title>macOS Sonoma silently enabled iCloud Keychain despite my precautions</title>
-<link>https://lapcatsoftware.com/articles/2024/5/4.html</link>
-<guid>https://lapcatsoftware.com/articles/2024/5/4.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40485053">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 20:18:31 +0000</pubDate>
-</item>
-<item>
-<title>The one-year anniversary of my total glossectomy</title>
-<link>https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/</link>
-<guid>https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40485246">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 20:46:50 +0000</pubDate>
-</item>
-<item>
-<title>Ask HN: How would you chunk a large Excel file?</title>
-<link>https://news.ycombinator.com/item?id=40485185</link>
-<guid>https://news.ycombinator.com/item?id=40485185</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40485185">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 20:38:27 +0000</pubDate>
-</item>
-<item>
-<title>The Evolution of Lisp (1993) [pdf]</title>
-<link>https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf</link>
-<guid>https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40484007">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 17:48:59 +0000</pubDate>
-</item>
-<item>
-<title>The CompCert C Compiler</title>
-<link>https://compcert.org/compcert-C.html</link>
-<guid>https://compcert.org/compcert-C.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40484190">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 18:15:41 +0000</pubDate>
-</item>
-<item>
-<title>llama-fs: A self-organizing file system with llama 3</title>
-<link>https://github.com/iyaja/llama-fs</link>
-<guid>https://github.com/iyaja/llama-fs</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40484512">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 19:00:21 +0000</pubDate>
-</item>
-<item>
-<title>My $2.2k laptop can't drive two screens</title>
-<link>https://notes.nokun.eu/post/2024-05-26-expensive-laptops-dont-pro/</link>
-<guid>https://notes.nokun.eu/post/2024-05-26-expensive-laptops-dont-pro/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40484702">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 19:31:10 +0000</pubDate>
 </item>
 </channel>
 </rss>
