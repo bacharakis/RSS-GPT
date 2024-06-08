@@ -10777,3 +10777,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
 append_entries: 4
 Finish: 2024-06-08 10:02:01.350570
+------------------------------------------------------
+Started: 2024-06-08 12:09:41.833811
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I created this land use visualisation for the Netherlands](https://koenvangilst.nl/labs/ons-land)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [101 Macros for Lotus 1-2-3 and Unnamed Lotus Symphony Adventure Game (2022)](https://www.smoliva.blog/post/computer-chronicles-revisited-070-101-macros-lotus-123-unnamed-lotus-symphony-adventure-game/)
+append_entries: 3
+Finish: 2024-06-08 12:09:42.996541
