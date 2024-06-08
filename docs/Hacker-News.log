@@ -10792,3 +10792,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [101 Macros for Lotus 1-2-3 and Unnamed Lotus Symphony Adventure Game (2022)](https://www.smoliva.blog/post/computer-chronicles-revisited-070-101-macros-lotus-123-unnamed-lotus-symphony-adventure-game/)
 append_entries: 3
 Finish: 2024-06-08 12:09:42.996541
+------------------------------------------------------
+Started: 2024-06-08 14:01:50.292918
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Forested Wetlands Are Missing from Maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Enabling a USB Serial Console on Linux (2022)](https://mattray.github.io/2022/02/27/enabling-usb-serial-console.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Crusader-Era Knights Who Volunteered to Fight World War I](https://www.military.com/history/crusader-era-knights-who-volunteered-fight-world-war-i.html)
+append_entries: 3
+Finish: 2024-06-08 14:01:51.256990
