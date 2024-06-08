@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>What Is PID 0?</title>
+<link>https://blog.dave.tf/post/linux-pid0/</link>
+<guid>https://blog.dave.tf/post/linux-pid0/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40613287">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 21:42:58 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 21:42:58 +0000</pubDate>
+</item>
+<item>
+<title>Slow-spinning radio neutron star breaks all the rules</title>
+<link>https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html</link>
+<guid>https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40613312">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 21:46:30 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 21:46:30 +0000</pubDate>
+</item>
+<item>
+<title>An open source vuln scanner in Python: OXO</title>
+<link>https://oxo.ostorlab.co/</link>
+<guid>https://oxo.ostorlab.co/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40606756">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 09:05:57 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 09:05:57 +0000</pubDate>
+</item>
+<item>
+<title>3dfx Voodoo 4 video card in MXM format</title>
+<link>https://www.vogons.org/viewtopic.php?t=100871</link>
+<guid>https://www.vogons.org/viewtopic.php?t=100871</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40613854">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 23:11:01 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 23:11:01 +0000</pubDate>
+</item>
+<item>
+<title>Programming Prayer: The Woven Book of Hours (1886–87)</title>
+<link>https://publicdomainreview.org/collection/lyon-woven-prayer-book/</link>
+<guid>https://publicdomainreview.org/collection/lyon-woven-prayer-book/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40599867">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 6 Jun 2024 17:11:08 +0000</pubDate>
+<pubDate>Thu, 6 Jun 2024 17:11:08 +0000</pubDate>
+</item>
+<item>
+<title>Beginning the End: In the zero thickness of the International Date Line (2009)</title>
+<link>https://www.cabinetmagazine.org/issues/32/calame.php</link>
+<guid>https://www.cabinetmagazine.org/issues/32/calame.php</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40590735">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 5 Jun 2024 21:17:54 +0000</pubDate>
+<pubDate>Wed, 5 Jun 2024 21:17:54 +0000</pubDate>
+</item>
+<item>
+<title>Comments on the FTC antitrust investigation of Google</title>
+<link>https://danluu.com/ftc-google-antitrust/</link>
+<guid>https://danluu.com/ftc-google-antitrust/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40612139">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 19:37:09 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 19:37:09 +0000</pubDate>
+</item>
+
+<item>
 <title>Feynman's Razor (if an expert can't understand, you've dumbed it down too much)</title>
 <link>https://defenderofthebasic.substack.com/p/feynmans-razor</link>
 <guid>https://defenderofthebasic.substack.com/p/feynmans-razor</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40612285">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 19:53:38 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 19:53:38 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://nicole.express/2024/no-screen-no-cpu-one-problem.html</link>
 <guid>https://nicole.express/2024/no-screen-no-cpu-one-problem.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40612387">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 20:02:27 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 20:02:27 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc</link>
 <guid>https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40612365">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 20:01:08 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 20:01:08 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://github.com/latex3/tagging-project/discussions/72</link>
 <guid>https://github.com/latex3/tagging-project/discussions/72</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40587934">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 17:39:39 +0000</pubDate>
 <pubDate>Wed, 5 Jun 2024 17:39:39 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +123,8 @@
 <link>https://phys.org/news/2024-05-clues-mysterious-north-america-large.html</link>
 <guid>https://phys.org/news/2024-05-clues-mysterious-north-america-large.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40612318">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 19:56:38 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 19:56:38 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +132,8 @@
 <link>https://pdos.csail.mit.edu/6.828/2023/xv6.html</link>
 <guid>https://pdos.csail.mit.edu/6.828/2023/xv6.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40613126">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 21:22:05 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 21:22:05 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +141,8 @@
 <link>https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com</link>
 <guid>https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40612445">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 20:08:07 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 20:08:07 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +150,8 @@
 <link>https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/</link>
 <guid>https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40611058">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 17:51:37 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 17:51:37 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +159,8 @@
 <link>https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/</link>
 <guid>https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40612321">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 19:57:03 +0000</pubDate>
 <pubDate>Fri, 7 Jun 2024 19:57:03 +0000</pubDate>
 </item>
 <item>
@@ -108,13 +168,10 @@
 <link>https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html</link>
 <guid>https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40607289">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 7 Jun 2024 10:44:27 +0000</pubDate>
-<pubDate>Fri, 7 Jun 2024 10:44:27 +0000</pubDate>
 </item>
-
 <item>
 <title>Zig Goals</title>
 <link>https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761</link>
@@ -9024,96 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40480323">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 26 May 2024 07:30:44 +0000</pubDate>
-</item>
-<item>
-<title>Effects of $9 Price Endings in Retail: Evidence from Field Experiments [pdf]</title>
-<link>https://www.kellogg.northwestern.edu/faculty/anderson_e/htm/PersonalPage_Files/Papers/Effects_of_9_Price_Endings_on_Retail_Sales.pdf</link>
-<guid>https://www.kellogg.northwestern.edu/faculty/anderson_e/htm/PersonalPage_Files/Papers/Effects_of_9_Price_Endings_on_Retail_Sales.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40480209">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 06:50:57 +0000</pubDate>
-</item>
-<item>
-<title>'I was misidentified as shoplifter by facial recognition tech'</title>
-<link>https://www.bbc.co.uk/news/technology-69055945</link>
-<guid>https://www.bbc.co.uk/news/technology-69055945</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40480258">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 07:08:26 +0000</pubDate>
-</item>
-<item>
-<title>Call to Action: Fediverse Media Server</title>
-<link>https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/</link>
-<guid>https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40480373">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 07:48:27 +0000</pubDate>
-</item>
-<item>
-<title>The accidental tyranny of user interfaces</title>
-<link>https://uxdesign.cc/the-accidental-tyranny-of-user-interfaces-eef15dc555a0?gi=49947f93d38a</link>
-<guid>https://uxdesign.cc/the-accidental-tyranny-of-user-interfaces-eef15dc555a0?gi=49947f93d38a</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40480625">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 08:47:24 +0000</pubDate>
-</item>
-<item>
-<title>Roman Emperors' Outrageously Lavish Dinner Parties</title>
-<link>https://www.atlasobscura.com/articles/ancient-rome-feast-party</link>
-<guid>https://www.atlasobscura.com/articles/ancient-rome-feast-party</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40459142">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 23 May 2024 19:53:54 +0000</pubDate>
-</item>
-<item>
-<title>Hurl, the Exceptional Language</title>
-<link>https://hurl.wtf/</link>
-<guid>https://hurl.wtf/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40480056">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 05:57:52 +0000</pubDate>
-</item>
-<item>
-<title>Braid: Synchronization for HTTP</title>
-<link>https://braid.org/</link>
-<guid>https://braid.org/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40480016">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 05:44:47 +0000</pubDate>
-</item>
-<item>
-<title>How Home Assistant is being used to protect from missile and drone attacks</title>
-<link>https://denysdovhan.com/home-assistant-config/config/war/</link>
-<guid>https://denysdovhan.com/home-assistant-config/config/war/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40479729">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 04:10:01 +0000</pubDate>
-</item>
-<item>
-<title>The Algorithm Behind Jim Simons's Success</title>
-<link>https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss</link>
-<guid>https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40479328">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 02:17:23 +0000</pubDate>
-</item>
-<item>
-<title>Hacking phones is too easy. Time to make it harder</title>
-<link>https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder</link>
-<guid>https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40479947">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 26 May 2024 05:24:32 +0000</pubDate>
 </item>
 </channel>
 </rss>
