@@ -11164,3 +11164,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Interview with Ton Roosendaal, the man behind Blender(2018)[video]](https://www.youtube.com/watch?v=qJEWOTZnFeg)
 append_entries: 6
 Finish: 2024-06-09 14:01:42.369599
+------------------------------------------------------
+Started: 2024-06-09 16:04:32.922118
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Our Fight to Keep the Law Free](https://up.codes/free-law)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: We've open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I made a web game that makes practicing basic arithmetic fun](https://www.worchle.com/mathic/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Between now and September, T CrB is expected to undergo a Nova eruption](https://warwick.ac.uk/newsandevents/pressreleases/?newsItem=8a1785d78f95a715018fdd5c68e7320c)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Spam blocklist SORBS closed by its owner, Proofpoint](https://www.theregister.com/2024/06/07/sorbs_closed/)
+append_entries: 7
+Finish: 2024-06-09 16:04:34.559048
