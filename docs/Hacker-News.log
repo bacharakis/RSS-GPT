@@ -11014,3 +11014,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Building a SaaS product with Htmx – Are you sure you need all the complexity?](https://www.chatterpulseai.com/blog/building-a-saas-product-with-htmx/)
 append_entries: 9
 Finish: 2024-06-09 00:33:15.929236
+------------------------------------------------------
+Started: 2024-06-09 02:28:28.677035
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Uses and Misuses of Spinoza](https://www.thenation.com/article/culture/spinoza-ian-buruma-review/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Synapse bankruptcy trustee says $85M of customer savings is missing](https://www.cnbc.com/2024/06/07/synapse-bankruptcy-trustee-85-million-of-customer-savings-is-missing.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [By harnessing wind power, high-tech sails can help cut marine pollution](https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins)
+append_entries: 5
+Finish: 2024-06-09 02:28:30.113881
