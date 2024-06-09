@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Compilers Are (Too) Smart</title>
+<link>http://msinilo.pl/blog2/post/compilers-are-too-smart/</link>
+<guid>http://msinilo.pl/blog2/post/compilers-are-too-smart/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40615666">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 06:18:04 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 06:18:04 +0000</pubDate>
+</item>
+<item>
+<title>Your Phone, Minus the Distractions</title>
+<link>https://getbrick.app/</link>
+<guid>https://getbrick.app/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40621998">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 9 Jun 2024 04:16:51 +0000</pubDate>
+<pubDate>Sun, 9 Jun 2024 04:16:51 +0000</pubDate>
+</item>
+<item>
+<title>Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]</title>
+<link>https://twitter.com/SpaceX/status/1799458854067118450</link>
+<guid>https://twitter.com/SpaceX/status/1799458854067118450</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40621891">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 9 Jun 2024 03:51:58 +0000</pubDate>
+<pubDate>Sun, 9 Jun 2024 03:51:58 +0000</pubDate>
+</item>
+
+<item>
 <title>The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity</title>
 <link>https://www.journals.uchicago.edu/doi/10.1086/691462</link>
 <guid>https://www.journals.uchicago.edu/doi/10.1086/691462</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40621736">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 03:13:29 +0000</pubDate>
 <pubDate>Sun, 9 Jun 2024 03:13:29 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/</link>
 <guid>https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40621534">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 02:13:49 +0000</pubDate>
 <pubDate>Sun, 9 Jun 2024 02:13:49 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://discourse.mozilla.org/t/the-censorship-circumvention-extension-has-disappeared-from-the-russian-version-of-mozilla-addons/130914</link>
 <guid>https://discourse.mozilla.org/t/the-censorship-circumvention-extension-has-disappeared-from-the-russian-version-of-mozilla-addons/130914</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40621611">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 02:32:27 +0000</pubDate>
 <pubDate>Sun, 9 Jun 2024 02:32:27 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://webdeveloper.beehiiv.com/p/opensourced-keyecho-fastresponsive-keyboard-sounds-every-keystroke-using-tauri</link>
 <guid>https://webdeveloper.beehiiv.com/p/opensourced-keyecho-fastresponsive-keyboard-sounds-every-keystroke-using-tauri</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40615708">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 06:30:57 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 06:30:57 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@
 <link>https://teodev.io</link>
 <guid>https://teodev.io</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40621085">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 00:32:09 +0000</pubDate>
 <pubDate>Sun, 9 Jun 2024 00:32:09 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@
 <link>https://www.theregister.com/2024/06/07/on_call/</link>
 <guid>https://www.theregister.com/2024/06/07/on_call/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40608358">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 7 Jun 2024 13:04:40 +0000</pubDate>
-<pubDate>Fri, 7 Jun 2024 13:04:40 +0000</pubDate>
 </item>
-
 <item>
 <title>The Uses and Misuses of Spinoza</title>
 <link>https://www.thenation.com/article/culture/spinoza-ian-buruma-review/</link>
@@ -9016,60 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40491957">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 27 May 2024 15:56:24 +0000</pubDate>
-</item>
-<item>
-<title>Tantivy – full-text search engine library inspired by Apache Lucene</title>
-<link>https://github.com/quickwit-oss/tantivy</link>
-<guid>https://github.com/quickwit-oss/tantivy</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40492834">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 17:30:43 +0000</pubDate>
-</item>
-<item>
-<title>An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz</title>
-<link>https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/</link>
-<guid>https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40492054">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 16:06:20 +0000</pubDate>
-</item>
-<item>
-<title>Controlling the Taylor Swift Eras Tour Wristbands with Flipper Zero</title>
-<link>https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html</link>
-<guid>https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40492515">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 16:55:59 +0000</pubDate>
-</item>
-<item>
-<title>Brainbase (YC W24) Is Hiring</title>
-<link>https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations</link>
-<guid>https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40492562">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 17:00:44 +0000</pubDate>
-</item>
-<item>
-<title>The Internet Archive is under a DDoS attack</title>
-<link>https://bsky.app/profile/archive.org/post/3ktiatctiqm2r</link>
-<guid>https://bsky.app/profile/archive.org/post/3ktiatctiqm2r</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40492264">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 16:28:50 +0000</pubDate>
-</item>
-<item>
-<title>Internet Archive is under a DDoS attack</title>
-<link>https://mastodon.archive.org/@internetarchive/112513905401989149</link>
-<guid>https://mastodon.archive.org/@internetarchive/112513905401989149</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40492076">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 27 May 2024 16:08:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
