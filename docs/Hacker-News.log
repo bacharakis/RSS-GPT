@@ -11359,3 +11359,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Interactive Theorem Proving, Guest Lecture – Introduction to HOL [video]](https://www.youtube.com/watch?v=uvMjgKcZDec)
 append_entries: 3
 Finish: 2024-06-10 04:09:19.534360
+------------------------------------------------------
+Started: 2024-06-10 06:09:21.476464
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [My Month Without a Smartphone](https://collabfund.com/blog/my-month-without-a-smartphone/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Apple WWDC Event Will Show Whether It Can Be a Force in AI Industry](https://www.bloomberg.com/news/articles/2024-06-10/apple-wwdc-event-will-show-whether-it-can-be-a-force-in-ai-industry)
+append_entries: 4
+Finish: 2024-06-10 06:09:22.382714
