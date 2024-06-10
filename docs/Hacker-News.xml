@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Inline Assembly Dangers</title>
+<link>https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html</link>
+<guid>https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40607845">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 7 Jun 2024 12:05:54 +0000</pubDate>
+<pubDate>Fri, 7 Jun 2024 12:05:54 +0000</pubDate>
+</item>
+<item>
+<title>"AI-powered" has become a red flag</title>
+<link>https://iml.bearblog.dev/ai-powered-has-become-a-red-flag/</link>
+<guid>https://iml.bearblog.dev/ai-powered-has-become-a-red-flag/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40628804">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 10 Jun 2024 00:27:58 +0000</pubDate>
+<pubDate>Mon, 10 Jun 2024 00:27:58 +0000</pubDate>
+</item>
+<item>
+<title>Interactive Theorem Proving, Guest Lecture – Introduction to HOL [video]</title>
+<link>https://www.youtube.com/watch?v=uvMjgKcZDec</link>
+<guid>https://www.youtube.com/watch?v=uvMjgKcZDec</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40619482">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 18:48:45 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 18:48:45 +0000</pubDate>
+</item>
+
+<item>
 <title>Google Mesop: Build web apps in Python</title>
 <link>https://github.com/google/mesop</link>
 <guid>https://github.com/google/mesop</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40628950">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 00:51:03 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 00:51:03 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://siteprofile.io/</link>
 <guid>https://siteprofile.io/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40629146">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 01:17:53 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 01:17:53 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766</link>
 <guid>https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40629213">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 01:27:56 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 01:27:56 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://github.com/below/HelloSilicon</link>
 <guid>https://github.com/below/HelloSilicon</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40616930">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 11:42:50 +0000</pubDate>
 <pubDate>Sat, 8 Jun 2024 11:42:50 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@
 <link>https://albertcory50.substack.com/p/ken-burns-faux-storyteller</link>
 <guid>https://albertcory50.substack.com/p/ken-burns-faux-storyteller</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40629131">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 01:15:12 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 01:15:12 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@
 <link>https://blog.janissary.xyz/posts/hiring-functional-programming</link>
 <guid>https://blog.janissary.xyz/posts/hiring-functional-programming</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40628050">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 9 Jun 2024 22:11:58 +0000</pubDate>
-<pubDate>Sun, 9 Jun 2024 22:11:58 +0000</pubDate>
 </item>
-
 <item>
 <title>"Confidential" 988 Conversation Records Shared with Corporations</title>
 <link>https://www.madinamerica.com/2024/06/988-records-shared/</link>
@@ -9016,60 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40496660">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 28 May 2024 02:00:13 +0000</pubDate>
-</item>
-<item>
-<title>Steve Jurvetson's personal collection of Apollo Lunar Module parts</title>
-<link>https://www.flickr.com/photos/jurvetson/albums/72157623704246792/</link>
-<guid>https://www.flickr.com/photos/jurvetson/albums/72157623704246792/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40502877">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 17:03:03 +0000</pubDate>
-</item>
-<item>
-<title>Generalizing Support for Functional OOP in R</title>
-<link>https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html</link>
-<guid>https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40501561">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 15:19:00 +0000</pubDate>
-</item>
-<item>
-<title>Reproduce GPT-2 in llm.c</title>
-<link>https://twitter.com/karpathy/status/1795484547267834137</link>
-<guid>https://twitter.com/karpathy/status/1795484547267834137</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40502090">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 15:58:46 +0000</pubDate>
-</item>
-<item>
-<title>Linum (YC W23) is a hiring a founding AI engineer to train text-to-video models</title>
-<link>https://www.workatastartup.com/jobs/66397</link>
-<guid>https://www.workatastartup.com/jobs/66397</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40502858">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 17:00:50 +0000</pubDate>
-</item>
-<item>
-<title>Ping Ff02:1</title>
-<link>https://astrid.tech/2024/05/28/0/ping-ff02-1/</link>
-<guid>https://astrid.tech/2024/05/28/0/ping-ff02-1/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40500997">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 14:21:38 +0000</pubDate>
-</item>
-<item>
-<title>Turbo9 – A Compact and Efficient Pipelined 6809 Microprocessor IP</title>
-<link>https://github.com/turbo9team/turbo9</link>
-<guid>https://github.com/turbo9team/turbo9</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40501164">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 14:39:14 +0000</pubDate>
 </item>
 </channel>
 </rss>

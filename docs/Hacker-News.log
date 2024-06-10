@@ -11344,3 +11344,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The Functional Programming Hiring Problem](https://blog.janissary.xyz/posts/hiring-functional-programming)
 append_entries: 6
 Finish: 2024-06-10 02:27:29.209920
+------------------------------------------------------
+Started: 2024-06-10 04:09:18.865503
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: ["AI-powered" has become a red flag](https://iml.bearblog.dev/ai-powered-has-become-a-red-flag/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Interactive Theorem Proving, Guest Lecture – Introduction to HOL [video]](https://www.youtube.com/watch?v=uvMjgKcZDec)
+append_entries: 3
+Finish: 2024-06-10 04:09:19.534360
