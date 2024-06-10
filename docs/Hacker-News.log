@@ -11284,3 +11284,39 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Western Pennsylvania dirt is used in the infields of most MLB stadiums (2017)](https://www.post-gazette.com/sports/pirates/2017/08/31/baseball-infield-dirt-mix-prices-duraedge-pnc-park-wrigley-field-duraedge-slippery-rock-soil-pennsylvania/stories/201708310111)
 append_entries: 9
 Finish: 2024-06-09 22:01:31.107508
+------------------------------------------------------
+Started: 2024-06-10 00:30:57.356125
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: ["Confidential" 988 Conversation Records Shared with Corporations](https://www.madinamerica.com/2024/06/988-records-shared/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Heretical thoughts about science and society (2005)](https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Everything about Mars is the worst (2017)](https://fivethirtyeight.com/features/everything-about-mars-is-the-worst/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The South Pole Power Plant (2012)](https://www.jeffreydonenfeld.com/blog/2012/12/the-south-pole-power-plant/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [With congestion pricing stop, New York City enters new era of economic gridlock](https://www.cnbc.com/2024/06/09/with-congestion-pricing-stop-nyc-enters-new-economic-gridlock-era.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A new world of DIY medical testing](https://www.washingtonpost.com/technology/2024/06/09/home-health-tests-doctors-fda/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A nanoGPT pipeline packed in a spreadsheet](https://github.com/dabochen/spreadsheet-is-all-you-need)
+append_entries: 10
+Finish: 2024-06-10 00:30:59.655585
