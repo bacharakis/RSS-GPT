@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Back To Atoms: Why we can stop building SaaS and build the future instead.</title>
+<link>https://carllippert.com/back-to-atoms/</link>
+<guid>https://carllippert.com/back-to-atoms/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40641116">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 01:00:58 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 01:00:58 +0000</pubDate>
+</item>
+<item>
+<title>Ship Something Every Day</title>
+<link>https://maxleiter.com/blog/ship-every-day</link>
+<guid>https://maxleiter.com/blog/ship-every-day</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40640927">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 00:28:25 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 00:28:25 +0000</pubDate>
+</item>
+<item>
+<title>Siberia's 'mammoth graveyard' reveals 800-year human interactions with mammoths</title>
+<link>https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html</link>
+<guid>https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40640833">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 00:15:00 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 00:15:00 +0000</pubDate>
+</item>
+<item>
+<title>Apple unveils 'Passwords' manager app at WWDC 2024</title>
+<link>https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/</link>
+<guid>https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40636292">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 10 Jun 2024 18:04:10 +0000</pubDate>
+<pubDate>Mon, 10 Jun 2024 18:04:10 +0000</pubDate>
+</item>
+<item>
+<title>The Geometry of Categorical and Hierarchical Concepts in Large Language Models</title>
+<link>https://arxiv.org/abs/2406.01506</link>
+<guid>https://arxiv.org/abs/2406.01506</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40640424">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 10 Jun 2024 23:18:06 +0000</pubDate>
+<pubDate>Mon, 10 Jun 2024 23:18:06 +0000</pubDate>
+</item>
+<item>
+<title>Filmed.js: film strip image effect</title>
+<link>https://www.netzgesta.de/filmed/</link>
+<guid>https://www.netzgesta.de/filmed/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40631585">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 10 Jun 2024 09:07:51 +0000</pubDate>
+<pubDate>Mon, 10 Jun 2024 09:07:51 +0000</pubDate>
+</item>
+
+<item>
 <title>Apple's On-Device and Server Foundation Models</title>
 <link>https://machinelearning.apple.com/research/introducing-apple-foundation-models</link>
 <guid>https://machinelearning.apple.com/research/introducing-apple-foundation-models</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40639506">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 21:42:11 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 21:42:11 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://security.apple.com/blog/private-cloud-compute/</link>
 <guid>https://security.apple.com/blog/private-cloud-compute/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40639606">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 21:53:07 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 21:53:07 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://invlpg.dev/post/ace_screenshots/</link>
 <guid>https://invlpg.dev/post/ace_screenshots/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40631223">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 07:53:35 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 07:53:35 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://www.theregister.com/2024/06/10/intel_israeli_fab/</link>
 <guid>https://www.theregister.com/2024/06/10/intel_israeli_fab/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40640499">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 23:26:49 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 23:26:49 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://www.nature.com/articles/s41550-024-02279-8</link>
 <guid>https://www.nature.com/articles/s41550-024-02279-8</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40637785">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 19:39:29 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 19:39:29 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +121,8 @@
 <link>https://en.wikipedia.org/wiki/Pyrophone</link>
 <guid>https://en.wikipedia.org/wiki/Pyrophone</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40637374">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 19:13:39 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 19:13:39 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +130,8 @@
 <link>https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/</link>
 <guid>https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40639628">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 21:55:13 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 21:55:13 +0000</pubDate>
 </item>
 <item>
@@ -86,13 +139,10 @@
 <link>https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names</link>
 <guid>https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40640076">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 22:40:25 +0000</pubDate>
-<pubDate>Mon, 10 Jun 2024 22:40:25 +0000</pubDate>
 </item>
-
 <item>
 <title>New GitHub Organization for the Swift Project</title>
 <link>https://www.swift.org/blog/swiftlang-github/</link>
@@ -9020,78 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40512509">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 29 May 2024 14:43:37 +0000</pubDate>
-</item>
-<item>
-<title>The Biggest Bookstore. 10 years after closing, it has a grip on readers</title>
-<link>https://www.thestar.com/news/gta/going-to-the-world-s-biggest-bookstore-was-an-event-10-years-after-closing-it/article_5c3647a0-01a7-11ef-b85d-33ecf09526c7.html</link>
-<guid>https://www.thestar.com/news/gta/going-to-the-world-s-biggest-bookstore-was-an-event-10-years-after-closing-it/article_5c3647a0-01a7-11ef-b85d-33ecf09526c7.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40500043">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 12:27:09 +0000</pubDate>
-</item>
-<item>
-<title>In one of the US's hottest deserts, utilities push gas rather than solar</title>
-<link>https://www.theguardian.com/us-news/article/2024/may/23/gas-peaker-plant-republicans-fort-mohave-arizona</link>
-<guid>https://www.theguardian.com/us-news/article/2024/may/23/gas-peaker-plant-republicans-fort-mohave-arizona</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40512895">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 15:19:57 +0000</pubDate>
-</item>
-<item>
-<title>Smoking weed every day makes me less presentable and less productive. I love it</title>
-<link>https://www.theguardian.com/us-news/article/2024/may/29/smoking-weed-every-day</link>
-<guid>https://www.theguardian.com/us-news/article/2024/may/29/smoking-weed-every-day</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40513127">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 15:40:12 +0000</pubDate>
-</item>
-<item>
-<title>Today's AI Isn't Sentient</title>
-<link>https://time.com/collection/time100-voices/6980134/ai-llm-not-sentient/</link>
-<guid>https://time.com/collection/time100-voices/6980134/ai-llm-not-sentient/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40512817">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 15:14:38 +0000</pubDate>
-</item>
-<item>
-<title>Three.js Shading Language</title>
-<link>https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language</link>
-<guid>https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40510468">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 10:41:27 +0000</pubDate>
-</item>
-<item>
-<title>Nalanda: The university that changed the world</title>
-<link>https://www.bbc.com/travel/article/20230222-nalanda-the-university-that-changed-the-world</link>
-<guid>https://www.bbc.com/travel/article/20230222-nalanda-the-university-that-changed-the-world</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40497828">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 28 May 2024 06:09:47 +0000</pubDate>
-</item>
-<item>
-<title>Qlock – A JavaScript Quine Clock</title>
-<link>http://aem1k.com/qlock/</link>
-<guid>http://aem1k.com/qlock/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40510195">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 09:50:41 +0000</pubDate>
-</item>
-<item>
-<title>New Earplugs Won't Amplify the Sound of Your Own Voice</title>
-<link>https://www.scientificamerican.com/article/new-earplugs-wont-amplify-the-sound-of-your-own-voice/</link>
-<guid>https://www.scientificamerican.com/article/new-earplugs-wont-amplify-the-sound-of-your-own-voice/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40512063">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 13:55:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
