@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Home-Cooked Software and Barefoot Developers</title>
+<link>https://maggieappleton.com/home-cooked-software</link>
+<guid>https://maggieappleton.com/home-cooked-software</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40633029">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 10 Jun 2024 12:49:50 +0000</pubDate>
+<pubDate>Mon, 10 Jun 2024 12:49:50 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: A keyboard-centric clipboard history app for macOS</title>
+<link>https://clipbook.app/</link>
+<guid>https://clipbook.app/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40648404">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 16:40:12 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 16:40:12 +0000</pubDate>
+</item>
+<item>
+<title>Orwell: The Rewrite</title>
+<link>https://drb.ie/articles/orwell-the-rewrite/</link>
+<guid>https://drb.ie/articles/orwell-the-rewrite/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40649088">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 17:29:59 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 17:29:59 +0000</pubDate>
+</item>
+<item>
+<title>Did startup Flow Computing just make CPUs 100x faster?</title>
+<link>https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator</link>
+<guid>https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40650662">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 19:48:05 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 19:48:05 +0000</pubDate>
+</item>
+<item>
+<title>Federighi says Apple hopes to add Google Gemini and other AI models to iOS 18</title>
+<link>https://9to5mac.com/2024/06/10/craig-federighi-says-apple-hopes-to-add-google-gemini-and-other-ai-models-to-ios-18/</link>
+<guid>https://9to5mac.com/2024/06/10/craig-federighi-says-apple-hopes-to-add-google-gemini-and-other-ai-models-to-ios-18/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40650503">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 19:33:03 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 19:33:03 +0000</pubDate>
+</item>
+<item>
+<title>Mastercard Launches Its Biometric Retail Payment System in Europe</title>
+<link>https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html</link>
+<guid>https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40649746">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 18:26:14 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 18:26:14 +0000</pubDate>
+</item>
+<item>
+<title>Polars Pre-release v1.0.0</title>
+<link>https://github.com/pola-rs/polars/releases/tag/py-1.0.0-alpha.1</link>
+<guid>https://github.com/pola-rs/polars/releases/tag/py-1.0.0-alpha.1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40650181">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 19:07:23 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 19:07:23 +0000</pubDate>
+</item>
+
+<item>
 <title>Lynn Conway Has Died</title>
 <link>https://en.wikipedia.org/wiki/Lynn_Conway</link>
 <guid>https://en.wikipedia.org/wiki/Lynn_Conway</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40648470">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 16:44:11 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 16:44:11 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://www.nhtsa.gov/press-releases/kia-telluride-recall-fire-risk</link>
 <guid>https://www.nhtsa.gov/press-releases/kia-telluride-recall-fire-risk</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40648673">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 16:56:43 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 16:56:43 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://github.com/coqui-ai/TTS</link>
 <guid>https://github.com/coqui-ai/TTS</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40648193">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 16:25:16 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 16:25:16 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://github.com/redotvideo/revideo</link>
 <guid>https://github.com/redotvideo/revideo</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40646741">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 14:43:31 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 14:43:31 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +123,8 @@
 <link>https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers</link>
 <guid>https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40632070">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 10:37:46 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 10:37:46 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +132,8 @@
 <link>https://eclecticlight.co/2024/06/10/multitasking-parallel-processing-and-concurrency-in-swift/</link>
 <guid>https://eclecticlight.co/2024/06/10/multitasking-parallel-processing-and-concurrency-in-swift/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40631231">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 07:55:26 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 07:55:26 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +141,8 @@
 <link>https://www.theregister.com/2024/06/10/two_arrested_in_uk_over/</link>
 <guid>https://www.theregister.com/2024/06/10/two_arrested_in_uk_over/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40642801">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 05:40:13 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 05:40:13 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +150,8 @@
 <link>https://www.fda.gov/food/cfsan-constituent-updates/fda-responds-petition-phthalates-food-packaging-and-food-contact-applications</link>
 <guid>https://www.fda.gov/food/cfsan-constituent-updates/fda-responds-petition-phthalates-food-packaging-and-food-contact-applications</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40647491">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 15:34:37 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 15:34:37 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +159,8 @@
 <link>https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service</link>
 <guid>https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40649091">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 17:30:09 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 17:30:09 +0000</pubDate>
 </item>
 <item>
@@ -108,13 +168,10 @@
 <link>https://old.reddit.com/r/Twitch/comments/1d3h8e2/new_ui_is_awful/</link>
 <guid>https://old.reddit.com/r/Twitch/comments/1d3h8e2/new_ui_is_awful/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40648659">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 11 Jun 2024 16:56:10 +0000</pubDate>
-<pubDate>Tue, 11 Jun 2024 16:56:10 +0000</pubDate>
 </item>
-
 <item>
 <title>I like the RP2040</title>
 <link>https://dgroshev.com/blog/rp2040/</link>
@@ -9024,96 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40521710">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 09:28:33 +0000</pubDate>
-</item>
-<item>
-<title>SBCL: New in Version 2.4.5</title>
-<link>http://sbcl.org/all-news.html?2.4.5</link>
-<guid>http://sbcl.org/all-news.html?2.4.5</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40522577">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 11:44:48 +0000</pubDate>
-</item>
-<item>
-<title>Lisbon, a city dying from its own success</title>
-<link>https://english.elpais.com/international/2024-05-29/lisbon-a-city-dying-from-its-own-success.html</link>
-<guid>https://english.elpais.com/international/2024-05-29/lisbon-a-city-dying-from-its-own-success.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40522261">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 10:55:48 +0000</pubDate>
-</item>
-<item>
-<title>PG: "I got tired of hearing that YC fired Sam, so here's what happened"</title>
-<link>https://twitter.com/paulg/status/1796107666265108940</link>
-<guid>https://twitter.com/paulg/status/1796107666265108940</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40521657">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 09:19:25 +0000</pubDate>
-</item>
-<item>
-<title>Why, after 6 years, I'm over GraphQL</title>
-<link>https://bessey.dev/blog/2024/05/24/why-im-over-graphql/</link>
-<guid>https://bessey.dev/blog/2024/05/24/why-im-over-graphql/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40521518">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 08:50:30 +0000</pubDate>
-</item>
-<item>
-<title>How Running a Business Changes the Way You Think (2011)</title>
-<link>https://www.kalzumeus.com/2011/07/08/business-psychology/</link>
-<guid>https://www.kalzumeus.com/2011/07/08/business-psychology/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40510822">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 11:38:05 +0000</pubDate>
-</item>
-<item>
-<title>Cybercriminals pose as "helpful" Stack Overflow users to push malware</title>
-<link>https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/</link>
-<guid>https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40521229">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 07:53:26 +0000</pubDate>
-</item>
-<item>
-<title>How Actors Remember Their Lines</title>
-<link>https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/</link>
-<guid>https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40520334">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 05:21:46 +0000</pubDate>
-</item>
-<item>
-<title>Meaningful Nonsense: How I generate sentences</title>
-<link>https://www.amygoodchild.com/blog/meaningful-nonsense-sentences</link>
-<guid>https://www.amygoodchild.com/blog/meaningful-nonsense-sentences</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40521076">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 07:26:25 +0000</pubDate>
-</item>
-<item>
-<title>Fast Shadow Stacks for Go</title>
-<link>https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/</link>
-<guid>https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40509535">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 07:52:20 +0000</pubDate>
-</item>
-<item>
-<title>A seventh-grader student found a beautiful proof to Thales' Theorem</title>
-<link>https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml</link>
-<guid>https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40520275">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 05:09:04 +0000</pubDate>
 </item>
 </channel>
 </rss>
