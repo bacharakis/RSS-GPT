@@ -11770,3 +11770,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The Common Lisp Cookbook (2007)](https://cl-cookbook.sourceforge.net/index.html)
 append_entries: 6
 Finish: 2024-06-11 12:11:37.803963
+------------------------------------------------------
+Started: 2024-06-11 14:03:59.732339
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Discovery of Superconductivity (2010)](https://pubs.aip.org/physicstoday/article/63/9/38/386608/The-discovery-of-superconductivityA-century-ago)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Australian Border Force searched phones of 10k travellers in past two years](https://www.theguardian.com/australia-news/article/2024/jun/11/australian-border-force-abf-searching-phones-travellers-data)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Google Pay app is dead](https://arstechnica.com/gadgets/2024/06/google-shuts-down-the-google-pay-app/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Jgs Font](https://adelfaure.net/tools/jgs/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Titan Submersible Disaster. The Inside Story Is More Disturbing](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
+append_entries: 5
+Finish: 2024-06-11 14:04:01.502683
