@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs</title>
+<link>https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc</link>
+<guid>https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40643181">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 06:31:49 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 06:31:49 +0000</pubDate>
+</item>
+<item>
+<title>POV-Ray – The Persistence of Vision Raytracer</title>
+<link>http://www.povray.org/</link>
+<guid>http://www.povray.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40643207">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 06:36:44 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 06:36:44 +0000</pubDate>
+</item>
+<item>
+<title>Spotify: Droppin' Some Fake Beats</title>
+<link>https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats</link>
+<guid>https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40643071">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 06:18:16 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 06:18:16 +0000</pubDate>
+</item>
+<item>
+<title>British duo arrested for SMS phishing via homemade cell tower</title>
+<link>https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/</link>
+<guid>https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40642801">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 05:40:13 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 05:40:13 +0000</pubDate>
+</item>
+<item>
+<title>Policing the Chôra: Law Enforcement in Ptolemaic Egypt (2005) [pdf]</title>
+<link>https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf</link>
+<guid>https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40615002">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 8 Jun 2024 03:15:39 +0000</pubDate>
+<pubDate>Sat, 8 Jun 2024 03:15:39 +0000</pubDate>
+</item>
+
+<item>
 <title>macOS 15.0 supports Nested Virtualization on M3 chips</title>
 <link>https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported</link>
 <guid>https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40642328">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 04:26:29 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 04:26:29 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://www.science.org/doi/10.1126/sciadv.aba2578</link>
 <guid>https://www.science.org/doi/10.1126/sciadv.aba2578</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40641704">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 02:38:36 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 02:38:36 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859</link>
 <guid>https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40641615">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 02:23:50 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 02:23:50 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team</link>
 <guid>https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40631573">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 09:04:41 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 09:04:41 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +101,10 @@
 <link>https://sites.google.com/site/soundfonts4u/</link>
 <guid>https://sites.google.com/site/soundfonts4u/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40631796">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 09:47:45 +0000</pubDate>
-<pubDate>Mon, 10 Jun 2024 09:47:45 +0000</pubDate>
 </item>
-
 <item>
 <title>Big Tech's role in enabling link fraud – take 2</title>
 <link>https://eligrey.com/blog/link-fraud/</link>
@@ -9014,51 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40509987">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 29 May 2024 09:13:47 +0000</pubDate>
-</item>
-<item>
-<title>Let yourself be monitored: EU governments to agree on Chat Control</title>
-<link>https://www.patrick-breyer.de/en/let-yourself-be-monitored-eu-governments-to-agree-on-chat-control-with-user-consent/</link>
-<guid>https://www.patrick-breyer.de/en/let-yourself-be-monitored-eu-governments-to-agree-on-chat-control-with-user-consent/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40515358">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 18:46:46 +0000</pubDate>
-</item>
-<item>
-<title>Rex Computing</title>
-<link>http://rexcomputing.com/</link>
-<guid>http://rexcomputing.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40514424">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 17:18:15 +0000</pubDate>
-</item>
-<item>
-<title>What Scarlett Johansson vs. OpenAI Could Look Like in Court</title>
-<link>https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/</link>
-<guid>https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40515620">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 19:06:36 +0000</pubDate>
-</item>
-<item>
-<title>IBDNS: Intentionally Broken DNS server</title>
-<link>https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/</link>
-<guid>https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40513775">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 16:28:39 +0000</pubDate>
-</item>
-<item>
-<title>Vector indexing all of Wikipedia on a laptop</title>
-<link>https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/</link>
-<guid>https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40514266">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 17:05:29 +0000</pubDate>
 </item>
 </channel>
 </rss>
