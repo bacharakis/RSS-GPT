@@ -11725,3 +11725,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Policing the Chôra: Law Enforcement in Ptolemaic Egypt (2005) [pdf]](https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf)
 append_entries: 5
 Finish: 2024-06-11 08:09:20.381549
+------------------------------------------------------
+Started: 2024-06-11 10:06:21.519251
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Exploring Gleam, a type-safe language on the BEAM](https://christopher.engineering/en/blog/gleam-overview/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NanoGPT: The simplest, fastest repository for training medium-sized GPTs](https://github.com/karpathy/nanoGPT)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [DuckDB Isn't Just Fast](https://csvbase.com/blog/6)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A Short History of CP/M-86 – By Bradford Morgan White](https://www.abortretry.fail/p/a-short-history-of-cpm-86)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Apple's AI Strategy in a Nutshell](https://nextword.substack.com/p/apples-ai-strategy-in-a-nutshell)
+append_entries: 5
+Finish: 2024-06-11 10:06:22.845937

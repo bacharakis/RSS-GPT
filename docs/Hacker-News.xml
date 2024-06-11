@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Exploring Gleam, a type-safe language on the BEAM</title>
+<link>https://christopher.engineering/en/blog/gleam-overview/</link>
+<guid>https://christopher.engineering/en/blog/gleam-overview/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40643167">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 06:29:49 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 06:29:49 +0000</pubDate>
+</item>
+<item>
+<title>NanoGPT: The simplest, fastest repository for training medium-sized GPTs</title>
+<link>https://github.com/karpathy/nanoGPT</link>
+<guid>https://github.com/karpathy/nanoGPT</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40642871">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 05:49:27 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 05:49:27 +0000</pubDate>
+</item>
+<item>
+<title>DuckDB Isn't Just Fast</title>
+<link>https://csvbase.com/blog/6</link>
+<guid>https://csvbase.com/blog/6</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40642476">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 04:51:55 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 04:51:55 +0000</pubDate>
+</item>
+<item>
+<title>A Short History of CP/M-86 – By Bradford Morgan White</title>
+<link>https://www.abortretry.fail/p/a-short-history-of-cpm-86</link>
+<guid>https://www.abortretry.fail/p/a-short-history-of-cpm-86</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40632064">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 10 Jun 2024 10:36:33 +0000</pubDate>
+<pubDate>Mon, 10 Jun 2024 10:36:33 +0000</pubDate>
+</item>
+<item>
+<title>Apple's AI Strategy in a Nutshell</title>
+<link>https://nextword.substack.com/p/apples-ai-strategy-in-a-nutshell</link>
+<guid>https://nextword.substack.com/p/apples-ai-strategy-in-a-nutshell</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40641848">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 03:09:19 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 03:09:19 +0000</pubDate>
+</item>
+
+<item>
 <title>macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs</title>
 <link>https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc</link>
 <guid>https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40643181">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 06:31:49 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 06:31:49 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>http://www.povray.org/</link>
 <guid>http://www.povray.org/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40643207">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 06:36:44 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 06:36:44 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats</link>
 <guid>https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40643071">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 06:18:16 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 06:18:16 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/</link>
 <guid>https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40642801">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 05:40:13 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 05:40:13 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +101,10 @@
 <link>https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf</link>
 <guid>https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40615002">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 8 Jun 2024 03:15:39 +0000</pubDate>
-<pubDate>Sat, 8 Jun 2024 03:15:39 +0000</pubDate>
 </item>
-
 <item>
 <title>macOS 15.0 supports Nested Virtualization on M3 chips</title>
 <link>https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported</link>
@@ -9014,51 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40515515">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 29 May 2024 18:59:11 +0000</pubDate>
-</item>
-<item>
-<title>Outrider: What would happen if a nuclear bomb went off in your backyard</title>
-<link>https://outrider.org/nuclear-weapons/interactive/bomb-blast</link>
-<guid>https://outrider.org/nuclear-weapons/interactive/bomb-blast</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40515211">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 18:34:54 +0000</pubDate>
-</item>
-<item>
-<title>Why OpenAI CEO was ousted</title>
-<link>https://www.cnbc.com/2024/05/29/former-openai-board-member-explains-why-ceo-sam-altman-was-fired.html</link>
-<guid>https://www.cnbc.com/2024/05/29/former-openai-board-member-explains-why-ceo-sam-altman-was-fired.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40514816">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 17:59:46 +0000</pubDate>
-</item>
-<item>
-<title>The Consequences of One's First Programming Language</title>
-<link>https://fermatslibrary.com/s/the-consequences-of-ones-first-programming-language</link>
-<guid>https://fermatslibrary.com/s/the-consequences-of-ones-first-programming-language</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40509961">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 09:09:33 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Serverless Postgres</title>
-<link>https://github.com/kiwicopple/serverless-postgres</link>
-<guid>https://github.com/kiwicopple/serverless-postgres</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40514089">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 16:54:19 +0000</pubDate>
-</item>
-<item>
-<title>DuckDB Doesn't Need Data to Be a Database</title>
-<link>https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html</link>
-<guid>https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40509987">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 09:13:47 +0000</pubDate>
 </item>
 </channel>
 </rss>
