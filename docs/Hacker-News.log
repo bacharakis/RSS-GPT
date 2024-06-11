@@ -11659,3 +11659,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Filmed.js: film strip image effect](https://www.netzgesta.de/filmed/)
 append_entries: 6
 Finish: 2024-06-11 02:25:30.831945
+------------------------------------------------------
+Started: 2024-06-11 04:07:58.702350
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Big Tech's role in enabling link fraud – take 2](https://eligrey.com/blog/link-fraud/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An Arduino interface for 8088 CPUs](https://github.com/dbalsom/arduino_8088)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Noam Chomsky 'no longer able to talk' after 'medical event'](https://www.independent.co.uk/arts-entertainment/books/news/noam-chomsky-health-update-tributes-b2559831.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Water](https://johncarlosbaez.wordpress.com/2013/11/29/water/)
+append_entries: 6
+Finish: 2024-06-11 04:08:00.325518
