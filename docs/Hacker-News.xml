@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27</title>
+<link>https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/</link>
+<guid>https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40656747">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 11:13:52 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 11:13:52 +0000</pubDate>
+</item>
+<item>
+<title>Fini (YC S22) Is Hiring a Front-End Engineer</title>
+<link>https://news.ycombinator.com/item?id=40657088</link>
+<guid>https://news.ycombinator.com/item?id=40657088</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40657088">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 12:01:01 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 12:01:01 +0000</pubDate>
+</item>
+<item>
+<title>Raspberry Pi is now a public company</title>
+<link>https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/</link>
+<guid>https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40656603">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 10:48:39 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 10:48:39 +0000</pubDate>
+</item>
+<item>
+<title>How to Get the Most Out of Postgres Memory Settings</title>
+<link>https://tembo.io/blog/optimizing-memory-usage</link>
+<guid>https://tembo.io/blog/optimizing-memory-usage</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40642803">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 05:40:57 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 05:40:57 +0000</pubDate>
+</item>
+<item>
+<title>Perspective-Correct Interpolation</title>
+<link>https://andrewkchan.dev/posts/perspective-interpolation.html</link>
+<guid>https://andrewkchan.dev/posts/perspective-interpolation.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40644261">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 09:35:34 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 09:35:34 +0000</pubDate>
+</item>
+
+<item>
 <title>Ask HN: Am I dead meat already?</title>
 <link>https://news.ycombinator.com/item?id=40644194</link>
 <guid>https://news.ycombinator.com/item?id=40644194</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40644194">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 09:24:40 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 09:24:40 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +74,10 @@
 <link>https://gizmodo.com/myth-tinfoil-hat-mit-conspiracy-theories-aliens-5g-1851529370</link>
 <guid>https://gizmodo.com/myth-tinfoil-hat-mit-conspiracy-theories-aliens-5g-1851529370</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40633824">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 14:04:25 +0000</pubDate>
-<pubDate>Mon, 10 Jun 2024 14:04:25 +0000</pubDate>
 </item>
-
 <item>
 <title>ARM torpedoes Windows on ARM: Demands destruction of all PCs with Snapdragon X</title>
 <link>https://www.heise.de/en/news/ARM-torpedoes-Windows-on-ARM-Demands-destruction-of-all-PCs-with-Snapdragon-X-9758434.html</link>
@@ -9008,24 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40527944">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 19:59:08 +0000</pubDate>
-</item>
-<item>
-<title>A Week with Elixir (Joe Armstrong)</title>
-<link>https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html</link>
-<guid>https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40529556">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 22:41:29 +0000</pubDate>
-</item>
-<item>
-<title>Claude AI Claims Anthropic Is Wrong for Charging a Premium Plan for Claude AI</title>
-<link>https://targettrend.com/claude-ai-claims-anthropic-is-wrong-for-charging-a-premium-plan-for-claude-ai/</link>
-<guid>https://targettrend.com/claude-ai-claims-anthropic-is-wrong-for-charging-a-premium-plan-for-claude-ai/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40529929">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 23:28:33 +0000</pubDate>
 </item>
 </channel>
 </rss>
