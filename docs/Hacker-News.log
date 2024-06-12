@@ -12016,3 +12016,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Inside Mexico’s anti-avocado militias](https://www.theguardian.com/news/article/2024/jun/11/inside-mexico-anti-avocado-militias)
 append_entries: 4
 Finish: 2024-06-12 04:07:58.411320
+------------------------------------------------------
+Started: 2024-06-12 06:08:53.425197
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to Make Colored Fire at Home](https://sciencenotes.org/how-to-make-colored-fire/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Denmark recalls Korean ramen for being too spicy](https://www.bbc.com/news/articles/cy00gk0kr82o)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [When Water Flows Uphill [video]](https://www.youtube.com/watch?v=zzKgnNGqxMw)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [My Favourite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
+append_entries: 4
+Finish: 2024-06-12 06:08:54.716095
