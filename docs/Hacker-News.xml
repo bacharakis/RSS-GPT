@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Implications of ultra-processed plant origin foods on cardiovascular risk</title>
+<link>https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext</link>
+<guid>https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40653237">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 00:33:50 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 00:33:50 +0000</pubDate>
+</item>
+<item>
+<title>AES-GCM and breaking it on nonce reuse</title>
+<link>https://frereit.de/aes_gcm/</link>
+<guid>https://frereit.de/aes_gcm/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40653125">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 00:09:23 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 00:09:23 +0000</pubDate>
+</item>
+<item>
+<title>T-Mobile users thought they had a lifetime price lock–guess what happened next</title>
+<link>https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/</link>
+<guid>https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40653785">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 02:09:46 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 02:09:46 +0000</pubDate>
+</item>
+
+<item>
 <title>How Much of a Genius-Level Move Was Using Binary Space Partitioning in Doom?</title>
 <link>https://twobithistory.org/2019/11/06/doom-bsp.html</link>
 <guid>https://twobithistory.org/2019/11/06/doom-bsp.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40652917">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 23:38:12 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 23:38:12 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://nyanpasu64.gitlab.io/blog/iron-gall-ink/</link>
 <guid>https://nyanpasu64.gitlab.io/blog/iron-gall-ink/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40645161">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 11:54:24 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 11:54:24 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://jott.live/markdown/telnet_draw</link>
 <guid>https://jott.live/markdown/telnet_draw</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40630351">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 05:08:13 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 05:08:13 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://www.caltech.edu/about/news/edward-stone-1936-2024</link>
 <guid>https://www.caltech.edu/about/news/edward-stone-1936-2024</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40652731">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 23:11:31 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 23:11:31 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@
 <link>https://github.com/paralogical/glish</link>
 <guid>https://github.com/paralogical/glish</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40640559">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 23:34:02 +0000</pubDate>
 <pubDate>Mon, 10 Jun 2024 23:34:02 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@
 <link>https://docs.github.com/en/webhooks/webhook-events-and-payloads</link>
 <guid>https://docs.github.com/en/webhooks/webhook-events-and-payloads</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40652098">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 11 Jun 2024 22:00:09 +0000</pubDate>
-<pubDate>Tue, 11 Jun 2024 22:00:09 +0000</pubDate>
 </item>
-
 <item>
 <title>The Rate of Return on Everything, 1870–2015 (2019)</title>
 <link>https://academic.oup.com/qje/article/134/3/1225/5435538</link>
@@ -9016,60 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40525064">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 30 May 2024 15:45:54 +0000</pubDate>
-</item>
-<item>
-<title>Disrupting deceptive uses of AI by covert influence operations</title>
-<link>https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/</link>
-<guid>https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40526068">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 17:06:26 +0000</pubDate>
-</item>
-<item>
-<title>Geometry for Entertainment (1950)</title>
-<link>https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024</link>
-<guid>https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40522071">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 10:25:11 +0000</pubDate>
-</item>
-<item>
-<title>Unexpected Anti-Patterns for Engineering Leaders</title>
-<link>https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/</link>
-<guid>https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40525802">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 16:46:17 +0000</pubDate>
-</item>
-<item>
-<title>Ask HN: Why are all major operating systems monolithic?</title>
-<link>https://news.ycombinator.com/item?id=40525788</link>
-<guid>https://news.ycombinator.com/item?id=40525788</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40525788">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 16:44:58 +0000</pubDate>
-</item>
-<item>
-<title>Better RAG Results with Reciprocal Rank Fusion and Hybrid Search</title>
-<link>https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</link>
-<guid>https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40524759">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 15:17:39 +0000</pubDate>
-</item>
-<item>
-<title>Physicists Puzzle over Emergence of Electron Aggregates</title>
-<link>https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/</link>
-<guid>https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40524238">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 14:33:46 +0000</pubDate>
 </item>
 </channel>
 </rss>

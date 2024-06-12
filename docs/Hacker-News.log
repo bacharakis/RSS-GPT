@@ -11983,3 +11983,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [TIL about the "gollum" GitHub Action event](https://docs.github.com/en/webhooks/webhook-events-and-payloads)
 append_entries: 6
 Finish: 2024-06-12 00:29:43.916559
+------------------------------------------------------
+Started: 2024-06-12 02:25:42.444786
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Implications of ultra-processed plant origin foods on cardiovascular risk](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
+append_entries: 3
+Finish: 2024-06-12 02:25:43.053102
