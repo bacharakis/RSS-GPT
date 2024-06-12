@@ -11959,3 +11959,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Tea Punch Was the First Cocktail](https://www.atlasobscura.com/articles/tea-punch-was-the-first-cocktail)
 append_entries: 14
 Finish: 2024-06-11 22:03:03.868757
+------------------------------------------------------
+Started: 2024-06-12 00:29:42.389626
+Existing_entries: 1014
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How Much of a Genius-Level Move Was Using Binary Space Partitioning in Doom?](https://twobithistory.org/2019/11/06/doom-bsp.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Making iron gall ink from oak galls](https://nyanpasu64.gitlab.io/blog/iron-gall-ink/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Drawing with Telnet](https://jott.live/markdown/telnet_draw)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Glish: A version of English where every word is only one syllable](https://github.com/paralogical/glish)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [TIL about the "gollum" GitHub Action event](https://docs.github.com/en/webhooks/webhook-events-and-payloads)
+append_entries: 6
+Finish: 2024-06-12 00:29:43.916559
