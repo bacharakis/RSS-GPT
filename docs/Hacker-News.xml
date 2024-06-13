@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Serious Sam handled massive amounts of enemies on 56k modem connections</title>
+<link>https://staniks.github.io/articles/serious-engine-networking-analysis</link>
+<guid>https://staniks.github.io/articles/serious-engine-networking-analysis</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40657574">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 12:55:15 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 12:55:15 +0000</pubDate>
+</item>
+<item>
+<title>VRChat is Laying Off 30% of Team</title>
+<link>https://ask.vrchat.com/t/an-email-from-our-ceo/25060</link>
+<guid>https://ask.vrchat.com/t/an-email-from-our-ceo/25060</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40665211">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 02:01:46 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 02:01:46 +0000</pubDate>
+</item>
+
+<item>
 <title>How Meta trains large language models at scale</title>
 <link>https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/</link>
 <guid>https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40664339">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 23:35:08 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 23:35:08 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html</link>
 <guid>https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40645773">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 13:05:52 +0000</pubDate>
 <pubDate>Tue, 11 Jun 2024 13:05:52 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://birds-are-nice.me/software/minuimus.html</link>
 <guid>https://birds-are-nice.me/software/minuimus.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40664541">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 00:08:09 +0000</pubDate>
 <pubDate>Thu, 13 Jun 2024 00:08:09 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +59,10 @@
 <link>https://blog.paradedb.com/pages/introducing_lakehouse</link>
 <guid>https://blog.paradedb.com/pages/introducing_lakehouse</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40662735">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 12 Jun 2024 20:29:35 +0000</pubDate>
-<pubDate>Wed, 12 Jun 2024 20:29:35 +0000</pubDate>
 </item>
-
 <item>
 <title>Show HN: PDF to Podcast – Convert Any PDF into a Podcast Episode</title>
 <link>https://pdf-to-podcast.com</link>
@@ -9012,42 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40536860">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 16:07:24 +0000</pubDate>
-</item>
-<item>
-<title>IRS Direct File to open to all 50 states and D.C. for 2025 tax season</title>
-<link>https://www.axios.com/2024/05/30/irs-taxes-direct-file-free-program</link>
-<guid>https://www.axios.com/2024/05/30/irs-taxes-direct-file-free-program</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40536400">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 15:27:33 +0000</pubDate>
-</item>
-<item>
-<title>Eye exercises for myopia prevention and control: comprehensive systematic review</title>
-<link>https://www.nature.com/articles/s41433-023-02739-x</link>
-<guid>https://www.nature.com/articles/s41433-023-02739-x</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40537187">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 16:34:06 +0000</pubDate>
-</item>
-<item>
-<title>DataFusion Comet: Apache Spark Accelerator</title>
-<link>https://github.com/apache/datafusion-comet</link>
-<guid>https://github.com/apache/datafusion-comet</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40537523">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 16:59:33 +0000</pubDate>
-</item>
-<item>
-<title>Debian KDE: Right Linux distribution for professional digital painting in 2024</title>
-<link>https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide</link>
-<guid>https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40533319">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 10:32:27 +0000</pubDate>
 </item>
 </channel>
 </rss>
