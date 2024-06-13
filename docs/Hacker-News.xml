@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>How Meta trains large language models at scale</title>
+<link>https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/</link>
+<guid>https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40664339">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 23:35:08 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 23:35:08 +0000</pubDate>
+</item>
+<item>
+<title>Mushroom Hunters Can't Stop Finding Mysterious Fungi</title>
+<link>https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html</link>
+<guid>https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40645773">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 13:05:52 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 13:05:52 +0000</pubDate>
+</item>
+<item>
+<title>Minuimus is a file optimiser utility script</title>
+<link>https://birds-are-nice.me/software/minuimus.html</link>
+<guid>https://birds-are-nice.me/software/minuimus.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40664541">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 00:08:09 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 00:08:09 +0000</pubDate>
+</item>
+<item>
+<title>Pg_lakehouse: A DuckDB Alternative in Postgres</title>
+<link>https://blog.paradedb.com/pages/introducing_lakehouse</link>
+<guid>https://blog.paradedb.com/pages/introducing_lakehouse</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40662735">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 20:29:35 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 20:29:35 +0000</pubDate>
+</item>
+
+<item>
 <title>Show HN: PDF to Podcast – Convert Any PDF into a Podcast Episode</title>
 <link>https://pdf-to-podcast.com</link>
 <guid>https://pdf-to-podcast.com</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40653417">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 01:05:40 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 01:05:40 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://www.johnathanbi.com/p/nietzsches-guide-to-greatness-the</link>
 <guid>https://www.johnathanbi.com/p/nietzsches-guide-to-greatness-the</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40664279">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 23:24:35 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 23:24:35 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today</link>
 <guid>https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40663724">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 22:04:59 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 22:04:59 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://www.youtube.com/watch?v=2MYzvQ1v8Ww</link>
 <guid>https://www.youtube.com/watch?v=2MYzvQ1v8Ww</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40663704">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 22:02:27 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 22:02:27 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +90,10 @@
 <link>https://jalopnik.com/here-s-how-honda-s-hidden-resonators-keep-tire-noise-to-1851535905</link>
 <guid>https://jalopnik.com/here-s-how-honda-s-hidden-resonators-keep-tire-noise-to-1851535905</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40662957">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 12 Jun 2024 20:49:53 +0000</pubDate>
-<pubDate>Wed, 12 Jun 2024 20:49:53 +0000</pubDate>
 </item>
-
 <item>
 <title>The GJK Algorithm: A weird and beautiful way to do a simple thing</title>
 <link>https://computerwebsite.net/writing/gjk</link>
@@ -9014,51 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40533319">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 10:32:27 +0000</pubDate>
-</item>
-<item>
-<title>Sam Altman-backed nuclear startup signs major data center contract</title>
-<link>https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html</link>
-<guid>https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40537311">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 16:45:02 +0000</pubDate>
-</item>
-<item>
-<title>Trial results for new lung cancer drug are 'off the charts'</title>
-<link>https://www.theguardian.com/society/article/2024/may/31/trial-results-for-new-lung-cancer-drug-are-off-the-charts-say-doctors</link>
-<guid>https://www.theguardian.com/society/article/2024/may/31/trial-results-for-new-lung-cancer-drug-are-off-the-charts-say-doctors</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40537026">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 16:21:45 +0000</pubDate>
-</item>
-<item>
-<title>A stop-motion video of an engine</title>
-<link>https://www.howacarworks.com/engine</link>
-<guid>https://www.howacarworks.com/engine</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40516763">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 29 May 2024 20:39:31 +0000</pubDate>
-</item>
-<item>
-<title>All Santander staff and 30M customers in Spain, Chile and Uruguay hacked</title>
-<link>https://www.bbc.com/news/articles/c6ppv06e3n8o</link>
-<guid>https://www.bbc.com/news/articles/c6ppv06e3n8o</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40536846">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 16:06:01 +0000</pubDate>
-</item>
-<item>
-<title>Standard Ebooks' 1,000th title: Ulysses</title>
-<link>https://standardebooks.org/ebooks/james-joyce/ulysses</link>
-<guid>https://standardebooks.org/ebooks/james-joyce/ulysses</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40535895">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 14:45:55 +0000</pubDate>
 </item>
 </channel>
 </rss>

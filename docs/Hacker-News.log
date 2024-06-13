@@ -12286,3 +12286,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Honda's Hidden Resonators Keep Tire Noise to a Minimum](https://jalopnik.com/here-s-how-honda-s-hidden-resonators-keep-tire-noise-to-1851535905)
 append_entries: 5
 Finish: 2024-06-13 00:29:35.598142
+------------------------------------------------------
+Started: 2024-06-13 02:24:46.393898
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Mushroom Hunters Can't Stop Finding Mysterious Fungi](https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pg_lakehouse: A DuckDB Alternative in Postgres](https://blog.paradedb.com/pages/introducing_lakehouse)
+append_entries: 4
+Finish: 2024-06-13 02:24:47.522234
