@@ -12334,3 +12334,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Centuries of Childhood: The history of childhood is one of multiplicity](https://resobscura.substack.com/p/centuries-of-childhood)
 append_entries: 4
 Finish: 2024-06-13 06:09:08.188030
+------------------------------------------------------
+Started: 2024-06-13 08:08:55.227798
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NASA accidentally broadcasts simulation of distressed astronauts](https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/)
+append_entries: 1
+Finish: 2024-06-13 08:08:55.815502

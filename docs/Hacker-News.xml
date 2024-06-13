@@ -5,14 +5,24 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>NASA accidentally broadcasts simulation of distressed astronauts</title>
+<link>https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/</link>
+<guid>https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40665462">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 02:55:28 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 02:55:28 +0000</pubDate>
+</item>
+
+<item>
 <title>Microsoft's Nadella Is Building an AI Empire. OpenAI Was Just the First Step</title>
 <link>https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a</link>
 <guid>https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40666152">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 05:08:10 +0000</pubDate>
 <pubDate>Thu, 13 Jun 2024 05:08:10 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://huggingface.co/blog/mlabonne/abliteration</link>
 <guid>https://huggingface.co/blog/mlabonne/abliteration</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40665721">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 03:42:39 +0000</pubDate>
 <pubDate>Thu, 13 Jun 2024 03:42:39 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@
 <link>https://sakana.ai/llm-squared/</link>
 <guid>https://sakana.ai/llm-squared/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40665194">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 01:58:34 +0000</pubDate>
 <pubDate>Thu, 13 Jun 2024 01:58:34 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +48,10 @@
 <link>https://resobscura.substack.com/p/centuries-of-childhood</link>
 <guid>https://resobscura.substack.com/p/centuries-of-childhood</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40645726">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 11 Jun 2024 13:00:37 +0000</pubDate>
-<pubDate>Tue, 11 Jun 2024 13:00:37 +0000</pubDate>
 </item>
-
 <item>
 <title>Serious Sam handled massive amounts of enemies on 56k modem connections</title>
 <link>https://staniks.github.io/articles/serious-engine-networking-analysis</link>
@@ -9012,42 +9015,6 @@
 <a href="https://news.ycombinator.com/item?id=40535876">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 14:44:09 +0000</pubDate>
-</item>
-<item>
-<title>OneText (YC W23) Is Hiring a Lead UX Engineer</title>
-<link>https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f</link>
-<guid>https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40537533">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 17:00:22 +0000</pubDate>
-</item>
-<item>
-<title>Armor from Mycenaean Greece turns out to have been effective</title>
-<link>https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/</link>
-<guid>https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40522939">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 12:34:58 +0000</pubDate>
-</item>
-<item>
-<title>Analysis of Greek prehistoric combat in full body armour based on physiology</title>
-<link>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301494</link>
-<guid>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301494</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40527844">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 19:45:39 +0000</pubDate>
-</item>
-<item>
-<title>Testing sync at Dropbox (2020)</title>
-<link>https://dropbox.tech/infrastructure/-testing-our-new-sync-engine</link>
-<guid>https://dropbox.tech/infrastructure/-testing-our-new-sync-engine</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40537398">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 16:51:50 +0000</pubDate>
 </item>
 </channel>
 </rss>
