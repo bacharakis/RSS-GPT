@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Microsoft's Nadella Is Building an AI Empire. OpenAI Was Just the First Step</title>
+<link>https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a</link>
+<guid>https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40666152">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 05:08:10 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 05:08:10 +0000</pubDate>
+</item>
+<item>
+<title>Uncensor Any LLM with Abliteration</title>
+<link>https://huggingface.co/blog/mlabonne/abliteration</link>
+<guid>https://huggingface.co/blog/mlabonne/abliteration</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40665721">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 03:42:39 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 03:42:39 +0000</pubDate>
+</item>
+<item>
+<title>Can LLMs invent better ways to train LLMs?</title>
+<link>https://sakana.ai/llm-squared/</link>
+<guid>https://sakana.ai/llm-squared/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40665194">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 01:58:34 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 01:58:34 +0000</pubDate>
+</item>
+<item>
+<title>Centuries of Childhood: The history of childhood is one of multiplicity</title>
+<link>https://resobscura.substack.com/p/centuries-of-childhood</link>
+<guid>https://resobscura.substack.com/p/centuries-of-childhood</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40645726">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 13:00:37 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 13:00:37 +0000</pubDate>
+</item>
+
+<item>
 <title>Serious Sam handled massive amounts of enemies on 56k modem connections</title>
 <link>https://staniks.github.io/articles/serious-engine-networking-analysis</link>
 <guid>https://staniks.github.io/articles/serious-engine-networking-analysis</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40657574">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 12:55:15 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 12:55:15 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +63,10 @@
 <link>https://ask.vrchat.com/t/an-email-from-our-ceo/25060</link>
 <guid>https://ask.vrchat.com/t/an-email-from-our-ceo/25060</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40665211">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 02:01:46 +0000</pubDate>
-<pubDate>Thu, 13 Jun 2024 02:01:46 +0000</pubDate>
 </item>
-
 <item>
 <title>How Meta trains large language models at scale</title>
 <link>https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/</link>
@@ -9008,24 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40537398">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 16:51:50 +0000</pubDate>
-</item>
-<item>
-<title>Vista Equity writes off PluralSight value, after $3.5B buyout</title>
-<link>https://www.axios.com/2024/05/31/vista-equity-pluralsight</link>
-<guid>https://www.axios.com/2024/05/31/vista-equity-pluralsight</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40536960">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 16:16:15 +0000</pubDate>
-</item>
-<item>
-<title>Man scammed after AI told him fake Facebook customer support number was real</title>
-<link>https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581</link>
-<guid>https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40536860">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 16:07:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
