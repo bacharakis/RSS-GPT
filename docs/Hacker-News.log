@@ -12343,3 +12343,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [NASA accidentally broadcasts simulation of distressed astronauts](https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/)
 append_entries: 1
 Finish: 2024-06-13 08:08:55.815502
+------------------------------------------------------
+Started: 2024-06-13 10:06:43.682664
+Existing_entries: 1001
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AMD's MI300X Outperforms Nvidia's H100 for LLM Inference](https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What If We Recaption Billions of Web Images with LLaMA-3?](https://arxiv.org/abs/2406.08478)
+append_entries: 2
+Finish: 2024-06-13 10:06:44.345305

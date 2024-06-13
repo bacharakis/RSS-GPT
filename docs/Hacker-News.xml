@@ -5,17 +5,37 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>AMD's MI300X Outperforms Nvidia's H100 for LLM Inference</title>
+<link>https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/</link>
+<guid>https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40667102">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 07:57:56 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 07:57:56 +0000</pubDate>
+</item>
+<item>
+<title>What If We Recaption Billions of Web Images with LLaMA-3?</title>
+<link>https://arxiv.org/abs/2406.08478</link>
+<guid>https://arxiv.org/abs/2406.08478</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40665734">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 03:44:55 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 03:44:55 +0000</pubDate>
+</item>
+
+<item>
 <title>NASA accidentally broadcasts simulation of distressed astronauts</title>
 <link>https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/</link>
 <guid>https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40665462">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 02:55:28 +0000</pubDate>
-<pubDate>Thu, 13 Jun 2024 02:55:28 +0000</pubDate>
 </item>
-
 <item>
 <title>Microsoft's Nadella Is Building an AI Empire. OpenAI Was Just the First Step</title>
 <link>https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a</link>
@@ -9006,15 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40538019">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 31 May 2024 17:36:04 +0000</pubDate>
-</item>
-<item>
-<title>Why does searching Google for random hex almost always lead to car dealers?</title>
-<link>https://tmp.tonybox.net/hexgoog.mp4</link>
-<guid>https://tmp.tonybox.net/hexgoog.mp4</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40535876">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 31 May 2024 14:44:09 +0000</pubDate>
 </item>
 </channel>
 </rss>
