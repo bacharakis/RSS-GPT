@@ -12607,3 +12607,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [IKEA's retailer's solved global 'unhappy worker' crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
 append_entries: 6
 Finish: 2024-06-14 00:29:28.247386
+------------------------------------------------------
+Started: 2024-06-14 02:25:34.938560
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Firefox development is moving from Mercurial to Git (2023)](https://bugzilla.mozilla.org/show_bug.cgi?id=1863519)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Land value tax in online games and virtual worlds: A how-to guide](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Clearview AI Used Your Face. Now You May Get a Stake in the Company](https://www.nytimes.com/2024/06/13/technology/clearview-ai-facial-recognition-settlement.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The "blooming, buzzing confusion" of William James (2010)](https://johnhawks.net/weblog/the-blooming-buzzing-confusion-of-william-james/)
+append_entries: 5
+Finish: 2024-06-14 02:25:36.401434
