@@ -12628,3 +12628,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The "blooming, buzzing confusion" of William James (2010)](https://johnhawks.net/weblog/the-blooming-buzzing-confusion-of-william-james/)
 append_entries: 5
 Finish: 2024-06-14 02:25:36.401434
+------------------------------------------------------
+Started: 2024-06-14 04:07:41.901829
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Notebooks Are McDonalds of Code](https://yobibyte.github.io/notebooks.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Lambda Calculus Interpreter](https://lambda-calculus-interpreter.netlify.app/?term=(%CE%BBt.%20t%20t%20(%CE%BBh%20f%20n.%20n%20h%20f%20n)%20t%20t%20t)%20(%CE%BBf%20x.%20f%20(f%20x)))
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Magic died when art and science split](https://nautil.us/magic-died-when-art-and-science-split-650412/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [SF startup bosses illegally peddled $100M in Adderall, Feds say](https://sfstandard.com/2024/06/13/telemedicine-adderall-vyvanse-ritalin-done-global-brody-he/)
+append_entries: 6
+Finish: 2024-06-14 04:07:43.530328
