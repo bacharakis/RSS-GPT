@@ -12778,3 +12778,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Europe's biggest problem: It is falling way behind America's powerhouse economy](https://www.washingtonpost.com/opinions/2024/06/14/europe-competition-economy-reform-populism/)
 append_entries: 7
 Finish: 2024-06-14 14:02:18.962988
+------------------------------------------------------
+Started: 2024-06-14 16:07:03.107053
+Existing_entries: 1007
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Apple set to be first Big Tech group to face charges under EU digital law](https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Oldest Ecosystems on Earth](https://nautil.us/the-oldest-ecosystems-on-earth-650875/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to Design and Manufacture Your Own Chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Japan Passes Law to Allow Third-Party App Stores on the iPhone](https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/)
+append_entries: 9
+Finish: 2024-06-14 16:07:05.728774

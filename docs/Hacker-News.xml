@@ -5,14 +5,112 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Nvidia Warp: A Python framework for high performance GPU simulation and graphics</title>
+<link>https://github.com/NVIDIA/warp</link>
+<guid>https://github.com/NVIDIA/warp</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40680737">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 13:28:56 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 13:28:56 +0000</pubDate>
+</item>
+<item>
+<title>The Problem with OpenTelemetry</title>
+<link>https://cra.mr/the-problem-with-otel/</link>
+<guid>https://cra.mr/the-problem-with-otel/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40680291">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 12:36:32 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 12:36:32 +0000</pubDate>
+</item>
+<item>
+<title>Why sleep deprivation disrupts memory</title>
+<link>https://www.nature.com/articles/d41586-024-01732-y</link>
+<guid>https://www.nature.com/articles/d41586-024-01732-y</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40681345">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 14:39:07 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 14:39:07 +0000</pubDate>
+</item>
+<item>
+<title>Kaprekar's Magic 6174</title>
+<link>https://www.oranlooney.com/post/kaprekar/</link>
+<guid>https://www.oranlooney.com/post/kaprekar/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40680509">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 13:01:26 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 13:01:26 +0000</pubDate>
+</item>
+<item>
+<title>I am not yet ready to switch to Zig from Rust</title>
+<link>https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060</link>
+<guid>https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40681862">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 15:42:34 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 15:42:34 +0000</pubDate>
+</item>
+<item>
+<title>Apple set to be first Big Tech group to face charges under EU digital law</title>
+<link>https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604</link>
+<guid>https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40681920">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 15:49:33 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 15:49:33 +0000</pubDate>
+</item>
+<item>
+<title>The Oldest Ecosystems on Earth</title>
+<link>https://nautil.us/the-oldest-ecosystems-on-earth-650875/</link>
+<guid>https://nautil.us/the-oldest-ecosystems-on-earth-650875/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40657220">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 12 Jun 2024 12:17:04 +0000</pubDate>
+<pubDate>Wed, 12 Jun 2024 12:17:04 +0000</pubDate>
+</item>
+<item>
+<title>How to Design and Manufacture Your Own Chip [video]</title>
+<link>https://www.youtube.com/watch?v=caXwuuXSB-A</link>
+<guid>https://www.youtube.com/watch?v=caXwuuXSB-A</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40681022">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 14:03:28 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 14:03:28 +0000</pubDate>
+</item>
+<item>
+<title>Japan Passes Law to Allow Third-Party App Stores on the iPhone</title>
+<link>https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/</link>
+<guid>https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40681375">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 14:41:52 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 14:41:52 +0000</pubDate>
+</item>
+
+<item>
 <title>I Found a 55 Year Old Bug in the First Lunar Lander Game</title>
 <link>https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/</link>
 <guid>https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40680218">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 12:24:06 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 12:24:06 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +118,8 @@
 <link>https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html</link>
 <guid>https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40679689">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 11:16:09 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 11:16:09 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +127,8 @@
 <link>https://timberfestival.org.uk/soundsoftheforest-soundmap/</link>
 <guid>https://timberfestival.org.uk/soundsoftheforest-soundmap/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40680107">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 12:11:28 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 12:11:28 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +136,8 @@
 <link>https://tidyfirst.substack.com/p/start-presentations-on-the-second</link>
 <guid>https://tidyfirst.substack.com/p/start-presentations-on-the-second</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40680648">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 13:17:11 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 13:17:11 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +145,8 @@
 <link>https://ieeexplore.ieee.org/document/10555529</link>
 <guid>https://ieeexplore.ieee.org/document/10555529</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40679809">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 11:37:28 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 11:37:28 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +154,8 @@
 <link>http://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf</link>
 <guid>http://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40656671">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 11:02:30 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 11:02:30 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +163,10 @@
 <link>https://www.washingtonpost.com/opinions/2024/06/14/europe-competition-economy-reform-populism/</link>
 <guid>https://www.washingtonpost.com/opinions/2024/06/14/europe-competition-economy-reform-populism/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40680380">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 14 Jun 2024 12:46:57 +0000</pubDate>
-<pubDate>Fri, 14 Jun 2024 12:46:57 +0000</pubDate>
 </item>
-
 <item>
 <title>Santé (YC S23) Is Hiring</title>
 <link>https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager</link>
@@ -9018,69 +9103,6 @@
 <a href="https://news.ycombinator.com/item?id=40548498">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 1 Jun 2024 19:41:21 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Fusio 5.0 released – open-source API management platform</title>
-<link>https://www.fusio-project.org/</link>
-<guid>https://www.fusio-project.org/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40552549">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 08:47:37 +0000</pubDate>
-</item>
-<item>
-<title>Parable of the Sofa</title>
-<link>https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa</link>
-<guid>https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40551725">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 05:57:48 +0000</pubDate>
-</item>
-<item>
-<title>Arduino FDX-B (animal ID chip) reader built from discrete components</title>
-<link>https://github.com/decrazyo/fdxb</link>
-<guid>https://github.com/decrazyo/fdxb</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40526020">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 17:03:28 +0000</pubDate>
-</item>
-<item>
-<title>Python Notebooks for Fundamentals of Music Processing</title>
-<link>https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html</link>
-<guid>https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40550830">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 02:20:09 +0000</pubDate>
-</item>
-<item>
-<title>Unlocking the Duron and Athlon Using the Pencil</title>
-<link>http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html</link>
-<guid>http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40551112">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 03:29:55 +0000</pubDate>
-</item>
-<item>
-<title>Signal: Will leave the EU market rather than undermine our privacy guarantees</title>
-<link>https://twitter.com/mer__edith/status/1796508893822238881</link>
-<guid>https://twitter.com/mer__edith/status/1796508893822238881</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40551260">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 04:11:01 +0000</pubDate>
-</item>
-<item>
-<title>Orion – From idea to launch in 45 days</title>
-<link>https://www.lux.camera/orion-from-idea-to-launch-in-45-days/</link>
-<guid>https://www.lux.camera/orion-from-idea-to-launch-in-45-days/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40522602">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 30 May 2024 11:49:27 +0000</pubDate>
 </item>
 </channel>
 </rss>
