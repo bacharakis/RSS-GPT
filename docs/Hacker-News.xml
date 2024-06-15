@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Django SQLite Production Config</title>
+<link>https://blog.pecar.me/sqlite-django-config</link>
+<guid>https://blog.pecar.me/sqlite-django-config</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40688336">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 08:30:20 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 08:30:20 +0000</pubDate>
+</item>
+<item>
+<title>Jean Stein's Rolodex: The legendary editor's social genius</title>
+<link>https://yalereview.org/article/benjamin-anastas-jean-steins-rolodex</link>
+<guid>https://yalereview.org/article/benjamin-anastas-jean-steins-rolodex</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40674777">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 21:06:04 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 21:06:04 +0000</pubDate>
+</item>
+<item>
+<title>True Defamation [pdf]</title>
+<link>https://www.journaloffreespeechlaw.org/helmreich.pdf</link>
+<guid>https://www.journaloffreespeechlaw.org/helmreich.pdf</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40682485">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 16:55:36 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 16:55:36 +0000</pubDate>
+</item>
+
+<item>
 <title>Tesla's FSD – A Useless Technology Demo</title>
 <link>https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html</link>
 <guid>https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40688001">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 07:04:29 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 07:04:29 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://news.mongabay.com/2024/06/fear-and-hardship-for-the-last-community-inside-chitwan-nepals-tiger-central/</link>
 <guid>https://news.mongabay.com/2024/06/fear-and-hardship-for-the-last-community-inside-chitwan-nepals-tiger-central/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40657763">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 13:13:57 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 13:13:57 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding</link>
 <guid>https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40682026">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 16:05:29 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 16:05:29 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://new.nsf.gov/science-matters/invention-impact-story-lasik-eye-surgery</link>
 <guid>https://new.nsf.gov/science-matters/invention-impact-story-lasik-eye-surgery</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40687319">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 03:35:40 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 03:35:40 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +79,10 @@
 <link>https://github.com/hp27596/secondpage</link>
 <guid>https://github.com/hp27596/secondpage</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40687443">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 15 Jun 2024 04:02:54 +0000</pubDate>
-<pubDate>Sat, 15 Jun 2024 04:02:54 +0000</pubDate>
 </item>
-
 <item>
 <title>Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments</title>
 <link>https://www.space.com/voyager-1-fully-operational</link>
@@ -9014,51 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40558054">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 2 Jun 2024 23:48:15 +0000</pubDate>
-</item>
-<item>
-<title>China lands Chang'e 6 sample-return probe on far side of the moon</title>
-<link>https://www.space.com/china-change-6-lands-on-moon-far-side-sample-return-mission</link>
-<guid>https://www.space.com/china-change-6-lands-on-moon-far-side-sample-return-mission</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40552108">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 07:21:56 +0000</pubDate>
-</item>
-<item>
-<title>Flow-Matic</title>
-<link>https://en.wikipedia.org/wiki/FLOW-MATIC</link>
-<guid>https://en.wikipedia.org/wiki/FLOW-MATIC</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40559073">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 03:28:29 +0000</pubDate>
-</item>
-<item>
-<title>Homeschooling</title>
-<link>https://www.teamten.com/lawrence/writings/homeschooling.html</link>
-<guid>https://www.teamten.com/lawrence/writings/homeschooling.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40554979">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 15:35:55 +0000</pubDate>
-</item>
-<item>
-<title>Eight years of organizing tech meetups</title>
-<link>https://notes.eatonphil.com/eight-years-of-tech-meetups.html</link>
-<guid>https://notes.eatonphil.com/eight-years-of-tech-meetups.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40557969">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 23:31:00 +0000</pubDate>
-</item>
-<item>
-<title>How it feels to get an AI email from a friend</title>
-<link>https://mrgan.com/ai-email-from-a-friend/</link>
-<guid>https://mrgan.com/ai-email-from-a-friend/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40557794">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 22:59:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
