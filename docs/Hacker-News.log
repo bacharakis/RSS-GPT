@@ -13012,3 +13012,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Herbert A. Simon and Jorge Luis Borges About Free Will (2023)](https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/on-herbert-a-simon-and-jorge-luis-borges-about-free-will/27D7CC976FF4C903881C7F5C91C53664)
 append_entries: 3
 Finish: 2024-06-15 06:07:43.818341
+------------------------------------------------------
+Started: 2024-06-15 08:08:14.938937
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Fear and hardship for the last community inside Chitwan, Nepal's tiger central](https://news.mongabay.com/2024/06/fear-and-hardship-for-the-last-community-inside-chitwan-nepals-tiger-central/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Overcoming pitfalls of Postgres logical decoding](https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Invention to Impact: The story of LASIK eye surgery](https://new.nsf.gov/science-matters/invention-impact-story-lasik-eye-surgery)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: An open source extension to block large media brands from Google search](https://github.com/hp27596/secondpage)
+append_entries: 5
+Finish: 2024-06-15 08:08:16.132699
