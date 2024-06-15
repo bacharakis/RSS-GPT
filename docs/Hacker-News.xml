@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments</title>
+<link>https://www.space.com/voyager-1-fully-operational</link>
+<guid>https://www.space.com/voyager-1-fully-operational</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40687660">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 05:12:45 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 05:12:45 +0000</pubDate>
+</item>
+<item>
+<title>Nondeterminism in Formal Specification</title>
+<link>https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/</link>
+<guid>https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40649407">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 11 Jun 2024 17:58:19 +0000</pubDate>
+<pubDate>Tue, 11 Jun 2024 17:58:19 +0000</pubDate>
+</item>
+<item>
+<title>Herbert A. Simon and Jorge Luis Borges About Free Will (2023)</title>
+<link>https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/on-herbert-a-simon-and-jorge-luis-borges-about-free-will/27D7CC976FF4C903881C7F5C91C53664</link>
+<guid>https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/on-herbert-a-simon-and-jorge-luis-borges-about-free-will/27D7CC976FF4C903881C7F5C91C53664</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40674803">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 21:08:12 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 21:08:12 +0000</pubDate>
+</item>
+
+<item>
 <title>Kizhi Pogost</title>
 <link>https://whc.unesco.org/en/list/544/</link>
 <guid>https://whc.unesco.org/en/list/544/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40661631">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 18:56:22 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 18:56:22 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +52,10 @@
 <link>https://syzygyfpga.io/</link>
 <guid>https://syzygyfpga.io/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40686787">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 15 Jun 2024 01:31:55 +0000</pubDate>
-<pubDate>Sat, 15 Jun 2024 01:31:55 +0000</pubDate>
 </item>
-
 <item>
 <title>Eden Abhez: The strangest hit songwriter</title>
 <link>https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history</link>
@@ -9008,24 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40557451">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 2 Jun 2024 21:53:46 +0000</pubDate>
-</item>
-<item>
-<title>MicroPython 1.23 Brings Custom USB Devices, OpenAMP, Much More</title>
-<link>https://hackaday.com/2024/06/02/micropython-1-23-brings-custom-usb-devices-openamp-much-more/</link>
-<guid>https://hackaday.com/2024/06/02/micropython-1-23-brings-custom-usb-devices-openamp-much-more/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40557931">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 23:25:02 +0000</pubDate>
-</item>
-<item>
-<title>cuDF – GPU DataFrame Library</title>
-<link>https://github.com/rapidsai/cudf</link>
-<guid>https://github.com/rapidsai/cudf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40556687">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 19:37:01 +0000</pubDate>
 </item>
 </channel>
 </rss>

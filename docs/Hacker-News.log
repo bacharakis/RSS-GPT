@@ -12997,3 +12997,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
 append_entries: 2
 Finish: 2024-06-15 04:07:50.273540
+------------------------------------------------------
+Started: 2024-06-15 06:07:42.929097
+Existing_entries: 1002
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nondeterminism in Formal Specification](https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Herbert A. Simon and Jorge Luis Borges About Free Will (2023)](https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/on-herbert-a-simon-and-jorge-luis-borges-about-free-will/27D7CC976FF4C903881C7F5C91C53664)
+append_entries: 3
+Finish: 2024-06-15 06:07:43.818341
