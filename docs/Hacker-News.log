@@ -13144,3 +13144,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
 append_entries: 14
 Finish: 2024-06-15 16:04:27.982400
+------------------------------------------------------
+Started: 2024-06-15 18:08:00.471206
+Existing_entries: 1014
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ESASky](https://sky.esa.int/esasky/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Engineer's Solar Panels Are Breaking Efficiency Records](https://spectrum.ieee.org/solar-panels-breaking-efficiency-records)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Embedded Swift [video]](https://www.youtube.com/watch?v=LqxbsADqDI4)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Keydogger – Minimal keyboard macro for Linux(Wayland)](https://github.com/jarusll/keydogger)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Acorn Computer Systems catalogue circa 1983](https://blog.jgc.org/2024/06/acorn-computer-systems-catalogue-circa.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Is This the First Nintendo Commercial?](https://gamehistory.org/mego-time-out-commercial/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
+append_entries: 9
+Finish: 2024-06-15 18:08:02.584082
