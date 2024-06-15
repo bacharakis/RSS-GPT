@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Leveraging Zig's Allocators</title>
+<link>https://www.openmymind.net/Leveraging-Zigs-Allocators/</link>
+<guid>https://www.openmymind.net/Leveraging-Zigs-Allocators/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40682863">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 14 Jun 2024 17:34:47 +0000</pubDate>
+<pubDate>Fri, 14 Jun 2024 17:34:47 +0000</pubDate>
+</item>
+<item>
+<title>Threescaper: A website for loading Townscaper models into Three.js</title>
+<link>https://github.com/meliharvey/threescaper</link>
+<guid>https://github.com/meliharvey/threescaper</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40689296">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 12:13:43 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 12:13:43 +0000</pubDate>
+</item>
+<item>
+<title>The Four Kinds of Research-and-Development Teams</title>
+<link>http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html</link>
+<guid>http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40666111">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 04:58:58 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 04:58:58 +0000</pubDate>
+</item>
+<item>
+<title>DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft</title>
+<link>https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026</link>
+<guid>https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40688988">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 11:10:10 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 11:10:10 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Elles – A nicer /bin/ls</title>
+<link>https://github.com/arp242/elles</link>
+<guid>https://github.com/arp242/elles</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40675820">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 13 Jun 2024 22:58:53 +0000</pubDate>
+<pubDate>Thu, 13 Jun 2024 22:58:53 +0000</pubDate>
+</item>
+<item>
+<title>Nvidia open source LLM Nemotron 4 340B at top of the charts [pdf]</title>
+<link>https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf</link>
+<guid>https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40688676">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 09:56:14 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 09:56:14 +0000</pubDate>
+</item>
+
+<item>
 <title>Information Security: "We Can Do It, We Just Choose Not To"</title>
 <link>https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html</link>
 <guid>https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40688666">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 09:53:29 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 09:53:29 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/</link>
 <guid>https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40688829">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 10:34:29 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 10:34:29 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://www.nango.dev/jobs</link>
 <guid>https://www.nango.dev/jobs</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40689234">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 12:01:07 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 12:01:07 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://www.bbc.com/news/articles/cx8q32rj2yjo</link>
 <guid>https://www.bbc.com/news/articles/cx8q32rj2yjo</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40688714">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 10:05:17 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 10:05:17 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors</link>
 <guid>https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40688505">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 09:11:13 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 09:11:13 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +121,10 @@
 <link>https://arxiv.org/abs/1703.10987</link>
 <guid>https://arxiv.org/abs/1703.10987</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40682482">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 14 Jun 2024 16:55:28 +0000</pubDate>
-<pubDate>Fri, 14 Jun 2024 16:55:28 +0000</pubDate>
 </item>
-
 <item>
 <title>Django SQLite Production Config</title>
 <link>https://blog.pecar.me/sqlite-django-config</link>
@@ -9016,60 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40559218">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 3 Jun 2024 04:02:28 +0000</pubDate>
-</item>
-<item>
-<title>AMD Instinct MI325X in Q4 2024, 288GB of HBM3E</title>
-<link>https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and</link>
-<guid>https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40558982">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 03:04:53 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Bliss – A constructed writing system for fast and beautiful writing</title>
-<link>https://space.tcsenpai.com/bliss-a-constructed-writing-system-for-quick-and-nice-texts/</link>
-<guid>https://space.tcsenpai.com/bliss-a-constructed-writing-system-for-quick-and-nice-texts/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40558273">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 00:33:25 +0000</pubDate>
-</item>
-<item>
-<title>Quake in 13kb (2021)</title>
-<link>https://js13kgames.com/entries/q1k3</link>
-<guid>https://js13kgames.com/entries/q1k3</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40558607">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 01:39:51 +0000</pubDate>
-</item>
-<item>
-<title>The Intellectual Obesity Crisis</title>
-<link>https://www.gurwinder.blog/p/the-intellectual-obesity-crisis</link>
-<guid>https://www.gurwinder.blog/p/the-intellectual-obesity-crisis</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40558754">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 02:07:18 +0000</pubDate>
-</item>
-<item>
-<title>Learn CSS Grid with a virtual garden game</title>
-<link>https://cssgridgarden.com/</link>
-<guid>https://cssgridgarden.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40559015">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 03:14:15 +0000</pubDate>
-</item>
-<item>
-<title>Udio – AI Music Generator</title>
-<link>https://www.udio.com/</link>
-<guid>https://www.udio.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40557981">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 23:33:50 +0000</pubDate>
 </item>
 </channel>
 </rss>
