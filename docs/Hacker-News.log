@@ -12940,3 +12940,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
 append_entries: 12
 Finish: 2024-06-14 22:02:27.921360
+------------------------------------------------------
+Started: 2024-06-15 00:29:11.561678
+Existing_entries: 1012
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tracing Intel's Atom Journey: Goldmont Plus](https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The challenge of writing a on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Google Ad Tech Antitrust Suit Will Go to Trial, Judge Rules](https://www.bloomberg.com/news/articles/2024-06-14/google-ad-tech-antitrust-suit-will-go-to-trial-judge-rules)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Anticipatory Anxiety](https://www.lrb.co.uk/the-paper/v46/n12/william-davies/anticipatory-anxiety)
+append_entries: 4
+Finish: 2024-06-15 00:29:12.789992
