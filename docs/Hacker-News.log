@@ -13267,3 +13267,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Observable Framework 1.9](https://github.com/observablehq/framework/releases/tag/v1.9.0)
 append_entries: 2
 Finish: 2024-06-16 02:29:07.693317
+------------------------------------------------------
+Started: 2024-06-16 04:07:28.233538
+Existing_entries: 1002
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A collection of 2,299 blogs about every topic](https://ooh.directory/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [VVVV – A hybrid visual/textual development environment for .NET](https://visualprogramming.net/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ernest Shackleton's Last Ship, Quest, Discovered Off the Coast of Canada](https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/)
+append_entries: 5
+Finish: 2024-06-16 04:07:29.792618
