@@ -13423,3 +13423,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Insider view on how AMD lost the GPU oppty](https://twitter.com/MohapatraHemant/status/1285234687267356672)
 append_entries: 6
 Finish: 2024-06-16 14:02:12.876705
+------------------------------------------------------
+Started: 2024-06-16 16:05:16.937752
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sales Happen When Buyers Fear Missing Out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Theft of the Ghent Altarpiece](https://www.historytoday.com/archive/missing-pieces/theft-ghent-altarpiece)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Are animals conscious? How new research is changing minds](https://www.bbc.com/news/articles/cv223z15mpmo)
+append_entries: 4
+Finish: 2024-06-16 16:05:18.069955
