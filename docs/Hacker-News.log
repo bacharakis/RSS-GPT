@@ -13309,3 +13309,33 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
 append_entries: 5
 Finish: 2024-06-16 06:08:04.792800
+------------------------------------------------------
+Started: 2024-06-16 08:07:39.210562
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Harvard Railroad Economics Exam (1906)](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Survival of the Mediocre Mediocre (2018)](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Paste2Download – No Login, No Ads, Download Videos Watermark Free](https://www.paste2download.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sequential Search, Correctly](http://siek.blogspot.com/2024/06/sequential-search-correctly.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Highly realistic talking head video generation](https://github.com/fudan-generative-vision/hallo)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Doom for SNES full source code released by former Sculptured Software employee](https://gbatemp.net/threads/doom-for-snes-full-source-code-released-by-former-sculptured-software-employees.657118/)
+append_entries: 8
+Finish: 2024-06-16 08:07:41.278889
