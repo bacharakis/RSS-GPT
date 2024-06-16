@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>What You Get After Running an SSH Honeypot for 30 Days</title>
+<link>https://blog.sofiane.cc/ssh_honeypot/</link>
+<guid>https://blog.sofiane.cc/ssh_honeypot/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40694768">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 16 Jun 2024 04:52:12 +0000</pubDate>
+<pubDate>Sun, 16 Jun 2024 04:52:12 +0000</pubDate>
+</item>
+<item>
+<title>The Architecture Behind a One-Person Tech Startup (2021)</title>
+<link>https://anthonynsimon.com/blog/one-man-saas-architecture/</link>
+<guid>https://anthonynsimon.com/blog/one-man-saas-architecture/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40694103">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 16 Jun 2024 01:51:54 +0000</pubDate>
+<pubDate>Sun, 16 Jun 2024 01:51:54 +0000</pubDate>
+</item>
+<item>
+<title>Hokusai's 'Great Wave' features on new Japanese banknotes</title>
+<link>https://www.cnn.com/style/article/japan-new-banknotes-great-wave/index.html</link>
+<guid>https://www.cnn.com/style/article/japan-new-banknotes-great-wave/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40688921">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 10:56:17 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 10:56:17 +0000</pubDate>
+</item>
+<item>
+<title>Is there an algorithm as beautiful as a poem?</title>
+<link>https://tblm.substack.com/p/as-lovely-as-a-tree</link>
+<guid>https://tblm.substack.com/p/as-lovely-as-a-tree</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40688695">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 09:59:48 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 09:59:48 +0000</pubDate>
+</item>
+<item>
+<title>SimCity in the web browser using WebAssembly and OpenGL</title>
+<link>https://micropolisweb.com/</link>
+<guid>https://micropolisweb.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40693944">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 16 Jun 2024 01:12:38 +0000</pubDate>
+<pubDate>Sun, 16 Jun 2024 01:12:38 +0000</pubDate>
+</item>
+
+<item>
 <title>Show HN: We Made The World's Smallest and Cheapest Network Switch</title>
 <link>https://docs.murexrobotics.com/elec/boards/networking/switch</link>
 <guid>https://docs.murexrobotics.com/elec/boards/networking/switch</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40694254">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 02:26:55 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 02:26:55 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://ooh.directory/</link>
 <guid>https://ooh.directory/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40693787">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 00:42:05 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 00:42:05 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://visualprogramming.net/</link>
 <guid>https://visualprogramming.net/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40687751">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 05:41:06 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 05:41:06 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://time.com/6267979/government-unions-corrupt-democracy/</link>
 <guid>https://time.com/6267979/government-unions-corrupt-democracy/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40694432">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 03:16:50 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 03:16:50 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +101,10 @@
 <link>https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/</link>
 <guid>https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40688771">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 15 Jun 2024 10:20:16 +0000</pubDate>
-<pubDate>Sat, 15 Jun 2024 10:20:16 +0000</pubDate>
 </item>
-
 <item>
 <title>How/Why to Sweep Async Tasks Under a Postgres Table [video]</title>
 <link>https://www.youtube.com/watch?v=wXXJuz_spcU&amp;list=PLlrxD0HtieHg5ldHlEn3nMMpClX0RUntH&amp;index=29</link>
@@ -9014,51 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40567806">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 3 Jun 2024 21:34:17 +0000</pubDate>
-</item>
-<item>
-<title>Crooks threaten to leak 3B personal records 'stolen from background check firm'</title>
-<link>https://www.theregister.com/2024/06/03/usdod_data_dump/</link>
-<guid>https://www.theregister.com/2024/06/03/usdod_data_dump/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40566938">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 20:07:36 +0000</pubDate>
-</item>
-<item>
-<title>Fusion tech finds geothermal energy application</title>
-<link>https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise</link>
-<guid>https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40565983">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 18:46:12 +0000</pubDate>
-</item>
-<item>
-<title>Oldest largest German Minecraft server shut down and open sourced everything</title>
-<link>https://github.com/muxcraftserver/MuxSystem</link>
-<guid>https://github.com/muxcraftserver/MuxSystem</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40566533">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 19:26:51 +0000</pubDate>
-</item>
-<item>
-<title>The Moral Economy of the Shire</title>
-<link>https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/</link>
-<guid>https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40566142">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 18:57:30 +0000</pubDate>
-</item>
-<item>
-<title>Libadwaita: Splitting GTK and Design Language</title>
-<link>https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/</link>
-<guid>https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40565357">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 17:59:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
