@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>SQLite is likely used more than all other database engines combined</title>
+<link>https://sqlite.org/mostdeployed.html</link>
+<guid>https://sqlite.org/mostdeployed.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40693500">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 23:38:50 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 23:38:50 +0000</pubDate>
+</item>
+<item>
+<title>Cloudflare Will Poison DNS to Stop Piracy Block Circumvention</title>
+<link>https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/</link>
+<guid>https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40693451">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 23:26:20 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 23:26:20 +0000</pubDate>
+</item>
+<item>
+<title>North Dakota voters just approved an age limit for congressional candidates</title>
+<link>https://apnews.com/article/north-dakota-congressional-candidates-age-limit-b9ffa598e76bf1dd440b3fb8efd4c33b</link>
+<guid>https://apnews.com/article/north-dakota-congressional-candidates-age-limit-b9ffa598e76bf1dd440b3fb8efd4c33b</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40693524">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 23:45:59 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 23:45:59 +0000</pubDate>
+</item>
+<item>
+<title>Ollama v0.1.45</title>
+<link>https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1</link>
+<guid>https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40692970">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 21:54:02 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 21:54:02 +0000</pubDate>
+</item>
+<item>
+<title>Reformatting 100k Files at Google in 2011</title>
+<link>https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011</link>
+<guid>https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40693264">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 22:46:35 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 22:46:35 +0000</pubDate>
+</item>
+<item>
+<title>Why you shouldn't parse the output of ls(1)</title>
+<link>https://mywiki.wooledge.org/ParsingLs</link>
+<guid>https://mywiki.wooledge.org/ParsingLs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40692698">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 21:06:07 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 21:06:07 +0000</pubDate>
+</item>
+<item>
+<title>Subducting plate structure and megathrust morphology at Cascadia</title>
+<link>https://www.science.org/doi/10.1126/sciadv.adl3198</link>
+<guid>https://www.science.org/doi/10.1126/sciadv.adl3198</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40692355">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 20:06:57 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 20:06:57 +0000</pubDate>
+</item>
+
+<item>
 <title>Reverse Engineering a Restaurant Pager System</title>
 <link>https://k3xec.com/td158/</link>
 <guid>https://k3xec.com/td158/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40692535">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 20:37:28 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 20:37:28 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://www.stateofcdr.org</link>
 <guid>https://www.stateofcdr.org</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40691840">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 18:51:18 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 18:51:18 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://www.sansbullshitsans.com/</link>
 <guid>https://www.sansbullshitsans.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40692197">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 19:40:54 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 19:40:54 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://bignerdranch.com/blog/finding-new-pastures-big-nerd-ranchs-next-chapter/</link>
 <guid>https://bignerdranch.com/blog/finding-new-pastures-big-nerd-ranchs-next-chapter/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40663686">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 22:00:10 +0000</pubDate>
 <pubDate>Wed, 12 Jun 2024 22:00:10 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +123,8 @@
 <link>https://www.madinamerica.com/2016/07/the-sociological-study-of-mental-illness-a-historical-perspective/</link>
 <guid>https://www.madinamerica.com/2016/07/the-sociological-study-of-mental-illness-a-historical-perspective/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40690633">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 16:11:53 +0000</pubDate>
 <pubDate>Sat, 15 Jun 2024 16:11:53 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +132,10 @@
 <link>https://news.ycombinator.com/item?id=40691792</link>
 <guid>https://news.ycombinator.com/item?id=40691792</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40691792">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 15 Jun 2024 18:44:37 +0000</pubDate>
-<pubDate>Sat, 15 Jun 2024 18:44:37 +0000</pubDate>
 </item>
-
 <item>
 <title>Impulse Tracker source code now available on GitHub</title>
 <link>https://github.com/jthlim/impulse-tracker</link>
@@ -9016,60 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40564332">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 3 Jun 2024 16:31:19 +0000</pubDate>
-</item>
-<item>
-<title>Wegovy and Ozempic (semaglutide) associated with reduction in alcohol addiction</title>
-<link>https://recursiveadaptation.com/p/wegovy-and-ozempic-semaglutide-are</link>
-<guid>https://recursiveadaptation.com/p/wegovy-and-ozempic-semaglutide-are</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40565144">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 17:40:37 +0000</pubDate>
-</item>
-<item>
-<title>Consumer Electronics Control</title>
-<link>https://computer.rip/2024-06-02-consumer-electronics-control.html</link>
-<guid>https://computer.rip/2024-06-02-consumer-electronics-control.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40563301">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 15:03:06 +0000</pubDate>
-</item>
-<item>
-<title>Trellis (YC W24) is hiring Founding-Eng to build ETL for unstructured data with AI</title>
-<link>https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra</link>
-<guid>https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40564642">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 17:00:45 +0000</pubDate>
-</item>
-<item>
-<title>Shared Memory Versioning to improve slow interactions</title>
-<link>https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html</link>
-<guid>https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40565048">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 17:33:31 +0000</pubDate>
-</item>
-<item>
-<title>Posthog – open-source analytics and UX research tool</title>
-<link>https://github.com/PostHog/posthog</link>
-<guid>https://github.com/PostHog/posthog</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40564345">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 16:32:21 +0000</pubDate>
-</item>
-<item>
-<title>Cirkoban: Sokoban meets cellular automata written in Scheme</title>
-<link>https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html</link>
-<guid>https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40564520">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 16:48:30 +0000</pubDate>
 </item>
 </channel>
 </rss>

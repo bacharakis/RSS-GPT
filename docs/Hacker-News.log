@@ -13228,3 +13228,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Ask HN: Do You Have a Copy of IBM "Logo: Programming with Turtle Graphics"?](https://news.ycombinator.com/item?id=40691792)
 append_entries: 6
 Finish: 2024-06-15 22:01:40.815694
+------------------------------------------------------
+Started: 2024-06-16 00:32:55.751017
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [SQLite is likely used more than all other database engines combined](https://sqlite.org/mostdeployed.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cloudflare Will Poison DNS to Stop Piracy Block Circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [North Dakota voters just approved an age limit for congressional candidates](https://apnews.com/article/north-dakota-congressional-candidates-age-limit-b9ffa598e76bf1dd440b3fb8efd4c33b)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Reformatting 100k Files at Google in 2011](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Subducting plate structure and megathrust morphology at Cascadia](https://www.science.org/doi/10.1126/sciadv.adl3198)
+append_entries: 7
+Finish: 2024-06-16 00:32:57.318225
