@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Horses may have been domesticated twice. Only one attempt stuck</title>
+<link>https://www.sciencenews.org/article/horses-domesticated-mobility-timing</link>
+<guid>https://www.sciencenews.org/article/horses-domesticated-mobility-timing</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40700643">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 16 Jun 2024 22:27:23 +0000</pubDate>
+<pubDate>Sun, 16 Jun 2024 22:27:23 +0000</pubDate>
+</item>
+<item>
+<title>On Dromomania</title>
+<link>https://sophiefuji.com/travels.html</link>
+<guid>https://sophiefuji.com/travels.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40695387">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 16 Jun 2024 07:44:47 +0000</pubDate>
+<pubDate>Sun, 16 Jun 2024 07:44:47 +0000</pubDate>
+</item>
+<item>
+<title>Urban spatial order: street network orientation, configuration, and entropy</title>
+<link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1</link>
+<guid>https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40695151">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 16 Jun 2024 06:46:52 +0000</pubDate>
+<pubDate>Sun, 16 Jun 2024 06:46:52 +0000</pubDate>
+</item>
+<item>
+<title>Changing a mean reversion strategy to deliver 30% annual returns since 1999</title>
+<link>https://www.quantitativo.com/p/the-holy-grail-still-works</link>
+<guid>https://www.quantitativo.com/p/the-holy-grail-still-works</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40701607">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 01:44:13 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 01:44:13 +0000</pubDate>
+</item>
+<item>
+<title>McDonald's will stop testing AI to take drive-thru orders, for now</title>
+<link>https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm</link>
+<guid>https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40701868">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 02:35:18 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 02:35:18 +0000</pubDate>
+</item>
+
+<item>
 <title>Using the C preprocessor as an HTML templating engine</title>
 <link>https://github.com/cedric-h/c-website</link>
 <guid>https://github.com/cedric-h/c-website</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40701177">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 00:07:51 +0000</pubDate>
 <pubDate>Mon, 17 Jun 2024 00:07:51 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://spectrum.ieee.org/silicon-quantum-computing-purified-si</link>
 <guid>https://spectrum.ieee.org/silicon-quantum-computing-purified-si</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40694949">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 05:45:38 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 05:45:38 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://ounapuu.ee/posts/2024/06/05/usb-c-cables/</link>
 <guid>https://ounapuu.ee/posts/2024/06/05/usb-c-cables/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40701310">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 00:37:57 +0000</pubDate>
 <pubDate>Mon, 17 Jun 2024 00:37:57 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +92,10 @@
 <link>https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf</link>
 <guid>https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40701391">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 00:58:31 +0000</pubDate>
-<pubDate>Mon, 17 Jun 2024 00:58:31 +0000</pubDate>
 </item>
-
 <item>
 <title>Maintaining large-scale AI capacity at Meta</title>
 <link>https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/</link>
@@ -9012,42 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40578206">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 4 Jun 2024 19:42:02 +0000</pubDate>
-</item>
-<item>
-<title>Herbie: Optimize Floating-Point Expressions</title>
-<link>https://herbie.uwplse.org/demo/</link>
-<guid>https://herbie.uwplse.org/demo/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40577800">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 18:59:40 +0000</pubDate>
-</item>
-<item>
-<title>Entropy, a CLI that scans files to find high entropy lines (might be secrets)</title>
-<link>https://github.com/EwenQuim/entropy</link>
-<guid>https://github.com/EwenQuim/entropy</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40578060">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 19:25:47 +0000</pubDate>
-</item>
-<item>
-<title>Inbox Ten</title>
-<link>https://boz.com/articles/inbox-ten</link>
-<guid>https://boz.com/articles/inbox-ten</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40559316">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 3 Jun 2024 04:22:18 +0000</pubDate>
-</item>
-<item>
-<title>Debian's /tmpest in a teapot</title>
-<link>https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/</link>
-<guid>https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40578414">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 20:05:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
