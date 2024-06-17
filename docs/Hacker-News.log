@@ -13816,3 +13816,51 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [User is locked out every day when she goes to lunch](https://old.reddit.com/r/sysadmin/comments/1dhy8ca/user_is_locked_out_every_day_when_she_goes_to/)
 append_entries: 9
 Finish: 2024-06-17 18:08:20.935709
+------------------------------------------------------
+Started: 2024-06-17 20:03:06.793661
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sei pays out $2M bug bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What policy makers need to know about AI](https://www.answer.ai/posts/2024-06-11-os-ai.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Correlation between fecal microplastics and inflammatory bowel disease (2021)](https://pubs.acs.org/doi/abs/10.1021/acs.est.1c03924)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [High-severity vulnerabilities affect a wide range of Asus router models](https://arstechnica.com/security/2024/06/high-severity-vulnerabilities-affect-a-wide-range-of-asus-router-models/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Asus agrees to a whole raft of US warranty service improvements after complaints](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New branding, same scanning: Upload moderation undermines end-to-end encryption [pdf]](https://signal.org/blog/pdfs/upload-moderation.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Building a virtual machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Wired Amazon-Powered AI Cameras Used to Detect Emotions of UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Understanding SPF, DKIM, and DMARC: A Simple Guide](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Unskilled and unaware: Misjudgments rise with overconfidence in low performers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1252520/full)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What is intelligent life? Portia Spiders and GPT](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: Boss thinks I'm dumb, now what?](https://news.ycombinator.com/item?id=40709622)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to Minimize Your Exposure to Microplastics](https://www.nytimes.com/2024/06/07/well/microplastics-health.html)
+append_entries: 14
+Finish: 2024-06-17 20:03:10.082078
