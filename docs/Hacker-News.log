@@ -13684,3 +13684,33 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The Tyranny of the Flake Equation](https://www.moderndescartes.com/essays/flake_equation/)
 append_entries: 5
 Finish: 2024-06-17 10:08:06.434757
+------------------------------------------------------
+Started: 2024-06-17 12:11:29.979532
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Don't store your cucumbers in the fridge](https://www.rootsimple.com/2012/06/dont-store-your-cucumbers-in-the-fridge/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Static arrays are the best vectors](https://mynameistrez.github.io/2024/04/09/static-arrays-are-the-best-vectors.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Excerpts from Coders at Work: Joe Armstrong Interview (2013)](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [McDonald's is ending its drive-thru AI test](https://www.restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New material for solid-state batteries with 100-times higher energy density](https://www.tdk.com/en/news_center/press/20240617_01.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
+append_entries: 8
+Finish: 2024-06-17 12:11:31.942619
