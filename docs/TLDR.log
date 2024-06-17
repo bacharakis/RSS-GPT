@@ -3666,3 +3666,10 @@ Fetching from https://www.tldrnewsletter.com/rss
 Feed error: 301
 append_entries: 0
 error when rendering xml, skip docs/TLDR
+------------------------------------------------------
+Started: 2024-06-17 14:06:54.683188
+Existing_entries: 0
+Fetching from https://www.tldrnewsletter.com/rss
+Feed error: 301
+append_entries: 0
+error when rendering xml, skip docs/TLDR
