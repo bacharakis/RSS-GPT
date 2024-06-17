@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Using the C preprocessor as an HTML templating engine</title>
+<link>https://github.com/cedric-h/c-website</link>
+<guid>https://github.com/cedric-h/c-website</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40701177">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 00:07:51 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 00:07:51 +0000</pubDate>
+</item>
+<item>
+<title>Purified Silicon Makes Bigger, Faster Quantum Computers</title>
+<link>https://spectrum.ieee.org/silicon-quantum-computing-purified-si</link>
+<guid>https://spectrum.ieee.org/silicon-quantum-computing-purified-si</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40694949">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 16 Jun 2024 05:45:38 +0000</pubDate>
+<pubDate>Sun, 16 Jun 2024 05:45:38 +0000</pubDate>
+</item>
+<item>
+<title>They make USB-C cables with displays now</title>
+<link>https://ounapuu.ee/posts/2024/06/05/usb-c-cables/</link>
+<guid>https://ounapuu.ee/posts/2024/06/05/usb-c-cables/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40701310">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 00:37:57 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 00:37:57 +0000</pubDate>
+</item>
+<item>
+<title>Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]</title>
+<link>https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf</link>
+<guid>https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40701391">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 00:58:31 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 00:58:31 +0000</pubDate>
+</item>
+
+<item>
 <title>Maintaining large-scale AI capacity at Meta</title>
 <link>https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/</link>
 <guid>https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40700586">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 22:18:19 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 22:18:19 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://github.com/bazelbuild/starlark</link>
 <guid>https://github.com/bazelbuild/starlark</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40700549">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 22:11:27 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 22:11:27 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://marcin.cylke.com.pl/2024/06/16/why-google-takeout-is-sooo-bad/</link>
 <guid>https://marcin.cylke.com.pl/2024/06/16/why-google-takeout-is-sooo-bad/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40700146">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 21:12:03 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 21:12:03 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10</link>
 <guid>https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40700258">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 21:29:03 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 21:29:03 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +90,8 @@
 <link>https://www.youtube.com/watch?v=0bhSWwf-i1k</link>
 <guid>https://www.youtube.com/watch?v=0bhSWwf-i1k</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40700546">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 22:11:11 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 22:11:11 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +99,8 @@
 <link>https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples</link>
 <guid>https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40700213">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 21:23:12 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 21:23:12 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +108,8 @@
 <link>https://numpy.org/devdocs/release/2.0.0-notes.html</link>
 <guid>https://numpy.org/devdocs/release/2.0.0-notes.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40699470">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 19:32:23 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 19:32:23 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +117,8 @@
 <link>https://ir.cwi.nl/pub/32992/32992.pdf</link>
 <guid>https://ir.cwi.nl/pub/32992/32992.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40697284">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 14:22:01 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 14:22:01 +0000</pubDate>
 </item>
 <item>
@@ -97,13 +126,10 @@
 <link>https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/</link>
 <guid>https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40700530">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 16 Jun 2024 22:09:50 +0000</pubDate>
-<pubDate>Sun, 16 Jun 2024 22:09:50 +0000</pubDate>
 </item>
-
 <item>
 <title>MicroMac, a Macintosh for Under £5</title>
 <link>https://axio.ms/projects/2024/06/16/MicroMac.html</link>
@@ -9022,87 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40578414">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 4 Jun 2024 20:05:24 +0000</pubDate>
-</item>
-<item>
-<title>The warring conmen at the heart of a €5B carbon trading scam</title>
-<link>https://www.theguardian.com/news/article/2024/jun/04/the-warring-conmen-at-the-heart-of-a-5bn-carbon-credit-scam</link>
-<guid>https://www.theguardian.com/news/article/2024/jun/04/the-warring-conmen-at-the-heart-of-a-5bn-carbon-credit-scam</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40577203">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 17:59:26 +0000</pubDate>
-</item>
-<item>
-<title>TotalRecall: Windows 11 Recall Pwned</title>
-<link>https://github.com/xaitax/TotalRecall</link>
-<guid>https://github.com/xaitax/TotalRecall</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40577894">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 19:09:48 +0000</pubDate>
-</item>
-<item>
-<title>Skip SDKs in Simple Integrations</title>
-<link>https://www.epicweb.dev/skip-sdks-in-simple-integrations</link>
-<guid>https://www.epicweb.dev/skip-sdks-in-simple-integrations</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40577715">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 18:50:21 +0000</pubDate>
-</item>
-<item>
-<title>Charge Robotics (YC S21) is hiring SWEs to build solar construction robots</title>
-<link>https://www.workatastartup.com/jobs/51266</link>
-<guid>https://www.workatastartup.com/jobs/51266</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40577315">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 18:10:07 +0000</pubDate>
-</item>
-<item>
-<title>Particle Accelerators for the Microchip Era</title>
-<link>https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era</link>
-<guid>https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40578176">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 19:39:26 +0000</pubDate>
-</item>
-<item>
-<title>Mozilla Builders Accelerator 2024</title>
-<link>https://future.mozilla.org/builders/</link>
-<guid>https://future.mozilla.org/builders/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40577216">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 18:00:44 +0000</pubDate>
-</item>
-<item>
-<title>Underscores are stupid? Get a Japanese keyboard (2012)</title>
-<link>https://www.daveperrett.com/articles/2012/05/16/underscores-are-stupid-get-a-japanese-keyboard/</link>
-<guid>https://www.daveperrett.com/articles/2012/05/16/underscores-are-stupid-get-a-japanese-keyboard/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40573387">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 11:44:39 +0000</pubDate>
-</item>
-<item>
-<title>A Brief Look at the 3DS Cartridge Protocol</title>
-<link>https://blog.winter-software.com/2024/06/02/ctr-cart-protocol</link>
-<guid>https://blog.winter-software.com/2024/06/02/ctr-cart-protocol</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40555415">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 2 Jun 2024 16:39:31 +0000</pubDate>
-</item>
-<item>
-<title>Why do electronic components have such odd values? (2021)</title>
-<link>https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</link>
-<guid>https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40576132">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 16:20:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
