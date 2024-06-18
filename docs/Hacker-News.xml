@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>'Equals' has more than one meaning in math</title>
+<link>https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math</link>
+<guid>https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40702895">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 06:42:12 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 06:42:12 +0000</pubDate>
+</item>
+<item>
+<title>Lnav Logfile Navigator</title>
+<link>https://lnav.org/</link>
+<guid>https://lnav.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40703892">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 09:42:40 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 09:42:40 +0000</pubDate>
+</item>
+<item>
+<title>Every Way to Get Structured Output from LLMs</title>
+<link>https://www.boundaryml.com/blog/structured-output-from-llms</link>
+<guid>https://www.boundaryml.com/blog/structured-output-from-llms</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40713952">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 04:01:43 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 04:01:43 +0000</pubDate>
+</item>
+<item>
+<title>Now that UUIDv7 is lexicographic, does that mean there is no use for ULID?</title>
+<link>https://www.npmjs.com/package/uuidv7</link>
+<guid>https://www.npmjs.com/package/uuidv7</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40712872">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 00:41:08 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 00:41:08 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: How do you find a mentor in software engineering and in life?</title>
+<link>https://news.ycombinator.com/item?id=40714215</link>
+<guid>https://news.ycombinator.com/item?id=40714215</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40714215">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 05:03:55 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 05:03:55 +0000</pubDate>
+</item>
+
+<item>
 <title>NumPy-style broadcasting in Futhark</title>
 <link>https://futhark-lang.org/blog/2024-06-17-automap.html</link>
 <guid>https://futhark-lang.org/blog/2024-06-17-automap.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40704179">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 10:38:34 +0000</pubDate>
 <pubDate>Mon, 17 Jun 2024 10:38:34 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +74,10 @@
 <link>https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data</link>
 <guid>https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40713389">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 02:04:52 +0000</pubDate>
-<pubDate>Tue, 18 Jun 2024 02:04:52 +0000</pubDate>
 </item>
-
 <item>
 <title>Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market (1998)</title>
 <link>https://www.hitachi.com/New/cnews/E/1998/981111B.html</link>
@@ -9008,24 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40594152">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 6 Jun 2024 06:24:19 +0000</pubDate>
-</item>
-<item>
-<title>Infrared Infrastructure</title>
-<link>https://shkspr.mobi/blog/2024/06/infrared-infrastructure/</link>
-<guid>https://shkspr.mobi/blog/2024/06/infrared-infrastructure/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40573506">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 11:57:18 +0000</pubDate>
-</item>
-<item>
-<title>PSA: If you're a fan of ATmega, try AVR Dx</title>
-<link>https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try</link>
-<guid>https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40592998">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 03:03:59 +0000</pubDate>
 </item>
 </channel>
 </rss>
