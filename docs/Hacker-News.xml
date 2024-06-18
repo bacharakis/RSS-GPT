@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Versioning FreeCAD Files with Git</title>
+<link>https://blog.lambda.cx/posts/freecad-and-git/</link>
+<guid>https://blog.lambda.cx/posts/freecad-and-git/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40721623">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 19:59:31 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 19:59:31 +0000</pubDate>
+</item>
+<item>
+<title>Amazon fined $5.9M for breaking labor law in California</title>
+<link>https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/</link>
+<guid>https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40722155">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 20:59:37 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 20:59:37 +0000</pubDate>
+</item>
+<item>
+<title>Hadrius (YC W23) is hiring engineers looking to grow into future founders</title>
+<link>https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer</link>
+<guid>https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40722164">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 21:00:51 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 21:00:51 +0000</pubDate>
+</item>
+<item>
+<title>Refusal in Language Models Is Mediated by a Single Direction</title>
+<link>https://arxiv.org/abs/2406.11717</link>
+<guid>https://arxiv.org/abs/2406.11717</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40719981">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 17:09:26 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 17:09:26 +0000</pubDate>
+</item>
+
+<item>
 <title>Show HN: Billard – Generate music from ball collisions in 2D space</title>
 <link>https://billard.medusis.com/</link>
 <guid>https://billard.medusis.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40719782">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 16:45:45 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 16:45:45 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody</link>
 <guid>https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40673402">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 19:12:08 +0000</pubDate>
 <pubDate>Thu, 13 Jun 2024 19:12:08 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/</link>
 <guid>https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40720629">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 18:23:10 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 18:23:10 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://www.jpl.nasa.gov/news/ow-glowing-plants-could-help-scientists-predict-flash-drought</link>
 <guid>https://www.jpl.nasa.gov/news/ow-glowing-plants-could-help-scientists-predict-flash-drought</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40719905">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 17:00:34 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 17:00:34 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +90,8 @@
 <link>https://cdm.link/2024/06/labor-diy/</link>
 <guid>https://cdm.link/2024/06/labor-diy/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40682212">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 16:26:48 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 16:26:48 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +99,8 @@
 <link>https://www.chemistryworld.com/opinion/a-common-misunderstanding-about-wave-particle-duality/4019585.article</link>
 <guid>https://www.chemistryworld.com/opinion/a-common-misunderstanding-about-wave-particle-duality/4019585.article</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40676355">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 00:26:02 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 00:26:02 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +108,8 @@
 <link>https://www.nature.com/immersive/d41586-024-02011-6/index.html</link>
 <guid>https://www.nature.com/immersive/d41586-024-02011-6/index.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40717804">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 13:45:07 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 13:45:07 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +117,8 @@
 <link>https://shallenge.quirino.net/</link>
 <guid>https://shallenge.quirino.net/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40683564">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 18:33:40 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 18:33:40 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +126,8 @@
 <link>https://news.ycombinator.com/item?id=40720121</link>
 <guid>https://news.ycombinator.com/item?id=40720121</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40720121">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 17:25:42 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 17:25:42 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +135,8 @@
 <link>https://physics.aps.org/articles/v17/98</link>
 <guid>https://physics.aps.org/articles/v17/98</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40683317">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 18:13:29 +0000</pubDate>
 <pubDate>Fri, 14 Jun 2024 18:13:29 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +144,8 @@
 <link>https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/</link>
 <guid>https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40720183">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 17:31:49 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 17:31:49 +0000</pubDate>
 </item>
 <item>
@@ -130,13 +153,10 @@
 <link>https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/</link>
 <guid>https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40720680">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 18:28:48 +0000</pubDate>
-<pubDate>Tue, 18 Jun 2024 18:28:48 +0000</pubDate>
 </item>
-
 <item>
 <title>Sharing new research, models, and datasets from Meta FAIR</title>
 <link>https://ai.meta.com/blog/meta-fair-research-new-releases/</link>
@@ -9028,114 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40602708">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 6 Jun 2024 21:39:15 +0000</pubDate>
-</item>
-<item>
-<title>Mike Lynch cleared in Autonomy fraud trial</title>
-<link>https://www.theregister.com/2024/06/06/mike_lynch_cleared/</link>
-<guid>https://www.theregister.com/2024/06/06/mike_lynch_cleared/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40601801">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 20:08:31 +0000</pubDate>
-</item>
-<item>
-<title>Dr. George Merryweather's 1851 Tempest Prognosticator</title>
-<link>https://victorianweb.org/technology/packer/merryweather.html</link>
-<guid>https://victorianweb.org/technology/packer/merryweather.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40585277">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 14:33:51 +0000</pubDate>
-</item>
-<item>
-<title>Let rand = main as usize</title>
-<link>https://codeandbitters.com/main-as-usize/</link>
-<guid>https://codeandbitters.com/main-as-usize/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40600384">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 17:55:28 +0000</pubDate>
-</item>
-<item>
-<title>Extracting concepts from GPT-4</title>
-<link>https://openai.com/index/extracting-concepts-from-gpt-4/</link>
-<guid>https://openai.com/index/extracting-concepts-from-gpt-4/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40599749">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 17:01:37 +0000</pubDate>
-</item>
-<item>
-<title>Dragonfly: A large vision-language model with multi-resolution zoom</title>
-<link>https://www.together.ai/blog/dragonfly-v1</link>
-<guid>https://www.together.ai/blog/dragonfly-v1</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40600775">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 18:31:04 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft Issues New Warning for 70% of All Windows Users</title>
-<link>https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/</link>
-<guid>https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40601565">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 19:46:42 +0000</pubDate>
-</item>
-<item>
-<title>Telegram Stars: Pay for Digital Goods and More</title>
-<link>https://telegram.org/blog/telegram-stars</link>
-<guid>https://telegram.org/blog/telegram-stars</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40599857">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 17:09:58 +0000</pubDate>
-</item>
-<item>
-<title>Compromised Visions Are Superior</title>
-<link>https://ericnormand.substack.com/p/compromised-visions-are-superior</link>
-<guid>https://ericnormand.substack.com/p/compromised-visions-are-superior</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40581904">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 06:22:26 +0000</pubDate>
-</item>
-<item>
-<title>Windows Recall: Microsoft has lost trust with its users</title>
-<link>https://www.windowscentral.com/software-apps/nvidia-3-trillion-market-valuation-second-most-valuable-company</link>
-<guid>https://www.windowscentral.com/software-apps/nvidia-3-trillion-market-valuation-second-most-valuable-company</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40601423">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 19:31:16 +0000</pubDate>
-</item>
-<item>
-<title>High resolution logo for any domain or stock ticker</title>
-<link>https://logo.synthfinance.com/</link>
-<guid>https://logo.synthfinance.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40600506">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 18:06:55 +0000</pubDate>
-</item>
-<item>
-<title>An Interview with Lola De La Mata about tinnitus</title>
-<link>https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/</link>
-<guid>https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40600748">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 18:28:22 +0000</pubDate>
-</item>
-<item>
-<title>Roman Roads (2017)</title>
-<link>https://sashamaps.net/docs/maps/roman-roads-original/</link>
-<guid>https://sashamaps.net/docs/maps/roman-roads-original/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40597216">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 13:32:36 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -14200,3 +14200,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
 append_entries: 12
 Finish: 2024-06-18 20:04:34.706890
+------------------------------------------------------
+Started: 2024-06-18 22:02:40.675879
+Existing_entries: 1012
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Versioning FreeCAD Files with Git](https://blog.lambda.cx/posts/freecad-and-git/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Amazon fined $5.9M for breaking labor law in California](https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
+append_entries: 4
+Finish: 2024-06-18 22:02:41.757331
