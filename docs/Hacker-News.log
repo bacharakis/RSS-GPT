@@ -13987,3 +13987,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence)
 append_entries: 5
 Finish: 2024-06-18 02:25:34.407013
+------------------------------------------------------
+Started: 2024-06-18 04:07:50.346430
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NumPy-style broadcasting in Futhark](https://futhark-lang.org/blog/2024-06-17-automap.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
+append_entries: 2
+Finish: 2024-06-18 04:07:51.150916

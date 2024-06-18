@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>NumPy-style broadcasting in Futhark</title>
+<link>https://futhark-lang.org/blog/2024-06-17-automap.html</link>
+<guid>https://futhark-lang.org/blog/2024-06-17-automap.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40704179">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 10:38:34 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 10:38:34 +0000</pubDate>
+</item>
+<item>
+<title>Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data</title>
+<link>https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data</link>
+<guid>https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40713389">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 02:04:52 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 02:04:52 +0000</pubDate>
+</item>
+
+<item>
 <title>Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market (1998)</title>
 <link>https://www.hitachi.com/New/cnews/E/1998/981111B.html</link>
 <guid>https://www.hitachi.com/New/cnews/E/1998/981111B.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40712847">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 00:37:12 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 00:37:12 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://www.gingerbill.org/article/2024/06/17/go-iterator-design/</link>
 <guid>https://www.gingerbill.org/article/2024/06/17/go-iterator-design/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40712720">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 00:15:03 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 00:15:03 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://homunculus.jp/</link>
 <guid>https://homunculus.jp/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40696211">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 11:16:34 +0000</pubDate>
 <pubDate>Sun, 16 Jun 2024 11:16:34 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +59,8 @@
 <link>https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html</link>
 <guid>https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40710417">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 20:04:19 +0000</pubDate>
 <pubDate>Mon, 17 Jun 2024 20:04:19 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +68,10 @@
 <link>https://en.wikipedia.org/wiki/Sonoluminescence</link>
 <guid>https://en.wikipedia.org/wiki/Sonoluminescence</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40703882">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 09:40:54 +0000</pubDate>
-<pubDate>Mon, 17 Jun 2024 09:40:54 +0000</pubDate>
 </item>
-
 <item>
 <title>Getting 50% (SoTA) on Arc-AGI with GPT-4o</title>
 <link>https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt</link>
@@ -9014,51 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40592998">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 6 Jun 2024 03:03:59 +0000</pubDate>
-</item>
-<item>
-<title>Rust Is for the Engine, Not the Game</title>
-<link>https://barretts.club/posts/rust-for-the-engine/</link>
-<guid>https://barretts.club/posts/rust-for-the-engine/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40593943">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 05:50:52 +0000</pubDate>
-</item>
-<item>
-<title>Mitsubishi robot solves Rubik's Cube in 0.305s</title>
-<link>https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/</link>
-<guid>https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40593674">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 05:00:25 +0000</pubDate>
-</item>
-<item>
-<title>U.S. clears way for antitrust inquiries of Nvidia, Microsoft and OpenAI</title>
-<link>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</link>
-<guid>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40593275">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 03:52:42 +0000</pubDate>
-</item>
-<item>
-<title>My Favorite Programming Problem to Teach: Digit Length</title>
-<link>https://jstrieb.github.io/posts/digit-length/</link>
-<guid>https://jstrieb.github.io/posts/digit-length/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40581746">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 5 Jun 2024 05:47:37 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Built a free VS Code extension to help share code updates</title>
-<link>https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-publicdev</link>
-<guid>https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-publicdev</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40593060">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 03:16:11 +0000</pubDate>
 </item>
 </channel>
 </rss>
