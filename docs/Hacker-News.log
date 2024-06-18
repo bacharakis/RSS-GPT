@@ -14020,3 +14020,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Ask HN: How do you find a mentor in software engineering and in life?](https://news.ycombinator.com/item?id=40714215)
 append_entries: 5
 Finish: 2024-06-18 06:08:56.983387
+------------------------------------------------------
+Started: 2024-06-18 08:08:50.618468
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Public Interest Internet, by Robin Berjon](https://berjon.com/public-interest-internet/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An Introduction to CSS-Doodle](https://yuanchuan.github.io/intro-to-css-doodle/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Creating a Doom-style 3D engine in C [video]](https://www.youtube.com/watch?v=HQYsFshbkYw)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Complexity fills the space it's given](https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8)
+append_entries: 5
+Finish: 2024-06-18 08:08:51.930795

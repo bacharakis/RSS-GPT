@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>What happens to latency if service time is cut in half</title>
+<link>https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html</link>
+<guid>https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40714544">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 06:10:40 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 06:10:40 +0000</pubDate>
+</item>
+<item>
+<title>The Public Interest Internet, by Robin Berjon</title>
+<link>https://berjon.com/public-interest-internet/</link>
+<guid>https://berjon.com/public-interest-internet/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40714371">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 05:37:59 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 05:37:59 +0000</pubDate>
+</item>
+<item>
+<title>An Introduction to CSS-Doodle</title>
+<link>https://yuanchuan.github.io/intro-to-css-doodle/</link>
+<guid>https://yuanchuan.github.io/intro-to-css-doodle/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40688055">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 15 Jun 2024 07:19:59 +0000</pubDate>
+<pubDate>Sat, 15 Jun 2024 07:19:59 +0000</pubDate>
+</item>
+<item>
+<title>Creating a Doom-style 3D engine in C [video]</title>
+<link>https://www.youtube.com/watch?v=HQYsFshbkYw</link>
+<guid>https://www.youtube.com/watch?v=HQYsFshbkYw</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40714815">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 06:54:58 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 06:54:58 +0000</pubDate>
+</item>
+<item>
+<title>Complexity fills the space it's given</title>
+<link>https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8</link>
+<guid>https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40704267">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 10:49:55 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 10:49:55 +0000</pubDate>
+</item>
+
+<item>
 <title>'Equals' has more than one meaning in math</title>
 <link>https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math</link>
 <guid>https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40702895">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 06:42:12 +0000</pubDate>
 <pubDate>Mon, 17 Jun 2024 06:42:12 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://lnav.org/</link>
 <guid>https://lnav.org/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40703892">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 09:42:40 +0000</pubDate>
 <pubDate>Mon, 17 Jun 2024 09:42:40 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://www.boundaryml.com/blog/structured-output-from-llms</link>
 <guid>https://www.boundaryml.com/blog/structured-output-from-llms</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40713952">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 04:01:43 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 04:01:43 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://www.npmjs.com/package/uuidv7</link>
 <guid>https://www.npmjs.com/package/uuidv7</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40712872">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 00:41:08 +0000</pubDate>
 <pubDate>Tue, 18 Jun 2024 00:41:08 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +101,10 @@
 <link>https://news.ycombinator.com/item?id=40714215</link>
 <guid>https://news.ycombinator.com/item?id=40714215</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40714215">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 05:03:55 +0000</pubDate>
-<pubDate>Tue, 18 Jun 2024 05:03:55 +0000</pubDate>
 </item>
-
 <item>
 <title>NumPy-style broadcasting in Futhark</title>
 <link>https://futhark-lang.org/blog/2024-06-17-automap.html</link>
@@ -9014,51 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40594533">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 6 Jun 2024 07:28:11 +0000</pubDate>
-</item>
-<item>
-<title>Starship's Fourth Flight Test: Window Opens 07:00 AM Central Time</title>
-<link>https://www.spacex.com/launches/mission/?missionId=starship-flight-4</link>
-<guid>https://www.spacex.com/launches/mission/?missionId=starship-flight-4</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40595164">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 09:04:32 +0000</pubDate>
-</item>
-<item>
-<title>Study Finds 268% Higher Failure Rates for Agile Software Projects</title>
-<link>https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects</link>
-<guid>https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40595465">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 09:45:40 +0000</pubDate>
-</item>
-<item>
-<title>Televised Music Is a Pointless Rigmarole (1968)</title>
-<link>https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/</link>
-<guid>https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40578137">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 4 Jun 2024 19:33:38 +0000</pubDate>
-</item>
-<item>
-<title>TPM GPIO fail: How bad OEM firmware ruins Intel TPM security</title>
-<link>https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html</link>
-<guid>https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40593540">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 04:34:57 +0000</pubDate>
-</item>
-<item>
-<title>Durability of Polymers in the Space Environment [pdf]</title>
-<link>https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf</link>
-<guid>https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40594152">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 6 Jun 2024 06:24:19 +0000</pubDate>
 </item>
 </channel>
 </rss>
