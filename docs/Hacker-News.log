@@ -14104,3 +14104,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Hard to change people's opinions, but easier to nudge them, research suggests](https://www.nature.com/articles/d41586-024-01696-z)
 append_entries: 4
 Finish: 2024-06-18 14:03:27.021086
+------------------------------------------------------
+Started: 2024-06-18 16:07:04.140473
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [YaFSDP from Yandex, 20% faster for pre-training LLMs](https://github.com/yandex/YaFSDP)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A New Look: Solar Plant Prospection with Automated Viewshed Analysis](https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Solid-state battery with 100x energy density could be used in Apple devices](https://9to5mac.com/2024/06/18/solid-state-battery-tdk/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Grief is not a process with five stages. It is shattered glass](https://psyche.co/ideas/grief-is-not-a-process-with-five-stages-it-is-shattered-glass)
+append_entries: 9
+Finish: 2024-06-18 16:07:06.412961
