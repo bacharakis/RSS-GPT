@@ -14041,3 +14041,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Complexity fills the space it's given](https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8)
 append_entries: 5
 Finish: 2024-06-18 08:08:51.930795
+------------------------------------------------------
+Started: 2024-06-18 10:06:49.516992
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [52-Hertz Whale](https://en.wikipedia.org/wiki/52-hertz_whale)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Software Friction](https://www.hillelwayne.com/post/software-friction/)
+append_entries: 5
+Finish: 2024-06-18 10:06:50.763890
