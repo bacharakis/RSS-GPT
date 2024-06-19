@@ -14506,3 +14506,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Ask HN: React, Vue or Angular?](https://news.ycombinator.com/item?id=40729980)
 append_entries: 13
 Finish: 2024-06-19 18:07:43.500443
+------------------------------------------------------
+Started: 2024-06-19 20:06:26.381469
+Existing_entries: 1013
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Discovery of new white blood cell function](https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Brain circuit scores identify clinically distinct biotypes in depression/anxiety](https://www.nature.com/articles/s41591-024-03057-9)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NodeSwift: Bridge Node.js and Swift](https://github.com/kabiroberai/node-swift)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What happens to our breath when we type, tap, scroll](https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [When are SSDs slow?](https://cedardb.com/blog/ssd_latency/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Comma Gets a Cure (2000)](https://www.dialectsarchive.com/comma-gets-a-cure)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why black boxes are important](https://philosophyinpractice.substack.com/p/why-black-boxes-are-important)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The difference between Mastodon, Bluesky, and Threads](https://www.eff.org/deeplinks/2024/06/whats-difference-between-mastodon-bluesky-and-threads)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Inner core backtracking by seismic waveform change reversals](https://www.nature.com/articles/s41586-024-07536-4)
+append_entries: 9
+Finish: 2024-06-19 20:06:28.378080
