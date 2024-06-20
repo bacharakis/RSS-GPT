@@ -14680,3 +14680,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [27 Years Ago, Nintendo Almost Revolutionized Digital Games with Nintendo Power](https://www.xatakaon.com/video-games/nintendo-power-how-nintendo-almost-revolutionized-gaming-by-creating-an-all-in-one-cartridge-27-years-ago)
 append_entries: 6
 Finish: 2024-06-20 08:08:57.467100
+------------------------------------------------------
+Started: 2024-06-20 10:06:31.513784
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Oldest white wine in the world found in a first-century tomb in Spain](https://doi.org/10.1016/j.jasrep.2024.104636)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: Is Google deliberately breaking Firefox?](https://news.ycombinator.com/item?id=40736397)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An icon taskbar for the Gnome Shell](https://github.com/home-sweet-gnome/dash-to-panel)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bun is much faster than Node.js 22 at decoding Base64 but both rely on same lib](https://twitter.com/lemire/status/1803598132334436415)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Street-Fighting Mathematics (2008)](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: Is Firefox better than Chrome when it comes to user security?](https://news.ycombinator.com/item?id=40735973)
+append_entries: 7
+Finish: 2024-06-20 10:06:33.201786
