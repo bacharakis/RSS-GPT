@@ -14656,3 +14656,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [U.S. home prices have far outpaced paychecks. See what it looks like](https://www.npr.org/2024/06/20/nx-s1-5005972/home-prices-wages-paychecks-rent-housing-harvard-report)
 append_entries: 3
 Finish: 2024-06-20 06:09:14.138979
+------------------------------------------------------
+Started: 2024-06-20 08:08:56.319397
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Protecting Children's Safety Requires End-to-End Encryption](https://simplex.chat/blog/20240601-protecting-children-safety-requires-e2e-encryption.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Zig vs. Rust at work: the choice we made](https://ludwigabap.bearblog.dev/zig-vs-rust-at-work-the-choice-we-made/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What Is a Personal User Manual?](https://futureforum.com/2022/07/15/personal-user-manual/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [EU says Apple has serious issues for not complying with DMA](https://9to5mac.com/2024/06/19/eu-apple-issues-dma/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Satellites Spotting Ships](https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [27 Years Ago, Nintendo Almost Revolutionized Digital Games with Nintendo Power](https://www.xatakaon.com/video-games/nintendo-power-how-nintendo-almost-revolutionized-gaming-by-creating-an-all-in-one-cartridge-27-years-ago)
+append_entries: 6
+Finish: 2024-06-20 08:08:57.467100
