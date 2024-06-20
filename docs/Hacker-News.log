@@ -14572,3 +14572,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The hacking of culture and the creation of socio-technical debt](https://www.schneier.com/blog/archives/2024/06/the-hacking-of-culture-and-the-creation-of-socio-technical-debt.html)
 append_entries: 9
 Finish: 2024-06-19 22:02:12.835147
+------------------------------------------------------
+Started: 2024-06-20 00:29:07.425140
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The other side of Formula 1: Barcelona residents protest for race-car exhibition](https://www.elnacional.cat/en/news/formula-1-barcelona-residents-protest-city-race-car-exhibition_1238607_102.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nobody Knows What's Going On](https://www.raptitude.com/2024/06/nobody-knows-whats-going-on/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hypermedia Systems](https://hypermedia.systems/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A Cozzer Snout](https://www.the-fence.com/a-cozzer-snout/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An 'Algorithm' Turned Apartment Pools Green](https://prospect.org/infrastructure/housing/2024-06-18-how-algorithm-turned-apartment-pools-green/)
+append_entries: 6
+Finish: 2024-06-20 00:29:08.934768
