@@ -14773,3 +14773,45 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The Delusion of Advanced Plastic Recycling](https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis)
 append_entries: 7
 Finish: 2024-06-20 14:03:08.570516
+------------------------------------------------------
+Started: 2024-06-20 16:08:30.935382
+Existing_entries: 1007
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Kraken claims it is being 'extorted' as hacker demands reward after $3M theft](https://cryptobriefing.com/kraken-extortion-claims-white-hat-3m/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Atkinson Dithering](https://beyondloom.com/blog/dither.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: What happens when I click "Request for quote" on your SaaS?](https://news.ycombinator.com/item?id=40726735)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Oracle Java license teams set to begin targeting unknowing Oracle users](https://www.theregister.com/2024/06/20/oracle_java_licence_teams/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AdonisJS](https://adonisjs.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Roblox has ported the entire front end JavaScript stack to Lua](https://twitter.com/zack_overflow/status/1803612884196532432)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Optimizing AI Inference at Character.ai](https://research.character.ai/optimizing-inference/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Author Finds Another's Name on an Elsevier Book Chapter She Wrote](https://retractionwatch.com/2024/06/20/exhausting-author-finds-anothers-name-on-an-elsevier-book-chapter-she-wrote/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Measuring Unikernel Cold Boot Time with Perf](https://nanovms.com/dev/tutorials/measuring-unikernel-cold-boot-time-with-perf)
+append_entries: 12
+Finish: 2024-06-20 16:08:33.174859
