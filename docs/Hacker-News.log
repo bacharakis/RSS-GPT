@@ -14884,3 +14884,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Decompress Anything with "X Uz"](https://www.x-cmd.com/mod/zuz/)
 append_entries: 11
 Finish: 2024-06-20 20:07:01.307120
+------------------------------------------------------
+Started: 2024-06-20 22:02:50.405657
+Existing_entries: 1011
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Promoted.ai (YC W21) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Prototype's Language](https://news.alvaroduran.com/p/the-prototypes-language)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: How do you stay organized for solo dev?](https://news.ycombinator.com/item?id=40742831)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [We no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [SUSE upgrades its distros with 19 years of support – no other Linux comes close](https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/)
+append_entries: 5
+Finish: 2024-06-20 22:02:51.669701
