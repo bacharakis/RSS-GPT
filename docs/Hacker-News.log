@@ -15019,3 +15019,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Europe's solar power surge hits prices, exposing storage needs](https://www.euractiv.com/section/energy-environment/news/europes-solar-power-surge-hits-prices-exposing-storage-needs/)
 append_entries: 4
 Finish: 2024-06-21 10:06:36.903297
+------------------------------------------------------
+Started: 2024-06-21 12:10:34.032920
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Engineer Who Refused to Approve the Challenger Launch](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Athelas (YC S16) Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Pre-Scheme Restoration project is now underway](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pornhub prepares to block five more states rather than check IDs](https://arstechnica.com/tech-policy/2024/06/adult-sites-blocking-more-states-this-summer-to-protest-age-verification-laws/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Electromechanical Lunar Lander](http://www.chrisfenton.com/electromechanical-lunar-lander/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
+append_entries: 9
+Finish: 2024-06-21 12:10:36.009080
