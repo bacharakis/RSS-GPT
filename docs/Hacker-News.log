@@ -14905,3 +14905,33 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [SUSE upgrades its distros with 19 years of support – no other Linux comes close](https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/)
 append_entries: 5
 Finish: 2024-06-20 22:02:51.669701
+------------------------------------------------------
+Started: 2024-06-21 00:29:18.957278
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [What is ZIRP, and how did it impact the startup world?](https://www.ycombinator.com/blog/what-is-zirp-and-how-did-it-impact-the-startup-world/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [There are no particles, there are only fields (2012)](https://arxiv.org/abs/1204.4616)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: Has anyone else found it harder to review code recently?](https://news.ycombinator.com/item?id=40744851)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Generating Audio for Video](https://deepmind.google/discover/blog/generating-audio-for-video/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tesla owners file class-action alleging repair, parts monopoly](https://driving.ca/auto-news/industry/tesla-class-action-lawsuite-parts-repairs-monopoly)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Tim O’Reilly: How to Fix "AI's Original Sin"](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
+append_entries: 8
+Finish: 2024-06-21 00:29:20.603628
