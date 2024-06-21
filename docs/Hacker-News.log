@@ -15163,3 +15163,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Show HN: High-Frequency Trading and Market-Making Backtesting Tool with Examples](https://github.com/nkaz001/hftbacktest/tree/master/rust)
 append_entries: 9
 Finish: 2024-06-21 20:07:39.367339
+------------------------------------------------------
+Started: 2024-06-21 22:02:17.896970
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [I kind of like rebasing](https://rednafi.com/misc/on_rebasing/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Eggcorn Database](https://eggcorns.lascribe.net)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Eidos – Offline alternative to Notion](https://github.com/mayneyao/eidos)
+append_entries: 5
+Finish: 2024-06-21 22:02:18.833156
