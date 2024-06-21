@@ -14980,3 +14980,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Show HN: Directory of resources for learning German](https://infinitedeutsch.com)
 append_entries: 4
 Finish: 2024-06-21 06:09:15.631118
+------------------------------------------------------
+Started: 2024-06-21 08:09:06.539054
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Is Kotlin Multiplatform Replacing Flutter?](https://news.ycombinator.com/item?id=40746826)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to live with dying (2020)](https://theamericanscholar.org/how-to-live-with-dying/)
+append_entries: 5
+Finish: 2024-06-21 08:09:07.999278
