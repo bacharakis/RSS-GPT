@@ -15130,3 +15130,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Reaching the Enchanted Forest](https://dansitu.substack.com/p/reaching-the-enchanted-forest)
 append_entries: 8
 Finish: 2024-06-21 18:08:48.526661
+------------------------------------------------------
+Started: 2024-06-21 20:07:36.953666
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A runaway plane took off by itself and spent 3 hours flying unpiloted in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Barcelona will eliminate tourist apartments](https://www.theolivepress.es/spain-news/2024/06/21/breaking-barcelona-will-remove-all-tourist-apartments-in-2028-in-huge-win-for-anti-tourism-activists/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [We now have even more evidence against the "ecocide" theory of Easter Island](https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why SMBs Don't Deploy SSO](https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ontario Science Centre to close immediately](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Self-driving Waymos secure final clearance for expansion beyond S.F](https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: High-Frequency Trading and Market-Making Backtesting Tool with Examples](https://github.com/nkaz001/hftbacktest/tree/master/rust)
+append_entries: 9
+Finish: 2024-06-21 20:07:39.367339
