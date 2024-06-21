@@ -14935,3 +14935,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Tim O’Reilly: How to Fix "AI's Original Sin"](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
 append_entries: 8
 Finish: 2024-06-21 00:29:20.603628
+------------------------------------------------------
+Started: 2024-06-21 02:24:20.618924
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bog Gravel Filtration: Water Cleaned by Mother Nature (2015)](https://www.pondtrademag.com/bog-gravel-filtration-water-cleaned-by-mother-nature/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Local Voice Assistant Using Ollama, Transformers and Coqui TTS Toolkit](https://github.com/mezbaul-h/june)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
+append_entries: 3
+Finish: 2024-06-21 02:24:22.103474
