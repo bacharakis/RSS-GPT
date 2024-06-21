@@ -14950,3 +14950,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
 append_entries: 3
 Finish: 2024-06-21 02:24:22.103474
+------------------------------------------------------
+Started: 2024-06-21 04:08:16.291105
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Birth rates halve in richer countries as costs weigh, OECD report says](https://www.reuters.com/world/birth-rates-halve-richer-countries-costs-weigh-oecd-report-says-2024-06-20/)
+append_entries: 2
+Finish: 2024-06-21 04:08:16.968031
