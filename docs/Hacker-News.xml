@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>GitHub Trending RSS</title>
+<link>https://mshibanami.github.io/GitHubTrendingRSS/</link>
+<guid>https://mshibanami.github.io/GitHubTrendingRSS/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40760552">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 17:19:36 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 17:19:36 +0000</pubDate>
+</item>
+<item>
+<title>Andrew S. Tanenbaum Receives ACM Software System Award</title>
+<link>https://vu.nl/en/news/2024/andrew-s-tanenbaum-receives-acm-software-system-award</link>
+<guid>https://vu.nl/en/news/2024/andrew-s-tanenbaum-receives-acm-software-system-award</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40759277">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 14:12:02 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 14:12:02 +0000</pubDate>
+</item>
+<item>
+<title>Testing AMD's Bergamo: Zen 4c Spam</title>
+<link>https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/</link>
+<guid>https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40760687">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 17:36:39 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 17:36:39 +0000</pubDate>
+</item>
+<item>
+<title>As you learn Forth, it learns from you (1981)</title>
+<link>https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html</link>
+<guid>https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40736174">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 08:05:13 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 08:05:13 +0000</pubDate>
+</item>
+<item>
+<title>Creative workers deserve better than a choice as to who rips them off</title>
+<link>https://pluralistic.net/2024/06/21/off-the-menu/</link>
+<guid>https://pluralistic.net/2024/06/21/off-the-menu/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40760042">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 16:08:08 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 16:08:08 +0000</pubDate>
+</item>
+<item>
+<title>Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data</title>
+<link>https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra</link>
+<guid>https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40760433">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 17:00:58 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 17:00:58 +0000</pubDate>
+</item>
+<item>
+<title>Impossibly thin fabric could cool you down by 16-plus degrees</title>
+<link>https://www.fastcompany.com/91142992/this-impossibly-thin-fabric-could-cool-you-down-by-16-degrees</link>
+<guid>https://www.fastcompany.com/91142992/this-impossibly-thin-fabric-could-cool-you-down-by-16-degrees</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40760037">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 16:07:29 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 16:07:29 +0000</pubDate>
+</item>
+
+<item>
 <title>HybridNeRF: Efficient Neural Rendering</title>
 <link>https://haithemturki.com/hybrid-nerf/</link>
 <guid>https://haithemturki.com/hybrid-nerf/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40759333">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 14:21:21 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 14:21:21 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://lmnt.me/blog/training-ai.html</link>
 <guid>https://lmnt.me/blog/training-ai.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40759626">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 15:10:28 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 15:10:28 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://github.com/mattrighetti/envelope</link>
 <guid>https://github.com/mattrighetti/envelope</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40758703">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 12:39:57 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 12:39:57 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://nical.github.io/posts/etagere.html</link>
 <guid>https://nical.github.io/posts/etagere.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40741236">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 17:42:02 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 17:42:02 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +123,8 @@
 <link>https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/</link>
 <guid>https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40754624">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 22:46:29 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 22:46:29 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +132,8 @@
 <link>https://www.bbc.com/news/articles/cn00e695lpvo</link>
 <guid>https://www.bbc.com/news/articles/cn00e695lpvo</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40759585">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 15:03:56 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 15:03:56 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +141,8 @@
 <link>https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/</link>
 <guid>https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40759393">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 14:32:10 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 14:32:10 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +150,8 @@
 <link>https://zacksdancelab.com/blog/a-new-kind-of-dance-science/</link>
 <guid>https://zacksdancelab.com/blog/a-new-kind-of-dance-science/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40735038">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 04:53:37 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 04:53:37 +0000</pubDate>
 </item>
 <item>
@@ -97,13 +159,10 @@
 <link>https://www.businessinsider.com/openai-anthropic-ai-ignore-rule-scraping-web-contect-robotstxt</link>
 <guid>https://www.businessinsider.com/openai-anthropic-ai-ignore-rule-scraping-web-contect-robotstxt</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40759916">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 22 Jun 2024 15:52:27 +0000</pubDate>
-<pubDate>Sat, 22 Jun 2024 15:52:27 +0000</pubDate>
 </item>
-
 <item>
 <title>After my dad died, I ran and sold his company (2018)</title>
 <link>https://anandsanwal.me/2018/06/19/dad-company-sale/</link>
@@ -9022,87 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40623864">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 9 Jun 2024 12:02:19 +0000</pubDate>
-</item>
-<item>
-<title>Sending Emails to my three-year-old</title>
-<link>https://blog.haschek.at/2024/leaving-a-digital-legacy.html</link>
-<guid>https://blog.haschek.at/2024/leaving-a-digital-legacy.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40632745">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 12:14:56 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Probabilistic Tic-Tac-Toe</title>
-<link>https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html</link>
-<guid>https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40635397">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 16:40:05 +0000</pubDate>
-</item>
-<item>
-<title>Apple Debuts VisionOS 2</title>
-<link>https://techcrunch.com/2024/06/10/apple-debuts-visionos-2/</link>
-<guid>https://techcrunch.com/2024/06/10/apple-debuts-visionos-2/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40635749">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 17:15:05 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI Welcomes Sarah Friar (CFO) and Kevin Weil (CPO)</title>
-<link>https://openai.com/index/openai-welcomes-cfo-cpo/</link>
-<guid>https://openai.com/index/openai-welcomes-cfo-cpo/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40635959">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 17:34:38 +0000</pubDate>
-</item>
-<item>
-<title>Brainbase (YC W24) Is Hiring Head of Product</title>
-<link>https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product</link>
-<guid>https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40635628">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 17:01:58 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Thread – AI-powered Jupyter Notebook built using React</title>
-<link>https://github.com/squaredtechnologies/thread</link>
-<guid>https://github.com/squaredtechnologies/thread</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40633773">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 13:59:22 +0000</pubDate>
-</item>
-<item>
-<title>`Bytes`: The Lesser-Known Python Built-In Sequence</title>
-<link>https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding</link>
-<guid>https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40616752">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 10:56:52 +0000</pubDate>
-</item>
-<item>
-<title>Apple unveils iOS 18 with new home screen &amp; Control Center</title>
-<link>https://9to5mac.com/2024/06/10/ios-18-new-features-launch-release-date/</link>
-<guid>https://9to5mac.com/2024/06/10/ios-18-new-features-launch-release-date/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40635906">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 17:29:26 +0000</pubDate>
-</item>
-<item>
-<title>XScreenSaver is available on Android. Google requires a privacy policy</title>
-<link>https://chaos.social/@scy/112591102162587559</link>
-<guid>https://chaos.social/@scy/112591102162587559</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40634823">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 15:46:14 +0000</pubDate>
 </item>
 </channel>
 </rss>
