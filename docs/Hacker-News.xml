@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Own Constant Folder in C/C++</title>
+<link>https://www.neilhenning.dev/posts/yourownconstantfolder/</link>
+<guid>https://www.neilhenning.dev/posts/yourownconstantfolder/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757787">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 10:07:05 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 10:07:05 +0000</pubDate>
+</item>
+<item>
+<title>PermitFlow (YC W22) Is Hiring Software Engineers in NYC</title>
+<link>https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808</link>
+<guid>https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40758415">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 12:00:39 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 12:00:39 +0000</pubDate>
+</item>
+<item>
+<title>Reconstructing Public Keys from Signatures</title>
+<link>https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/</link>
+<guid>https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40738534">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 13:25:52 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 13:25:52 +0000</pubDate>
+</item>
+<item>
+<title>Why Steve Jobs Went 'Thermonuclear' over Android (2014)</title>
+<link>https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android</link>
+<guid>https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757655">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 09:33:08 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 09:33:08 +0000</pubDate>
+</item>
+<item>
+<title>The First Spatial Computing Hack</title>
+<link>https://www.ryanpickren.com/vision-pro-hack</link>
+<guid>https://www.ryanpickren.com/vision-pro-hack</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757484">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 08:48:41 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 08:48:41 +0000</pubDate>
+</item>
+<item>
+<title>Mr: Apple Intelligence Features Not Coming to EU at Launch Due to DMA</title>
+<link>https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/</link>
+<guid>https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40758160">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 11:21:31 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 11:21:31 +0000</pubDate>
+</item>
+
+<item>
 <title>Why Swift's type checker is so slow</title>
 <link>https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8</link>
 <guid>https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40757411">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 08:28:52 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 08:28:52 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://www.goto10retro.com/p/atari-520st-review-in-creative-computing</link>
 <guid>https://www.goto10retro.com/p/atari-520st-review-in-creative-computing</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40740602">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 16:38:29 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 16:38:29 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://www.eetimes.com/intel-3-represents-an-intel-foundry-milestone/</link>
 <guid>https://www.eetimes.com/intel-3-represents-an-intel-foundry-milestone/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40730153">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 17:06:04 +0000</pubDate>
 <pubDate>Wed, 19 Jun 2024 17:06:04 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +103,10 @@
 <link>https://sunsetglow.net/posts/frontend-build-systems.html</link>
 <guid>https://sunsetglow.net/posts/frontend-build-systems.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40756744">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 22 Jun 2024 06:09:59 +0000</pubDate>
-<pubDate>Sat, 22 Jun 2024 06:09:59 +0000</pubDate>
 </item>
-
 <item>
 <title>Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)</title>
 <link>https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&amp;lever-source%5B%5D=yc</link>
@@ -9012,42 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40634461">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 15:09:13 +0000</pubDate>
-</item>
-<item>
-<title>Gainax, known for 'Evangelion' anime production, goes bankrupt</title>
-<link>https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/</link>
-<guid>https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40634465">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 15:09:22 +0000</pubDate>
-</item>
-<item>
-<title>How cheap, outsourced labour in Africa is shaping AI English</title>
-<link>https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt</link>
-<guid>https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40623629">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 11:08:09 +0000</pubDate>
-</item>
-<item>
-<title>23words.com</title>
-<link>https://23words.com</link>
-<guid>https://23words.com</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40634042">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 14:30:27 +0000</pubDate>
-</item>
-<item>
-<title>The U.S. Economy Reaches Superstar Status</title>
-<link>https://www.theatlantic.com/ideas/archive/2024/06/us-economy-excellent/678630/</link>
-<guid>https://www.theatlantic.com/ideas/archive/2024/06/us-economy-excellent/678630/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40634165">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 14:42:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
