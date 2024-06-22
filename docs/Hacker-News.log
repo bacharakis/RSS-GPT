@@ -15442,3 +15442,54 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Show HN: I made tool that let's you see everything about any website](https://v1.web-check.xyz/)
 append_entries: 8
 Finish: 2024-06-22 20:02:19.895629
+------------------------------------------------------
+Started: 2024-06-22 22:01:58.749670
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [HH70, the first high-temperature superconducting Tokamak achieves first plasma](https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The biggest CRT ever made: Sony's PVM-4300 – The Silicon Underground](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Waymo the Leapfrog](https://loeber.substack.com/p/20-waymo-the-leapfrog)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Solar generates fifth of global electricity on summer solstice midday peak](https://ember-climate.org/insights/in-brief/the-global-solar-revolution/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Babylon's Mystery Goddess](https://www.historytoday.com/archive/great-debates/babylons-mystery-goddess)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Era of the Line Cook](https://www.newyorker.com/magazine/2024/06/24/the-era-of-the-line-cook)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Uh-Oh: A story of SpaghettiOs and forgotten history](https://snackstack.net/2024/05/25/uh-oh-a-story-of-spaghettios-and-forgotten-history/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Can men live without war? (1956)](https://www.theatlantic.com/past/docs/issues/56feb/5602bush.htm)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [New heroes of spaceflight: Not the astronauts but the software nerds](https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [So long, and thanks for all the fish: Leaving the Nix community](https://discourse.nixos.org/t/so-long-and-thanks-for-all-the-fish/47384)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Store Text in Minesweeper](https://sdk.scroll.pub/treeComponentFramework/sweepercraft/)
+append_entries: 15
+Finish: 2024-06-22 22:02:01.913935
