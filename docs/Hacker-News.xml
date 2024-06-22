@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Farm: Fast vite compatible build tool written in Rust</title>
+<link>https://www.farmfe.org/</link>
+<guid>https://www.farmfe.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40756034">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 03:34:39 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 03:34:39 +0000</pubDate>
+</item>
+<item>
+<title>A Forth Story (1995)</title>
+<link>https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4</link>
+<guid>https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40755688">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 02:26:14 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 02:26:14 +0000</pubDate>
+</item>
+<item>
+<title>OWASP Juice Shop: Hacking a Modern Web Application</title>
+<link>https://blog.javascripttoday.com/blog/hacking-a-web-application/</link>
+<guid>https://blog.javascripttoday.com/blog/hacking-a-web-application/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40755528">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 01:48:52 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 01:48:52 +0000</pubDate>
+</item>
+<item>
+<title>NASA indefinitely delays return of Starliner to review propulsion data</title>
+<link>https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/</link>
+<guid>https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40755969">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 03:17:30 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 03:17:30 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Primeval Numbers</title>
+<link>https://aravind.rs/numbers</link>
+<guid>https://aravind.rs/numbers</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40738739">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 13:46:33 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 13:46:33 +0000</pubDate>
+</item>
+<item>
+<title>Researchers describe how to tell if ChatGPT is confabulating</title>
+<link>https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/</link>
+<guid>https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40755563">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 01:57:18 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 01:57:18 +0000</pubDate>
+</item>
+<item>
+<title>An Introduction to Sleep Obfuscation for Malware (2023)</title>
+<link>https://dtsec.us/2023-04-24-Sleep/</link>
+<guid>https://dtsec.us/2023-04-24-Sleep/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40713595">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 18 Jun 2024 02:45:57 +0000</pubDate>
+<pubDate>Tue, 18 Jun 2024 02:45:57 +0000</pubDate>
+</item>
+
+<item>
 <title>Using Stockfish to identify ideal squares</title>
 <link>https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP</link>
 <guid>https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40746144">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 04:25:36 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 04:25:36 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://www.seagate.com/innovation/multi-actuator-hard-drives/</link>
 <guid>https://www.seagate.com/innovation/multi-actuator-hard-drives/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40754982">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 23:41:22 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 23:41:22 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +105,10 @@
 <link>https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/</link>
 <guid>https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40755444">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 22 Jun 2024 01:29:24 +0000</pubDate>
-<pubDate>Sat, 22 Jun 2024 01:29:24 +0000</pubDate>
 </item>
-
 <item>
 <title>Internet Archive forced to remove 500k books after publishers' court win</title>
 <link>https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/</link>
@@ -9010,33 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40631558">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 09:02:22 +0000</pubDate>
-</item>
-<item>
-<title>The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]</title>
-<link>https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf</link>
-<guid>https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40630699">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 06:10:11 +0000</pubDate>
-</item>
-<item>
-<title>When (if ever) did the Sun set on the British Empire?</title>
-<link>https://what-if.xkcd.com/48/</link>
-<guid>https://what-if.xkcd.com/48/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631309">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 08:12:08 +0000</pubDate>
-</item>
-<item>
-<title>Perl v5.40.0 is now available</title>
-<link>https://perldoc.perl.org/perldelta</link>
-<guid>https://perldoc.perl.org/perldelta</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631350">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 08:22:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
