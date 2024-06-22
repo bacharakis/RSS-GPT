@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>After my dad died, I ran and sold his company (2018)</title>
+<link>https://anandsanwal.me/2018/06/19/dad-company-sale/</link>
+<guid>https://anandsanwal.me/2018/06/19/dad-company-sale/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40758767">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 12:49:18 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 12:49:18 +0000</pubDate>
+</item>
+<item>
+<title>Curating my corner of the Internet with a freehand web editor</title>
+<link>https://rafichaudhury.com/site/blog/Freehand-Web</link>
+<guid>https://rafichaudhury.com/site/blog/Freehand-Web</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40739356">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 14:48:29 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 14:48:29 +0000</pubDate>
+</item>
+
+<item>
 <title>Own Constant Folder in C/C++</title>
 <link>https://www.neilhenning.dev/posts/yourownconstantfolder/</link>
 <guid>https://www.neilhenning.dev/posts/yourownconstantfolder/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40757787">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 10:07:05 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 10:07:05 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808</link>
 <guid>https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40758415">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 12:00:39 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 12:00:39 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/</link>
 <guid>https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40738534">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 13:25:52 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 13:25:52 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +59,8 @@
 <link>https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android</link>
 <guid>https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40757655">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 09:33:08 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 09:33:08 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +68,8 @@
 <link>https://www.ryanpickren.com/vision-pro-hack</link>
 <guid>https://www.ryanpickren.com/vision-pro-hack</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40757484">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 08:48:41 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 08:48:41 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +77,10 @@
 <link>https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/</link>
 <guid>https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40758160">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 22 Jun 2024 11:21:31 +0000</pubDate>
-<pubDate>Sat, 22 Jun 2024 11:21:31 +0000</pubDate>
 </item>
-
 <item>
 <title>Why Swift's type checker is so slow</title>
 <link>https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8</link>
@@ -9016,60 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40635092">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 16:09:26 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Crawl a modern website to a zip, serve the website from the zip</title>
-<link>https://github.com/potahtml/mpa-archive</link>
-<guid>https://github.com/potahtml/mpa-archive</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40632533">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 11:47:00 +0000</pubDate>
-</item>
-<item>
-<title>Why Triplebyte Failed</title>
-<link>https://www.otherbranch.com/blog/why-triplebyte-failed</link>
-<guid>https://www.otherbranch.com/blog/why-triplebyte-failed</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40634774">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 15:42:33 +0000</pubDate>
-</item>
-<item>
-<title>Evidence for transient morning water frost on the Tharsis volcanoes of Mars</title>
-<link>https://www.nature.com/articles/s41561-024-01457-7</link>
-<guid>https://www.nature.com/articles/s41561-024-01457-7</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40635512">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 16:52:57 +0000</pubDate>
-</item>
-<item>
-<title>Mexican Computers: A Brief Technical and Historical Overview</title>
-<link>https://arxiv.org/abs/2406.04912</link>
-<guid>https://arxiv.org/abs/2406.04912</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40633902">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 14:14:24 +0000</pubDate>
-</item>
-<item>
-<title>IRS makes Direct File a permanent option to file federal tax returns</title>
-<link>https://www.irs.gov/newsroom/irs-makes-direct-file-a-permanent-option-to-file-federal-tax-returns-expanded-access-for-more-taxpayers-planned-for-the-2025-filing-season</link>
-<guid>https://www.irs.gov/newsroom/irs-makes-direct-file-a-permanent-option-to-file-federal-tax-returns-expanded-access-for-more-taxpayers-planned-for-the-2025-filing-season</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40634539">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 15:17:12 +0000</pubDate>
-</item>
-<item>
-<title>NetBSD 10 on a Pinebook Pro laptop</title>
-<link>https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html</link>
-<guid>https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40634461">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 15:09:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
