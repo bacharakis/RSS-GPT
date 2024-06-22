@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)</title>
+<link>https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&amp;lever-source%5B%5D=yc</link>
+<guid>https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&amp;lever-source%5B%5D=yc</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757017">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 07:00:19 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 07:00:19 +0000</pubDate>
+</item>
+<item>
+<title>RuneLite – open-source RuneScape Client</title>
+<link>https://runelite.net/</link>
+<guid>https://runelite.net/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40739789">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 15:25:20 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 15:25:20 +0000</pubDate>
+</item>
+
+<item>
 <title>Language is primarily a tool for communication rather than thought [pdf]</title>
 <link>https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf</link>
 <guid>https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40756176">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 04:04:22 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 04:04:22 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/</link>
 <guid>https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40737226">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 11:00:27 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 11:00:27 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://lwn.net/Articles/978010/</link>
 <guid>https://lwn.net/Articles/978010/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40741833">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 18:42:44 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 18:42:44 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +59,10 @@
 <link>https://www.theatlantic.com/health/archive/2024/06/olive-oil-canola-cooking/678761/</link>
 <guid>https://www.theatlantic.com/health/archive/2024/06/olive-oil-canola-cooking/678761/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40756441">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 22 Jun 2024 05:09:58 +0000</pubDate>
-<pubDate>Sat, 22 Jun 2024 05:09:58 +0000</pubDate>
 </item>
-
 <item>
 <title>Farm: Fast vite compatible build tool written in Rust</title>
 <link>https://www.farmfe.org/</link>
@@ -9012,42 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40634151">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 14:41:30 +0000</pubDate>
-</item>
-<item>
-<title>Omakub – Opinionated Ubuntu Setup</title>
-<link>https://github.com/basecamp/omakub</link>
-<guid>https://github.com/basecamp/omakub</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40630174">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 04:31:59 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Markdown HN profiles at {user}.at.hn</title>
-<link>https://at.hn</link>
-<guid>https://at.hn</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40632773">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 12:19:46 +0000</pubDate>
-</item>
-<item>
-<title>PiDP-10 – a modern replica of the PDP-10</title>
-<link>https://obsolescence.dev/pidp10.html</link>
-<guid>https://obsolescence.dev/pidp10.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40622671">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 07:31:41 +0000</pubDate>
-</item>
-<item>
-<title>"How people fall apart": The Neuroscience of Burnout</title>
-<link>https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/</link>
-<guid>https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631663">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 09:22:40 +0000</pubDate>
 </item>
 </channel>
 </rss>
