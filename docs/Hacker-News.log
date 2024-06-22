@@ -15298,3 +15298,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [RuneLite – open-source RuneScape Client](https://runelite.net/)
 append_entries: 2
 Finish: 2024-06-22 08:08:48.414138
+------------------------------------------------------
+Started: 2024-06-22 10:08:12.415983
+Existing_entries: 1002
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why Swift's type checker is so slow](https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Atari 520ST Review in Creative Computing – By Paul Lefebvre](https://www.goto10retro.com/p/atari-520st-review-in-creative-computing)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Intel 3 Represents an Intel Foundry Milestone](https://www.eetimes.com/intel-3-represents-an-intel-foundry-milestone/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Exposition of Front End Build Systems](https://sunsetglow.net/posts/frontend-build-systems.html)
+append_entries: 4
+Finish: 2024-06-22 10:08:13.600711

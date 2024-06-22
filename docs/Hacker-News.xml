@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Why Swift's type checker is so slow</title>
+<link>https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8</link>
+<guid>https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757411">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 08:28:52 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 08:28:52 +0000</pubDate>
+</item>
+<item>
+<title>Atari 520ST Review in Creative Computing – By Paul Lefebvre</title>
+<link>https://www.goto10retro.com/p/atari-520st-review-in-creative-computing</link>
+<guid>https://www.goto10retro.com/p/atari-520st-review-in-creative-computing</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40740602">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 16:38:29 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 16:38:29 +0000</pubDate>
+</item>
+<item>
+<title>Intel 3 Represents an Intel Foundry Milestone</title>
+<link>https://www.eetimes.com/intel-3-represents-an-intel-foundry-milestone/</link>
+<guid>https://www.eetimes.com/intel-3-represents-an-intel-foundry-milestone/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40730153">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 19 Jun 2024 17:06:04 +0000</pubDate>
+<pubDate>Wed, 19 Jun 2024 17:06:04 +0000</pubDate>
+</item>
+<item>
+<title>Exposition of Front End Build Systems</title>
+<link>https://sunsetglow.net/posts/frontend-build-systems.html</link>
+<guid>https://sunsetglow.net/posts/frontend-build-systems.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40756744">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 06:09:59 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 06:09:59 +0000</pubDate>
+</item>
+
+<item>
 <title>Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)</title>
 <link>https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&amp;lever-source%5B%5D=yc</link>
 <guid>https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&amp;lever-source%5B%5D=yc</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40757017">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 07:00:19 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 07:00:19 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +63,10 @@
 <link>https://runelite.net/</link>
 <guid>https://runelite.net/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40739789">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 20 Jun 2024 15:25:20 +0000</pubDate>
-<pubDate>Thu, 20 Jun 2024 15:25:20 +0000</pubDate>
 </item>
-
 <item>
 <title>Language is primarily a tool for communication rather than thought [pdf]</title>
 <link>https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf</link>
@@ -9008,24 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40634165">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 14:42:43 +0000</pubDate>
-</item>
-<item>
-<title>MOOC – free courses from University of Helsinki</title>
-<link>https://www.mooc.fi/en/</link>
-<guid>https://www.mooc.fi/en/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631233">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 07:56:00 +0000</pubDate>
-</item>
-<item>
-<title>Tuxedo Developing a Snapdragon X Elite Linux Laptop</title>
-<link>https://www.phoronix.com/news/TUXEDO-Snapdragon-X-Elite</link>
-<guid>https://www.phoronix.com/news/TUXEDO-Snapdragon-X-Elite</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40634151">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 14:41:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
