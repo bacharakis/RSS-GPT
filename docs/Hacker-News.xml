@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>AWS Lambda Web Adapter</title>
+<link>https://github.com/awslabs/aws-lambda-web-adapter</link>
+<guid>https://github.com/awslabs/aws-lambda-web-adapter</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40760858">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 18:01:45 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 18:01:45 +0000</pubDate>
+</item>
+<item>
+<title>An Anatomy of Algorithm Aversion</title>
+<link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492</link>
+<guid>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40760962">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 18:14:42 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 18:14:42 +0000</pubDate>
+</item>
+<item>
+<title>Pi Gazing is a project to build meteor cameras using Raspberry Pi</title>
+<link>https://pigazing.dcford.org.uk/</link>
+<guid>https://pigazing.dcford.org.uk/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40760320">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 16:44:44 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 16:44:44 +0000</pubDate>
+</item>
+<item>
+<title>Greece introduces the six day work week</title>
+<link>https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050</link>
+<guid>https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40761505">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 19:30:32 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 19:30:32 +0000</pubDate>
+</item>
+<item>
+<title>AI is exhausting the power grid. Tech firms are seeking a miracle solution</title>
+<link>https://www.msn.com/en-us/money/technology/ai-is-exhausting-the-power-grid-tech-firms-are-seeking-a-miracle-solution/ar-BB1oDl5z</link>
+<guid>https://www.msn.com/en-us/money/technology/ai-is-exhausting-the-power-grid-tech-firms-are-seeking-a-miracle-solution/ar-BB1oDl5z</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40761606">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 19:45:38 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 19:45:38 +0000</pubDate>
+</item>
+<item>
+<title>Scientists unlock secrets of how the third form of life makes energy</title>
+<link>https://phys.org/news/2024-06-scientists-secrets-life-energy.html</link>
+<guid>https://phys.org/news/2024-06-scientists-secrets-life-energy.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40709434">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 17 Jun 2024 18:43:43 +0000</pubDate>
+<pubDate>Mon, 17 Jun 2024 18:43:43 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: Advice for Leading a Software Migration?</title>
+<link>https://news.ycombinator.com/item?id=40757486</link>
+<guid>https://news.ycombinator.com/item?id=40757486</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757486">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 08:49:04 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 08:49:04 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: I made tool that let's you see everything about any website</title>
+<link>https://v1.web-check.xyz/</link>
+<guid>https://v1.web-check.xyz/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757951">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 10:43:47 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 10:43:47 +0000</pubDate>
+</item>
+
+<item>
 <title>GitHub Trending RSS</title>
 <link>https://mshibanami.github.io/GitHubTrendingRSS/</link>
 <guid>https://mshibanami.github.io/GitHubTrendingRSS/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40760552">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 17:19:36 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 17:19:36 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://vu.nl/en/news/2024/andrew-s-tanenbaum-receives-acm-software-system-award</link>
 <guid>https://vu.nl/en/news/2024/andrew-s-tanenbaum-receives-acm-software-system-award</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40759277">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 14:12:02 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 14:12:02 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/</link>
 <guid>https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40760687">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 17:36:39 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 17:36:39 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html</link>
 <guid>https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40736174">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 08:05:13 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 08:05:13 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://pluralistic.net/2024/06/21/off-the-menu/</link>
 <guid>https://pluralistic.net/2024/06/21/off-the-menu/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40760042">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 16:08:08 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 16:08:08 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra</link>
 <guid>https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40760433">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 17:00:58 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 17:00:58 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +152,10 @@
 <link>https://www.fastcompany.com/91142992/this-impossibly-thin-fabric-could-cool-you-down-by-16-degrees</link>
 <guid>https://www.fastcompany.com/91142992/this-impossibly-thin-fabric-could-cool-you-down-by-16-degrees</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40760037">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 22 Jun 2024 16:07:29 +0000</pubDate>
-<pubDate>Sat, 22 Jun 2024 16:07:29 +0000</pubDate>
 </item>
-
 <item>
 <title>HybridNeRF: Efficient Neural Rendering</title>
 <link>https://haithemturki.com/hybrid-nerf/</link>
@@ -9018,69 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40636854">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 18:49:07 +0000</pubDate>
-</item>
-<item>
-<title>Apple blocks PC emulator in iOS App Store and third-party app stores</title>
-<link>https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/</link>
-<guid>https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40636331">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 18:07:24 +0000</pubDate>
-</item>
-<item>
-<title>Introducing Apple Intelligence, the personal intelligence system</title>
-<link>https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/</link>
-<guid>https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40636844">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 18:48:47 +0000</pubDate>
-</item>
-<item>
-<title>Apple is launching its own password manager app</title>
-<link>https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/</link>
-<guid>https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40636502">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 18:23:05 +0000</pubDate>
-</item>
-<item>
-<title>pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico</title>
-<link>https://github.com/visrealm/pico9918</link>
-<guid>https://github.com/visrealm/pico9918</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40635697">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 17:09:52 +0000</pubDate>
-</item>
-<item>
-<title>How Two Rebel Physicists Changed Quantum Theory</title>
-<link>https://daily.jstor.org/how-two-rebel-physicists-changed-quantum-theory/</link>
-<guid>https://daily.jstor.org/how-two-rebel-physicists-changed-quantum-theory/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40635789">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 17:18:43 +0000</pubDate>
-</item>
-<item>
-<title>From Steampunk to Solarpunk (2008)</title>
-<link>http://republicofthebees.blogspot.com/2008/04/from-steampunk-to-solarpunk.html</link>
-<guid>http://republicofthebees.blogspot.com/2008/04/from-steampunk-to-solarpunk.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40622999">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 09:00:33 +0000</pubDate>
-</item>
-<item>
-<title>I built an ROV to solve missing person cases</title>
-<link>https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/</link>
-<guid>https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40623864">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 12:02:19 +0000</pubDate>
 </item>
 </channel>
 </rss>
