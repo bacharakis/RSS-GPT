@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Language is primarily a tool for communication rather than thought [pdf]</title>
+<link>https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf</link>
+<guid>https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40756176">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 04:04:22 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 04:04:22 +0000</pubDate>
+</item>
+<item>
+<title>20x Faster Background Removal in the Browser Using ONNX Runtime with WebGPU</title>
+<link>https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/</link>
+<guid>https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40737226">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 11:00:27 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 11:00:27 +0000</pubDate>
+</item>
+<item>
+<title>Memory sealing for the GNU C Library</title>
+<link>https://lwn.net/Articles/978010/</link>
+<guid>https://lwn.net/Articles/978010/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40741833">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 18:42:44 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 18:42:44 +0000</pubDate>
+</item>
+<item>
+<title>Americans Have Lost the Plot on Cooking Oil</title>
+<link>https://www.theatlantic.com/health/archive/2024/06/olive-oil-canola-cooking/678761/</link>
+<guid>https://www.theatlantic.com/health/archive/2024/06/olive-oil-canola-cooking/678761/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40756441">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 05:09:58 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 05:09:58 +0000</pubDate>
+</item>
+
+<item>
 <title>Farm: Fast vite compatible build tool written in Rust</title>
 <link>https://www.farmfe.org/</link>
 <guid>https://www.farmfe.org/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40756034">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 03:34:39 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 03:34:39 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4</link>
 <guid>https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40755688">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 02:26:14 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 02:26:14 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://blog.javascripttoday.com/blog/hacking-a-web-application/</link>
 <guid>https://blog.javascripttoday.com/blog/hacking-a-web-application/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40755528">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 01:48:52 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 01:48:52 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/</link>
 <guid>https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40755969">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 03:17:30 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 03:17:30 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +90,8 @@
 <link>https://aravind.rs/numbers</link>
 <guid>https://aravind.rs/numbers</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40738739">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 13:46:33 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 13:46:33 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +99,8 @@
 <link>https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/</link>
 <guid>https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40755563">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 01:57:18 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 01:57:18 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +108,10 @@
 <link>https://dtsec.us/2023-04-24-Sleep/</link>
 <guid>https://dtsec.us/2023-04-24-Sleep/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40713595">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 02:45:57 +0000</pubDate>
-<pubDate>Tue, 18 Jun 2024 02:45:57 +0000</pubDate>
 </item>
-
 <item>
 <title>Using Stockfish to identify ideal squares</title>
 <link>https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP</link>
@@ -9018,69 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40631663">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 09:22:40 +0000</pubDate>
-</item>
-<item>
-<title>Meticulous (YC S21) is hiring to eliminate UI E2E tests</title>
-<link>https://news.ycombinator.com/item?id=40632641</link>
-<guid>https://news.ycombinator.com/item?id=40632641</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40632641">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 12:00:20 +0000</pubDate>
-</item>
-<item>
-<title>Scratchapixel 4.0, Learn Computer Graphics Programming</title>
-<link>https://www.scratchapixel.com/index.html</link>
-<guid>https://www.scratchapixel.com/index.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40622209">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 05:14:51 +0000</pubDate>
-</item>
-<item>
-<title>Fingerprinting VPNs with Custom Router Firmware [pdf]</title>
-<link>https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf</link>
-<guid>https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40623497">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 9 Jun 2024 10:40:27 +0000</pubDate>
-</item>
-<item>
-<title>First detection of negative ions on the Moon</title>
-<link>https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon</link>
-<guid>https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40632027">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 10:27:56 +0000</pubDate>
-</item>
-<item>
-<title>Elsevier embeds a hash in the PDF metadata that is unique for each download</title>
-<link>https://social.coop/@jonny/107685726645817029</link>
-<guid>https://social.coop/@jonny/107685726645817029</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631370">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 08:26:52 +0000</pubDate>
-</item>
-<item>
-<title>WebKit fix: Quirk news.ycombinator to skip TextAutoSizing</title>
-<link>https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3</link>
-<guid>https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631439">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 08:38:42 +0000</pubDate>
-</item>
-<item>
-<title>Robot Programming: Stop Designing Software for Non-Roboticists</title>
-<link>https://spectrum.ieee.org/the-mythical-non-roboticist</link>
-<guid>https://spectrum.ieee.org/the-mythical-non-roboticist</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631558">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 09:02:22 +0000</pubDate>
 </item>
 </channel>
 </rss>
