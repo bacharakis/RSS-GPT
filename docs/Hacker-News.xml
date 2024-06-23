@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Delving into ChatGPT usage in academic writing through excess vocabulary</title>
+<link>https://arxiv.org/abs/2406.07016</link>
+<guid>https://arxiv.org/abs/2406.07016</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40763133">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 23:18:29 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 23:18:29 +0000</pubDate>
+</item>
+<item>
+<title>Daily Automated Testing for Milk-V Duo S RISC-V SBC (IKEA Tretakt, Apache NuttX)</title>
+<link>https://lupyuen.codeberg.page/articles/sg2000a.html</link>
+<guid>https://lupyuen.codeberg.page/articles/sg2000a.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40762739">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 22:21:45 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 22:21:45 +0000</pubDate>
+</item>
+<item>
+<title>Costco Broke into a Surprising New Market: Modular Housing</title>
+<link>https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing</link>
+<guid>https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40762840">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 22:36:34 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 22:36:34 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Online OPML editor to manage subscription lists</title>
+<link>https://github.com/imdj/opml-editor</link>
+<guid>https://github.com/imdj/opml-editor</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40749279">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 21 Jun 2024 13:13:39 +0000</pubDate>
+<pubDate>Fri, 21 Jun 2024 13:13:39 +0000</pubDate>
+</item>
+<item>
+<title>Reference Counting with Linear Types</title>
+<link>https://github.com/alt-romes/reference-counting</link>
+<guid>https://github.com/alt-romes/reference-counting</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40744910">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 21 Jun 2024 00:19:23 +0000</pubDate>
+<pubDate>Fri, 21 Jun 2024 00:19:23 +0000</pubDate>
+</item>
+<item>
+<title>SSH as a Sudo Replacement</title>
+<link>https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/</link>
+<guid>https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40763117">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 23:14:59 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 23:14:59 +0000</pubDate>
+</item>
+<item>
+<title>Leachim – 4th grade teaching robot</title>
+<link>https://en.wikipedia.org/wiki/Leachim_(Robot)</link>
+<guid>https://en.wikipedia.org/wiki/Leachim_(Robot)</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40745332">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 21 Jun 2024 01:37:57 +0000</pubDate>
+<pubDate>Fri, 21 Jun 2024 01:37:57 +0000</pubDate>
+</item>
+
+<item>
 <title>HH70, the first high-temperature superconducting Tokamak achieves first plasma</title>
 <link>https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/</link>
 <guid>https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40761713">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 20:01:41 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 20:01:41 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/</link>
 <guid>https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40754471">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 22:22:07 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 22:22:07 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6</link>
 <guid>https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40762433">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 21:38:18 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 21:38:18 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://loeber.substack.com/p/20-waymo-the-leapfrog</link>
 <guid>https://loeber.substack.com/p/20-waymo-the-leapfrog</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40762319">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 21:20:32 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 21:20:32 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +123,8 @@
 <link>https://ember-climate.org/insights/in-brief/the-global-solar-revolution/</link>
 <guid>https://ember-climate.org/insights/in-brief/the-global-solar-revolution/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40761837">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 20:18:23 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 20:18:23 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +132,8 @@
 <link>https://www.workatastartup.com/jobs/51266</link>
 <guid>https://www.workatastartup.com/jobs/51266</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40762177">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 21:01:00 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 21:01:00 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +141,8 @@
 <link>https://www.historytoday.com/archive/great-debates/babylons-mystery-goddess</link>
 <guid>https://www.historytoday.com/archive/great-debates/babylons-mystery-goddess</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40751496">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 17:01:56 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 17:01:56 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +150,8 @@
 <link>https://www.newyorker.com/magazine/2024/06/24/the-era-of-the-line-cook</link>
 <guid>https://www.newyorker.com/magazine/2024/06/24/the-era-of-the-line-cook</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40742821">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 20:11:41 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 20:11:41 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +159,8 @@
 <link>https://snackstack.net/2024/05/25/uh-oh-a-story-of-spaghettios-and-forgotten-history/</link>
 <guid>https://snackstack.net/2024/05/25/uh-oh-a-story-of-spaghettios-and-forgotten-history/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40753468">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 20:28:31 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 20:28:31 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +168,8 @@
 <link>https://cognate-lang.github.io/learn.html</link>
 <guid>https://cognate-lang.github.io/learn.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40741723">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 18:33:22 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 18:33:22 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +177,8 @@
 <link>https://www.theatlantic.com/past/docs/issues/56feb/5602bush.htm</link>
 <guid>https://www.theatlantic.com/past/docs/issues/56feb/5602bush.htm</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40731667">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 19 Jun 2024 19:35:12 +0000</pubDate>
 <pubDate>Wed, 19 Jun 2024 19:35:12 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +186,8 @@
 <link>https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/</link>
 <guid>https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40754316">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 22:03:10 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 22:03:10 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +195,8 @@
 <link>https://www.journals.uchicago.edu/doi/10.1086/731029</link>
 <guid>https://www.journals.uchicago.edu/doi/10.1086/731029</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40756154">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 03:59:41 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 03:59:41 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +204,8 @@
 <link>https://discourse.nixos.org/t/so-long-and-thanks-for-all-the-fish/47384</link>
 <guid>https://discourse.nixos.org/t/so-long-and-thanks-for-all-the-fish/47384</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40761536">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 19:33:46 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 19:33:46 +0000</pubDate>
 </item>
 <item>
@@ -163,13 +213,10 @@
 <link>https://sdk.scroll.pub/treeComponentFramework/sweepercraft/</link>
 <guid>https://sdk.scroll.pub/treeComponentFramework/sweepercraft/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40741427">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 20 Jun 2024 18:03:42 +0000</pubDate>
-<pubDate>Thu, 20 Jun 2024 18:03:42 +0000</pubDate>
 </item>
-
 <item>
 <title>AWS Lambda Web Adapter</title>
 <link>https://github.com/awslabs/aws-lambda-web-adapter</link>
@@ -9034,141 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40631585">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 10 Jun 2024 09:07:51 +0000</pubDate>
-</item>
-<item>
-<title>Apple's On-Device and Server Foundation Models</title>
-<link>https://machinelearning.apple.com/research/introducing-apple-foundation-models</link>
-<guid>https://machinelearning.apple.com/research/introducing-apple-foundation-models</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40639506">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 21:42:11 +0000</pubDate>
-</item>
-<item>
-<title>Private Cloud Compute: A new frontier for AI privacy in the cloud</title>
-<link>https://security.apple.com/blog/private-cloud-compute/</link>
-<guid>https://security.apple.com/blog/private-cloud-compute/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40639606">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 21:53:07 +0000</pubDate>
-</item>
-<item>
-<title>Anti-Cheat Expert: all your pixels are belong to us</title>
-<link>https://invlpg.dev/post/ace_screenshots/</link>
-<guid>https://invlpg.dev/post/ace_screenshots/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631223">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 07:53:35 +0000</pubDate>
-</item>
-<item>
-<title>Intel pauses work on $25B Israel fab</title>
-<link>https://www.theregister.com/2024/06/10/intel_israeli_fab/</link>
-<guid>https://www.theregister.com/2024/06/10/intel_israeli_fab/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40640499">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 23:26:49 +0000</pubDate>
-</item>
-<item>
-<title>Possible exposure of Earth to dense interstellar medium 2-3M years ago</title>
-<link>https://www.nature.com/articles/s41550-024-02279-8</link>
-<guid>https://www.nature.com/articles/s41550-024-02279-8</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40637785">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 19:39:29 +0000</pubDate>
-</item>
-<item>
-<title>Pyrophone</title>
-<link>https://en.wikipedia.org/wiki/Pyrophone</link>
-<guid>https://en.wikipedia.org/wiki/Pyrophone</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40637374">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 19:13:39 +0000</pubDate>
-</item>
-<item>
-<title>Engage your audience: get to the point, use story structure, force specificity</title>
-<link>https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/</link>
-<guid>https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40639628">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 21:55:13 +0000</pubDate>
-</item>
-<item>
-<title>Wild elephants may have names that other elephants use to call them</title>
-<link>https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names</link>
-<guid>https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40640076">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 22:40:25 +0000</pubDate>
-</item>
-<item>
-<title>New GitHub Organization for the Swift Project</title>
-<link>https://www.swift.org/blog/swiftlang-github/</link>
-<guid>https://www.swift.org/blog/swiftlang-github/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40639137">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 21:10:03 +0000</pubDate>
-</item>
-<item>
-<title>Controversial pesticide research all but vanished from a major conference</title>
-<link>https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/</link>
-<guid>https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40638386">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 20:16:33 +0000</pubDate>
-</item>
-<item>
-<title>The rarest move in chess [video]</title>
-<link>https://www.youtube.com/watch?v=iDnW0WiCqNc</link>
-<guid>https://www.youtube.com/watch?v=iDnW0WiCqNc</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40636883">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 18:50:53 +0000</pubDate>
-</item>
-<item>
-<title>Trieve (YC W24) Is Hiring an DevRel Software Engineer</title>
-<link>https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer</link>
-<guid>https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40639032">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 21:00:43 +0000</pubDate>
-</item>
-<item>
-<title>Deterioration of Local Community a Major Driver of Loss of Play-Based Childhood</title>
-<link>https://www.afterbabel.com/p/community-based-childhood</link>
-<guid>https://www.afterbabel.com/p/community-based-childhood</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40637102">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 19:00:26 +0000</pubDate>
-</item>
-<item>
-<title>In the Ruins of Edward Gibbon's Masterpiece</title>
-<link>https://newrepublic.com/article/181667/ruins-edward-gibbons-masterpiece-mike-duncan</link>
-<guid>https://newrepublic.com/article/181667/ruins-edward-gibbons-masterpiece-mike-duncan</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40605654">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 7 Jun 2024 05:42:30 +0000</pubDate>
-</item>
-<item>
-<title>The New Math of How Large-Scale Order Emerges</title>
-<link>https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/</link>
-<guid>https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40638764">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 20:42:04 +0000</pubDate>
 </item>
 </channel>
 </rss>

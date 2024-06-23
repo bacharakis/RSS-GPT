@@ -15493,3 +15493,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Show HN: Store Text in Minesweeper](https://sdk.scroll.pub/treeComponentFramework/sweepercraft/)
 append_entries: 15
 Finish: 2024-06-22 22:02:01.913935
+------------------------------------------------------
+Started: 2024-06-23 00:32:18.437603
+Existing_entries: 1015
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Daily Automated Testing for Milk-V Duo S RISC-V SBC (IKEA Tretakt, Apache NuttX)](https://lupyuen.codeberg.page/articles/sg2000a.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Costco Broke into a Surprising New Market: Modular Housing](https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Online OPML editor to manage subscription lists](https://github.com/imdj/opml-editor)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Reference Counting with Linear Types](https://github.com/alt-romes/reference-counting)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Leachim – 4th grade teaching robot](https://en.wikipedia.org/wiki/Leachim_(Robot))
+append_entries: 7
+Finish: 2024-06-23 00:32:20.351304
