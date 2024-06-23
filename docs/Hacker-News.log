@@ -15559,3 +15559,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Schema changes and the Postgres lock queue](https://xata.io/blog/migrations-and-exclusive-locks)
 append_entries: 1
 Finish: 2024-06-23 04:07:19.484177
+------------------------------------------------------
+Started: 2024-06-23 06:08:46.748814
+Existing_entries: 1001
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ECMA-17: Graphical representation of control characters (1968) [pdf]](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
+append_entries: 5
+Finish: 2024-06-23 06:08:47.958419

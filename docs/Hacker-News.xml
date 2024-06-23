@@ -5,17 +5,70 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop</title>
+<link>https://github.com/i365dev/LetterDrop</link>
+<guid>https://github.com/i365dev/LetterDrop</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40764579">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 03:34:44 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 03:34:44 +0000</pubDate>
+</item>
+<item>
+<title>ECMA-17: Graphical representation of control characters (1968) [pdf]</title>
+<link>https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf</link>
+<guid>https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757195">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 07:39:43 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 07:39:43 +0000</pubDate>
+</item>
+<item>
+<title>Flambda2 Ep. 2: Loopifying Tail-Recursive Functions</title>
+<link>https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/</link>
+<guid>https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40744743">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 23:50:21 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 23:50:21 +0000</pubDate>
+</item>
+<item>
+<title>Native American Indian Star Charts</title>
+<link>https://www.californiaindianeducation.org/science_lab/indian_stars.html</link>
+<guid>https://www.californiaindianeducation.org/science_lab/indian_stars.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40764901">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 04:52:38 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 04:52:38 +0000</pubDate>
+</item>
+<item>
+<title>Words you can spell with a calculator</title>
+<link>https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt</link>
+<guid>https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40763931">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 01:41:24 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 01:41:24 +0000</pubDate>
+</item>
+
+<item>
 <title>Schema changes and the Postgres lock queue</title>
 <link>https://xata.io/blog/migrations-and-exclusive-locks</link>
 <guid>https://xata.io/blog/migrations-and-exclusive-locks</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40735092">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 20 Jun 2024 05:04:30 +0000</pubDate>
-<pubDate>Thu, 20 Jun 2024 05:04:30 +0000</pubDate>
 </item>
-
 <item>
 <title>Ruby: A great language for shell scripts</title>
 <link>https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/</link>
@@ -9006,15 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40642328">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 11 Jun 2024 04:26:29 +0000</pubDate>
-</item>
-<item>
-<title>Biodiversity enhances immune regulation among daycare children</title>
-<link>https://www.science.org/doi/10.1126/sciadv.aba2578</link>
-<guid>https://www.science.org/doi/10.1126/sciadv.aba2578</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40641704">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 02:38:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
