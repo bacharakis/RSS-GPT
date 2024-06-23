@@ -15550,3 +15550,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
 append_entries: 8
 Finish: 2024-06-23 02:27:00.876674
+------------------------------------------------------
+Started: 2024-06-23 04:07:18.849647
+Existing_entries: 1008
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Schema changes and the Postgres lock queue](https://xata.io/blog/migrations-and-exclusive-locks)
+append_entries: 1
+Finish: 2024-06-23 04:07:19.484177

@@ -5,14 +5,24 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Schema changes and the Postgres lock queue</title>
+<link>https://xata.io/blog/migrations-and-exclusive-locks</link>
+<guid>https://xata.io/blog/migrations-and-exclusive-locks</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40735092">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 20 Jun 2024 05:04:30 +0000</pubDate>
+<pubDate>Thu, 20 Jun 2024 05:04:30 +0000</pubDate>
+</item>
+
+<item>
 <title>Ruby: A great language for shell scripts</title>
 <link>https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/</link>
 <guid>https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763640">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 00:46:26 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 00:46:26 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins</link>
 <guid>https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763919">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 01:39:33 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 01:39:33 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@
 <link>https://www.open-emr.org/</link>
 <guid>https://www.open-emr.org/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763424">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 00:08:19 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 00:08:19 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +48,8 @@
 <link>https://www.dearnextvisitor.com/</link>
 <guid>https://www.dearnextvisitor.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763405">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 00:04:21 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 00:04:21 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +57,8 @@
 <link>https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/</link>
 <guid>https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763540">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 00:30:50 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 00:30:50 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +66,8 @@
 <link>https://sankalp.bearblog.dev/einsum-new/</link>
 <guid>https://sankalp.bearblog.dev/einsum-new/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40757335">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 08:11:13 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 08:11:13 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +75,8 @@
 <link>https://www.jwz.org/blog/2024/06/mozillas-original-sin/</link>
 <guid>https://www.jwz.org/blog/2024/06/mozillas-original-sin/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763757">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 01:12:01 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 01:12:01 +0000</pubDate>
 </item>
 <item>
@@ -86,13 +84,10 @@
 <link>https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like</link>
 <guid>https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40757775">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 22 Jun 2024 10:03:10 +0000</pubDate>
-<pubDate>Sat, 22 Jun 2024 10:03:10 +0000</pubDate>
 </item>
-
 <item>
 <title>Delving into ChatGPT usage in academic writing through excess vocabulary</title>
 <link>https://arxiv.org/abs/2406.07016</link>
@@ -9020,78 +9015,6 @@
 <a href="https://news.ycombinator.com/item?id=40641704">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 11 Jun 2024 02:38:36 +0000</pubDate>
-</item>
-<item>
-<title>Genes protective during Black Death may now be increasing autoimmune disorders</title>
-<link>https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859</link>
-<guid>https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40641615">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 02:23:50 +0000</pubDate>
-</item>
-<item>
-<title>Wooden bowling arm that bested Australian cricketer in 1909 rebuilt</title>
-<link>https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team</link>
-<guid>https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631573">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 09:04:41 +0000</pubDate>
-</item>
-<item>
-<title>Free Quality SoundFonts (Sf2)</title>
-<link>https://sites.google.com/site/soundfonts4u/</link>
-<guid>https://sites.google.com/site/soundfonts4u/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631796">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 09:47:45 +0000</pubDate>
-</item>
-<item>
-<title>Big Tech's role in enabling link fraud – take 2</title>
-<link>https://eligrey.com/blog/link-fraud/</link>
-<guid>https://eligrey.com/blog/link-fraud/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40639450">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 21:37:18 +0000</pubDate>
-</item>
-<item>
-<title>An Arduino interface for 8088 CPUs</title>
-<link>https://github.com/dbalsom/arduino_8088</link>
-<guid>https://github.com/dbalsom/arduino_8088</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631614">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 09:14:08 +0000</pubDate>
-</item>
-<item>
-<title>Forsp: A Forth+Lisp Hybrid Lambda Calculus Language</title>
-<link>https://xorvoid.com/forsp.html</link>
-<guid>https://xorvoid.com/forsp.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40633003">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 12:47:48 +0000</pubDate>
-</item>
-<item>
-<title>Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye</title>
-<link>https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/</link>
-<guid>https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40641795">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 02:55:17 +0000</pubDate>
-</item>
-<item>
-<title>Noam Chomsky 'no longer able to talk' after 'medical event'</title>
-<link>https://www.independent.co.uk/arts-entertainment/books/news/noam-chomsky-health-update-tributes-b2559831.html</link>
-<guid>https://www.independent.co.uk/arts-entertainment/books/news/noam-chomsky-health-update-tributes-b2559831.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40641361">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 01:39:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
