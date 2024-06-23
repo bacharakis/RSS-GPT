@@ -15580,3 +15580,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 append_entries: 5
 Finish: 2024-06-23 06:08:47.958419
+------------------------------------------------------
+Started: 2024-06-23 08:07:25.809053
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Mozilla's Original Sin](https://mastodon.social/@jwz/112662062948208951)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [visionOS thermally throttles based on how much it hears the fans in the mics](https://twitter.com/ShinyQuagsire/status/1804688365905756564)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Interface Upgrades in Go](http://avtok.com/2014/11/05/interface-upgrades.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Shahed-136 kamikaze drone servomotor [video]](https://www.youtube.com/watch?v=_jKbRdsi8fA)
+append_entries: 7
+Finish: 2024-06-23 08:07:27.706495

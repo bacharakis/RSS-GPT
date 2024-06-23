@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>I've Stopped Using Box Plots. Should You?</title>
+<link>https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/</link>
+<guid>https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40765183">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 06:26:22 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 06:26:22 +0000</pubDate>
+</item>
+<item>
+<title>Richard Stallman, su, and the 'wheel' group (2004)</title>
+<link>https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/</link>
+<guid>https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40765171">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 06:22:05 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 06:22:05 +0000</pubDate>
+</item>
+<item>
+<title>Mozilla's Original Sin</title>
+<link>https://mastodon.social/@jwz/112662062948208951</link>
+<guid>https://mastodon.social/@jwz/112662062948208951</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40765438">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 07:31:08 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 07:31:08 +0000</pubDate>
+</item>
+<item>
+<title>Explained: The secret City of London which is not part of London</title>
+<link>https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/</link>
+<guid>https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40765094">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 05:56:43 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 05:56:43 +0000</pubDate>
+</item>
+<item>
+<title>visionOS thermally throttles based on how much it hears the fans in the mics</title>
+<link>https://twitter.com/ShinyQuagsire/status/1804688365905756564</link>
+<guid>https://twitter.com/ShinyQuagsire/status/1804688365905756564</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40764816">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 04:33:36 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 04:33:36 +0000</pubDate>
+</item>
+<item>
+<title>Interface Upgrades in Go</title>
+<link>http://avtok.com/2014/11/05/interface-upgrades.html</link>
+<guid>http://avtok.com/2014/11/05/interface-upgrades.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40764507">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 03:23:03 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 03:23:03 +0000</pubDate>
+</item>
+<item>
+<title>Shahed-136 kamikaze drone servomotor [video]</title>
+<link>https://www.youtube.com/watch?v=_jKbRdsi8fA</link>
+<guid>https://www.youtube.com/watch?v=_jKbRdsi8fA</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40765430">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 07:29:08 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 07:29:08 +0000</pubDate>
+</item>
+
+<item>
 <title>TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop</title>
 <link>https://github.com/i365dev/LetterDrop</link>
 <guid>https://github.com/i365dev/LetterDrop</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40764579">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 03:34:44 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 03:34:44 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf</link>
 <guid>https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40757195">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 07:39:43 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 07:39:43 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/</link>
 <guid>https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40744743">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 20 Jun 2024 23:50:21 +0000</pubDate>
 <pubDate>Thu, 20 Jun 2024 23:50:21 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://www.californiaindianeducation.org/science_lab/indian_stars.html</link>
 <guid>https://www.californiaindianeducation.org/science_lab/indian_stars.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40764901">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 04:52:38 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 04:52:38 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +123,10 @@
 <link>https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt</link>
 <guid>https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763931">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 23 Jun 2024 01:41:24 +0000</pubDate>
-<pubDate>Sun, 23 Jun 2024 01:41:24 +0000</pubDate>
 </item>
-
 <item>
 <title>Schema changes and the Postgres lock queue</title>
 <link>https://xata.io/blog/migrations-and-exclusive-locks</link>
@@ -9014,51 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40643181">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 11 Jun 2024 06:31:49 +0000</pubDate>
-</item>
-<item>
-<title>POV-Ray – The Persistence of Vision Raytracer</title>
-<link>http://www.povray.org/</link>
-<guid>http://www.povray.org/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40643207">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 06:36:44 +0000</pubDate>
-</item>
-<item>
-<title>Spotify: Droppin' Some Fake Beats</title>
-<link>https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats</link>
-<guid>https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40643071">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 06:18:16 +0000</pubDate>
-</item>
-<item>
-<title>British duo arrested for SMS phishing via homemade cell tower</title>
-<link>https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/</link>
-<guid>https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40642801">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 05:40:13 +0000</pubDate>
-</item>
-<item>
-<title>Policing the Chôra: Law Enforcement in Ptolemaic Egypt (2005) [pdf]</title>
-<link>https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf</link>
-<guid>https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40615002">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 8 Jun 2024 03:15:39 +0000</pubDate>
-</item>
-<item>
-<title>macOS 15.0 supports Nested Virtualization on M3 chips</title>
-<link>https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported</link>
-<guid>https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40642328">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 04:26:29 +0000</pubDate>
 </item>
 </channel>
 </rss>
