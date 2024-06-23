@@ -5,14 +5,134 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>OpenAI is building its local app to subvert the permission system of the web</title>
+<link>https://carllippert.com/permission-is-forever/</link>
+<guid>https://carllippert.com/permission-is-forever/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40769858">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 19:18:41 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 19:18:41 +0000</pubDate>
+</item>
+<item>
+<title>Some fundraisers pay >90% of the funds to themselves</title>
+<link>https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs</link>
+<guid>https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40769607">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 18:45:59 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 18:45:59 +0000</pubDate>
+</item>
+<item>
+<title>Fedora has been shipping with a broken screen reader for nine years</title>
+<link>https://ar.al/2024/06/23/fedora-has-been-shipping-with-a-broken-screen-reader-for-nine-years-but-the-real-problem-is-me/</link>
+<guid>https://ar.al/2024/06/23/fedora-has-been-shipping-with-a-broken-screen-reader-for-nine-years-but-the-real-problem-is-me/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40769879">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 19:20:18 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 19:20:18 +0000</pubDate>
+</item>
+<item>
+<title>Start all of your commands with a comma (2009)</title>
+<link>https://rhodesmill.org/brandon/2009/commands-with-comma/</link>
+<guid>https://rhodesmill.org/brandon/2009/commands-with-comma/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40769362">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 18:12:02 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 18:12:02 +0000</pubDate>
+</item>
+<item>
+<title>Singapore doubles down on lab-grown meat as Silicon Valley backs off</title>
+<link>https://restofworld.org/2024/lab-grown-meat-singapore/</link>
+<guid>https://restofworld.org/2024/lab-grown-meat-singapore/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40769416">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 18:20:22 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 18:20:22 +0000</pubDate>
+</item>
+<item>
+<title>Feral pigeons and the London Pigeon String Foot and Rescue group</title>
+<link>https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons</link>
+<guid>https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757996">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 10:54:14 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 10:54:14 +0000</pubDate>
+</item>
+<item>
+<title>How to run an LLM on your PC, not in the cloud, in less than 10 minutes</title>
+<link>https://www.theregister.com/2024/03/17/ai_pc_local_llm/</link>
+<guid>https://www.theregister.com/2024/03/17/ai_pc_local_llm/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757791">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 10:07:08 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 10:07:08 +0000</pubDate>
+</item>
+<item>
+<title>Review of Linux on Minisforum V3 AMD Ryzen Tablet</title>
+<link>https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/</link>
+<guid>https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40769516">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 18:34:48 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 18:34:48 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: What's the oldest file on your computer?</title>
+<link>https://news.ycombinator.com/item?id=40769541</link>
+<guid>https://news.ycombinator.com/item?id=40769541</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40769541">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 18:38:36 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 18:38:36 +0000</pubDate>
+</item>
+<item>
+<title>Fixing a memory leak of xmlEntityPtr in librsvg</title>
+<link>https://viruta.org/fixing-xml-entity-leak.html</link>
+<guid>https://viruta.org/fixing-xml-entity-leak.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40758618">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 12:28:42 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 12:28:42 +0000</pubDate>
+</item>
+<item>
+<title>"We argue that mitochondria are the processor of the cell" (2022)</title>
+<link>https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4</link>
+<guid>https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40766869">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 12:15:49 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 12:15:49 +0000</pubDate>
+</item>
+
+<item>
 <title>The tiny chip that powers Montreal subway tickets</title>
 <link>http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html</link>
 <guid>http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40769001">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 17:22:52 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 17:22:52 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +140,8 @@
 <link>https://seclists.org/oss-sec/2024/q2/296</link>
 <guid>https://seclists.org/oss-sec/2024/q2/296</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40768225">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 15:38:19 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 15:38:19 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +149,8 @@
 <link>http://uridiumauthor.blogspot.com/2024/06/character-tiling.html</link>
 <guid>http://uridiumauthor.blogspot.com/2024/06/character-tiling.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40766445">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 10:50:29 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 10:50:29 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +158,8 @@
 <link>https://www.easypost.com/careers</link>
 <guid>https://www.easypost.com/careers</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40768838">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 17:00:06 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 17:00:06 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +167,8 @@
 <link>https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/</link>
 <guid>https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40768666">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 16:35:57 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 16:35:57 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +176,8 @@
 <link>https://old.reddit.com/r/rails/comments/1dkcegr/im_switching_from_laravel_to_rails/</link>
 <guid>https://old.reddit.com/r/rails/comments/1dkcegr/im_switching_from_laravel_to_rails/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40769112">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 17:38:13 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 17:38:13 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +185,8 @@
 <link>https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes</link>
 <guid>https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40765014">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 05:26:54 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 05:26:54 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +194,8 @@
 <link>https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron</link>
 <guid>https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40768365">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 16:00:03 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 16:00:03 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +203,8 @@
 <link>https://warontherocks.com/2024/06/batteries-as-a-military-enabler/</link>
 <guid>https://warontherocks.com/2024/06/batteries-as-a-military-enabler/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40768140">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 15:28:03 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 15:28:03 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +212,8 @@
 <link>https://gmic.eu/gmic340/</link>
 <guid>https://gmic.eu/gmic340/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40768448">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 16:11:45 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 16:11:45 +0000</pubDate>
 </item>
 <item>
@@ -119,13 +221,10 @@
 <link>https://arxiv.org/abs/2406.09649</link>
 <guid>https://arxiv.org/abs/2406.09649</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40767529">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 23 Jun 2024 14:02:08 +0000</pubDate>
-<pubDate>Sun, 23 Jun 2024 14:02:08 +0000</pubDate>
 </item>
-
 <item>
 <title>Show HN: I am using AI to drop hats outside my window onto New Yorkers</title>
 <link>https://dropofahat.zone/</link>
@@ -9026,105 +9125,6 @@
 <a href="https://news.ycombinator.com/item?id=40649088">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 11 Jun 2024 17:29:59 +0000</pubDate>
-</item>
-<item>
-<title>Did startup Flow Computing just make CPUs 100x faster?</title>
-<link>https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator</link>
-<guid>https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40650662">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 19:48:05 +0000</pubDate>
-</item>
-<item>
-<title>Federighi says Apple hopes to add Google Gemini and other AI models to iOS 18</title>
-<link>https://9to5mac.com/2024/06/10/craig-federighi-says-apple-hopes-to-add-google-gemini-and-other-ai-models-to-ios-18/</link>
-<guid>https://9to5mac.com/2024/06/10/craig-federighi-says-apple-hopes-to-add-google-gemini-and-other-ai-models-to-ios-18/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40650503">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 19:33:03 +0000</pubDate>
-</item>
-<item>
-<title>Mastercard Launches Its Biometric Retail Payment System in Europe</title>
-<link>https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html</link>
-<guid>https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40649746">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 18:26:14 +0000</pubDate>
-</item>
-<item>
-<title>Polars Pre-release v1.0.0</title>
-<link>https://github.com/pola-rs/polars/releases/tag/py-1.0.0-alpha.1</link>
-<guid>https://github.com/pola-rs/polars/releases/tag/py-1.0.0-alpha.1</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40650181">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 19:07:23 +0000</pubDate>
-</item>
-<item>
-<title>Lynn Conway Has Died</title>
-<link>https://en.wikipedia.org/wiki/Lynn_Conway</link>
-<guid>https://en.wikipedia.org/wiki/Lynn_Conway</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40648470">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 16:44:11 +0000</pubDate>
-</item>
-<item>
-<title>Kia Issues 'Park Outside' Recall for 2020-2024 Telluride Vehicles for Fire Risk</title>
-<link>https://www.nhtsa.gov/press-releases/kia-telluride-recall-fire-risk</link>
-<guid>https://www.nhtsa.gov/press-releases/kia-telluride-recall-fire-risk</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40648673">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 16:56:43 +0000</pubDate>
-</item>
-<item>
-<title>Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech</title>
-<link>https://github.com/coqui-ai/TTS</link>
-<guid>https://github.com/coqui-ai/TTS</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40648193">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 16:25:16 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Revideo – Create Videos with Code</title>
-<link>https://github.com/redotvideo/revideo</link>
-<guid>https://github.com/redotvideo/revideo</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40646741">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 14:43:31 +0000</pubDate>
-</item>
-<item>
-<title>Demystifying NPUs: Questions and Answers</title>
-<link>https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers</link>
-<guid>https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40632070">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 10:37:46 +0000</pubDate>
-</item>
-<item>
-<title>Multitasking, parallel processing, and concurrency in Swift</title>
-<link>https://eclecticlight.co/2024/06/10/multitasking-parallel-processing-and-concurrency-in-swift/</link>
-<guid>https://eclecticlight.co/2024/06/10/multitasking-parallel-processing-and-concurrency-in-swift/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631231">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 07:55:26 +0000</pubDate>
-</item>
-<item>
-<title>British duo arrested for SMS phishing via homemade cell tower</title>
-<link>https://www.theregister.com/2024/06/10/two_arrested_in_uk_over/</link>
-<guid>https://www.theregister.com/2024/06/10/two_arrested_in_uk_over/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40642801">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 05:40:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
