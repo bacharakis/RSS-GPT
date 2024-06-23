@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Ruby: A great language for shell scripts</title>
+<link>https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/</link>
+<guid>https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40763640">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 00:46:26 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 00:46:26 +0000</pubDate>
+</item>
+<item>
+<title>The manager's unbearable lack of endorphins</title>
+<link>https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins</link>
+<guid>https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40763919">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 01:39:33 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 01:39:33 +0000</pubDate>
+</item>
+<item>
+<title>OpenEMR: The leading open-source medical record software</title>
+<link>https://www.open-emr.org/</link>
+<guid>https://www.open-emr.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40763424">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 00:08:19 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 00:08:19 +0000</pubDate>
+</item>
+<item>
+<title>A website where you write a message to the next visitor</title>
+<link>https://www.dearnextvisitor.com/</link>
+<guid>https://www.dearnextvisitor.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40763405">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 00:04:21 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 00:04:21 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT is biased against resumes with credentials that imply a disability</title>
+<link>https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/</link>
+<guid>https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40763540">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 00:30:50 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 00:30:50 +0000</pubDate>
+</item>
+<item>
+<title>Shape Rotation 101: An Intro to Einsum and Jax Transformers</title>
+<link>https://sankalp.bearblog.dev/einsum-new/</link>
+<guid>https://sankalp.bearblog.dev/einsum-new/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757335">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 08:11:13 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 08:11:13 +0000</pubDate>
+</item>
+<item>
+<title>Mozilla's Original Sin</title>
+<link>https://www.jwz.org/blog/2024/06/mozillas-original-sin/</link>
+<guid>https://www.jwz.org/blog/2024/06/mozillas-original-sin/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40763757">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 01:12:01 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 01:12:01 +0000</pubDate>
+</item>
+<item>
+<title>Aphantasia: I can not picture things in my mind</title>
+<link>https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like</link>
+<guid>https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40757775">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 10:03:10 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 10:03:10 +0000</pubDate>
+</item>
+
+<item>
 <title>Delving into ChatGPT usage in academic writing through excess vocabulary</title>
 <link>https://arxiv.org/abs/2406.07016</link>
 <guid>https://arxiv.org/abs/2406.07016</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763133">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 23:18:29 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 23:18:29 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://lupyuen.codeberg.page/articles/sg2000a.html</link>
 <guid>https://lupyuen.codeberg.page/articles/sg2000a.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40762739">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 22:21:45 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 22:21:45 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing</link>
 <guid>https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40762840">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 22:36:34 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 22:36:34 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://github.com/imdj/opml-editor</link>
 <guid>https://github.com/imdj/opml-editor</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40749279">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 13:13:39 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 13:13:39 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://github.com/alt-romes/reference-counting</link>
 <guid>https://github.com/alt-romes/reference-counting</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40744910">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 00:19:23 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 00:19:23 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/</link>
 <guid>https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763117">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 22 Jun 2024 23:14:59 +0000</pubDate>
 <pubDate>Sat, 22 Jun 2024 23:14:59 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +152,10 @@
 <link>https://en.wikipedia.org/wiki/Leachim_(Robot)</link>
 <guid>https://en.wikipedia.org/wiki/Leachim_(Robot)</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40745332">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 21 Jun 2024 01:37:57 +0000</pubDate>
-<pubDate>Fri, 21 Jun 2024 01:37:57 +0000</pubDate>
 </item>
-
 <item>
 <title>HH70, the first high-temperature superconducting Tokamak achieves first plasma</title>
 <link>https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/</link>
@@ -9018,69 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40641361">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 11 Jun 2024 01:39:35 +0000</pubDate>
-</item>
-<item>
-<title>Water</title>
-<link>https://johncarlosbaez.wordpress.com/2013/11/29/water/</link>
-<guid>https://johncarlosbaez.wordpress.com/2013/11/29/water/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40632397">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 11:26:56 +0000</pubDate>
-</item>
-<item>
-<title>Back To Atoms: Why we can stop building SaaS and build the future instead.</title>
-<link>https://carllippert.com/back-to-atoms/</link>
-<guid>https://carllippert.com/back-to-atoms/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40641116">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 01:00:58 +0000</pubDate>
-</item>
-<item>
-<title>Ship Something Every Day</title>
-<link>https://maxleiter.com/blog/ship-every-day</link>
-<guid>https://maxleiter.com/blog/ship-every-day</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40640927">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 00:28:25 +0000</pubDate>
-</item>
-<item>
-<title>Siberia's 'mammoth graveyard' reveals 800-year human interactions with mammoths</title>
-<link>https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html</link>
-<guid>https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40640833">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 00:15:00 +0000</pubDate>
-</item>
-<item>
-<title>Apple unveils 'Passwords' manager app at WWDC 2024</title>
-<link>https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/</link>
-<guid>https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40636292">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 18:04:10 +0000</pubDate>
-</item>
-<item>
-<title>The Geometry of Categorical and Hierarchical Concepts in Large Language Models</title>
-<link>https://arxiv.org/abs/2406.01506</link>
-<guid>https://arxiv.org/abs/2406.01506</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40640424">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 23:18:06 +0000</pubDate>
-</item>
-<item>
-<title>Filmed.js: film strip image effect</title>
-<link>https://www.netzgesta.de/filmed/</link>
-<guid>https://www.netzgesta.de/filmed/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40631585">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 10 Jun 2024 09:07:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
