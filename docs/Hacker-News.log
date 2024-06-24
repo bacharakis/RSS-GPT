@@ -15979,3 +15979,18 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
 append_entries: 4
 Finish: 2024-06-24 14:03:05.549476
+------------------------------------------------------
+Started: 2024-06-24 16:07:16.062491
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Counterscale and the New Self-Hosted](https://benv.ca/blog/posts/counterscale-and-the-new-self-hosted)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Honoring the Legacy of Chip Design Innovator Lynn Conway](https://spectrum.ieee.org/chip-design-innovator-lynn-conway)
+append_entries: 3
+Finish: 2024-06-24 16:07:16.975831
