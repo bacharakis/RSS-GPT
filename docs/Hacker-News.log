@@ -15961,3 +15961,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
 append_entries: 6
 Finish: 2024-06-24 12:11:34.450000
+------------------------------------------------------
+Started: 2024-06-24 14:03:04.483246
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Did Apple kill the MicroLED industry?](https://www.yolegroup.com/strategy-insights/did-apple-just-kill-the-microled-industry/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [LockBit claims to exfiltrate 33TB of data from US Federal Reserve](https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Microsoft shelves its underwater data center](https://www.tomshardware.com/desktops/servers/microsoft-shelves-its-underwater-data-center)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
+append_entries: 4
+Finish: 2024-06-24 14:03:05.549476
