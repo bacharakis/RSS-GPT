@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>How to Do The Jhanas</title>
+<link>https://nadia.xyz/jhanas</link>
+<guid>https://nadia.xyz/jhanas</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40771514">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 23:32:17 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 23:32:17 +0000</pubDate>
+</item>
+<item>
+<title>Neko: Portable framework for high-order spectral element flow simulations</title>
+<link>https://github.com/ExtremeFLOW/neko</link>
+<guid>https://github.com/ExtremeFLOW/neko</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40771839">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 24 Jun 2024 00:43:10 +0000</pubDate>
+<pubDate>Mon, 24 Jun 2024 00:43:10 +0000</pubDate>
+</item>
+<item>
+<title>Benjamin Thorpe: The Man Who Translated Almost All Old English Texts</title>
+<link>https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/</link>
+<guid>https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40758451">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 22 Jun 2024 12:05:11 +0000</pubDate>
+<pubDate>Sat, 22 Jun 2024 12:05:11 +0000</pubDate>
+</item>
+<item>
+<title>B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees</title>
+<link>http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html</link>
+<guid>http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40768418">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 16:06:42 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 16:06:42 +0000</pubDate>
+</item>
+
+<item>
 <title>Formal methods: Just good engineering practice?</title>
 <link>https://brooker.co.za/blog/2024/04/17/formal.html</link>
 <guid>https://brooker.co.za/blog/2024/04/17/formal.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40753989">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 21:25:33 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 21:25:33 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://farena.in/compilers/programming/writing-an-ir-from-scratch/</link>
 <guid>https://farena.in/compilers/programming/writing-an-ir-from-scratch/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40770430">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 20:39:35 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 20:39:35 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +72,10 @@
 <link>https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/</link>
 <guid>https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40769993">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 23 Jun 2024 19:36:52 +0000</pubDate>
-<pubDate>Sun, 23 Jun 2024 19:36:52 +0000</pubDate>
 </item>
-
 <item>
 <title>The Crazy Economics of the Most Coveted Handbag</title>
 <link>https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c</link>
@@ -9010,33 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40643454">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 11 Jun 2024 07:12:04 +0000</pubDate>
-</item>
-<item>
-<title>Implications of ultra-processed plant origin foods on cardiovascular risk</title>
-<link>https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext</link>
-<guid>https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00115-7/fulltext</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40653237">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 00:33:50 +0000</pubDate>
-</item>
-<item>
-<title>AES-GCM and breaking it on nonce reuse</title>
-<link>https://frereit.de/aes_gcm/</link>
-<guid>https://frereit.de/aes_gcm/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40653125">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 00:09:23 +0000</pubDate>
-</item>
-<item>
-<title>T-Mobile users thought they had a lifetime price lock–guess what happened next</title>
-<link>https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/</link>
-<guid>https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40653785">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 02:09:46 +0000</pubDate>
 </item>
 </channel>
 </rss>

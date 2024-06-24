@@ -15856,3 +15856,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The Encyclopedia Project, or How to Know in the Age of AI](https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/)
 append_entries: 3
 Finish: 2024-06-24 00:31:28.842336
+------------------------------------------------------
+Started: 2024-06-24 02:26:44.289608
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to Do The Jhanas](https://nadia.xyz/jhanas)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Benjamin Thorpe: The Man Who Translated Almost All Old English Texts](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees](http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html)
+append_entries: 4
+Finish: 2024-06-24 02:26:45.302829
