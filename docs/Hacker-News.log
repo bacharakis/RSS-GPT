@@ -15883,3 +15883,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Arm64EC – Run x86_64 and Arm code in the same process](https://learn.microsoft.com/en-us/windows/arm/arm64ec)
 append_entries: 1
 Finish: 2024-06-24 04:08:13.693944
+------------------------------------------------------
+Started: 2024-06-24 06:09:21.564809
+Existing_entries: 1001
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [You can now write React in Lua](https://github.com/jsdotlua/react-lua)
+append_entries: 1
+Finish: 2024-06-24 06:09:22.113720
