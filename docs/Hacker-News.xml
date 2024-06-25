@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Local First, Forever</title>
+<link>https://tonsky.me/blog/crdt-filesync/</link>
+<guid>https://tonsky.me/blog/crdt-filesync/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40786425">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 09:47:10 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 09:47:10 +0000</pubDate>
+</item>
+<item>
+<title>EGAIR – European Guild for Artificial Intelligence Regulation</title>
+<link>https://www.egair.eu/</link>
+<guid>https://www.egair.eu/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40786057">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 08:48:01 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 08:48:01 +0000</pubDate>
+</item>
+<item>
+<title>Why *not* parse `ls` (and what to do instead)</title>
+<link>https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead</link>
+<guid>https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40765005">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 05:24:20 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 05:24:20 +0000</pubDate>
+</item>
+<item>
+<title>Not all 'open source' AI models are open: here's a ranking</title>
+<link>https://www.nature.com/articles/d41586-024-02012-5</link>
+<guid>https://www.nature.com/articles/d41586-024-02012-5</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40786237">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 09:17:08 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 09:17:08 +0000</pubDate>
+</item>
+<item>
+<title>Slack wants to become the 'long-term memory' for organizations</title>
+<link>https://www.computerworld.com/article/2152264/slack-wants-to-become-the-long-term-memory-for-organizations.html</link>
+<guid>https://www.computerworld.com/article/2152264/slack-wants-to-become-the-long-term-memory-for-organizations.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40774464">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 24 Jun 2024 10:50:06 +0000</pubDate>
+<pubDate>Mon, 24 Jun 2024 10:50:06 +0000</pubDate>
+</item>
+
+<item>
 <title>NOFX to retire after final tour without ever having had a job</title>
 <link>https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html</link>
 <guid>https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40784778">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 05:23:55 +0000</pubDate>
 <pubDate>Tue, 25 Jun 2024 05:23:55 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +74,10 @@
 <link>http://www.mostlycolor.ch/2010/07/postscript-and-interpress-comparison.html</link>
 <guid>http://www.mostlycolor.ch/2010/07/postscript-and-interpress-comparison.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40766246">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 23 Jun 2024 10:16:22 +0000</pubDate>
-<pubDate>Sun, 23 Jun 2024 10:16:22 +0000</pubDate>
 </item>
-
 <item>
 <title>What scripting languages come out of the box on Debian 12?</title>
 <link>https://hiandrewquinn.github.io/til-site/posts/what-programming-languages-come-out-of-the-box-on-debian-12/</link>
@@ -9008,24 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40668504">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 11:53:11 +0000</pubDate>
-</item>
-<item>
-<title>Potential Ozone Depletion from Satellite Demise During Atmospheric Reentry</title>
-<link>https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280</link>
-<guid>https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40667786">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 10:06:26 +0000</pubDate>
-</item>
-<item>
-<title>Is the Future of Moore's Law in a Particle Accelerator?</title>
-<link>https://spectrum.ieee.org/euv-fel</link>
-<guid>https://spectrum.ieee.org/euv-fel</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40667524">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 09:17:10 +0000</pubDate>
 </item>
 </channel>
 </rss>

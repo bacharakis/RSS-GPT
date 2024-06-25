@@ -16246,3 +16246,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [PostScript and Interpress: A Comparison (1985)](http://www.mostlycolor.ch/2010/07/postscript-and-interpress-comparison.html)
 append_entries: 2
 Finish: 2024-06-25 08:09:36.142375
+------------------------------------------------------
+Started: 2024-06-25 10:06:57.010446
+Existing_entries: 1002
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [EGAIR – European Guild for Artificial Intelligence Regulation](https://www.egair.eu/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why *not* parse `ls` (and what to do instead)](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Not all 'open source' AI models are open: here's a ranking](https://www.nature.com/articles/d41586-024-02012-5)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Slack wants to become the 'long-term memory' for organizations](https://www.computerworld.com/article/2152264/slack-wants-to-become-the-long-term-memory-for-organizations.html)
+append_entries: 5
+Finish: 2024-06-25 10:06:58.422830
