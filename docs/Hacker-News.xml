@@ -5,31 +5,9 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
-<title>From Dotenv to Dotenvx: Next Generation Config Management</title>
-<link>https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html</link>
-<guid>https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html</guid>
-<content:encoded><![CDATA[
-
-<a href="https://news.ycombinator.com/item?id=40789353">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 14:49:28 +0000</pubDate>
-<pubDate>Tue, 25 Jun 2024 14:49:28 +0000</pubDate>
-</item>
-<item>
-<title>Testing AMD's Giant MI300X</title>
-<link>https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/</link>
-<guid>https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/</guid>
-<content:encoded><![CDATA[
-
-<a href="https://news.ycombinator.com/item?id=40789919">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 15:36:09 +0000</pubDate>
-<pubDate>Tue, 25 Jun 2024 15:36:09 +0000</pubDate>
-</item>
-<item>
 <title>Show HN: I built a large JavaScript powered flipdisc display. Here's a guide</title>
-<link>https://flipdisc.io/http://localhost:4321/</link>
-<guid>https://flipdisc.io/http://localhost:4321/</guid>
+<link>https://flipdisc.io/</link>
+<guid>https://flipdisc.io/</guid>
 <content:encoded><![CDATA[
 
 <a href="https://news.ycombinator.com/item?id=40789672">Comments</a>
@@ -38,14 +16,128 @@
 <pubDate>Tue, 25 Jun 2024 15:14:08 +0000</pubDate>
 </item>
 <item>
+<title>Show HN: Triplit – Open-source syncing database that runs on server and client</title>
+<link>https://news.ycombinator.com/item?id=40788648</link>
+<guid>https://news.ycombinator.com/item?id=40788648</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40788648">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 13:53:05 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 13:53:05 +0000</pubDate>
+</item>
+<item>
+<title>Sohu – first specialized chip (ASIC) for transformer models</title>
+<link>https://twitter.com/Etched/status/1805625693113663834</link>
+<guid>https://twitter.com/Etched/status/1805625693113663834</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40790842">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 16:58:09 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 16:58:09 +0000</pubDate>
+</item>
+<item>
+<title>Meticulous (YC S21) is hiring to eliminate E2E UI tests</title>
+<link>https://news.ycombinator.com/item?id=40790859</link>
+<guid>https://news.ycombinator.com/item?id=40790859</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40790859">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 17:00:00 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Quantum chemistry helps characterize coordination complex of elusive Element 61</title>
+<link>https://www.ornl.gov/news/quantum-chemistry-and-simulation-help-characterize-coordination-complex-elusive-element-61</link>
+<guid>https://www.ornl.gov/news/quantum-chemistry-and-simulation-help-characterize-coordination-complex-elusive-element-61</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40749157">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 21 Jun 2024 13:00:51 +0000</pubDate>
+<pubDate>Fri, 21 Jun 2024 13:00:51 +0000</pubDate>
+</item>
+<item>
+<title>Engineer insists Post Office software did a 'good job'</title>
+<link>https://www.thetimes.com/uk/society/article/post-office-scandal-horizon-fujitsu-high-court-9ht63zvp2</link>
+<guid>https://www.thetimes.com/uk/society/article/post-office-scandal-horizon-fujitsu-high-court-9ht63zvp2</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40790640">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 16:42:08 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 16:42:08 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic Introduces Claude Projects</title>
+<link>https://support.anthropic.com/en/articles/9519177-how-can-i-create-and-manage-projects</link>
+<guid>https://support.anthropic.com/en/articles/9519177-how-can-i-create-and-manage-projects</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40790911">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 17:04:18 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 17:04:18 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Qq: like jq, but can transcode between many formats</title>
+<link>https://github.com/JFryy/qq</link>
+<guid>https://github.com/JFryy/qq</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40781894">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 24 Jun 2024 22:44:30 +0000</pubDate>
+<pubDate>Mon, 24 Jun 2024 22:44:30 +0000</pubDate>
+</item>
+<item>
+<title>Paramount Erases Mtv.com Archives, Wipes Music, Culture History After 30+ Years</title>
+<link>https://www.showbiz411.com/2024/06/25/paramount-shuts-down-mtv-website-wipes-history-after-20-plus-years</link>
+<guid>https://www.showbiz411.com/2024/06/25/paramount-shuts-down-mtv-website-wipes-history-after-20-plus-years</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40791078">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 17:23:17 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 17:23:17 +0000</pubDate>
+</item>
+
+<item>
+<title>From Dotenv to Dotenvx: Next Generation Config Management</title>
+<link>https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html</link>
+<guid>https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40789353">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 14:49:28 +0000</pubDate>
+</item>
+<item>
+<title>Testing AMD's Giant MI300X</title>
+<link>https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/</link>
+<guid>https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40789919">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 15:36:09 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: I built a large JavaScript powered flipdisc display. Here's a guide</title>
+<link>https://flipdisc.io/http://localhost:4321/</link>
+<guid>https://flipdisc.io/http://localhost:4321/</guid>
+<content:encoded><![CDATA[
+<a href="https://news.ycombinator.com/item?id=40789672">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 15:14:08 +0000</pubDate>
+</item>
+<item>
 <title>Chang'e 6 lunar sample return mission returns with samples from moon's far side</title>
 <link>https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon</link>
 <guid>https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40790057">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 15:48:29 +0000</pubDate>
 <pubDate>Tue, 25 Jun 2024 15:48:29 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +145,8 @@
 <link>https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/</link>
 <guid>https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40789191">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 14:36:29 +0000</pubDate>
 <pubDate>Tue, 25 Jun 2024 14:36:29 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +154,10 @@
 <link>https://www.prnewswire.com/news-releases/bots-compose-42-of-overall-web-traffic-nearly-two-thirds-are-malicious-reports-akamai-302180377.html</link>
 <guid>https://www.prnewswire.com/news-releases/bots-compose-42-of-overall-web-traffic-nearly-two-thirds-are-malicious-reports-akamai-302180377.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40788631">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 25 Jun 2024 13:50:56 +0000</pubDate>
-<pubDate>Tue, 25 Jun 2024 13:50:56 +0000</pubDate>
 </item>
-
 <item>
 <title>Researchers run high-performing LLM on the energy needed to power a lightbulb</title>
 <link>https://news.ucsc.edu/2024/06/matmul-free-llm.html</link>
@@ -9016,60 +9103,6 @@
 <a href="https://news.ycombinator.com/item?id=40671738">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 16:34:05 +0000</pubDate>
-</item>
-<item>
-<title>Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default</title>
-<link>https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html</link>
-<guid>https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40672700">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 18:07:21 +0000</pubDate>
-</item>
-<item>
-<title>Saudi Arabia ends 50-year petrodollar pact with US</title>
-<link>https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years</link>
-<guid>https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40673567">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 19:28:22 +0000</pubDate>
-</item>
-<item>
-<title>Postgres 17: Streaming I/O for sequential scans and ANALYZE</title>
-<link>https://pganalyze.com/blog/5mins-postgres-17-streaming-io</link>
-<guid>https://pganalyze.com/blog/5mins-postgres-17-streaming-io</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40671858">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 16:45:57 +0000</pubDate>
-</item>
-<item>
-<title>You can help Anna's Archive by seeding torrents</title>
-<link>https://annas-archive.org/torrents</link>
-<guid>https://annas-archive.org/torrents</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40672215">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 17:20:14 +0000</pubDate>
-</item>
-<item>
-<title>The fastest path to African prosperity</title>
-<link>https://www.palladiummag.com/2024/06/07/the-fastest-path-to-african-prosperity/</link>
-<guid>https://www.palladiummag.com/2024/06/07/the-fastest-path-to-african-prosperity/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40672659">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 18:02:03 +0000</pubDate>
-</item>
-<item>
-<title>Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)</title>
-<link>https://www.tesorio.com/careers</link>
-<guid>https://www.tesorio.com/careers</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40672027">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 17:00:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
