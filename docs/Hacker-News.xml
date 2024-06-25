@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>NOFX to retire after final tour without ever having had a job</title>
+<link>https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html</link>
+<guid>https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40784778">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 05:23:55 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 05:23:55 +0000</pubDate>
+</item>
+<item>
+<title>PostScript and Interpress: A Comparison (1985)</title>
+<link>http://www.mostlycolor.ch/2010/07/postscript-and-interpress-comparison.html</link>
+<guid>http://www.mostlycolor.ch/2010/07/postscript-and-interpress-comparison.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40766246">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 10:16:22 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 10:16:22 +0000</pubDate>
+</item>
+
+<item>
 <title>What scripting languages come out of the box on Debian 12?</title>
 <link>https://hiandrewquinn.github.io/til-site/posts/what-programming-languages-come-out-of-the-box-on-debian-12/</link>
 <guid>https://hiandrewquinn.github.io/til-site/posts/what-programming-languages-come-out-of-the-box-on-debian-12/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40765294">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 23 Jun 2024 06:56:48 +0000</pubDate>
 <pubDate>Sun, 23 Jun 2024 06:56:48 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://holtwick.de/en/blog/localfirst-resilient-sync</link>
 <guid>https://holtwick.de/en/blog/localfirst-resilient-sync</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40772955">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 24 Jun 2024 05:58:41 +0000</pubDate>
 <pubDate>Mon, 24 Jun 2024 05:58:41 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +50,10 @@
 <link>https://comment.org/to-the-bored-all-things-are-boring/</link>
 <guid>https://comment.org/to-the-bored-all-things-are-boring/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40782657">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 25 Jun 2024 00:06:21 +0000</pubDate>
-<pubDate>Tue, 25 Jun 2024 00:06:21 +0000</pubDate>
 </item>
-
 <item>
 <title>SIMD-accelerated computer vision on a $2 microcontroller</title>
 <link>https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md</link>
@@ -9010,33 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40667524">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 09:17:10 +0000</pubDate>
-</item>
-<item>
-<title>Reworkd (YC S23) Is Hiring a founding back end/infrastructure engineer</title>
-<link>https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer</link>
-<guid>https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40668572">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 12:00:36 +0000</pubDate>
-</item>
-<item>
-<title>Indian Startup 3D Prints Rocket Engine in Just 72 Hours</title>
-<link>https://spectrum.ieee.org/3d-printed-rocket</link>
-<guid>https://spectrum.ieee.org/3d-printed-rocket</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40668088">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 11:02:11 +0000</pubDate>
-</item>
-<item>
-<title>Arm says it wants all Snapdragon X Elite laptops destroyed</title>
-<link>https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/</link>
-<guid>https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40667606">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 09:33:12 +0000</pubDate>
 </item>
 </channel>
 </rss>

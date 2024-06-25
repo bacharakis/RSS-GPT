@@ -16234,3 +16234,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [To the Bored All Things Are Boring](https://comment.org/to-the-bored-all-things-are-boring/)
 append_entries: 3
 Finish: 2024-06-25 06:09:11.457865
+------------------------------------------------------
+Started: 2024-06-25 08:09:35.472064
+Existing_entries: 1003
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [PostScript and Interpress: A Comparison (1985)](http://www.mostlycolor.ch/2010/07/postscript-and-interpress-comparison.html)
+append_entries: 2
+Finish: 2024-06-25 08:09:36.142375
