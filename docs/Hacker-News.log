@@ -16615,3 +16615,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Ask HN: How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
 append_entries: 5
 Finish: 2024-06-26 12:12:20.406064
+------------------------------------------------------
+Started: 2024-06-26 14:03:20.585338
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Point of the Banach Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?xf26hn)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Should people who quit get unemployment benefits, too?](https://www.vox.com/future-perfect/356461/unemployment-benefits-insurance-quitting-capitalism-economy)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Group Actions and Hashing Unordered Multisets](https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Stamp: A Mini-Language for Templates](https://scroll.pub/blog/stamp.html)
+append_entries: 5
+Finish: 2024-06-26 14:03:21.576364
