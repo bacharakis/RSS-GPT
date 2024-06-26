@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>HyperCard Simulator</title>
+<link>https://hcsimulator.com/</link>
+<guid>https://hcsimulator.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40793924">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 21:34:40 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 21:34:40 +0000</pubDate>
+</item>
+<item>
+<title>A brief introduction to interval arithmetic</title>
+<link>https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/</link>
+<guid>https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40794786">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 23:15:02 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 23:15:02 +0000</pubDate>
+</item>
+<item>
+<title>The Weird World of Insuring Celebrity Body Parts</title>
+<link>https://www.hollywoodreporter.com/lifestyle/lifestyle-news/celebrity-body-parts-insurance-taylor-swift-j-lo-1235926124/</link>
+<guid>https://www.hollywoodreporter.com/lifestyle/lifestyle-news/celebrity-body-parts-insurance-taylor-swift-j-lo-1235926124/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40751673">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 21 Jun 2024 17:20:26 +0000</pubDate>
+<pubDate>Fri, 21 Jun 2024 17:20:26 +0000</pubDate>
+</item>
+<item>
+<title>A Leap in Engineering Just Made Solid-State Batteries 100x Better</title>
+<link>https://www.popularmechanics.com/technology/gadgets/a61197028/solid-state-batteries-breakthrough-tdk-energy-density/</link>
+<guid>https://www.popularmechanics.com/technology/gadgets/a61197028/solid-state-batteries-breakthrough-tdk-energy-density/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40795070">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 23:55:47 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 23:55:47 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: FiddleCube – Generate Q&amp;A to test your LLM</title>
+<link>https://github.com/fiddlecube/fiddlecube-sdk</link>
+<guid>https://github.com/fiddlecube/fiddlecube-sdk</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40791112">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 17:26:25 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 17:26:25 +0000</pubDate>
+</item>
+<item>
+<title>Atomic Operations Composition in Go</title>
+<link>https://antonz.org/atomics-composition/</link>
+<guid>https://antonz.org/atomics-composition/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40794523">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 22:41:09 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 22:41:09 +0000</pubDate>
+</item>
+<item>
+<title>Waymo One is now open to everyone in San Francisco</title>
+<link>https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/</link>
+<guid>https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40789411">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 14:54:22 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 14:54:22 +0000</pubDate>
+</item>
+
+<item>
 <title>Supabase (YC S20) Is Hiring Postgres SREs</title>
 <link>https://boards.greenhouse.io/supabase/jobs/5162509004</link>
 <guid>https://boards.greenhouse.io/supabase/jobs/5162509004</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40793540">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 21:00:06 +0000</pubDate>
 <pubDate>Tue, 25 Jun 2024 21:00:06 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://github.com/nate-parrott/ball</link>
 <guid>https://github.com/nate-parrott/ball</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40793465">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 20:52:52 +0000</pubDate>
 <pubDate>Tue, 25 Jun 2024 20:52:52 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +105,10 @@
 <link>https://twitter.com/xyz3va/status/1805689140639408277</link>
 <guid>https://twitter.com/xyz3va/status/1805689140639408277</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40793192">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 25 Jun 2024 20:26:49 +0000</pubDate>
-<pubDate>Tue, 25 Jun 2024 20:26:49 +0000</pubDate>
 </item>
-
 <item>
 <title>Polyfill supply chain attack hits 100K+ sites</title>
 <link>https://sansec.io/research/polyfill-supply-chain-attack</link>
@@ -9010,33 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40656125">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 12 Jun 2024 09:19:20 +0000</pubDate>
-</item>
-<item>
-<title>Ideal OS: Rebooting the Desktop Operating System (2017)</title>
-<link>https://joshondesign.com/2017/08/18/idealos_essay</link>
-<guid>https://joshondesign.com/2017/08/18/idealos_essay</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40657371">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 12:34:39 +0000</pubDate>
-</item>
-<item>
-<title>Lamini Memory Tuning: 10x Fewer Hallucinations</title>
-<link>https://www.lamini.ai/blog/lamini-memory-tuning</link>
-<guid>https://www.lamini.ai/blog/lamini-memory-tuning</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40675577">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 22:29:40 +0000</pubDate>
-</item>
-<item>
-<title>A New Map of Medieval London</title>
-<link>https://londonist.substack.com/p/a-new-map-of-medieval-london</link>
-<guid>https://londonist.substack.com/p/a-new-map-of-medieval-london</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40655635">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 07:54:37 +0000</pubDate>
 </item>
 </channel>
 </rss>
