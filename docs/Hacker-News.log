@@ -16756,3 +16756,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
 append_entries: 4
 Finish: 2024-06-26 20:07:40.660274
+------------------------------------------------------
+Started: 2024-06-26 22:03:04.987414
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Next gen 3D metal printing](https://fabric8labs.com)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Upgrading my Chumby 8 kernel part 11: SD/CF card reader](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
+append_entries: 7
+Finish: 2024-06-26 22:03:06.791198
