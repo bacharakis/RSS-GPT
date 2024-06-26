@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Elixir Gotchas</title>
+<link>https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/</link>
+<guid>https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40768913">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 17:10:45 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 17:10:45 +0000</pubDate>
+</item>
+<item>
+<title>Banach–Tarski Paradox</title>
+<link>https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox</link>
+<guid>https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40797598">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 08:22:51 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 08:22:51 +0000</pubDate>
+</item>
+<item>
+<title>Google dropping continuous scroll in search results</title>
+<link>https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529</link>
+<guid>https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40797130">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 06:56:58 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 06:56:58 +0000</pubDate>
+</item>
+<item>
+<title>Simple ways to find exposed sensitive information</title>
+<link>https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/</link>
+<guid>https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40752245">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 21 Jun 2024 18:21:29 +0000</pubDate>
+<pubDate>Fri, 21 Jun 2024 18:21:29 +0000</pubDate>
+</item>
+<item>
+<title>FICO and the Credit Bureau Cartel</title>
+<link>https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau</link>
+<guid>https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40797217">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 07:14:48 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 07:14:48 +0000</pubDate>
+</item>
+<item>
+<title>Matthew Garrett: "Quick Assange frequent misconceptions thread"</title>
+<link>https://nondeterministic.computer/@mjg59/112679109895486477</link>
+<guid>https://nondeterministic.computer/@mjg59/112679109895486477</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40797969">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 09:11:13 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 09:11:13 +0000</pubDate>
+</item>
+
+<item>
 <title>Vigorous Exercise, Cognitive Decline, and High Blood Pressure</title>
 <link>https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13887</link>
 <guid>https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13887</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40796459">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 04:45:20 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 04:45:20 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://greekanalyst.substack.com/p/the-internet-in-greece</link>
 <guid>https://greekanalyst.substack.com/p/the-internet-in-greece</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40747790">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 09:29:45 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 09:29:45 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://www.reuters.com/legal/us-judge-rejects-visa-mastercard-30-bln-swipe-fee-settlement-2024-06-25/</link>
 <guid>https://www.reuters.com/legal/us-judge-rejects-visa-mastercard-30-bln-swipe-fee-settlement-2024-06-25/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40797011">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 06:33:20 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 06:33:20 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft</link>
 <guid>https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40796946">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 06:17:49 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 06:17:49 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://www.bloomberg.com/news/articles/2024-06-25/vw-invests-5-billion-in-ev-startup-rivian-to-form-joint-venture</link>
 <guid>https://www.bloomberg.com/news/articles/2024-06-25/vw-invests-5-billion-in-ev-startup-rivian-to-form-joint-venture</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40796950">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 06:19:06 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 06:19:06 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +121,10 @@
 <link>http://www.paulbourke.net/fractals/dla/</link>
 <guid>http://www.paulbourke.net/fractals/dla/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40763782">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 23 Jun 2024 01:16:44 +0000</pubDate>
-<pubDate>Sun, 23 Jun 2024 01:16:44 +0000</pubDate>
 </item>
-
 <item>
 <title>The many faces of undefined in JavaScript</title>
 <link>https://mortoray.com/the-many-faces-of-undefined-in-javascript/</link>
@@ -9016,60 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40678015">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 14 Jun 2024 06:15:59 +0000</pubDate>
-</item>
-<item>
-<title>Generative AI Is Not Going to Build Your Engineering Team for You</title>
-<link>https://simonwillison.net/2024/Jun/12/generative-ai-is-not-going-to-build-your-engineering-team/</link>
-<guid>https://simonwillison.net/2024/Jun/12/generative-ai-is-not-going-to-build-your-engineering-team/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40677784">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 05:32:45 +0000</pubDate>
-</item>
-<item>
-<title>"The Door Problem" (2014)</title>
-<link>https://lizengland.com/blog/2014/04/the-door-problem/</link>
-<guid>https://lizengland.com/blog/2014/04/the-door-problem/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40655994">Comments</a>
-]]></content:encoded>
-<pubDate>Wed, 12 Jun 2024 08:56:06 +0000</pubDate>
-</item>
-<item>
-<title>Why I Bought an Encyclopedia</title>
-<link>https://www.optoutproject.net/what-is-true-on-the-internet/</link>
-<guid>https://www.optoutproject.net/what-is-true-on-the-internet/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40675947">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 23:18:50 +0000</pubDate>
-</item>
-<item>
-<title>40 out of 60 German climate greening endavours fraudulent</title>
-<link>https://www.fr.de/politik/warnungen-milliarden-an-konzerne-gezahlt-betrugsverdacht-beim-klimaschutz-trotz-zr-93122965.html</link>
-<guid>https://www.fr.de/politik/warnungen-milliarden-an-konzerne-gezahlt-betrugsverdacht-beim-klimaschutz-trotz-zr-93122965.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40677926">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 05:59:17 +0000</pubDate>
-</item>
-<item>
-<title>A look at Apple's technical approach to AI including core model performance etc.</title>
-<link>https://www.interconnects.ai/p/apple-intelligence</link>
-<guid>https://www.interconnects.ai/p/apple-intelligence</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40677810">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 05:36:47 +0000</pubDate>
-</item>
-<item>
-<title>Sustain Open Source, sustain the planet: A new conversation</title>
-<link>https://opensource.net/oss-for-climate-podcast/</link>
-<guid>https://opensource.net/oss-for-climate-podcast/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40677637">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 05:06:10 +0000</pubDate>
 </item>
 </channel>
 </rss>
