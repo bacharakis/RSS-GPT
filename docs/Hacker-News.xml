@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Corcel – Use WordPress backend with Laravel or any PHP application</title>
+<link>https://github.com/corcel/corcel</link>
+<guid>https://github.com/corcel/corcel</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40805351">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 22:33:59 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 22:33:59 +0000</pubDate>
+</item>
+<item>
+<title>South Korean telecom company attacks torrent users with malware</title>
+<link>https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs</link>
+<guid>https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40805099">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 22:03:00 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 22:03:00 +0000</pubDate>
+</item>
+<item>
+<title>The brain makes a lot of waste. Now scientists think they know where it goes</title>
+<link>https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</link>
+<guid>https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40805251">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 22:21:49 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 22:21:49 +0000</pubDate>
+</item>
+<item>
+<title>WordStar – A Writer's Word Processor (1990)</title>
+<link>https://sfwriter.com/wordstar.htm</link>
+<guid>https://sfwriter.com/wordstar.htm</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40804675">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 21:16:41 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 21:16:41 +0000</pubDate>
+</item>
+<item>
+<title>Structured logs are the way to start</title>
+<link>https://shippingbytes.com/2024/06/24/structured-logs-are-the-way-to-start/</link>
+<guid>https://shippingbytes.com/2024/06/24/structured-logs-are-the-way-to-start/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40773671">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 24 Jun 2024 08:32:09 +0000</pubDate>
+<pubDate>Mon, 24 Jun 2024 08:32:09 +0000</pubDate>
+</item>
+<item>
+<title>Compressing graphs and indexes with recursive graph bisection (2016)</title>
+<link>https://arxiv.org/abs/1602.08820</link>
+<guid>https://arxiv.org/abs/1602.08820</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40772034">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 24 Jun 2024 01:28:37 +0000</pubDate>
+<pubDate>Mon, 24 Jun 2024 01:28:37 +0000</pubDate>
+</item>
+
+<item>
 <title>The Forth Deck mini: a portable Forth computer with a discrete CPU</title>
 <link>http://mynor.org/my4th_forthdeck.htm</link>
 <guid>http://mynor.org/my4th_forthdeck.htm</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40804122">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 20:12:31 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 20:12:31 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://fabric8labs.com</link>
 <guid>https://fabric8labs.com</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40803783">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 19:41:14 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 19:41:14 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet</link>
 <guid>https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40804317">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 20:35:17 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 20:35:17 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt</link>
 <guid>https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40804645">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 21:13:29 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 21:13:29 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/</link>
 <guid>https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40804635">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 21:12:31 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 21:12:31 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +121,8 @@
 <link>https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/</link>
 <guid>https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40746459">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 21 Jun 2024 05:29:11 +0000</pubDate>
 <pubDate>Fri, 21 Jun 2024 05:29:11 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +130,10 @@
 <link>https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/</link>
 <guid>https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40804856">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 26 Jun 2024 21:35:11 +0000</pubDate>
-<pubDate>Wed, 26 Jun 2024 21:35:11 +0000</pubDate>
 </item>
-
 <item>
 <title>Why blue animals are so rare</title>
 <link>https://www.popsci.com/environment/why-blue-animals-are-rare/</link>
@@ -9018,69 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40675724">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 13 Jun 2024 22:48:19 +0000</pubDate>
-</item>
-<item>
-<title>Study finds juvenile dolphins who play together are more successful as adults</title>
-<link>https://phys.org/news/2024-06-juvenile-dolphins-play-successful-adults.html</link>
-<guid>https://phys.org/news/2024-06-juvenile-dolphins-play-successful-adults.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40669959">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 14:16:16 +0000</pubDate>
-</item>
-<item>
-<title>Satellite data show electromagnetic anomalies 19 days before Turkey earthquake</title>
-<link>https://phys.org/news/2024-06-satellite-reveal-electromagnetic-anomalies-days.html</link>
-<guid>https://phys.org/news/2024-06-satellite-reveal-electromagnetic-anomalies-days.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40664526">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 00:05:21 +0000</pubDate>
-</item>
-<item>
-<title>New algorithm discovers language just by watching videos</title>
-<link>https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos</link>
-<guid>https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40673751">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 19:43:27 +0000</pubDate>
-</item>
-<item>
-<title>Japanese addresses: No street names. Block numbers (2009)</title>
-<link>https://sive.rs/jadr</link>
-<guid>https://sive.rs/jadr</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40676963">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 02:20:35 +0000</pubDate>
-</item>
-<item>
-<title>The first 'major lunar standstill' in more than 18 years is about to occur</title>
-<link>https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it</link>
-<guid>https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40684608">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 20:11:48 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft's Recall AI feature is now indefinitely delayed</title>
-<link>https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/</link>
-<guid>https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40683210">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 18:03:09 +0000</pubDate>
-</item>
-<item>
-<title>Orange FM Prototype – Analogue Pocket Demo</title>
-<link>https://orangegb.com/orangefm/</link>
-<guid>https://orangegb.com/orangefm/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40683947">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 19:09:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
