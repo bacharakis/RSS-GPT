@@ -17038,3 +17038,42 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
 append_entries: 10
 Finish: 2024-06-27 18:07:40.924321
+------------------------------------------------------
+Started: 2024-06-27 20:06:49.537277
+Existing_entries: 1010
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Misconceptions about loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Cloudflare adds option to block AI scrapers and crawlers](https://front-end.social/@chriscoyier/112688532313287480)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [ID verification service for TikTok, Uber, X exposed driver licenses](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: Should I stay at my default dead startup or go and do something else?](https://news.ycombinator.com/item?id=40798026)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The strategy behind Cambridge’s Laboratory of Molecular Biology](https://www.nature.com/articles/d41586-024-02085-2)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pulsed Laser Deposition at Wafer Level Is a Game Changer](https://www.eetimes.com/pulsed-laser-deposition-at-wafer-level-is-a-game-changer/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Secret, Magical Life of Lithium](https://www.noemamag.com/the-secret-magical-life-of-lithium/)
+append_entries: 11
+Finish: 2024-06-27 20:06:52.308085
