@@ -16975,3 +16975,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The No Asshole Rule](https://en.wikipedia.org/wiki/The_No_Asshole_Rule)
 append_entries: 5
 Finish: 2024-06-27 14:02:52.418468
+------------------------------------------------------
+Started: 2024-06-27 16:07:22.933535
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Is Everything BS?](https://behavioralscientist.org/is-everything-bs/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Gosax – A high-performance SAX XML parser for Go](https://github.com/orisano/gosax)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Supreme Court blocks Purdue Pharma opioid settlement](https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-purdue-pharma-opioid-settlement-rcna139066)
+append_entries: 7
+Finish: 2024-06-27 16:07:25.016650
