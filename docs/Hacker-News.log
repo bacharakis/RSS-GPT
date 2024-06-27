@@ -16954,3 +16954,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The Fuggerei – the world’s first public housing (2022)](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
 append_entries: 10
 Finish: 2024-06-27 12:11:25.837261
+------------------------------------------------------
+Started: 2024-06-27 14:02:50.803624
+Existing_entries: 1010
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why We're Deeply Invested in Making AI Better at Math Tutoring](https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Why it takes NYC nearly 10 years to install 500 feet of pipes – Gothamist](https://gothamist.com/news/why-it-takes-nyc-nearly-10-years-to-install-500-feet-of-pipes)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Microbenchmarking Return Address Branch Prediction (2018)](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The No Asshole Rule](https://en.wikipedia.org/wiki/The_No_Asshole_Rule)
+append_entries: 5
+Finish: 2024-06-27 14:02:52.418468
