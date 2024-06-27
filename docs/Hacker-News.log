@@ -16840,3 +16840,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Netflix wants managers to ask whether they would rehire their employees](https://fortune.com/2024/06/25/netflix-managers-keeper-test-rehire-or-fire-staff/)
 append_entries: 9
 Finish: 2024-06-27 02:25:02.338159
+------------------------------------------------------
+Started: 2024-06-27 04:08:58.968781
+Existing_entries: 1009
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [SpaceX Tender Offer Said to Value Company at Record $210B](https://www.bloomberg.com/news/articles/2024-06-27/spacex-tender-offer-said-to-value-company-at-record-210-billion)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [DoorDash and Pizza Arbitrage](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Federal whistleblowers are entitled to damages of missed future pay, court rules](https://www.govexec.com/pay-benefits/2024/06/federal-whistleblowers-are-entitled-damages-missed-future-pay-court-rules/397638/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Boiling lead and black art: a history of mathematical typography (2017)](http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html)
+append_entries: 5
+Finish: 2024-06-27 04:09:00.326625
