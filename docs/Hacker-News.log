@@ -16807,3 +16807,36 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Compressing graphs and indexes with recursive graph bisection (2016)](https://arxiv.org/abs/1602.08820)
 append_entries: 6
 Finish: 2024-06-27 00:29:47.099320
+------------------------------------------------------
+Started: 2024-06-27 02:25:00.102641
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: I built an indie, browser-based MMORPG](https://alpha.reconquer.online)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Standard Webhooks – simplifying 3rd party API's](https://www.syncd.dev/use-cases)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Mozilla.ai did what? When silliness goes dangerous](https://tante.cc/2024/06/26/mozilla-ai-did-what-when-silliness-goes-dangerous/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nano DIP: the smallest complete Arduino board 33 x 10mm](https://avdweb.nl/arduino/attiny3217/nano-dip)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Confidentiality in the Face of Pervasive Surveillance](https://datatracker.ietf.org/doc/html/rfc7624)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pad jumps to avoid Intel erratum (2019)](https://github.com/golang/go/issues/35881)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Netflix wants managers to ask whether they would rehire their employees](https://fortune.com/2024/06/25/netflix-managers-keeper-test-rehire-or-fire-staff/)
+append_entries: 9
+Finish: 2024-06-27 02:25:02.338159

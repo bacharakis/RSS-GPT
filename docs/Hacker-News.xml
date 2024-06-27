@@ -5,14 +5,112 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Molecular Interactions and the Behaviors of Biological Macromolecules</title>
+<link>https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html</link>
+<guid>https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40806302">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 01:05:28 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 01:05:28 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: I built an indie, browser-based MMORPG</title>
+<link>https://alpha.reconquer.online</link>
+<guid>https://alpha.reconquer.online</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40802557">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 17:53:22 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 17:53:22 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Standard Webhooks – simplifying 3rd party API's</title>
+<link>https://www.syncd.dev/use-cases</link>
+<guid>https://www.syncd.dev/use-cases</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40806063">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 00:24:04 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 00:24:04 +0000</pubDate>
+</item>
+<item>
+<title>AI Revolutionized Protein Science, but Didn't End It</title>
+<link>https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/</link>
+<guid>https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40806151">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 00:39:14 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 00:39:14 +0000</pubDate>
+</item>
+<item>
+<title>Mozilla.ai did what? When silliness goes dangerous</title>
+<link>https://tante.cc/2024/06/26/mozilla-ai-did-what-when-silliness-goes-dangerous/</link>
+<guid>https://tante.cc/2024/06/26/mozilla-ai-did-what-when-silliness-goes-dangerous/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40805350">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 22:33:56 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 22:33:56 +0000</pubDate>
+</item>
+<item>
+<title>Nano DIP: the smallest complete Arduino board 33 x 10mm</title>
+<link>https://avdweb.nl/arduino/attiny3217/nano-dip</link>
+<guid>https://avdweb.nl/arduino/attiny3217/nano-dip</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40768124">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 15:26:04 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 15:26:04 +0000</pubDate>
+</item>
+<item>
+<title>Confidentiality in the Face of Pervasive Surveillance</title>
+<link>https://datatracker.ietf.org/doc/html/rfc7624</link>
+<guid>https://datatracker.ietf.org/doc/html/rfc7624</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40805248">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 22:21:29 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 22:21:29 +0000</pubDate>
+</item>
+<item>
+<title>Pad jumps to avoid Intel erratum (2019)</title>
+<link>https://github.com/golang/go/issues/35881</link>
+<guid>https://github.com/golang/go/issues/35881</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40783871">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 02:50:11 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 02:50:11 +0000</pubDate>
+</item>
+<item>
+<title>Netflix wants managers to ask whether they would rehire their employees</title>
+<link>https://fortune.com/2024/06/25/netflix-managers-keeper-test-rehire-or-fire-staff/</link>
+<guid>https://fortune.com/2024/06/25/netflix-managers-keeper-test-rehire-or-fire-staff/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40806090">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 00:29:41 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 00:29:41 +0000</pubDate>
+</item>
+
+<item>
 <title>Corcel – Use WordPress backend with Laravel or any PHP application</title>
 <link>https://github.com/corcel/corcel</link>
 <guid>https://github.com/corcel/corcel</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40805351">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 22:33:59 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 22:33:59 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +118,8 @@
 <link>https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs</link>
 <guid>https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40805099">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 22:03:00 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 22:03:00 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +127,8 @@
 <link>https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</link>
 <guid>https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40805251">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 22:21:49 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 22:21:49 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +136,8 @@
 <link>https://sfwriter.com/wordstar.htm</link>
 <guid>https://sfwriter.com/wordstar.htm</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40804675">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 21:16:41 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 21:16:41 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +145,8 @@
 <link>https://shippingbytes.com/2024/06/24/structured-logs-are-the-way-to-start/</link>
 <guid>https://shippingbytes.com/2024/06/24/structured-logs-are-the-way-to-start/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40773671">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 24 Jun 2024 08:32:09 +0000</pubDate>
 <pubDate>Mon, 24 Jun 2024 08:32:09 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +154,10 @@
 <link>https://arxiv.org/abs/1602.08820</link>
 <guid>https://arxiv.org/abs/1602.08820</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40772034">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 24 Jun 2024 01:28:37 +0000</pubDate>
-<pubDate>Mon, 24 Jun 2024 01:28:37 +0000</pubDate>
 </item>
-
 <item>
 <title>The Forth Deck mini: a portable Forth computer with a discrete CPU</title>
 <link>http://mynor.org/my4th_forthdeck.htm</link>
@@ -9016,60 +9103,6 @@
 <a href="https://news.ycombinator.com/item?id=40657626">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 12 Jun 2024 13:00:08 +0000</pubDate>
-</item>
-<item>
-<title>Chaos in the medium: Watercolour plotting</title>
-<link>https://www.amygoodchild.com/blog/watercolour-plots</link>
-<guid>https://www.amygoodchild.com/blog/watercolour-plots</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40666178">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 05:14:20 +0000</pubDate>
-</item>
-<item>
-<title>Exponentially Better Rotations</title>
-<link>http://thenumb.at/Exponential-Rotations/</link>
-<guid>http://thenumb.at/Exponential-Rotations/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40684901">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 20:42:03 +0000</pubDate>
-</item>
-<item>
-<title>Freenet 2024 – a drop-in decentralized replacement for the web [video]</title>
-<link>https://www.youtube.com/watch?v=enTAromEeHo</link>
-<guid>https://www.youtube.com/watch?v=enTAromEeHo</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40676335">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 00:22:51 +0000</pubDate>
-</item>
-<item>
-<title>The ‘Network of Web Trees’ in Gaza</title>
-<link>https://globalvoices.org/2024/06/13/the-ingenious-network-tree-defying-gazas-connectivity-blockade/</link>
-<guid>https://globalvoices.org/2024/06/13/the-ingenious-network-tree-defying-gazas-connectivity-blockade/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40666879">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 07:19:07 +0000</pubDate>
-</item>
-<item>
-<title>The rise and fall of Koo, India’s once-thriving Twitter alternative</title>
-<link>https://restofworld.org/2024/twitter-alternative-koo/</link>
-<guid>https://restofworld.org/2024/twitter-alternative-koo/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40646936">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 11 Jun 2024 14:58:38 +0000</pubDate>
-</item>
-<item>
-<title>From grep to SPLADE: a journey through semantic search</title>
-<link>https://blog.elicit.com/semantic-search/</link>
-<guid>https://blog.elicit.com/semantic-search/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40675724">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 22:48:19 +0000</pubDate>
 </item>
 </channel>
 </rss>
