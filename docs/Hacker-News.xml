@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Software galaxies</title>
+<link>https://anvaka.github.io/pm/</link>
+<guid>https://anvaka.github.io/pm/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40817852">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 04:54:53 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 04:54:53 +0000</pubDate>
+</item>
+<item>
+<title>Writing generic collection types in Go: the missing documentation</title>
+<link>https://www.dolthub.com/blog/2024-07-01-golang-generic-collections/</link>
+<guid>https://www.dolthub.com/blog/2024-07-01-golang-generic-collections/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40818050">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 05:38:00 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 05:38:00 +0000</pubDate>
+</item>
+<item>
+<title>Investigating SSMEC's (State Micro) 486s with the UCA</title>
+<link>https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/</link>
+<guid>https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40817430">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 03:30:08 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 03:30:08 +0000</pubDate>
+</item>
+<item>
+<title>Infrastructure set-up &amp; open-source scripts to train a 70B model from bare metal</title>
+<link>https://imbue.com/research/70b-infrastructure/</link>
+<guid>https://imbue.com/research/70b-infrastructure/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40816158">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 23:08:40 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 23:08:40 +0000</pubDate>
+</item>
+<item>
+<title>Git-cliff – Generate changelog from the Git history</title>
+<link>https://git-cliff.org/</link>
+<guid>https://git-cliff.org/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40798469">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 10:43:45 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 10:43:45 +0000</pubDate>
+</item>
+<item>
+<title>Space Ghost: Coast to Coast and the Birth of the Weird (2016)</title>
+<link>https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html</link>
+<guid>https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40817227">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 02:36:40 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 02:36:40 +0000</pubDate>
+</item>
+
+<item>
 <title>The Death of NYC Congestion Pricing</title>
 <link>https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing</link>
 <guid>https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40817079">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 02:01:46 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 02:01:46 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://tylertringas.com/mobility/</link>
 <guid>https://tylertringas.com/mobility/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40816795">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 00:56:28 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 00:56:28 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://dps8m.gitlab.io/blog/posts/20240622_FPGA/</link>
 <guid>https://dps8m.gitlab.io/blog/posts/20240622_FPGA/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40817139">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 02:14:05 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 02:14:05 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +103,8 @@
 <link>https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/</link>
 <guid>https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40796980">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 06:26:44 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 06:26:44 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +112,8 @@
 <link>https://lwn.net/Articles/977987/</link>
 <guid>https://lwn.net/Articles/977987/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40817199">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 02:30:18 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 02:30:18 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +121,10 @@
 <link>https://www.wired.com/story/apra-privacy-bill-doomed/</link>
 <guid>https://www.wired.com/story/apra-privacy-bill-doomed/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40817068">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 28 Jun 2024 01:59:01 +0000</pubDate>
-<pubDate>Fri, 28 Jun 2024 01:59:01 +0000</pubDate>
 </item>
-
 <item>
 <title>Visual Z80 Remix</title>
 <link>https://floooh.github.io/visualz80remix/</link>
@@ -9016,60 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40693944">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 16 Jun 2024 01:12:38 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: We Made The World's Smallest and Cheapest Network Switch</title>
-<link>https://docs.murexrobotics.com/elec/boards/networking/switch</link>
-<guid>https://docs.murexrobotics.com/elec/boards/networking/switch</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40694254">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 02:26:55 +0000</pubDate>
-</item>
-<item>
-<title>A collection of 2,299 blogs about every topic</title>
-<link>https://ooh.directory/</link>
-<guid>https://ooh.directory/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40693787">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 00:42:05 +0000</pubDate>
-</item>
-<item>
-<title>VVVV – A hybrid visual/textual development environment for .NET</title>
-<link>https://visualprogramming.net/</link>
-<guid>https://visualprogramming.net/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40687751">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 05:41:06 +0000</pubDate>
-</item>
-<item>
-<title>Why Government Unions–Unlike Trade Unions–Corrupt Democracy</title>
-<link>https://time.com/6267979/government-unions-corrupt-democracy/</link>
-<guid>https://time.com/6267979/government-unions-corrupt-democracy/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40694432">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 03:16:50 +0000</pubDate>
-</item>
-<item>
-<title>Ernest Shackleton's Last Ship, Quest, Discovered Off the Coast of Canada</title>
-<link>https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/</link>
-<guid>https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40688771">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 10:20:16 +0000</pubDate>
-</item>
-<item>
-<title>How/Why to Sweep Async Tasks Under a Postgres Table [video]</title>
-<link>https://www.youtube.com/watch?v=wXXJuz_spcU&amp;list=PLlrxD0HtieHg5ldHlEn3nMMpClX0RUntH&amp;index=29</link>
-<guid>https://www.youtube.com/watch?v=wXXJuz_spcU&amp;list=PLlrxD0HtieHg5ldHlEn3nMMpClX0RUntH&amp;index=29</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40675696">Comments</a>
-]]></content:encoded>
-<pubDate>Thu, 13 Jun 2024 22:44:20 +0000</pubDate>
 </item>
 </channel>
 </rss>
