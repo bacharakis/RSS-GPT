@@ -5,14 +5,24 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Visual Z80 Remix</title>
+<link>https://floooh.github.io/visualz80remix/</link>
+<guid>https://floooh.github.io/visualz80remix/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40769109">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 23 Jun 2024 17:37:56 +0000</pubDate>
+<pubDate>Sun, 23 Jun 2024 17:37:56 +0000</pubDate>
+</item>
+
+<item>
 <title>US sanctions Boeing for sharing information about 737 MAX 9 investigation</title>
 <link>https://apnews.com/article/boeing-ntsb-alaska-airlines-737-max-89e5655184516b4c54a9378414fe4cea</link>
 <guid>https://apnews.com/article/boeing-ntsb-alaska-airlines-737-max-89e5655184516b4c54a9378414fe4cea</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40815345">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 21:30:31 +0000</pubDate>
 <pubDate>Thu, 27 Jun 2024 21:30:31 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://cyberneticforests.substack.com/p/a-hallucinogenic-compendium</link>
 <guid>https://cyberneticforests.substack.com/p/a-hallucinogenic-compendium</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40814536">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 20:09:12 +0000</pubDate>
 <pubDate>Thu, 27 Jun 2024 20:09:12 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@
 <link>https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html</link>
 <guid>https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40815097">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 21:05:51 +0000</pubDate>
 <pubDate>Thu, 27 Jun 2024 21:05:51 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +48,10 @@
 <link>https://www.bbc.com/news/articles/cjk35vv2ryjo</link>
 <guid>https://www.bbc.com/news/articles/cjk35vv2ryjo</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40816352">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 27 Jun 2024 23:35:32 +0000</pubDate>
-<pubDate>Thu, 27 Jun 2024 23:35:32 +0000</pubDate>
 </item>
-
 <item>
 <title>200 people charged in $2.7B health care fraud crackdown</title>
 <link>https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858</link>
@@ -9012,42 +9015,6 @@
 <a href="https://news.ycombinator.com/item?id=40680446">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 14 Jun 2024 12:53:07 +0000</pubDate>
-</item>
-<item>
-<title>SQLite is likely used more than all other database engines combined</title>
-<link>https://sqlite.org/mostdeployed.html</link>
-<guid>https://sqlite.org/mostdeployed.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40693500">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 23:38:50 +0000</pubDate>
-</item>
-<item>
-<title>Cloudflare Will Poison DNS to Stop Piracy Block Circumvention</title>
-<link>https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/</link>
-<guid>https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40693451">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 23:26:20 +0000</pubDate>
-</item>
-<item>
-<title>North Dakota voters just approved an age limit for congressional candidates</title>
-<link>https://apnews.com/article/north-dakota-congressional-candidates-age-limit-b9ffa598e76bf1dd440b3fb8efd4c33b</link>
-<guid>https://apnews.com/article/north-dakota-congressional-candidates-age-limit-b9ffa598e76bf1dd440b3fb8efd4c33b</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40693524">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 23:45:59 +0000</pubDate>
-</item>
-<item>
-<title>Ollama v0.1.45</title>
-<link>https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1</link>
-<guid>https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40692970">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 21:54:02 +0000</pubDate>
 </item>
 </channel>
 </rss>
