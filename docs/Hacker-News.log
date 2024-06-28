@@ -17257,3 +17257,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Redis Alternative at Apache Software Foundation Now Supports RediSearch and SQL](https://kvrocks.apache.org/blog/kqir-query-engine/)
 append_entries: 4
 Finish: 2024-06-28 14:03:31.964732
+------------------------------------------------------
+Started: 2024-06-28 16:07:24.227202
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Simplest Way to Control Nvidia GPU Fan Speed in Linux](https://github.com/RoversX/nvidia_fan_control_linux)
+append_entries: 2
+Finish: 2024-06-28 16:07:25.055411

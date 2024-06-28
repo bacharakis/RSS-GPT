@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Apple II graphics: More than you wanted to know</title>
+<link>https://nicole.express/2024/phasing-in-and-out-of-existence.html</link>
+<guid>https://nicole.express/2024/phasing-in-and-out-of-existence.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40820311">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 13:14:36 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 13:14:36 +0000</pubDate>
+</item>
+<item>
+<title>The Simplest Way to Control Nvidia GPU Fan Speed in Linux</title>
+<link>https://github.com/RoversX/nvidia_fan_control_linux</link>
+<guid>https://github.com/RoversX/nvidia_fan_control_linux</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40818879">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 08:59:37 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 08:59:37 +0000</pubDate>
+</item>
+
+<item>
 <title>Five new ways to catch gravitational waves – and the secrets they'll reveal</title>
 <link>https://www.nature.com/articles/d41586-024-02003-6</link>
 <guid>https://www.nature.com/articles/d41586-024-02003-6</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40820063">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 12:41:22 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 12:41:22 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://www.flightradar24.com/blog/is-cat-more-common/</link>
 <guid>https://www.flightradar24.com/blog/is-cat-more-common/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40819784">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 12:04:56 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 12:04:56 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://pulsar-edit.dev/</link>
 <guid>https://pulsar-edit.dev/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40817644">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 04:13:49 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 04:13:49 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +59,10 @@
 <link>https://kvrocks.apache.org/blog/kqir-query-engine/</link>
 <guid>https://kvrocks.apache.org/blog/kqir-query-engine/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40812879">Comments</a>
 ]]></content:encoded>
 <pubDate>Thu, 27 Jun 2024 17:27:18 +0000</pubDate>
-<pubDate>Thu, 27 Jun 2024 17:27:18 +0000</pubDate>
 </item>
-
 <item>
 <title>Conway's Game of Life, in checkboxes for some reason</title>
 <link>https://huth.me/checkbox-life/</link>
@@ -9012,42 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40695997">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 16 Jun 2024 10:27:23 +0000</pubDate>
-</item>
-<item>
-<title>The History of DR DOS</title>
-<link>https://www.abortretry.fail/p/the-history-of-dr-dos</link>
-<guid>https://www.abortretry.fail/p/the-history-of-dr-dos</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40695814">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 09:32:38 +0000</pubDate>
-</item>
-<item>
-<title>The 286's internal registers (2022)</title>
-<link>https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/</link>
-<guid>https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40695795">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 09:28:15 +0000</pubDate>
-</item>
-<item>
-<title>Voyager Spacecraft and Fortran 5</title>
-<link>http://www.geonius.com/writing/other/voyager.html</link>
-<guid>http://www.geonius.com/writing/other/voyager.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40695941">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 10:09:01 +0000</pubDate>
-</item>
-<item>
-<title>Sharing wildlife sounds from all over the world</title>
-<link>https://xeno-canto.org/</link>
-<guid>https://xeno-canto.org/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40688975">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 11:07:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
