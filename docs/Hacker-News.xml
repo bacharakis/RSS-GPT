@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Moving objects precisely with sound</title>
+<link>https://actu.epfl.ch/news/moving-objects-precisely-with-sound-2/</link>
+<guid>https://actu.epfl.ch/news/moving-objects-precisely-with-sound-2/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40798025">Comments</a>
+]]></content:encoded>
+<pubDate>Wed, 26 Jun 2024 09:18:27 +0000</pubDate>
+<pubDate>Wed, 26 Jun 2024 09:18:27 +0000</pubDate>
+</item>
+<item>
+<title>Frame.work laptop now available in Denmark, Finland, and Sweden</title>
+<link>https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690</link>
+<guid>https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40818422">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 07:09:17 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 07:09:17 +0000</pubDate>
+</item>
+<item>
+<title>My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's</title>
+<link>https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html</link>
+<guid>https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40814444">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 19:59:18 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 19:59:18 +0000</pubDate>
+</item>
+
+<item>
 <title>Software galaxies</title>
 <link>https://anvaka.github.io/pm/</link>
 <guid>https://anvaka.github.io/pm/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40817852">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 04:54:53 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 04:54:53 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://www.dolthub.com/blog/2024-07-01-golang-generic-collections/</link>
 <guid>https://www.dolthub.com/blog/2024-07-01-golang-generic-collections/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40818050">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 05:38:00 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 05:38:00 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/</link>
 <guid>https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40817430">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 03:30:08 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 03:30:08 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://imbue.com/research/70b-infrastructure/</link>
 <guid>https://imbue.com/research/70b-infrastructure/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40816158">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 23:08:40 +0000</pubDate>
 <pubDate>Thu, 27 Jun 2024 23:08:40 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@
 <link>https://git-cliff.org/</link>
 <guid>https://git-cliff.org/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40798469">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 10:43:45 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 10:43:45 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@
 <link>https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html</link>
 <guid>https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40817227">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 28 Jun 2024 02:36:40 +0000</pubDate>
-<pubDate>Fri, 28 Jun 2024 02:36:40 +0000</pubDate>
 </item>
-
 <item>
 <title>The Death of NYC Congestion Pricing</title>
 <link>https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing</link>
@@ -9016,60 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40694375">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 16 Jun 2024 03:04:31 +0000</pubDate>
-</item>
-<item>
-<title>Doom for SNES full source code released by former Sculptured Software employee</title>
-<link>https://gbatemp.net/threads/doom-for-snes-full-source-code-released-by-former-sculptured-software-employees.657118/</link>
-<guid>https://gbatemp.net/threads/doom-for-snes-full-source-code-released-by-former-sculptured-software-employees.657118/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40694616">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 04:08:19 +0000</pubDate>
-</item>
-<item>
-<title>What You Get After Running an SSH Honeypot for 30 Days</title>
-<link>https://blog.sofiane.cc/ssh_honeypot/</link>
-<guid>https://blog.sofiane.cc/ssh_honeypot/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40694768">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 04:52:12 +0000</pubDate>
-</item>
-<item>
-<title>The Architecture Behind a One-Person Tech Startup (2021)</title>
-<link>https://anthonynsimon.com/blog/one-man-saas-architecture/</link>
-<guid>https://anthonynsimon.com/blog/one-man-saas-architecture/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40694103">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 01:51:54 +0000</pubDate>
-</item>
-<item>
-<title>Hokusai's 'Great Wave' features on new Japanese banknotes</title>
-<link>https://www.cnn.com/style/article/japan-new-banknotes-great-wave/index.html</link>
-<guid>https://www.cnn.com/style/article/japan-new-banknotes-great-wave/index.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40688921">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 10:56:17 +0000</pubDate>
-</item>
-<item>
-<title>Is there an algorithm as beautiful as a poem?</title>
-<link>https://tblm.substack.com/p/as-lovely-as-a-tree</link>
-<guid>https://tblm.substack.com/p/as-lovely-as-a-tree</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40688695">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 09:59:48 +0000</pubDate>
-</item>
-<item>
-<title>SimCity in the web browser using WebAssembly and OpenGL</title>
-<link>https://micropolisweb.com/</link>
-<guid>https://micropolisweb.com/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40693944">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 01:12:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
