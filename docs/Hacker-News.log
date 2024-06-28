@@ -17101,3 +17101,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [FDA warns top U.S. bakery not to claim foods contain allergens when they don't](https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens)
 append_entries: 6
 Finish: 2024-06-27 22:02:16.505780
+------------------------------------------------------
+Started: 2024-06-28 00:29:51.419271
+Existing_entries: 1006
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [US sanctions Boeing for sharing information about 737 MAX 9 investigation](https://apnews.com/article/boeing-ntsb-alaska-airlines-737-max-89e5655184516b4c54a9378414fe4cea)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Large Language Models are not a search engine](https://cyberneticforests.substack.com/p/a-hallucinogenic-compendium)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Oklahoma orders schools to teach Bible 'immediately'](https://www.bbc.com/news/articles/cjk35vv2ryjo)
+append_entries: 4
+Finish: 2024-06-28 00:29:52.633310
