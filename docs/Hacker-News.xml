@@ -5,14 +5,123 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>A Bunch of Programming Advice I'd Give to Myself 15 Years Ago</title>
+<link>https://mbuffett.com/posts/programming-advice-younger-self/</link>
+<guid>https://mbuffett.com/posts/programming-advice-younger-self/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40829607">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 11:38:01 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 11:38:01 +0000</pubDate>
+</item>
+<item>
+<title>A Hex Editor for Reverse Engineers</title>
+<link>https://github.com/WerWolv/ImHex</link>
+<guid>https://github.com/WerWolv/ImHex</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40828493">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 07:25:49 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 07:25:49 +0000</pubDate>
+</item>
+<item>
+<title>Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote, EST Timezone)</title>
+<link>https://www.nango.dev/jobs</link>
+<guid>https://www.nango.dev/jobs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40829780">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 12:02:06 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 12:02:06 +0000</pubDate>
+</item>
+<item>
+<title>How I overcame my addiction to sugar</title>
+<link>https://josem.co/how-i-overcame-my-addiction-to-sugar/</link>
+<guid>https://josem.co/how-i-overcame-my-addiction-to-sugar/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40829312">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 10:52:04 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 10:52:04 +0000</pubDate>
+</item>
+<item>
+<title>It's not just you, Next.js is getting harder to use</title>
+<link>https://www.propelauth.com/post/nextjs-challenges</link>
+<guid>https://www.propelauth.com/post/nextjs-challenges</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40828610">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 08:00:56 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 08:00:56 +0000</pubDate>
+</item>
+<item>
+<title>Ticketmaster has begun warning customers about data breach</title>
+<link>https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/</link>
+<guid>https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40829030">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 09:48:19 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 09:48:19 +0000</pubDate>
+</item>
+<item>
+<title>The Limited Value of Multivitamin Supplements</title>
+<link>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820375</link>
+<guid>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820375</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40828179">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 05:55:43 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 05:55:43 +0000</pubDate>
+</item>
+<item>
+<title>Texture Enhancement for Video Super-Resolution</title>
+<link>https://github.com/DachunKai/EvTexture</link>
+<guid>https://github.com/DachunKai/EvTexture</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40791596">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 18:08:17 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 18:08:17 +0000</pubDate>
+</item>
+<item>
+<title>Stars Reach – new social sandbox MMO by Raph Koster announced</title>
+<link>https://starsreach.com/</link>
+<guid>https://starsreach.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40819534">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 11:23:49 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 11:23:49 +0000</pubDate>
+</item>
+<item>
+<title>Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs</title>
+<link>https://arxiv.org/abs/2406.19292</link>
+<guid>https://arxiv.org/abs/2406.19292</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40827970">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 04:55:57 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 04:55:57 +0000</pubDate>
+</item>
+
+<item>
 <title>AMD MI300x GPUs with GEMM tuning improves throughput and latency by up to 7.2x</title>
 <link>https://www.nscale.com/blog/nscale-benchmarks-amd-mi300x-gpus-with-gemm-tuning-improves-throughput-and-latency-by-up-to-7-2x</link>
 <guid>https://www.nscale.com/blog/nscale-benchmarks-amd-mi300x-gpus-with-gemm-tuning-improves-throughput-and-latency-by-up-to-7-2x</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40828394">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 06:58:09 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 06:58:09 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +129,8 @@
 <link>https://rubenerd.com/all-web-content-is-freeware/</link>
 <guid>https://rubenerd.com/all-web-content-is-freeware/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40828441">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 07:09:45 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 07:09:45 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +138,8 @@
 <link>https://guzey.com/old-people/</link>
 <guid>https://guzey.com/old-people/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40828587">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 07:52:43 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 07:52:43 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +147,8 @@
 <link>https://www.theregister.com/2024/06/28/microsoft_ceo_ai/</link>
 <guid>https://www.theregister.com/2024/06/28/microsoft_ceo_ai/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40828438">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 07:09:16 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 07:09:16 +0000</pubDate>
 </item>
 <item>
@@ -53,13 +156,10 @@
 <link>https://www.ymeskhout.com/p/bebe-bibliophile</link>
 <guid>https://www.ymeskhout.com/p/bebe-bibliophile</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40822498">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 28 Jun 2024 16:53:04 +0000</pubDate>
-<pubDate>Fri, 28 Jun 2024 16:53:04 +0000</pubDate>
 </item>
-
 <item>
 <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
 <link>https://rachelbythebay.com/w/2024/06/28/fxios/</link>
@@ -9014,51 +9114,6 @@
 <a href="https://news.ycombinator.com/item?id=40702546">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 05:23:15 +0000</pubDate>
-</item>
-<item>
-<title>Hello world in C inline assembly (2020)</title>
-<link>https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/</link>
-<guid>https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40695001">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 06:04:18 +0000</pubDate>
-</item>
-<item>
-<title>Feds Arrest Telehealth Execs for Overprescribing Adderall</title>
-<link>https://reason.com/2024/06/14/feds-arrest-telehealth-execs-for-overprescribing-adderall/</link>
-<guid>https://reason.com/2024/06/14/feds-arrest-telehealth-execs-for-overprescribing-adderall/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40702092">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 03:32:24 +0000</pubDate>
-</item>
-<item>
-<title>Horses may have been domesticated twice. Only one attempt stuck</title>
-<link>https://www.sciencenews.org/article/horses-domesticated-mobility-timing</link>
-<guid>https://www.sciencenews.org/article/horses-domesticated-mobility-timing</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40700643">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 22:27:23 +0000</pubDate>
-</item>
-<item>
-<title>On Dromomania</title>
-<link>https://sophiefuji.com/travels.html</link>
-<guid>https://sophiefuji.com/travels.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40695387">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 07:44:47 +0000</pubDate>
-</item>
-<item>
-<title>Urban spatial order: street network orientation, configuration, and entropy</title>
-<link>https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1</link>
-<guid>https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40695151">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 06:46:52 +0000</pubDate>
 </item>
 </channel>
 </rss>
