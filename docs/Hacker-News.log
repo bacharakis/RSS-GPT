@@ -17629,3 +17629,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 append_entries: 5
 Finish: 2024-06-29 20:02:14.752395
+------------------------------------------------------
+Started: 2024-06-29 22:02:11.096532
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [USB HID deevice class definition [pdf]](https://www.usb.org/sites/default/files/hid1_11.pdf)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Small Businesses in Crisis as Rising Numbers Unable to Pay Rent](https://www.newsweek.com/small-businesses-crisis-rising-numbers-unable-pay-rent-1895480)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Mapping the Red Planet with the Power of Open Science](https://www.jpl.nasa.gov/news/mapping-the-red-planet-with-the-power-of-open-science)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ask HN: How to find a new job when I'm not good at networking?](https://news.ycombinator.com/item?id=40833149)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How divorce is boosting gender equality in Sweden – new study](https://theconversation.com/how-divorce-is-boosting-gender-equality-in-sweden-new-study-233474)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Open-LLM performances are plateauing](https://huggingface.co/spaces/open-llm-leaderboard/blog)
+append_entries: 6
+Finish: 2024-06-29 22:02:12.582149
