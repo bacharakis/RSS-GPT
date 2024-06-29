@@ -17380,3 +17380,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 append_entries: 5
 Finish: 2024-06-28 22:02:54.058485
+------------------------------------------------------
+Started: 2024-06-29 00:29:08.612408
+Existing_entries: 1005
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Paramount Wipes South Park, Daily Show Clips, and More from Websites](https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Everything You Should Know about the Legendary Valjoux 7750 Chronograph Movement](https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Magic of Participatory Randomness](https://cryptography.dog/blog/rng-day-2024/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Thermion, an open source 3D rendering toolkit for Flutter and/or Dart](https://thermion.dev)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Will we ever get fusion power?](https://www.construction-physics.com/p/will-we-ever-get-fusion-power)
+append_entries: 7
+Finish: 2024-06-29 00:29:10.271474
