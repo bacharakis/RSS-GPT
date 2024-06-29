@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws</title>
+<link>https://memorycorruption.net/posts/rce-lua-factorio/</link>
+<guid>https://memorycorruption.net/posts/rce-lua-factorio/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40830005">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 12:35:51 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 12:35:51 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Protect your links with a password</title>
+<link>https://www.protectmylink.xyz/</link>
+<guid>https://www.protectmylink.xyz/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40830996">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 14:47:04 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 14:47:04 +0000</pubDate>
+</item>
+<item>
+<title>The Flexipede Revisited</title>
+<link>https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm</link>
+<guid>https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40828223">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 06:13:51 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 06:13:51 +0000</pubDate>
+</item>
+<item>
+<title>To Be Real: On Emily Nussbaum's "Cue the Sun "</title>
+<link>https://lareviewofbooks.org/article/to-be-real-on-emily-nussbaums-cue-the-sun/</link>
+<guid>https://lareviewofbooks.org/article/to-be-real-on-emily-nussbaums-cue-the-sun/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40829127">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 10:11:02 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 10:11:02 +0000</pubDate>
+</item>
+<item>
+<title>The Economics of Writing Technical Books</title>
+<link>https://architectelevator.com/strategy/book-author-economics/</link>
+<guid>https://architectelevator.com/strategy/book-author-economics/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40830332">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 13:26:46 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 13:26:46 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: How Does Alexa Avoid Interrupting Itself When Saying Its Own Name?</title>
+<link>https://news.ycombinator.com/item?id=40790347</link>
+<guid>https://news.ycombinator.com/item?id=40790347</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40790347">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 16:15:29 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 16:15:29 +0000</pubDate>
+</item>
+<item>
+<title>Do I Regret Being 'Just' a Software Engineer?</title>
+<link>https://www.jacky.wtf/essays/2024/regrets-with-tech/</link>
+<guid>https://www.jacky.wtf/essays/2024/regrets-with-tech/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40827628">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 03:15:02 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 03:15:02 +0000</pubDate>
+</item>
+<item>
+<title>Mooncake: A KVCache-Centric Disaggregated Architecture for LLM Serving</title>
+<link>https://github.com/kvcache-ai/Mooncake</link>
+<guid>https://github.com/kvcache-ai/Mooncake</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40828091">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 05:30:43 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 05:30:43 +0000</pubDate>
+</item>
+
+<item>
 <title>OctoPrint's anonymous usage stats were manipulated</title>
 <link>https://octoprint.org/blog/2024/06/28/stats-manipulation/</link>
 <guid>https://octoprint.org/blog/2024/06/28/stats-manipulation/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40829720">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 11:53:37 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 11:53:37 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://www.bbc.com/news/articles/c0jjq2vynq7o</link>
 <guid>https://www.bbc.com/news/articles/c0jjq2vynq7o</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40830463">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 13:43:05 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 13:43:05 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://www.theregister.com/2024/06/28/microsoft_skeleton_key_ai_attack/</link>
 <guid>https://www.theregister.com/2024/06/28/microsoft_skeleton_key_ai_attack/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40829777">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 12:01:55 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 12:01:55 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +125,10 @@
 <link>https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/</link>
 <guid>https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40829357">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 29 Jun 2024 10:58:08 +0000</pubDate>
-<pubDate>Sat, 29 Jun 2024 10:58:08 +0000</pubDate>
 </item>
-
 <item>
 <title>A Bunch of Programming Advice I'd Give to Myself 15 Years Ago</title>
 <link>https://mbuffett.com/posts/programming-advice-younger-self/</link>
@@ -9012,42 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40703908">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 09:45:42 +0000</pubDate>
-</item>
-<item>
-<title>How to Romhack: Mega Man Legends 2 [video]</title>
-<link>https://www.youtube.com/watch?v=S0RmHFpdf-Y</link>
-<guid>https://www.youtube.com/watch?v=S0RmHFpdf-Y</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40698680">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 17:30:28 +0000</pubDate>
-</item>
-<item>
-<title>The Tyranny of the Flake Equation</title>
-<link>https://www.moderndescartes.com/essays/flake_equation/</link>
-<guid>https://www.moderndescartes.com/essays/flake_equation/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40701480">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 01:17:42 +0000</pubDate>
-</item>
-<item>
-<title>How to get stuff repaired when the manufacturer don't wanna: take 'em to court</title>
-<link>https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court</link>
-<guid>https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40702782">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 06:14:50 +0000</pubDate>
-</item>
-<item>
-<title>Developer Takes 'Retro' Concept to New Level by Creating Physical Winamp Player</title>
-<link>https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player</link>
-<guid>https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40703176">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 07:40:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
