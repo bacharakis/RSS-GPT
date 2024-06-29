@@ -5,14 +5,68 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>The XAES-256-GCM extended-nonce AEAD</title>
+<link>https://words.filippo.io/dispatches/xaes-256-gcm/</link>
+<guid>https://words.filippo.io/dispatches/xaes-256-gcm/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40826683">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 00:01:24 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 00:01:24 +0000</pubDate>
+</item>
+<item>
+<title>Microsoft pauses Windows 11 update as it's sending some PCs into infinite reboot</title>
+<link>https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell</link>
+<guid>https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40827108">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 01:17:03 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 01:17:03 +0000</pubDate>
+</item>
+<item>
+<title>Producing fuels from 1,500 degrees of solar heat</title>
+<link>https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/</link>
+<guid>https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40786786">Comments</a>
+]]></content:encoded>
+<pubDate>Tue, 25 Jun 2024 10:43:59 +0000</pubDate>
+<pubDate>Tue, 25 Jun 2024 10:43:59 +0000</pubDate>
+</item>
+<item>
+<title>Andrée's Arctic Balloon Expedition</title>
+<link>https://en.wikipedia.org/wiki/Andr%C3%A9e%27s_Arctic_balloon_expedition</link>
+<guid>https://en.wikipedia.org/wiki/Andr%C3%A9e%27s_Arctic_balloon_expedition</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40815355">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 21:32:12 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 21:32:12 +0000</pubDate>
+</item>
+<item>
+<title>The CIDR trie data structure</title>
+<link>https://d34dl0ck.me/rust-bites-cidr-trie/index.html</link>
+<guid>https://d34dl0ck.me/rust-bites-cidr-trie/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40826038">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 22:35:03 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 22:35:03 +0000</pubDate>
+</item>
+
+<item>
 <title>A Eulogy for DevOps</title>
 <link>https://matduggan.com/a-eulogy-for-devops/</link>
 <guid>https://matduggan.com/a-eulogy-for-devops/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40826236">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 22:59:05 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 22:59:05 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@
 <link>https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/</link>
 <guid>https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40825660">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 21:52:28 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 21:52:28 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@
 <link>https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/</link>
 <guid>https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40786007">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 08:41:31 +0000</pubDate>
 <pubDate>Tue, 25 Jun 2024 08:41:31 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@
 <link>https://aabiji.github.io/focal/</link>
 <guid>https://aabiji.github.io/focal/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40825169">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 20:51:56 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 20:51:56 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +101,8 @@
 <link>https://cryptography.dog/blog/rng-day-2024/</link>
 <guid>https://cryptography.dog/blog/rng-day-2024/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40787176">Comments</a>
 ]]></content:encoded>
-<pubDate>Tue, 25 Jun 2024 11:34:19 +0000</pubDate>
 <pubDate>Tue, 25 Jun 2024 11:34:19 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +110,8 @@
 <link>https://thermion.dev</link>
 <guid>https://thermion.dev</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40818835">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 08:47:56 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 08:47:56 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +119,10 @@
 <link>https://www.construction-physics.com/p/will-we-ever-get-fusion-power</link>
 <guid>https://www.construction-physics.com/p/will-we-ever-get-fusion-power</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40799006">Comments</a>
 ]]></content:encoded>
 <pubDate>Wed, 26 Jun 2024 12:06:35 +0000</pubDate>
-<pubDate>Wed, 26 Jun 2024 12:06:35 +0000</pubDate>
 </item>
-
 <item>
 <title>The true story – as best I can remember – of the origin of Mosaic and Netscape</title>
 <link>https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember</link>
@@ -9018,69 +9059,6 @@
 <a href="https://news.ycombinator.com/item?id=40700530">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 16 Jun 2024 22:09:50 +0000</pubDate>
-</item>
-<item>
-<title>MicroMac, a Macintosh for Under £5</title>
-<link>https://axio.ms/projects/2024/06/16/MicroMac.html</link>
-<guid>https://axio.ms/projects/2024/06/16/MicroMac.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40699684">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 20:02:47 +0000</pubDate>
-</item>
-<item>
-<title>Bouba/Kiki Effect</title>
-<link>https://en.wikipedia.org/wiki/Bouba/kiki_effect</link>
-<guid>https://en.wikipedia.org/wiki/Bouba/kiki_effect</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40699583">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 19:50:16 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: SQLite Database Explorer</title>
-<link>https://github.com/frectonz/sqlite-studio</link>
-<guid>https://github.com/frectonz/sqlite-studio</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40700343">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 21:39:18 +0000</pubDate>
-</item>
-<item>
-<title>First look at the upcoming Starlink Mini</title>
-<link>https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/</link>
-<guid>https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40699504">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 19:39:27 +0000</pubDate>
-</item>
-<item>
-<title>Quantum entangled photons react to Earth's spin</title>
-<link>https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html</link>
-<guid>https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40693984">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 01:25:07 +0000</pubDate>
-</item>
-<item>
-<title>Why Structure and Interpretation of Computer Programs Matters</title>
-<link>https://people.eecs.berkeley.edu/~bh/sicp.html</link>
-<guid>https://people.eecs.berkeley.edu/~bh/sicp.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40698906">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 18:02:42 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Searchable Kubernetes CSI provider listing</title>
-<link>https://storageclass.info/storageclasses/</link>
-<guid>https://storageclass.info/storageclasses/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40699278">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 19:05:04 +0000</pubDate>
 </item>
 </channel>
 </rss>
