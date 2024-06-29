@@ -17533,3 +17533,21 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
 append_entries: 10
 Finish: 2024-06-29 12:10:46.348747
+------------------------------------------------------
+Started: 2024-06-29 14:01:33.342808
+Existing_entries: 1010
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OctoPrint's anonymous usage stats were manipulated](https://octoprint.org/blog/2024/06/28/stats-manipulation/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Dying together: Why a happily married couple decided to stop living](https://www.bbc.com/news/articles/c0jjq2vynq7o)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: ['Skeleton Key' attack unlocks the worst of AI, says Microsoft](https://www.theregister.com/2024/06/28/microsoft_skeleton_key_ai_attack/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Developer experience: What is it and why should you care? (2023)](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/)
+append_entries: 4
+Finish: 2024-06-29 14:01:34.142623
