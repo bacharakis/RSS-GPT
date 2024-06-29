@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>OpenLoco: Modern, open source version of the classic transport simulation game</title>
+<link>https://openloco.io/</link>
+<guid>https://openloco.io/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40827586">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 03:05:09 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 03:05:09 +0000</pubDate>
+</item>
+<item>
+<title>Serpentine</title>
+<link>https://www.asymptotejournal.com/blog/2024/06/24/serpentine/</link>
+<guid>https://www.asymptotejournal.com/blog/2024/06/24/serpentine/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40822535">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 16:57:20 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 16:57:20 +0000</pubDate>
+</item>
+
+<item>
 <title>Hacking Amazon's Eero 6 (part 1)</title>
 <link>https://markuta.com/eero-6-hacking-part-1/</link>
 <guid>https://markuta.com/eero-6-hacking-part-1/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40826817">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 00:24:30 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 00:24:30 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://arxiv.org/abs/1401.7220</link>
 <guid>https://arxiv.org/abs/1401.7220</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40826111">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 22:43:05 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 22:43:05 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@
 <link>https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann</link>
 <guid>https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40817343">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 03:08:47 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 03:08:47 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +59,10 @@
 <link>https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi</link>
 <guid>https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40827650">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 29 Jun 2024 03:19:42 +0000</pubDate>
-<pubDate>Sat, 29 Jun 2024 03:19:42 +0000</pubDate>
 </item>
-
 <item>
 <title>The XAES-256-GCM extended-nonce AEAD</title>
 <link>https://words.filippo.io/dispatches/xaes-256-gcm/</link>
@@ -9012,42 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40701391">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 00:58:31 +0000</pubDate>
-</item>
-<item>
-<title>Maintaining large-scale AI capacity at Meta</title>
-<link>https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/</link>
-<guid>https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40700586">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 22:18:19 +0000</pubDate>
-</item>
-<item>
-<title>Starlark Language</title>
-<link>https://github.com/bazelbuild/starlark</link>
-<guid>https://github.com/bazelbuild/starlark</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40700549">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 22:11:27 +0000</pubDate>
-</item>
-<item>
-<title>Why Google Takeout is sooo bad</title>
-<link>https://marcin.cylke.com.pl/2024/06/16/why-google-takeout-is-sooo-bad/</link>
-<guid>https://marcin.cylke.com.pl/2024/06/16/why-google-takeout-is-sooo-bad/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40700146">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 21:12:03 +0000</pubDate>
-</item>
-<item>
-<title>Tech nostalgia enthusiasts have made a PiDP-10, a replica of the PDP-10</title>
-<link>https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10</link>
-<guid>https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40700258">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 21:29:03 +0000</pubDate>
 </item>
 </channel>
 </rss>
