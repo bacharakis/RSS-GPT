@@ -5,14 +5,24 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Inside a $1 radar motion sensor</title>
+<link>https://10maurycy10.github.io/projects/motion_sensor_hacking/</link>
+<guid>https://10maurycy10.github.io/projects/motion_sensor_hacking/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40834349">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 00:44:06 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 00:44:06 +0000</pubDate>
+</item>
+
+<item>
 <title>Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser</title>
 <link>https://twitter.com/rauchg/status/1806385778064564622</link>
 <guid>https://twitter.com/rauchg/status/1806385778064564622</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40834600">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 01:56:41 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 01:56:41 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@
 <link>https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html</link>
 <guid>https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40833645">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 22:14:02 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 22:14:02 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@
 <link>https://news.ycombinator.com/item?id=40834289</link>
 <guid>https://news.ycombinator.com/item?id=40834289</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40834289">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 00:27:29 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 00:27:29 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +48,8 @@
 <link>https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/</link>
 <guid>https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40834061">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 23:34:39 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 23:34:39 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +57,8 @@
 <link>https://www.ntwrk.site</link>
 <guid>https://www.ntwrk.site</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40828074">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 05:24:21 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 05:24:21 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +66,8 @@
 <link>https://www.zdnet.com/article/canonicals-distroless-linux-images-are-a-game-changer-for-enterprises/</link>
 <guid>https://www.zdnet.com/article/canonicals-distroless-linux-images-are-a-game-changer-for-enterprises/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40819708">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 11:51:53 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 11:51:53 +0000</pubDate>
 </item>
 <item>
@@ -75,13 +75,10 @@
 <link>https://grsecurity.net/cve-2021-4440_linux_cna_case_study</link>
 <guid>https://grsecurity.net/cve-2021-4440_linux_cna_case_study</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40833334">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 29 Jun 2024 21:01:34 +0000</pubDate>
-<pubDate>Sat, 29 Jun 2024 21:01:34 +0000</pubDate>
 </item>
-
 <item>
 <title>Overleaf: An open-source online real-time collaborative LaTeX editor</title>
 <link>https://github.com/overleaf/overleaf</link>
@@ -9018,69 +9015,6 @@
 <a href="https://news.ycombinator.com/item?id=40709622">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 18:59:22 +0000</pubDate>
-</item>
-<item>
-<title>How to Minimize Your Exposure to Microplastics</title>
-<link>https://www.nytimes.com/2024/06/07/well/microplastics-health.html</link>
-<guid>https://www.nytimes.com/2024/06/07/well/microplastics-health.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40709961">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 19:26:12 +0000</pubDate>
-</item>
-<item>
-<title>FTC sues Adobe for hiding fees and inhibiting cancellations</title>
-<link>https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling</link>
-<guid>https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40707558">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 16:29:53 +0000</pubDate>
-</item>
-<item>
-<title>Web Crawl Analysis: Unveiling 465K Shopify Domains from 3TB of Data</title>
-<link>https://alistechtales.substack.com/p/discovering-shopify-domains-a-journey</link>
-<guid>https://alistechtales.substack.com/p/discovering-shopify-domains-a-journey</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40708830">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 17:58:43 +0000</pubDate>
-</item>
-<item>
-<title>Proton is taking its privacy-first apps to a nonprofit foundation model</title>
-<link>https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/</link>
-<guid>https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40708046">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 17:05:05 +0000</pubDate>
-</item>
-<item>
-<title>Florida Sheriff Grady Judd Decides He's Capable of Running an AI Crime Thingy</title>
-<link>https://www.techdirt.com/2024/06/17/florida-sheriff-grady-judd-decides-hes-capable-of-running-an-ai-crime-thingy/</link>
-<guid>https://www.techdirt.com/2024/06/17/florida-sheriff-grady-judd-decides-hes-capable-of-running-an-ai-crime-thingy/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40708557">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 17:40:17 +0000</pubDate>
-</item>
-<item>
-<title>Carma (YC W24) Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair</title>
-<link>https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs</link>
-<guid>https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40707986">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 17:00:13 +0000</pubDate>
-</item>
-<item>
-<title>Nvidia gets 20% weighting, more investor demand; Apple demoted in major techfund</title>
-<link>https://www.cnbc.com/2024/06/17/nvidia-to-get-20percent-weighting-and-billions-in-investor-demand-while-apple-demoted-in-major-tech-fund.html</link>
-<guid>https://www.cnbc.com/2024/06/17/nvidia-to-get-20percent-weighting-and-billions-in-investor-demand-while-apple-demoted-in-major-tech-fund.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40707682">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 16:38:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
