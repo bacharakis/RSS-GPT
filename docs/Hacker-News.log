@@ -17908,3 +17908,33 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [I Started a Bike Bus (2023)](https://www.wired.com/story/how-to-start-a-bike-bus/)
 append_entries: 20
 Finish: 2024-06-30 18:07:18.898742
+------------------------------------------------------
+Started: 2024-06-30 20:04:39.139845
+Existing_entries: 1020
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Exploring Randomness in JavaScript](https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Hoping for a Miracle to Save the Ogallala Aquifer? Prepare for the New Dust Bowl](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NASA and SpaceX misjudged the risks from reentering space junk](https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to get away with fraud (2018)](https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud)
+append_entries: 8
+Finish: 2024-06-30 20:04:40.591023

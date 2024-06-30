@@ -5,14 +5,101 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Writing GUI apps for Windows is painful</title>
+<link>https://tulach.cc/writing-gui-apps-for-windows-is-painful/</link>
+<guid>https://tulach.cc/writing-gui-apps-for-windows-is-painful/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40839208">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 18:53:18 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 18:53:18 +0000</pubDate>
+</item>
+<item>
+<title>A simplified Python simulation of diffusion</title>
+<link>https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle</link>
+<guid>https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40838945">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 18:24:34 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 18:24:34 +0000</pubDate>
+</item>
+<item>
+<title>Postzegelcode</title>
+<link>https://en.wikipedia.org/wiki/Postzegelcode</link>
+<guid>https://en.wikipedia.org/wiki/Postzegelcode</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40839418">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 19:17:42 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 19:17:42 +0000</pubDate>
+</item>
+<item>
+<title>Combine multiple RSS feeds into a single feed, as a service</title>
+<link>https://github.com/chase-seibert/rsscombine</link>
+<guid>https://github.com/chase-seibert/rsscombine</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40839262">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 18:58:58 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 18:58:58 +0000</pubDate>
+</item>
+<item>
+<title>Exploring Randomness in JavaScript</title>
+<link>https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm</link>
+<guid>https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40819441">Comments</a>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 11:05:57 +0000</pubDate>
+<pubDate>Fri, 28 Jun 2024 11:05:57 +0000</pubDate>
+</item>
+<item>
+<title>Hoping for a Miracle to Save the Ogallala Aquifer? Prepare for the New Dust Bowl</title>
+<link>https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/</link>
+<guid>https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40838388">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 17:07:03 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 17:07:03 +0000</pubDate>
+</item>
+<item>
+<title>NASA and SpaceX misjudged the risks from reentering space junk</title>
+<link>https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/</link>
+<guid>https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40838859">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 18:14:18 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 18:14:18 +0000</pubDate>
+</item>
+<item>
+<title>How to get away with fraud (2018)</title>
+<link>https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud</link>
+<guid>https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40828256">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 06:26:10 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 06:26:10 +0000</pubDate>
+</item>
+
+<item>
 <title>Microsoft 1998 = Apple 2024</title>
 <link>https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/</link>
 <guid>https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40838330">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 17:00:22 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 17:00:22 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@
 <link>https://mental-reverb.com/blog.php?id=29</link>
 <guid>https://mental-reverb.com/blog.php?id=29</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40837411">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 14:42:03 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 14:42:03 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@
 <link>https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed</link>
 <guid>https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40838167">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 16:38:08 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 16:38:08 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@
 <link>https://luggagelosers.com/</link>
 <guid>https://luggagelosers.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40838290">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 16:54:39 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 16:54:39 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@
 <link>https://silentsignal.github.io/BelowMI/</link>
 <guid>https://silentsignal.github.io/BelowMI/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40837420">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 14:43:54 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 14:43:54 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@
 <link>https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002</link>
 <guid>https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40838327">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 17:00:14 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 17:00:14 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +152,8 @@
 <link>https://minimaxir.com/2024/06/pokemon-embeddings/</link>
 <guid>https://minimaxir.com/2024/06/pokemon-embeddings/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40831964">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 17:03:53 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 17:03:53 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +161,8 @@
 <link>https://github.com/mifi/lossless-cut</link>
 <guid>https://github.com/mifi/lossless-cut</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40829494">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 11:18:37 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 11:18:37 +0000</pubDate>
 </item>
 <item>
@@ -97,10 +170,8 @@
 <link>https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846</link>
 <guid>https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40838515">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 17:23:04 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 17:23:04 +0000</pubDate>
 </item>
 <item>
@@ -108,10 +179,8 @@
 <link>https://shepherdinsurance.com/blog/the-great-database-migration</link>
 <guid>https://shepherdinsurance.com/blog/the-great-database-migration</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40820369">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 13:21:05 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 13:21:05 +0000</pubDate>
 </item>
 <item>
@@ -119,10 +188,8 @@
 <link>https://jcs.org/2024/05/29/x1usb</link>
 <guid>https://jcs.org/2024/05/29/x1usb</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40833960">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 23:17:53 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 23:17:53 +0000</pubDate>
 </item>
 <item>
@@ -130,10 +197,8 @@
 <link>https://www.outdoorlife.com/conservation/blm-blocks-ambler-road/</link>
 <guid>https://www.outdoorlife.com/conservation/blm-blocks-ambler-road/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40837400">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 14:40:21 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 14:40:21 +0000</pubDate>
 </item>
 <item>
@@ -141,10 +206,8 @@
 <link>https://seniormars.com/posts/neovim-workflow/</link>
 <guid>https://seniormars.com/posts/neovim-workflow/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40798723">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 11:25:11 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 11:25:11 +0000</pubDate>
 </item>
 <item>
@@ -152,10 +215,8 @@
 <link>https://dpolakovic.space/blogs/y292b</link>
 <guid>https://dpolakovic.space/blogs/y292b</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40801710">Comments</a>
 ]]></content:encoded>
-<pubDate>Wed, 26 Jun 2024 16:26:25 +0000</pubDate>
 <pubDate>Wed, 26 Jun 2024 16:26:25 +0000</pubDate>
 </item>
 <item>
@@ -163,10 +224,8 @@
 <link>https://pickcode.io</link>
 <guid>https://pickcode.io</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40831904">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 16:56:51 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 16:56:51 +0000</pubDate>
 </item>
 <item>
@@ -174,10 +233,8 @@
 <link>https://projects.fivethirtyeight.com/p-hacking/</link>
 <guid>https://projects.fivethirtyeight.com/p-hacking/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40826259">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 23:04:15 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 23:04:15 +0000</pubDate>
 </item>
 <item>
@@ -185,10 +242,8 @@
 <link>https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/</link>
 <guid>https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40822532">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 16:57:13 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 16:57:13 +0000</pubDate>
 </item>
 <item>
@@ -196,10 +251,8 @@
 <link>https://arxiv.org/abs/2406.19108</link>
 <guid>https://arxiv.org/abs/2406.19108</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40820022">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 12:36:00 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 12:36:00 +0000</pubDate>
 </item>
 <item>
@@ -207,10 +260,8 @@
 <link>https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760</link>
 <guid>https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40834012">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 23:27:02 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 23:27:02 +0000</pubDate>
 </item>
 <item>
@@ -218,13 +269,10 @@
 <link>https://www.wired.com/story/how-to-start-a-bike-bus/</link>
 <guid>https://www.wired.com/story/how-to-start-a-bike-bus/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40837365">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 30 Jun 2024 14:34:17 +0000</pubDate>
-<pubDate>Sun, 30 Jun 2024 14:34:17 +0000</pubDate>
 </item>
-
 <item>
 <title>Show HN: Drop-In SQS Replacement Based on SQLite</title>
 <link>https://github.com/poundifdef/SmoothMQ</link>
@@ -9044,186 +9092,6 @@
 <a href="https://news.ycombinator.com/item?id=40712872">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 00:41:08 +0000</pubDate>
-</item>
-<item>
-<title>Ask HN: How do you find a mentor in software engineering and in life?</title>
-<link>https://news.ycombinator.com/item?id=40714215</link>
-<guid>https://news.ycombinator.com/item?id=40714215</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40714215">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 05:03:55 +0000</pubDate>
-</item>
-<item>
-<title>NumPy-style broadcasting in Futhark</title>
-<link>https://futhark-lang.org/blog/2024-06-17-automap.html</link>
-<guid>https://futhark-lang.org/blog/2024-06-17-automap.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40704179">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 10:38:34 +0000</pubDate>
-</item>
-<item>
-<title>Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data</title>
-<link>https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data</link>
-<guid>https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40713389">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 02:04:52 +0000</pubDate>
-</item>
-<item>
-<title>Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market (1998)</title>
-<link>https://www.hitachi.com/New/cnews/E/1998/981111B.html</link>
-<guid>https://www.hitachi.com/New/cnews/E/1998/981111B.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40712847">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 00:37:12 +0000</pubDate>
-</item>
-<item>
-<title>The upcoming iterator design for Go 1.23</title>
-<link>https://www.gingerbill.org/article/2024/06/17/go-iterator-design/</link>
-<guid>https://www.gingerbill.org/article/2024/06/17/go-iterator-design/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40712720">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 00:15:03 +0000</pubDate>
-</item>
-<item>
-<title>Homunculus</title>
-<link>https://homunculus.jp/</link>
-<guid>https://homunculus.jp/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40696211">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 11:16:34 +0000</pubDate>
-</item>
-<item>
-<title>Sam Altman is not on YC's board. So why claim to be its chair?</title>
-<link>https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html</link>
-<guid>https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40710417">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 20:04:19 +0000</pubDate>
-</item>
-<item>
-<title>Sonoluminescence</title>
-<link>https://en.wikipedia.org/wiki/Sonoluminescence</link>
-<guid>https://en.wikipedia.org/wiki/Sonoluminescence</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40703882">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 09:40:54 +0000</pubDate>
-</item>
-<item>
-<title>Getting 50% (SoTA) on Arc-AGI with GPT-4o</title>
-<link>https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt</link>
-<guid>https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711484">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 21:51:14 +0000</pubDate>
-</item>
-<item>
-<title>Tsutomu Yamaguchi – A man who survived both atomic bombings (2023)</title>
-<link>https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor</link>
-<guid>https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711780">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 22:19:38 +0000</pubDate>
-</item>
-<item>
-<title>A Note on Essential Complexity</title>
-<link>https://olano.dev/blog/a-note-on-essential-complexity</link>
-<guid>https://olano.dev/blog/a-note-on-essential-complexity</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711661">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 22:08:19 +0000</pubDate>
-</item>
-<item>
-<title>The Pitfalls of Comparing BigDecimals in Java</title>
-<link>https://igorstechnoclub.com/java-bigdecimal/</link>
-<guid>https://igorstechnoclub.com/java-bigdecimal/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711640">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 22:06:54 +0000</pubDate>
-</item>
-<item>
-<title>Optical PCIe 7.0 connection hits a blazing 128 GT/s</title>
-<link>https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts</link>
-<guid>https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40704594">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 11:42:08 +0000</pubDate>
-</item>
-<item>
-<title>FPGA-Based Disk Controller for Apple II</title>
-<link>https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/</link>
-<guid>https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711526">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 21:55:37 +0000</pubDate>
-</item>
-<item>
-<title>Intel-undervolt: CPU undervolting and throttling configuration tool for Linux</title>
-<link>https://github.com/kitsunyan/intel-undervolt</link>
-<guid>https://github.com/kitsunyan/intel-undervolt</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40712020">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 22:44:44 +0000</pubDate>
-</item>
-<item>
-<title>Humans began to rapidly accumulate technological knowledge 600k years ago</title>
-<link>https://news.asu.edu/20240617-science-and-technology-asu-study-points-origin-cumulative-culture-human-evolution</link>
-<guid>https://news.asu.edu/20240617-science-and-technology-asu-study-points-origin-cumulative-culture-human-evolution</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711284">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 21:28:50 +0000</pubDate>
-</item>
-<item>
-<title>Intel Details Skymont</title>
-<link>https://chipsandcheese.com/2024/06/15/intel-details-skymont/</link>
-<guid>https://chipsandcheese.com/2024/06/15/intel-details-skymont/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711835">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 22:24:47 +0000</pubDate>
-</item>
-<item>
-<title>The Unending Allure of High Mountains</title>
-<link>https://www.noemamag.com/the-unending-allure-of-high-mountains/</link>
-<guid>https://www.noemamag.com/the-unending-allure-of-high-mountains/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40698415">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 16:50:48 +0000</pubDate>
-</item>
-<item>
-<title>LLM that can call multiple tool APIs with one request</title>
-<link>https://cohere.com/blog/multi-step-tool-use</link>
-<guid>https://cohere.com/blog/multi-step-tool-use</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711447">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 21:47:34 +0000</pubDate>
-</item>
-<item>
-<title>The Decompilation Wiki: categorized knowledge on decompilation</title>
-<link>https://decompilation.wiki/</link>
-<guid>https://decompilation.wiki/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711355">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 21:37:48 +0000</pubDate>
 </item>
 </channel>
 </rss>
