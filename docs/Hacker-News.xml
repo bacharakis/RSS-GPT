@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Show HN: Drop-In SQS Replacement Based on SQLite</title>
+<link>https://github.com/poundifdef/SmoothMQ</link>
+<guid>https://github.com/poundifdef/SmoothMQ</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40837610">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 15:11:08 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 15:11:08 +0000</pubDate>
+</item>
+<item>
+<title>How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time</title>
+<link>https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/</link>
+<guid>https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40836685">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 11:52:02 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 11:52:02 +0000</pubDate>
+</item>
+<item>
+<title>Text for Proofing Fonts (2020)</title>
+<link>https://www.typography.com/blog/text-for-proofing-fonts</link>
+<guid>https://www.typography.com/blog/text-for-proofing-fonts</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40830395">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 13:34:55 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 13:34:55 +0000</pubDate>
+</item>
+<item>
+<title>Power station's last coal delivery arrives by rail</title>
+<link>https://www.bbc.co.uk/news/articles/ckkg0wl7dkro</link>
+<guid>https://www.bbc.co.uk/news/articles/ckkg0wl7dkro</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40837524">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 15:00:42 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 15:00:42 +0000</pubDate>
+</item>
+<item>
+<title>50 Welcome Signs for 50 States</title>
+<link>https://commons.wikimedia.org/wiki/U.S._state_welcome_signs</link>
+<guid>https://commons.wikimedia.org/wiki/U.S._state_welcome_signs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40837357">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 14:32:02 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 14:32:02 +0000</pubDate>
+</item>
+<item>
+<title>Self-healing 'living skin' can make robots more humanlike</title>
+<link>https://www.livescience.com/technology/robotics/self-healing-living-skin-can-make-robots-more-humanlike-and-it-looks-just-as-creepy-as-youd-expect</link>
+<guid>https://www.livescience.com/technology/robotics/self-healing-living-skin-can-make-robots-more-humanlike-and-it-looks-just-as-creepy-as-youd-expect</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40837240">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 14:08:30 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 14:08:30 +0000</pubDate>
+</item>
+
+<item>
 <title>Appeals court seems lost on how Internet Archive harms publishers</title>
 <link>https://arstechnica.com/tech-policy/2024/06/appeals-court-seems-lost-on-how-internet-archive-harms-publishers/</link>
 <guid>https://arstechnica.com/tech-policy/2024/06/appeals-court-seems-lost-on-how-internet-archive-harms-publishers/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40836934">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 13:03:52 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 13:03:52 +0000</pubDate>
 </item>
 <item>
@@ -20,13 +85,10 @@
 <link>https://www.ultimatepp.org/index.html</link>
 <guid>https://www.ultimatepp.org/index.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40828426">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 29 Jun 2024 07:05:14 +0000</pubDate>
-<pubDate>Sat, 29 Jun 2024 07:05:14 +0000</pubDate>
 </item>
-
 <item>
 <title>Duff's Device and Coroutines (2008)</title>
 <link>https://research.swtch.com/duff</link>
@@ -9008,24 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40711107">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 21:11:16 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Token price calculator for 400+ LLMs</title>
-<link>https://github.com/AgentOps-AI/tokencost</link>
-<guid>https://github.com/AgentOps-AI/tokencost</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40710154">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 19:44:53 +0000</pubDate>
-</item>
-<item>
-<title>Suiteness (YC S16) Is Hiring for TypeScript/Qwik</title>
-<link>https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer</link>
-<guid>https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40711008">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 21:00:14 +0000</pubDate>
 </item>
 </channel>
 </rss>

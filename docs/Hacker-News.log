@@ -17818,3 +17818,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [U++ – Cross-Platform App Development Framework](https://www.ultimatepp.org/index.html)
 append_entries: 2
 Finish: 2024-06-30 14:01:27.482994
+------------------------------------------------------
+Started: 2024-06-30 16:03:37.103000
+Existing_entries: 1002
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Text for Proofing Fonts (2020)](https://www.typography.com/blog/text-for-proofing-fonts)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Power station's last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [50 Welcome Signs for 50 States](https://commons.wikimedia.org/wiki/U.S._state_welcome_signs)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Self-healing 'living skin' can make robots more humanlike](https://www.livescience.com/technology/robotics/self-healing-living-skin-can-make-robots-more-humanlike-and-it-looks-just-as-creepy-as-youd-expect)
+append_entries: 6
+Finish: 2024-06-30 16:03:38.737532
