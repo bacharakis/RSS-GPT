@@ -17716,3 +17716,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 append_entries: 1
 Finish: 2024-06-30 04:07:48.171372
+------------------------------------------------------
+Started: 2024-06-30 06:07:48.444319
+Existing_entries: 1001
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [NASA rover discovers mysterious Mars boulder unlike any others](https://mashable.com/article/nasa-mars-rover-boulder-discovery)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Financial services shun AI over job and regulatory fears](https://www.ft.com/content/0675e4d9-62a1-4d6c-9098-a8cb0d1e32ed)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Open source is neither a community nor a democracy](https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [We Launched the Largest Real-Time Global CO2 Map](https://www.airgradient.com/blog/airgradient-global-co2-map/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [My philosophy of exceptions: they're always ambiguous (2021)](https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef)
+append_entries: 6
+Finish: 2024-06-30 06:07:49.567716
