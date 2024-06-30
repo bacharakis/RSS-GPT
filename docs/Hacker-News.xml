@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Convolutions, Fast Fourier Transform and Polynomials</title>
+<link>https://www.alvarorevuelta.com/posts/fft-polynomials</link>
+<guid>https://www.alvarorevuelta.com/posts/fft-polynomials</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40840396">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 21:08:43 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 21:08:43 +0000</pubDate>
+</item>
+<item>
+<title>Semantics and scheduling for machine knitting compilers (2023)</title>
+<link>https://textiles-lab.github.io/publications/2023-knitout-semantics/</link>
+<guid>https://textiles-lab.github.io/publications/2023-knitout-semantics/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40828754">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 08:42:02 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 08:42:02 +0000</pubDate>
+</item>
+<item>
+<title>The good, the bad, and the weird (2018)</title>
+<link>https://blog.trailofbits.com/2018/10/26/the-good-the-bad-and-the-weird/</link>
+<guid>https://blog.trailofbits.com/2018/10/26/the-good-the-bad-and-the-weird/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40834440">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 01:07:13 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 01:07:13 +0000</pubDate>
+</item>
+<item>
+<title>California approves final high-speed rail link connecting San Francisco to LA</title>
+<link>https://www.sfchronicle.com/bayarea/article/california-high-speed-rail-19542125.php</link>
+<guid>https://www.sfchronicle.com/bayarea/article/california-high-speed-rail-19542125.php</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40840656">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 21:48:07 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 21:48:07 +0000</pubDate>
+</item>
+<item>
+<title>Why monotonous repetition is unsatisfying</title>
+<link>https://patterns.architexturez.net/doc/az-cf-172605</link>
+<guid>https://patterns.architexturez.net/doc/az-cf-172605</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40839398">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 19:15:38 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 19:15:38 +0000</pubDate>
+</item>
+<item>
+<title>The Byte Order Fiasco (2021)</title>
+<link>https://justine.lol/endian.html</link>
+<guid>https://justine.lol/endian.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40838635">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 17:42:02 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 17:42:02 +0000</pubDate>
+</item>
+<item>
+<title>How Video Works</title>
+<link>https://howvideo.works/</link>
+<guid>https://howvideo.works/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40829900">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 12:20:00 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 12:20:00 +0000</pubDate>
+</item>
+
+<item>
 <title>Writing GUI apps for Windows is painful</title>
 <link>https://tulach.cc/writing-gui-apps-for-windows-is-painful/</link>
 <guid>https://tulach.cc/writing-gui-apps-for-windows-is-painful/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40839208">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 18:53:18 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 18:53:18 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle</link>
 <guid>https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40838945">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 18:24:34 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 18:24:34 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://en.wikipedia.org/wiki/Postzegelcode</link>
 <guid>https://en.wikipedia.org/wiki/Postzegelcode</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40839418">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 19:17:42 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 19:17:42 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://github.com/chase-seibert/rsscombine</link>
 <guid>https://github.com/chase-seibert/rsscombine</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40839262">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 18:58:58 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 18:58:58 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +123,8 @@
 <link>https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm</link>
 <guid>https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40819441">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 11:05:57 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 11:05:57 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +132,8 @@
 <link>https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/</link>
 <guid>https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40838388">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 17:07:03 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 17:07:03 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +141,8 @@
 <link>https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/</link>
 <guid>https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40838859">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 18:14:18 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 18:14:18 +0000</pubDate>
 </item>
 <item>
@@ -86,13 +150,10 @@
 <link>https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud</link>
 <guid>https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40828256">Comments</a>
 ]]></content:encoded>
 <pubDate>Sat, 29 Jun 2024 06:26:10 +0000</pubDate>
-<pubDate>Sat, 29 Jun 2024 06:26:10 +0000</pubDate>
 </item>
-
 <item>
 <title>Microsoft 1998 = Apple 2024</title>
 <link>https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/</link>
@@ -9020,78 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40714544">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 06:10:40 +0000</pubDate>
-</item>
-<item>
-<title>The Public Interest Internet, by Robin Berjon</title>
-<link>https://berjon.com/public-interest-internet/</link>
-<guid>https://berjon.com/public-interest-internet/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40714371">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 05:37:59 +0000</pubDate>
-</item>
-<item>
-<title>An Introduction to CSS-Doodle</title>
-<link>https://yuanchuan.github.io/intro-to-css-doodle/</link>
-<guid>https://yuanchuan.github.io/intro-to-css-doodle/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40688055">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 07:19:59 +0000</pubDate>
-</item>
-<item>
-<title>Creating a Doom-style 3D engine in C [video]</title>
-<link>https://www.youtube.com/watch?v=HQYsFshbkYw</link>
-<guid>https://www.youtube.com/watch?v=HQYsFshbkYw</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40714815">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 06:54:58 +0000</pubDate>
-</item>
-<item>
-<title>Complexity fills the space it's given</title>
-<link>https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8</link>
-<guid>https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40704267">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 10:49:55 +0000</pubDate>
-</item>
-<item>
-<title>'Equals' has more than one meaning in math</title>
-<link>https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math</link>
-<guid>https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40702895">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 06:42:12 +0000</pubDate>
-</item>
-<item>
-<title>Lnav Logfile Navigator</title>
-<link>https://lnav.org/</link>
-<guid>https://lnav.org/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40703892">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 09:42:40 +0000</pubDate>
-</item>
-<item>
-<title>Every Way to Get Structured Output from LLMs</title>
-<link>https://www.boundaryml.com/blog/structured-output-from-llms</link>
-<guid>https://www.boundaryml.com/blog/structured-output-from-llms</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40713952">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 04:01:43 +0000</pubDate>
-</item>
-<item>
-<title>Now that UUIDv7 is lexicographic, does that mean there is no use for ULID?</title>
-<link>https://www.npmjs.com/package/uuidv7</link>
-<guid>https://www.npmjs.com/package/uuidv7</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40712872">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 00:41:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
