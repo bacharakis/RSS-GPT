@@ -5,14 +5,35 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Appeals court seems lost on how Internet Archive harms publishers</title>
+<link>https://arstechnica.com/tech-policy/2024/06/appeals-court-seems-lost-on-how-internet-archive-harms-publishers/</link>
+<guid>https://arstechnica.com/tech-policy/2024/06/appeals-court-seems-lost-on-how-internet-archive-harms-publishers/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40836934">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 13:03:52 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 13:03:52 +0000</pubDate>
+</item>
+<item>
+<title>U++ – Cross-Platform App Development Framework</title>
+<link>https://www.ultimatepp.org/index.html</link>
+<guid>https://www.ultimatepp.org/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40828426">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 07:05:14 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 07:05:14 +0000</pubDate>
+</item>
+
+<item>
 <title>Duff's Device and Coroutines (2008)</title>
 <link>https://research.swtch.com/duff</link>
 <guid>https://research.swtch.com/duff</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40836114">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 09:41:57 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 09:41:57 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@
 <link>https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0</link>
 <guid>https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40836183">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 09:58:22 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 09:58:22 +0000</pubDate>
 </item>
 <item>
@@ -31,13 +50,10 @@
 <link>https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/</link>
 <guid>https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40834345">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 30 Jun 2024 00:41:31 +0000</pubDate>
-<pubDate>Sun, 30 Jun 2024 00:41:31 +0000</pubDate>
 </item>
-
 <item>
 <title>POSIX 2004 Changes</title>
 <link>https://sortix.org/blog/posix-2024/</link>
@@ -9010,33 +9026,6 @@
 <a href="https://news.ycombinator.com/item?id=40711008">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 21:00:14 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: ThreadQuilt: AI-Free Thread Aggregator</title>
-<link>https://www.threadquilt.com</link>
-<guid>https://www.threadquilt.com</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40710138">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 19:43:13 +0000</pubDate>
-</item>
-<item>
-<title>React 19 almost made the internet slower</title>
-<link>https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/</link>
-<guid>https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40705841">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 14:14:04 +0000</pubDate>
-</item>
-<item>
-<title>Where did you go, Ms. Pac-Man?</title>
-<link>https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom</link>
-<guid>https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40710397">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 20:02:34 +0000</pubDate>
 </item>
 </channel>
 </rss>
