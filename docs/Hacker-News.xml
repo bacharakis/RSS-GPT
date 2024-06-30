@@ -5,14 +5,46 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Duff's Device and Coroutines (2008)</title>
+<link>https://research.swtch.com/duff</link>
+<guid>https://research.swtch.com/duff</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40836114">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 09:41:57 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 09:41:57 +0000</pubDate>
+</item>
+<item>
+<title>An Analog Network of Resistors Promises Machine Learning Without a Processor</title>
+<link>https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0</link>
+<guid>https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40836183">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 09:58:22 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 09:58:22 +0000</pubDate>
+</item>
+<item>
+<title>How Coffee Helped the Union Caffeinate Its Way to Victory in the Civil War</title>
+<link>https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/</link>
+<guid>https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40834345">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 00:41:31 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 00:41:31 +0000</pubDate>
+</item>
+
+<item>
 <title>POSIX 2004 Changes</title>
 <link>https://sortix.org/blog/posix-2024/</link>
 <guid>https://sortix.org/blog/posix-2024/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40835789">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 08:09:53 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 08:09:53 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@
 <link>https://newatlas.com/biology/tac-anti-aging-molecule/</link>
 <guid>https://newatlas.com/biology/tac-anti-aging-molecule/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40835975">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 09:03:02 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 09:03:02 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@
 <link>https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings</link>
 <guid>https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40835793">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 08:10:58 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 08:10:58 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@
 <link>https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/</link>
 <guid>https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40814333">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 19:49:18 +0000</pubDate>
 <pubDate>Thu, 27 Jun 2024 19:49:18 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@
 <link>https://arxiv.org/abs/2105.10461</link>
 <guid>https://arxiv.org/abs/2105.10461</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40828647">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 08:16:40 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 08:16:40 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@
 <link>https://stackdiary.com/figma-will-use-your-content-to-train-its-ai/</link>
 <guid>https://stackdiary.com/figma-will-use-your-content-to-train-its-ai/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40835482">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 30 Jun 2024 06:29:24 +0000</pubDate>
-<pubDate>Sun, 30 Jun 2024 06:29:24 +0000</pubDate>
 </item>
-
 <item>
 <title>Weekend projects: getting silly with C</title>
 <link>https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with</link>
@@ -9016,60 +9037,6 @@
 <a href="https://news.ycombinator.com/item?id=40710397">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 17 Jun 2024 20:02:34 +0000</pubDate>
-</item>
-<item>
-<title>Spain's AI Doctor</title>
-<link>https://pulitzercenter.org/stories/spains-ai-doctor</link>
-<guid>https://pulitzercenter.org/stories/spains-ai-doctor</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40709099">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 18:18:05 +0000</pubDate>
-</item>
-<item>
-<title>Lindroid</title>
-<link>https://twitter.com/Khode_Erfan/status/1802331845633212554</link>
-<guid>https://twitter.com/Khode_Erfan/status/1802331845633212554</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40705574">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 13:46:04 +0000</pubDate>
-</item>
-<item>
-<title>Fifty Years of Diff</title>
-<link>https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/</link>
-<guid>https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40692926">Comments</a>
-]]></content:encoded>
-<pubDate>Sat, 15 Jun 2024 21:45:35 +0000</pubDate>
-</item>
-<item>
-<title>Comparing OCaml and Standard ML (2008)</title>
-<link>http://adam.chlipala.net/mlcomp/</link>
-<guid>http://adam.chlipala.net/mlcomp/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40701433">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 01:07:28 +0000</pubDate>
-</item>
-<item>
-<title>Can you inherit memories from your ancestors?</title>
-<link>https://www.theguardian.com/books/article/2024/jun/17/the-big-idea-can-you-inherit-memories-from-your-ancestors</link>
-<guid>https://www.theguardian.com/books/article/2024/jun/17/the-big-idea-can-you-inherit-memories-from-your-ancestors</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40705079">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 12:47:41 +0000</pubDate>
-</item>
-<item>
-<title>Dbmate: A lightweight, framework-agnostic database migration tool</title>
-<link>https://github.com/amacneil/dbmate</link>
-<guid>https://github.com/amacneil/dbmate</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40699115">Comments</a>
-]]></content:encoded>
-<pubDate>Sun, 16 Jun 2024 18:40:50 +0000</pubDate>
 </item>
 </channel>
 </rss>
