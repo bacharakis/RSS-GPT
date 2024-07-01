@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot</title>
+<link>https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller</link>
+<guid>https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40841414">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 23:50:10 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 23:50:10 +0000</pubDate>
+</item>
+<item>
+<title>A Model of a Mind</title>
+<link>https://tylerneylon.com/a/mind_model/mind_model.html</link>
+<guid>https://tylerneylon.com/a/mind_model/mind_model.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40841502">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 00:15:19 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 00:15:19 +0000</pubDate>
+</item>
+<item>
+<title>DOJ to offer Boeing "sweetheart" plea deal in pursuit of criminal charges</title>
+<link>https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html</link>
+<guid>https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40841651">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 00:48:21 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 00:48:21 +0000</pubDate>
+</item>
+<item>
+<title>Debugging hardware is hard</title>
+<link>https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/</link>
+<guid>https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40816349">Comments</a>
+]]></content:encoded>
+<pubDate>Thu, 27 Jun 2024 23:35:10 +0000</pubDate>
+<pubDate>Thu, 27 Jun 2024 23:35:10 +0000</pubDate>
+</item>
+<item>
+<title>Chaos Engineering in Front End Development: Enhancing Application Resilience</title>
+<link>https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/</link>
+<guid>https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40840488">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 21:20:45 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 21:20:45 +0000</pubDate>
+</item>
+<item>
+<title>Extreme Measures Needed to Scale Chips</title>
+<link>https://spectrum.ieee.org/chip-scaling</link>
+<guid>https://spectrum.ieee.org/chip-scaling</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40839877">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 20:03:05 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 20:03:05 +0000</pubDate>
+</item>
+
+<item>
 <title>A Large-Scale Structured Database of a Century of Historical News</title>
 <link>https://arxiv.org/abs/2406.09490</link>
 <guid>https://arxiv.org/abs/2406.09490</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40839830">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 19:58:46 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 19:58:46 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>http://www.jjj.de/fxt/</link>
 <guid>http://www.jjj.de/fxt/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40841355">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 23:40:07 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 23:40:07 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://10maurycy10.github.io/misc/the_physics_of_flight/</link>
 <guid>https://10maurycy10.github.io/misc/the_physics_of_flight/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40835223">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 04:54:17 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 04:54:17 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +103,10 @@
 <link>https://artsandculture.google.com/</link>
 <guid>https://artsandculture.google.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40840699">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 30 Jun 2024 21:55:04 +0000</pubDate>
-<pubDate>Sun, 30 Jun 2024 21:55:04 +0000</pubDate>
 </item>
-
 <item>
 <title>Convolutions, Fast Fourier Transform and Polynomials</title>
 <link>https://www.alvarorevuelta.com/posts/fft-polynomials</link>
@@ -9012,42 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40716606">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 11:44:17 +0000</pubDate>
-</item>
-<item>
-<title>Understanding the Misunderstood Kessler Syndrome</title>
-<link>https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/</link>
-<guid>https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40716235">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 10:58:24 +0000</pubDate>
-</item>
-<item>
-<title>TikTag: bypassing ARM CPU MemTag via speculative execution attack</title>
-<link>https://arxiv.org/abs/2406.08719</link>
-<guid>https://arxiv.org/abs/2406.08719</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40715018">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 07:28:18 +0000</pubDate>
-</item>
-<item>
-<title>How to Use Secure Sockets in C on Linux</title>
-<link>https://netprivacypro.com/how-to-use-secure-sockets-in-c-on-linux/</link>
-<guid>https://netprivacypro.com/how-to-use-secure-sockets-in-c-on-linux/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40703003">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 07:09:54 +0000</pubDate>
-</item>
-<item>
-<title>Oulipo's use of the Tohoku paper (2014)</title>
-<link>http://www.neverendingbooks.org/oulipos-use-of-the-tohoku-paper/</link>
-<guid>http://www.neverendingbooks.org/oulipos-use-of-the-tohoku-paper/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40710346">Comments</a>
-]]></content:encoded>
-<pubDate>Mon, 17 Jun 2024 19:59:25 +0000</pubDate>
 </item>
 </channel>
 </rss>

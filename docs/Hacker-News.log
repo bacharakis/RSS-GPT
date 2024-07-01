@@ -17983,3 +17983,27 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
 append_entries: 4
 Finish: 2024-07-01 00:35:01.153158
+------------------------------------------------------
+Started: 2024-07-01 02:33:30.340505
+Existing_entries: 1004
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot](https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [DOJ to offer Boeing "sweetheart" plea deal in pursuit of criminal charges](https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Debugging hardware is hard](https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Chaos Engineering in Front End Development: Enhancing Application Resilience](https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Extreme Measures Needed to Scale Chips](https://spectrum.ieee.org/chip-scaling)
+append_entries: 6
+Finish: 2024-07-01 02:33:31.680199
