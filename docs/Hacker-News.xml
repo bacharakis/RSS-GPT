@@ -5,14 +5,57 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Pipes: A spiritual successor to Yahoo Pipes</title>
+<link>https://www.pipes.digital/docs</link>
+<guid>https://www.pipes.digital/docs</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40841980">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 02:03:37 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 02:03:37 +0000</pubDate>
+</item>
+<item>
+<title>Userland rootkits are lame (2022)</title>
+<link>https://grugq.substack.com/p/userland-rootkits-are-lame</link>
+<guid>https://grugq.substack.com/p/userland-rootkits-are-lame</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40841649">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 00:47:45 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 00:47:45 +0000</pubDate>
+</item>
+<item>
+<title>Ask HN: Best books/courses to learn Java core+advanced?</title>
+<link>https://news.ycombinator.com/item?id=40828379</link>
+<guid>https://news.ycombinator.com/item?id=40828379</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40828379">Comments</a>
+]]></content:encoded>
+<pubDate>Sat, 29 Jun 2024 06:55:13 +0000</pubDate>
+<pubDate>Sat, 29 Jun 2024 06:55:13 +0000</pubDate>
+</item>
+<item>
+<title>Richat Structure</title>
+<link>https://earthobservatory.nasa.gov/images/92071/richat-structure</link>
+<guid>https://earthobservatory.nasa.gov/images/92071/richat-structure</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40842082">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 02:29:28 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 02:29:28 +0000</pubDate>
+</item>
+
+<item>
 <title>Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot</title>
 <link>https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller</link>
 <guid>https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40841414">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 23:50:10 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 23:50:10 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@
 <link>https://tylerneylon.com/a/mind_model/mind_model.html</link>
 <guid>https://tylerneylon.com/a/mind_model/mind_model.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40841502">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 00:15:19 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 00:15:19 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@
 <link>https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html</link>
 <guid>https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40841651">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 00:48:21 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 00:48:21 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@
 <link>https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/</link>
 <guid>https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40816349">Comments</a>
 ]]></content:encoded>
-<pubDate>Thu, 27 Jun 2024 23:35:10 +0000</pubDate>
 <pubDate>Thu, 27 Jun 2024 23:35:10 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +90,8 @@
 <link>https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/</link>
 <guid>https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40840488">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 21:20:45 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 21:20:45 +0000</pubDate>
 </item>
 <item>
@@ -64,13 +99,10 @@
 <link>https://spectrum.ieee.org/chip-scaling</link>
 <guid>https://spectrum.ieee.org/chip-scaling</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40839877">Comments</a>
 ]]></content:encoded>
 <pubDate>Sun, 30 Jun 2024 20:03:05 +0000</pubDate>
-<pubDate>Sun, 30 Jun 2024 20:03:05 +0000</pubDate>
 </item>
-
 <item>
 <title>A Large-Scale Structured Database of a Century of Historical News</title>
 <link>https://arxiv.org/abs/2406.09490</link>
@@ -9016,60 +9048,6 @@
 <a href="https://news.ycombinator.com/item?id=40718566">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 14:58:34 +0000</pubDate>
-</item>
-<item>
-<title>Grief is not a process with five stages. It is shattered glass</title>
-<link>https://psyche.co/ideas/grief-is-not-a-process-with-five-stages-it-is-shattered-glass</link>
-<guid>https://psyche.co/ideas/grief-is-not-a-process-with-five-stages-it-is-shattered-glass</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40717448">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 13:12:53 +0000</pubDate>
-</item>
-<item>
-<title>Spur – RISC IV: The Lisp Multiprocessor Workstation</title>
-<link>https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor</link>
-<guid>https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40714950">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 07:15:37 +0000</pubDate>
-</item>
-<item>
-<title>Apple just made your app obsolete? You've been 'Sherlocked'</title>
-<link>https://text.npr.org/g-s1-4912</link>
-<guid>https://text.npr.org/g-s1-4912</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40717699">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 13:35:12 +0000</pubDate>
-</item>
-<item>
-<title>Social-Media Influencers Aren't Getting Rich–They're Barely Getting By</title>
-<link>https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3</link>
-<guid>https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40717221">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 12:50:49 +0000</pubDate>
-</item>
-<item>
-<title>Hard to change people's opinions, but easier to nudge them, research suggests</title>
-<link>https://www.nature.com/articles/d41586-024-01696-z</link>
-<guid>https://www.nature.com/articles/d41586-024-01696-z</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40717516">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 13:19:29 +0000</pubDate>
-</item>
-<item>
-<title>A Hollywood star lobbies the EU for more surveillance</title>
-<link>https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/</link>
-<guid>https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40716606">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 11:44:17 +0000</pubDate>
 </item>
 </channel>
 </rss>

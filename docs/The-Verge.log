@@ -4807,3 +4807,10 @@ Fetching from http://www.theverge.com/rss/full.xml
 Feed error: 301
 append_entries: 0
 Finish: 2024-07-01 02:33:31.879697
+------------------------------------------------------
+Started: 2024-07-01 04:08:16.672879
+Existing_entries: 0
+Fetching from http://www.theverge.com/rss/full.xml
+Feed error: 301
+append_entries: 0
+Finish: 2024-07-01 04:08:16.820445
