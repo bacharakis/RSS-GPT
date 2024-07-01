@@ -18109,3 +18109,42 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
 append_entries: 7
 Finish: 2024-07-01 10:08:47.691789
+------------------------------------------------------
+Started: 2024-07-01 12:12:24.840820
+Existing_entries: 1007
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: Find Visa Sponsorsip and Relocation Support Jobs](https://www.relocateforwork.com/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OpenSSH Race condition resulting in potential remote code execution](https://www.openssh.com/txt/release-9.8)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Uncomfortable truth: How close is "positivity culture" to delusion and denial?](https://jakeseliger.com/2024/06/24/uncomfortable-truth-how-close-is-positivity-culture-to-delusion-and-denial/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Over 100K+ Sites Hit by Polyfill.io Supply Chain Attack](https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Product Hunt Upvotes Are Worthless: Real Customers Aren't There](https://news.ycombinator.com/item?id=40844727)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The self-hosting revolution is here](https://expensio.co/why-self-hosting-is-better)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Watching "Grizzly Man" with a Bear Biologist](https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [DOJ readying criminal charges against Boeing for deadly 737 MAX crashes](https://www.politico.com/news/2024/06/30/doj-criminal-charges-boeing-00165992)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: AI assisted image editing with audio instructions](https://github.com/ShaShekhar/aaiela)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Diagonalism, the Cosmic Right and the Conspiracy Smoothie](https://bellacaledonia.org.uk/2024/06/26/diagonalism-the-cosmic-right-and-the-conspiracy-smoothie/)
+append_entries: 11
+Finish: 2024-07-01 12:12:27.101291
