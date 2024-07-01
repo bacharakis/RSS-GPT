@@ -18148,3 +18148,24 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Diagonalism, the Cosmic Right and the Conspiracy Smoothie](https://bellacaledonia.org.uk/2024/06/26/diagonalism-the-cosmic-right-and-the-conspiracy-smoothie/)
 append_entries: 11
 Finish: 2024-07-01 12:12:27.101291
+------------------------------------------------------
+Started: 2024-07-01 14:05:31.888092
+Existing_entries: 1011
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Sieve: Cache eviction can be simple, effective, and scalable](https://www.usenix.org/publications/loginonline/sieve-cache-eviction-can-be-simple-effective-and-scalable)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Scientists find desert moss 'that can survive on Mars'](https://www.theguardian.com/science/article/2024/jun/30/scientists-find-desert-moss-that-can-survive-on-mars)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Regulation Alone Will Not Save Us from Big Tech](https://pages.near.org/blog/regulation-alone-will-not-save-us-from-big-tech/)
+append_entries: 5
+Finish: 2024-07-01 14:05:32.825488
