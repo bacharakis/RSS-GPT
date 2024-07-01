@@ -18229,3 +18229,30 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [The Leopold and Loeb case, a century Later](https://www.smithsonianmag.com/history/the-crime-of-the-century-a-century-later-180984586/)
 append_entries: 12
 Finish: 2024-07-01 18:08:31.063995
+------------------------------------------------------
+Started: 2024-07-01 20:07:00.997204
+Existing_entries: 1012
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pharma firms stash profits in Europe's tax havens](https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Working Title (Insurance)](https://www.bitsaboutmoney.com/archive/working-title-insurance/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [An open letter to the United Nations](https://open-internet-governance.org/letter)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Mind Is a Metaphor: About the Database](http://metaphors.lib.virginia.edu/about)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Rounding Percentages](https://tavianator.com/2024/percent.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Climate change to shift tropical rains northward, suggests computer modeling](https://smartwatermagazine.com/news/university-california-riverside/climate-change-shift-tropical-rains-northward-suggests-computer)
+append_entries: 7
+Finish: 2024-07-01 20:07:02.703566
