@@ -5,14 +5,79 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Integrated assembler improvements in LLVM 19</title>
+<link>https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19</link>
+<guid>https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40842173">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 02:57:57 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 02:57:57 +0000</pubDate>
+</item>
+<item>
+<title>Art and Artifice</title>
+<link>https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/</link>
+<guid>https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40835181">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 04:39:11 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 04:39:11 +0000</pubDate>
+</item>
+<item>
+<title>Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier</title>
+<link>https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html</link>
+<guid>https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40842794">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 05:28:38 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 05:28:38 +0000</pubDate>
+</item>
+<item>
+<title>Unification in Elixir</title>
+<link>https://www.ericpfahl.com/from-pattern-matching-to-unification/</link>
+<guid>https://www.ericpfahl.com/from-pattern-matching-to-unification/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40840315">Comments</a>
+]]></content:encoded>
+<pubDate>Sun, 30 Jun 2024 20:58:32 +0000</pubDate>
+<pubDate>Sun, 30 Jun 2024 20:58:32 +0000</pubDate>
+</item>
+<item>
+<title>Four lines of code it was four lines of code</title>
+<link>https://boston.conman.org/2024/06/30.1</link>
+<guid>https://boston.conman.org/2024/06/30.1</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40842275">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 03:26:09 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 03:26:09 +0000</pubDate>
+</item>
+<item>
+<title>Let's Stop Asking "Why Do You Want to Work for Us?" In Interviews</title>
+<link>https://nelson.cloud/lets-stop-asking-why-do-you-want-to-work-for-us-in-interviews/</link>
+<guid>https://nelson.cloud/lets-stop-asking-why-do-you-want-to-work-for-us-in-interviews/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40842603">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 04:49:40 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 04:49:40 +0000</pubDate>
+</item>
+
+<item>
 <title>Pipes: A spiritual successor to Yahoo Pipes</title>
 <link>https://www.pipes.digital/docs</link>
 <guid>https://www.pipes.digital/docs</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40841980">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 02:03:37 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 02:03:37 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +85,8 @@
 <link>https://grugq.substack.com/p/userland-rootkits-are-lame</link>
 <guid>https://grugq.substack.com/p/userland-rootkits-are-lame</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40841649">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 00:47:45 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 00:47:45 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +94,8 @@
 <link>https://news.ycombinator.com/item?id=40828379</link>
 <guid>https://news.ycombinator.com/item?id=40828379</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40828379">Comments</a>
 ]]></content:encoded>
-<pubDate>Sat, 29 Jun 2024 06:55:13 +0000</pubDate>
 <pubDate>Sat, 29 Jun 2024 06:55:13 +0000</pubDate>
 </item>
 <item>
@@ -42,13 +103,10 @@
 <link>https://earthobservatory.nasa.gov/images/92071/richat-structure</link>
 <guid>https://earthobservatory.nasa.gov/images/92071/richat-structure</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40842082">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 1 Jul 2024 02:29:28 +0000</pubDate>
-<pubDate>Mon, 1 Jul 2024 02:29:28 +0000</pubDate>
 </item>
-
 <item>
 <title>Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot</title>
 <link>https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller</link>
@@ -9012,42 +9070,6 @@
 <a href="https://news.ycombinator.com/item?id=40717721">Comments</a>
 ]]></content:encoded>
 <pubDate>Tue, 18 Jun 2024 13:37:04 +0000</pubDate>
-</item>
-<item>
-<title>Solid-state battery with 100x energy density could be used in Apple devices</title>
-<link>https://9to5mac.com/2024/06/18/solid-state-battery-tdk/</link>
-<guid>https://9to5mac.com/2024/06/18/solid-state-battery-tdk/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40719018">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 15:33:34 +0000</pubDate>
-</item>
-<item>
-<title>Ask HN: What are some iconic comments on HN?</title>
-<link>https://news.ycombinator.com/item?id=40719253</link>
-<guid>https://news.ycombinator.com/item?id=40719253</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40719253">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 15:52:11 +0000</pubDate>
-</item>
-<item>
-<title>Framework: A new RISC-V Mainboard from DeepComputing</title>
-<link>https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing</link>
-<guid>https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40718837">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 15:21:36 +0000</pubDate>
-</item>
-<item>
-<title>What Is ChatGPT Doing and Why Does It Work?</title>
-<link>https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</link>
-<guid>https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40718566">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 14:58:34 +0000</pubDate>
 </item>
 </channel>
 </rss>
