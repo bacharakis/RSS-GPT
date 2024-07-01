@@ -5,14 +5,90 @@
 <link>https://news.ycombinator.com/</link>
 
 <item>
+<title>Cities Need More Trees</title>
+<link>https://herman.bearblog.dev/cities-need-more-trees/</link>
+<guid>https://herman.bearblog.dev/cities-need-more-trees/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40843720">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 08:31:58 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 08:31:58 +0000</pubDate>
+</item>
+<item>
+<title>RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems</title>
+<link>https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt</link>
+<guid>https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40843778">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 08:40:54 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 08:40:54 +0000</pubDate>
+</item>
+<item>
+<title>My finetuned models beat OpenAI's GPT-4</title>
+<link>https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html</link>
+<guid>https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40843848">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 08:53:04 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 08:53:04 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: I created an After Effects alternative</title>
+<link>https://pikimov.com/</link>
+<guid>https://pikimov.com/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40843867">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 08:57:26 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 08:57:26 +0000</pubDate>
+</item>
+<item>
+<title>Webneko – a desktop screenmate ported to web</title>
+<link>https://webneko.net/</link>
+<guid>https://webneko.net/</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40843966">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 09:15:43 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 09:15:43 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: An open-source alternative to Bitly</title>
+<link>https://github.com/ccbikai/Sink</link>
+<guid>https://github.com/ccbikai/Sink</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40843683">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 08:25:15 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 08:25:15 +0000</pubDate>
+</item>
+<item>
+<title>What makes a good tree? We used AI to ask birds</title>
+<link>https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281</link>
+<guid>https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281</guid>
+<content:encoded><![CDATA[
+
+<a href="https://news.ycombinator.com/item?id=40844095">Comments</a>
+]]></content:encoded>
+<pubDate>Mon, 1 Jul 2024 09:39:05 +0000</pubDate>
+<pubDate>Mon, 1 Jul 2024 09:39:05 +0000</pubDate>
+</item>
+
+<item>
 <title>Multivitamin does not improve longevity</title>
 <link>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369</link>
 <guid>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40843239">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 06:53:33 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 06:53:33 +0000</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@
 <link>https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html</link>
 <guid>https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40842867">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 05:39:57 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 05:39:57 +0000</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@
 <link>https://ieeexplore.ieee.org/document/10243497</link>
 <guid>https://ieeexplore.ieee.org/document/10243497</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40842898">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 05:47:05 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 05:47:05 +0000</pubDate>
 </item>
 <item>
@@ -42,10 +114,8 @@
 <link>https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/</link>
 <guid>https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40816631">Comments</a>
 ]]></content:encoded>
-<pubDate>Fri, 28 Jun 2024 00:25:20 +0000</pubDate>
 <pubDate>Fri, 28 Jun 2024 00:25:20 +0000</pubDate>
 </item>
 <item>
@@ -53,10 +123,8 @@
 <link>https://berqwp.com/</link>
 <guid>https://berqwp.com/</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40842917">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 05:52:10 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 05:52:10 +0000</pubDate>
 </item>
 <item>
@@ -64,10 +132,8 @@
 <link>https://graphite.dev/blog/google-perforce-to-piper-migration</link>
 <guid>https://graphite.dev/blog/google-perforce-to-piper-migration</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40842968">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 06:01:39 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 06:01:39 +0000</pubDate>
 </item>
 <item>
@@ -75,10 +141,8 @@
 <link>https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity</link>
 <guid>https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40834377">Comments</a>
 ]]></content:encoded>
-<pubDate>Sun, 30 Jun 2024 00:52:29 +0000</pubDate>
 <pubDate>Sun, 30 Jun 2024 00:52:29 +0000</pubDate>
 </item>
 <item>
@@ -86,10 +150,8 @@
 <link>https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive</link>
 <guid>https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40843019">Comments</a>
 ]]></content:encoded>
-<pubDate>Mon, 1 Jul 2024 06:09:55 +0000</pubDate>
 <pubDate>Mon, 1 Jul 2024 06:09:55 +0000</pubDate>
 </item>
 <item>
@@ -97,13 +159,10 @@
 <link>https://ofcr.se/jujutsu-merge-workflow</link>
 <guid>https://ofcr.se/jujutsu-merge-workflow</guid>
 <content:encoded><![CDATA[
-
 <a href="https://news.ycombinator.com/item?id=40842762">Comments</a>
 ]]></content:encoded>
 <pubDate>Mon, 1 Jul 2024 05:24:23 +0000</pubDate>
-<pubDate>Mon, 1 Jul 2024 05:24:23 +0000</pubDate>
 </item>
-
 <item>
 <title>Integrated assembler improvements in LLVM 19</title>
 <link>https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19</link>
@@ -9022,87 +9081,6 @@
 <a href="https://news.ycombinator.com/item?id=40676355">Comments</a>
 ]]></content:encoded>
 <pubDate>Fri, 14 Jun 2024 00:26:02 +0000</pubDate>
-</item>
-<item>
-<title>Tiny beauty: how I make scientific art from behind the microscope</title>
-<link>https://www.nature.com/immersive/d41586-024-02011-6/index.html</link>
-<guid>https://www.nature.com/immersive/d41586-024-02011-6/index.html</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40717804">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 13:45:07 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: SHAllenge – Compete to get the lowest hash</title>
-<link>https://shallenge.quirino.net/</link>
-<guid>https://shallenge.quirino.net/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40683564">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 18:33:40 +0000</pubDate>
-</item>
-<item>
-<title>Ask HN: Tell me your stories of taking lower paid work to be happier</title>
-<link>https://news.ycombinator.com/item?id=40720121</link>
-<guid>https://news.ycombinator.com/item?id=40720121</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40720121">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 17:25:42 +0000</pubDate>
-</item>
-<item>
-<title>Mimicking an Elephant Trunk</title>
-<link>https://physics.aps.org/articles/v17/98</link>
-<guid>https://physics.aps.org/articles/v17/98</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40683317">Comments</a>
-]]></content:encoded>
-<pubDate>Fri, 14 Jun 2024 18:13:29 +0000</pubDate>
-</item>
-<item>
-<title>Electricity prices in France turn negative as renewable energy floods the grid</title>
-<link>https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/</link>
-<guid>https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40720183">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 17:31:49 +0000</pubDate>
-</item>
-<item>
-<title>Translate Datadog Metrics into OTLP</title>
-<link>https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/</link>
-<guid>https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40720680">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 18:28:48 +0000</pubDate>
-</item>
-<item>
-<title>Sharing new research, models, and datasets from Meta FAIR</title>
-<link>https://ai.meta.com/blog/meta-fair-research-new-releases/</link>
-<guid>https://ai.meta.com/blog/meta-fair-research-new-releases/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40719921">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 17:01:45 +0000</pubDate>
-</item>
-<item>
-<title>3D Gaussian Splatting as Markov Chain Monte Carlo</title>
-<link>https://ubc-vision.github.io/3dgs-mcmc/</link>
-<guid>https://ubc-vision.github.io/3dgs-mcmc/</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40719975">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 17:08:36 +0000</pubDate>
-</item>
-<item>
-<title>Ubicloud (YC W24) Hiring Founding Engineer for "Managed Kubernetes Service"</title>
-<link>https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service</link>
-<guid>https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service</guid>
-<content:encoded><![CDATA[
-<a href="https://news.ycombinator.com/item?id=40719910">Comments</a>
-]]></content:encoded>
-<pubDate>Tue, 18 Jun 2024 17:00:50 +0000</pubDate>
 </item>
 </channel>
 </rss>
