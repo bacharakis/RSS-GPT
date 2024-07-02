@@ -18298,3 +18298,48 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [A Quantum Leap in Factoring](https://cacm.acm.org/news/a-quantum-leap-in-factoring/)
 append_entries: 12
 Finish: 2024-07-01 22:03:08.217387
+------------------------------------------------------
+Started: 2024-07-02 00:29:56.226273
+Existing_entries: 1012
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [AI Love Island – multi agent text based dating simulation](https://www.sabrina.dev/p/ai-love-island-multiagent-dating-simulation-v1)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Show HN: ViperIDE – MicroPython IDE for web and mobile](https://github.com/vshymanskyy/ViperIDE)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Japan wants to build a cargo conveyor belt because it’s running out of drivers](https://www.carscoops.com/2024/07/japan-wants-to-build-a-311-mile-cargo-conveyor-belt-because-its-running-out-of-delivery-drivers/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [We are at our most creative just before we fall asleep, scientists say](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Conway's Game of Life for curved surfaces (2012)](https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Weavers and Concluders: Two communication styles (2021)](https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist/)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Greco-Buddhist art](https://en.wikipedia.org/wiki/Greco-Buddhist_art)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Switzerland mandates software source code disclosure for public sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Company offers unofficial security patches for Windows 10 until 2030](https://www.tomshardware.com/software/windows/company-offers-unofficial-security-patches-for-windows-10-until-2030)
+append_entries: 13
+Finish: 2024-07-02 00:29:59.214362
