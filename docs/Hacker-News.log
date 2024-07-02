@@ -18343,3 +18343,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-p
 Append: [Company offers unofficial security patches for Windows 10 until 2030](https://www.tomshardware.com/software/windows/company-offers-unofficial-security-patches-for-windows-10-until-2030)
 append_entries: 13
 Finish: 2024-07-02 00:29:59.214362
+------------------------------------------------------
+Started: 2024-07-02 02:26:10.040332
+Existing_entries: 1013
+Fetching from https://news.ycombinator.com/rss
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************NKsZ. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Novel prompting approach for Alice in Wonderland problem](https://medium.com/@aadityaubhat/llms-cant-reason-or-can-they-3df5e6af5616)
+append_entries: 2
+Finish: 2024-07-02 02:26:10.932864
